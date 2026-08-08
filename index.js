@@ -1,18 +1,17 @@
 // ══════════════════════════════════════════════════════════
-//  PROXY CORS — v5.7 (Binance Futuros USDⓈ-M + OKX)
+//  PROXY CORS — v5.7.1 (Binance Futuros USDⓈ-M + OKX)
 // ══════════════════════════════════════════════════════════
-// Cambio respecto a v5.6: además de OKX (/api/*) ahora expone Binance Futuros
-// (/fapi/*). La ejecución real es en Binance, así que analizar sobre el mismo
-// libro elimina el spread entre exchanges como fuente silenciosa de barridos
-// de SL (los niveles calculados son directamente ejecutables).
-//
-// Los dos backends conviven a propósito: el HTML detecta al arrancar si /fapi
-// responde y usa Binance; si no, sigue con OKX sin romperse. Eso permite
-// desplegar esto sin coordinar con el cliente y hacer rollback trivial.
-//
-// Despliegue: repo `okx-proxy` → Render lo recoge del push a main.
+// v5.7 exponía Binance vía fetch(), pero fetch() prohíbe fijar el header
+// Accept-Encoding manualmente (la spec lo bloquea) y lo ignora en silencio.
+// Si Binance respondía comprimido y algo fallaba en la descompresión
+// automática, el resultado era un 200 con cuerpo vacío — sin ningún error
+// visible. v5.7.1 usa el módulo https nativo de Node para el tramo Binance,
+// donde Accept-Encoding: identity sí se respeta de verdad, y agrega logs en
+// cada paso para poder diagnosticar desde los logs de Render si algo más
+// falla — en vez de adivinar a ciegas otra vez.
 
 const express = require('express')
+const https = require('https')
 const app = express()
 const PORT = process.env.PORT || 3000
 
@@ -29,40 +28,54 @@ app.use((req, res, next) => {
 app.get('/', (req, res) => {
   res.json({
     status: 'ok',
-    message: 'Market Data CORS Proxy v5.7 (Binance + OKX) ✅',
+    message: 'Market Data CORS Proxy v5.7.1 (Binance + OKX) ✅',
     binance: ['/fapi/v1/ticker/24hr', '/fapi/v1/klines', '/fapi/v1/depth', '/fapi/v1/premiumIndex'],
     okx: ['/api/v5/market/ticker', '/api/v5/market/candles', '/api/v5/market/books', '/api/v5/public/funding-rate'],
   })
 })
 
-// Helper de fetch con timeout — Render free tier no debe quedarse colgado
+// ── Passthrough OKX: sigue usando fetch(), sin cambios (venía funcionando bien) ──
 async function passthrough(url, res) {
   const ctrl = new AbortController()
   const timer = setTimeout(() => ctrl.abort(), 15000)
   try {
     const response = await fetch(url, {
       signal: ctrl.signal,
-      headers: {
-        'Accept': 'application/json',
-        'Accept-Encoding': 'identity',
-        'User-Agent': UA,
-      }
+      headers: { 'Accept': 'application/json', 'User-Agent': UA }
     })
     const text = await response.text()
+    console.log(`[OKX] ${url} → ${response.status}, ${text.length} bytes`)
     res.status(response.status).set('Content-Type', 'application/json').send(text)
   } catch (err) {
     const aborted = err.name === 'AbortError'
+    console.error(`[OKX] ${url} → ERROR: ${err.message}`)
     res.status(aborted ? 504 : 500).json({ error: aborted ? 'upstream timeout' : err.message })
   } finally {
     clearTimeout(timer)
   }
 }
 
-// ── BINANCE FUTUROS USDⓈ-M ──
-// Se prueban varios hosts: si uno responde 451 (restricción geográfica) o falla,
-// se intenta el siguiente antes de dar error. Render corre en EE.UU., donde
-// fapi.binance.com normalmente responde bien; los alternativos son red de
-// seguridad por si cambia la política de la IP del datacenter.
+// ── Passthrough Binance vía https nativo (Accept-Encoding sí se respeta aquí) ──
+function fetchViaHttps(url, timeoutMs) {
+  return new Promise((resolve, reject) => {
+    const req = https.get(url, {
+      headers: {
+        'Accept': 'application/json',
+        'Accept-Encoding': 'identity',  // aquí SÍ funciona: no es fetch(), no está prohibido
+        'User-Agent': UA,
+      },
+      timeout: timeoutMs,
+    }, (res) => {
+      let data = ''
+      res.setEncoding('utf8')
+      res.on('data', chunk => { data += chunk })
+      res.on('end', () => resolve({ status: res.statusCode, body: data }))
+    })
+    req.on('timeout', () => { req.destroy(new Error('request timeout')) })
+    req.on('error', reject)
+  })
+}
+
 const BINANCE_HOSTS = [
   'https://fapi.binance.com',
   'https://fapi1.binance.com',
@@ -74,39 +87,31 @@ app.get('/fapi/*', async (req, res) => {
   let lastStatus = null, lastBody = null
 
   for (const host of BINANCE_HOSTS) {
-    const ctrl = new AbortController()
-    const timer = setTimeout(() => ctrl.abort(), 15000)
+    const url = `${host}${req.path}${query}`
     try {
-      const response = await fetch(`${host}${req.path}${query}`, {
-        signal: ctrl.signal,
-        headers: { 'Accept': 'application/json', 'Accept-Encoding': 'identity', 'User-Agent': UA }
-      })
-      const text = await response.text()
-      if (response.ok) {
-        clearTimeout(timer)
-        return res.status(200).set('Content-Type', 'application/json').send(text)
+      const { status, body } = await fetchViaHttps(url, 15000)
+      console.log(`[Binance] ${url} → status ${status}, ${body.length} bytes`)
+      if (status >= 200 && status < 300 && body.length > 0) {
+        return res.status(200).set('Content-Type', 'application/json').send(body)
       }
-      // 451 = bloqueo geográfico; 403 = restricción. Probar el host siguiente.
-      lastStatus = response.status
-      lastBody = text
+      lastStatus = status
+      lastBody = body || JSON.stringify({ error: `empty body from ${host}, status ${status}` })
     } catch (err) {
-      lastStatus = err.name === 'AbortError' ? 504 : 502
+      console.error(`[Binance] ${url} → ERROR: ${err.message}`)
+      lastStatus = err.message === 'request timeout' ? 504 : 502
       lastBody = JSON.stringify({ error: err.message })
-    } finally {
-      clearTimeout(timer)
     }
   }
-  // Ningún host de Binance sirvió. Se devuelve el error para que el cliente
-  // active su fallback a OKX (el HTML lo hace de forma transparente).
+  console.error(`[Binance] TODOS los hosts fallaron para ${req.path}${query} — último status ${lastStatus}`)
   res.status(lastStatus || 502)
      .set('Content-Type', 'application/json')
      .send(lastBody || JSON.stringify({ error: 'binance unreachable' }))
 })
 
-// ── OKX (se mantiene: fallback del cliente y compatibilidad con v5.6) ──
+// ── OKX (fallback del cliente y compatibilidad con v5.6) ──
 app.get('/api/*', async (req, res) => {
   const query = req.url.includes('?') ? '?' + req.url.split('?')[1] : ''
   await passthrough(`https://www.okx.com${req.path}${query}`, res)
 })
 
-app.listen(PORT, () => console.log(`Market data proxy v5.7 (Binance+OKX) on port ${PORT}`))
+app.listen(PORT, () => console.log(`Market data proxy v5.7.1 (Binance+OKX) on port ${PORT}`))
