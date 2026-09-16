@@ -1,0 +1,417 @@
+/* =========================================================================
+   TIU Virtual — recreacion de la pantalla del carnet universitario.
+
+   Todas las medidas estan tomadas del diseno original (402 x 874 pt, un
+   iPhone 16 Pro) y se expresan en "unidades de diseno" multiplicadas por
+   --u, de modo que la pantalla escala igual en cualquier ancho de telefono.
+   ========================================================================= */
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./assets/fonts/roboto-latin-ext.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
+    U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0,
+    U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('./assets/fonts/roboto-latin.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304,
+    U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Fjalla One';
+  src: url('./assets/fonts/fjallaone-latin-ext.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
+    U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0,
+    U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Fjalla One';
+  src: url('./assets/fonts/fjallaone-latin.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304,
+    U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+  /* 1 unidad de diseno = 1 px en un lienzo de 402 pt de ancho. */
+  --u: calc(100vw / 402);
+  --sky-top: #f7f9fc;
+  --sky-bottom: #edf0fc;
+  --chip: #dad9fc;
+  --ink: #000000;
+  --slate: #455168;
+  --red: #eb4b46;
+  --red-dark: #d22f28;
+  --card: #ffffff;
+
+  --font-body: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
+    sans-serif;
+  --font-display: 'Fjalla One', 'Oswald', 'Roboto Condensed', 'Arial Narrow', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--sky-bottom);
+  color: var(--ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  overscroll-behavior: none;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  min-height: 100dvh;
+}
+
+/* --- Pantalla ----------------------------------------------------------- */
+
+.screen {
+  position: relative;
+  width: 100%;
+  min-height: 100dvh;
+  overflow: hidden;
+  background: var(--sky-top);
+  user-select: none;
+}
+
+.sky {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.screen__content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100dvh;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* --- Barra de estado simulada ------------------------------------------- */
+
+.status-bar {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: calc(59 * var(--u));
+  padding: calc(14 * var(--u)) calc(34 * var(--u)) 0;
+  font-size: calc(17 * var(--u));
+  font-weight: 700;
+  letter-spacing: calc(0.2 * var(--u));
+}
+
+.status-bar__time {
+  font-variant-numeric: tabular-nums;
+}
+
+.status-bar__location {
+  display: inline-flex;
+  margin-left: calc(5 * var(--u));
+  transform: rotate(8deg);
+}
+
+.status-bar__right {
+  display: inline-flex;
+  align-items: center;
+  gap: calc(5 * var(--u));
+  margin-left: auto;
+  font-size: calc(15 * var(--u));
+}
+
+.status-bar__signal {
+  width: calc(18 * var(--u));
+  height: calc(12 * var(--u));
+}
+
+.status-bar__battery {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: calc(28 * var(--u));
+  height: calc(14 * var(--u));
+  border-radius: calc(4 * var(--u));
+  background: var(--ink);
+  color: #fff;
+}
+
+.status-bar__battery::after {
+  content: '';
+  position: absolute;
+  right: calc(-3.5 * var(--u));
+  width: calc(2 * var(--u));
+  height: calc(5 * var(--u));
+  border-radius: calc(1 * var(--u));
+  background: rgba(0, 0, 0, 0.35);
+}
+
+.status-bar__battery-level {
+  font-size: calc(10 * var(--u));
+  font-weight: 700;
+}
+
+/* Instalada como app, la barra real del sistema reemplaza a la simulada. */
+@media (display-mode: standalone), (display-mode: fullscreen) {
+  .status-bar {
+    visibility: hidden;
+    height: max(calc(59 * var(--u)), env(safe-area-inset-top));
+  }
+}
+
+/* --- Cabecera ------------------------------------------------------------ */
+
+.header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: calc(32 * var(--u));
+  margin-top: calc(2 * var(--u));
+  padding-left: calc(30 * var(--u));
+}
+
+.header__back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: calc(32 * var(--u));
+  height: calc(32 * var(--u));
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: #fff;
+  color: var(--red-dark);
+  cursor: pointer;
+  transition: transform 120ms ease;
+}
+
+.header__back:active {
+  transform: scale(0.92);
+}
+
+.header__back svg {
+  width: calc(16 * var(--u));
+  height: calc(16 * var(--u));
+}
+
+.header__title {
+  margin: 0 0 0 calc(24 * var(--u));
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: calc(20.1 * var(--u));
+  line-height: 1;
+  letter-spacing: calc(-0.18 * var(--u));
+  color: var(--ink);
+}
+
+/* --- Reloj --------------------------------------------------------------- */
+
+.clock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.clock__chip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: calc(211 * var(--u));
+  height: calc(60 * var(--u));
+  margin-top: calc(48 * var(--u));
+  border-radius: calc(14 * var(--u));
+  background: var(--chip);
+}
+
+.clock__time {
+  font-size: calc(37.2 * var(--u));
+  font-weight: 400;
+  line-height: 1;
+  /* Centra el trazo de los digitos dentro de la pastilla. */
+  padding-top: calc(3.4 * var(--u));
+  /* El margen compensa el espacio que letter-spacing agrega al final. */
+  margin-left: calc(1.2 * var(--u));
+  letter-spacing: calc(1.2 * var(--u));
+  font-variant-numeric: tabular-nums;
+  color: var(--ink);
+}
+
+.clock__date {
+  margin: calc(25.6 * var(--u)) 0 0 calc(0.8 * var(--u));
+  font-size: calc(15 * var(--u));
+  font-weight: 400;
+  line-height: calc(18 * var(--u));
+  letter-spacing: calc(0.8 * var(--u));
+  color: var(--slate);
+}
+
+/* --- Foto ---------------------------------------------------------------- */
+
+.avatar {
+  width: calc(140 * var(--u));
+  height: calc(140 * var(--u));
+  margin-top: calc(54.4 * var(--u));
+  border-radius: 50%;
+  overflow: hidden;
+  background: #d0cbbb;
+}
+
+.avatar__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* --- Carnet -------------------------------------------------------------- */
+
+.card {
+  width: calc(362 * var(--u));
+  margin-top: calc(69.3 * var(--u));
+  padding: calc(30.7 * var(--u)) calc(16 * var(--u)) calc(31.4 * var(--u));
+  border-radius: calc(16 * var(--u));
+  background: var(--card);
+  box-shadow: 0 calc(6 * var(--u)) calc(24 * var(--u)) rgba(69, 81, 104, 0.07);
+  text-align: center;
+}
+
+.card__name {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: calc(33.7 * var(--u));
+  line-height: calc(40 * var(--u));
+  letter-spacing: calc(-0.3 * var(--u));
+  color: var(--red);
+}
+
+.card__name-line {
+  display: block;
+}
+
+.card__field {
+  margin-top: calc(14 * var(--u));
+}
+
+/* El primer bloque arranca mas pegado al nombre. */
+.card__name + .card__field {
+  margin-top: calc(3.3 * var(--u));
+}
+
+.card__label,
+.card__value {
+  display: block;
+  line-height: calc(18 * var(--u));
+}
+
+.card__label {
+  font-size: calc(14.4 * var(--u));
+  color: var(--ink);
+}
+
+.card__value {
+  margin-top: calc(1 * var(--u));
+  font-size: calc(17 * var(--u));
+  font-weight: 700;
+  color: var(--slate);
+  font-variant-numeric: tabular-nums;
+}
+
+.card__program {
+  margin: calc(20.7 * var(--u)) 0 0;
+  font-size: calc(17.2 * var(--u));
+  font-weight: 700;
+  line-height: calc(20 * var(--u));
+  color: var(--slate);
+}
+
+.card__campus {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: calc(8 * var(--u));
+  margin: calc(9.7 * var(--u)) 0 0;
+  font-size: calc(14.4 * var(--u));
+  line-height: calc(18 * var(--u));
+  color: var(--ink);
+}
+
+.card__pin {
+  font-size: calc(13 * var(--u));
+  line-height: 1;
+}
+
+/* --- Sello de simulacion ------------------------------------------------- */
+
+.demo-badge {
+  margin: auto 0 calc(14 * var(--u));
+  padding: calc(6 * var(--u)) calc(12 * var(--u));
+  border-radius: calc(20 * var(--u));
+  background: rgba(255, 255, 255, 0.72);
+  font-size: calc(11 * var(--u));
+  letter-spacing: calc(0.2 * var(--u));
+  color: #7b869c;
+}
+
+/* --- Vista de escritorio: maqueta con forma de telefono ------------------ */
+
+@media (min-width: 520px) and (min-height: 700px) {
+  :root {
+    --u: 1px;
+  }
+
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100dvh;
+    background: #dfe3ee;
+  }
+
+  #root {
+    min-height: auto;
+  }
+
+  .screen {
+    width: 402px;
+    height: 874px;
+    min-height: 0;
+    border-radius: 44px;
+    box-shadow: 0 30px 80px rgba(37, 46, 68, 0.28);
+  }
+
+  .screen__content {
+    min-height: 874px;
+  }
+}
