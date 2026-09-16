@@ -107,6 +107,30 @@ body {
   display: block;
 }
 
+/* El patron de nubes mide 524 unidades y recorre esa distancia en 4 s, o sea
+   131 px/s: los dos valores medidos en el video. Al completarse, la segunda
+   copia del patron queda donde estaba la primera y el ciclo reinicia sin
+   salto visible. */
+.sky__clouds {
+  animation: cloud-drift 4s linear infinite;
+  will-change: transform;
+}
+
+@keyframes cloud-drift {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-524px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sky__clouds {
+    animation: none;
+  }
+}
+
 .screen__content {
   position: relative;
   z-index: 1;
