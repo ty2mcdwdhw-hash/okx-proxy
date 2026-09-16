@@ -81,7 +81,11 @@ export const config: AppConfig = {
 }
 ```
 
-La foto es `public/avatar.jpg` (cuadrada; se recorta en círculo). El repositorio trae
+La foto es `public/avatar.jpg` (cuadrada; se recorta en círculo). En un sitio ya
+publicado se puede cambiar sin volver a compilar: reemplaza el `avatar.jpg` que está en
+la raíz de `dist/` y vuelve a publicar. El service worker sirve ese archivo con
+estrategia de red primero y `_headers` lo marca como no cacheable, así el cambio se ve
+en la siguiente carga en vez de quedarse pegado. El repositorio trae
 una silueta genérica y datos de ejemplo a propósito: si pones datos personales
 —nombre completo, códigos, tu foto— guárdalos en un repositorio **privado**. El reloj
 usa `timeZone`, así que marca la hora de Lima aunque el teléfono esté en otro huso.

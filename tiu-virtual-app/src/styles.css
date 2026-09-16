@@ -287,6 +287,9 @@ body {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  /* Con una foto cuadrada esto no hace nada; si es vertical, encuadra hacia
+     arriba, que es donde suele estar la cara. */
+  object-position: 50% 35%;
   display: block;
 }
 
