@@ -47,8 +47,10 @@ un móvil ocupa todo el alto.
 La app es una PWA: se instala desde el navegador, sin tiendas ni certificados.
 
 1. Publica `dist/` en cualquier hosting con HTTPS (GitHub Pages, Netlify, Vercel,
-   Cloudflare Pages). Para probar en tu red local: `npm run dev -- --host` y entra
-   desde el teléfono a `http://<ip-de-tu-pc>:5173`.
+   Cloudflare Pages). Sin terminal: `netlify.com/drop` acepta que arrastres la carpeta
+   `dist` (o un .zip con su contenido en la raíz) y devuelve una URL HTTPS al momento.
+   Para probar en tu red local: `npm run dev -- --host` y entra desde el teléfono a
+   `http://<ip-de-tu-pc>:5173`.
 2. **iPhone (Safari)**: Compartir → "Añadir a pantalla de inicio".
 3. **Android (Chrome)**: menú ⋮ → "Instalar aplicación".
 
