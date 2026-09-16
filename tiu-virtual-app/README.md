@@ -85,6 +85,11 @@ Las medidas no son a ojo: se sacaron de la captura original (1206 × 2622 px, un
 iPhone 16 Pro a 3×) analizando los píxeles, y cada elemento se comparó contra ese
 objetivo hasta quedar dentro de ~2 px.
 
+Las tipografías se identificaron igual de a la mala: se renderizaron los mismos textos
+en dos docenas de familias, se normalizó cada muestra a la altura del original y se
+comparó píxel a píxel. Public Sans ganó en las tres muestras (reloj, etiquetas y
+códigos) por un margen de 3×, y Fjalla One en el nombre.
+
 | Elemento | Valor |
 | --- | --- |
 | Lienzo de diseño | 402 × 874 pt |
@@ -93,7 +98,7 @@ objetivo hasta quedar dentro de ~2 px.
 | Tarjeta | 362 de ancho, radio 16, `#FFFFFF` |
 | Rojo del nombre | `#EB4B46` |
 | Texto secundario | `#455168` |
-| Tipografías | Fjalla One (títulos) · Roboto (texto) |
+| Tipografías | Fjalla One (títulos) · Public Sans (texto y reloj) |
 
 Todas las medidas se escriben como `calc(N * var(--u))`, donde `--u` vale
 `100vw / 402`. Así la pantalla se ve igual en cualquier ancho de teléfono en lugar de
@@ -124,5 +129,8 @@ scripts/make-icons.mjs    regenera public/icons con Playwright
   y se re-sincroniza cuando la app vuelve del segundo plano, así no se desfasa.
 - **Fecha determinista.** Los meses y días salen de una tabla propia ("Sept", no
   "Set") para que no cambien según cómo resuelva el locale cada navegador.
-- **Fuentes locales.** Roboto y Fjalla One se sirven desde `src/assets/fonts`, sin
+- **Fuentes locales.** Public Sans y Fjalla One se sirven desde `src/assets/fonts`, sin
   pedirle nada a Google Fonts: la app arranca igual sin conexión.
+- **Cifras proporcionales en el reloj.** En el video original el ancho del reloj cambia
+  según los dígitos (128 px en `08:47:11`, 148 px en `08:47:28`), así que las cifras no
+  son tabulares y aquí tampoco lo son.

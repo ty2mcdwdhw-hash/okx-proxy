@@ -7,8 +7,8 @@
    ========================================================================= */
 
 @font-face {
-  font-family: 'Roboto';
-  src: url('./assets/fonts/roboto-latin-ext.woff2') format('woff2');
+  font-family: 'Public Sans';
+  src: url('./assets/fonts/publicsans-latin-ext.woff2') format('woff2');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -17,8 +17,8 @@
     U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 @font-face {
-  font-family: 'Roboto';
-  src: url('./assets/fonts/roboto-latin.woff2') format('woff2');
+  font-family: 'Public Sans';
+  src: url('./assets/fonts/publicsans-latin.woff2') format('woff2');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -57,8 +57,8 @@
   --red-dark: #d22f28;
   --card: #ffffff;
 
-  --font-body: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
-    sans-serif;
+  --font-body: 'Public Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica,
+    Arial, sans-serif;
   --font-display: 'Fjalla One', 'Oswald', 'Roboto Condensed', 'Arial Narrow', sans-serif;
 }
 
@@ -255,24 +255,20 @@ body {
 }
 
 .clock__time {
-  font-size: calc(37.2 * var(--u));
+  font-size: calc(36.3 * var(--u));
   font-weight: 400;
   line-height: 1;
   /* Centra el trazo de los digitos dentro de la pastilla. */
-  padding-top: calc(3.4 * var(--u));
-  /* El margen compensa el espacio que letter-spacing agrega al final. */
-  margin-left: calc(1.2 * var(--u));
-  letter-spacing: calc(1.2 * var(--u));
-  font-variant-numeric: tabular-nums;
+  padding-top: calc(1.4 * var(--u));
   color: var(--ink);
 }
 
 .clock__date {
-  margin: calc(25.6 * var(--u)) 0 0 calc(0.8 * var(--u));
-  font-size: calc(15 * var(--u));
+  margin: calc(25 * var(--u)) 0 0 calc(0.35 * var(--u));
+  font-size: calc(15.3 * var(--u));
   font-weight: 400;
   line-height: calc(18 * var(--u));
-  letter-spacing: calc(0.8 * var(--u));
+  letter-spacing: calc(0.35 * var(--u));
   color: var(--slate);
 }
 
@@ -298,8 +294,8 @@ body {
 
 .card {
   width: calc(362 * var(--u));
-  margin-top: calc(69.3 * var(--u));
-  padding: calc(30.7 * var(--u)) calc(16 * var(--u)) calc(31.4 * var(--u));
+  margin-top: calc(70 * var(--u));
+  padding: calc(30.7 * var(--u)) calc(16 * var(--u)) calc(31.7 * var(--u));
   border-radius: calc(16 * var(--u));
   background: var(--card);
   box-shadow: 0 calc(6 * var(--u)) calc(24 * var(--u)) rgba(69, 81, 104, 0.07);
@@ -326,7 +322,7 @@ body {
 
 /* El primer bloque arranca mas pegado al nombre. */
 .card__name + .card__field {
-  margin-top: calc(3.3 * var(--u));
+  margin-top: calc(2.7 * var(--u));
 }
 
 .card__label,
@@ -336,21 +332,20 @@ body {
 }
 
 .card__label {
-  font-size: calc(14.4 * var(--u));
+  font-size: calc(14 * var(--u));
   color: var(--ink);
 }
 
 .card__value {
-  margin-top: calc(1 * var(--u));
-  font-size: calc(17 * var(--u));
+  margin-top: calc(0.4 * var(--u));
+  font-size: calc(15.9 * var(--u));
   font-weight: 700;
   color: var(--slate);
-  font-variant-numeric: tabular-nums;
 }
 
 .card__program {
-  margin: calc(20.7 * var(--u)) 0 0;
-  font-size: calc(17.2 * var(--u));
+  margin: calc(21.7 * var(--u)) 0 0;
+  font-size: calc(16 * var(--u));
   font-weight: 700;
   line-height: calc(20 * var(--u));
   color: var(--slate);
@@ -361,8 +356,8 @@ body {
   align-items: center;
   justify-content: center;
   gap: calc(8 * var(--u));
-  margin: calc(9.7 * var(--u)) 0 0;
-  font-size: calc(14.4 * var(--u));
+  margin: calc(10.5 * var(--u)) 0 0;
+  font-size: calc(14 * var(--u));
   line-height: calc(18 * var(--u));
   color: var(--ink);
 }
