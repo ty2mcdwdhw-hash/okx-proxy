@@ -9,11 +9,16 @@ createRoot(document.getElementById('root')!).render(
   </StrictMode>,
 )
 
-// El service worker solo se registra en produccion (build/preview).
+// El service worker solo se registra en produccion (build/preview). Sin el la
+// app funciona igual: solo pierde el modo sin conexion. Abierta como archivo
+// suelto (file://) el navegador ni siquiera deja registrarlo, y eso lanza de
+// forma sincrona, asi que el try/catch tambien hace falta.
 if (import.meta.env.PROD && 'serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js').catch(() => {
-      // Sin service worker la app sigue funcionando, solo pierde el modo offline.
-    })
+    try {
+      navigator.serviceWorker.register('./sw.js').catch(() => {})
+    } catch {
+      /* sin modo offline */
+    }
   })
 }

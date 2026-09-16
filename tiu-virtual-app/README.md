@@ -29,10 +29,15 @@ npm run dev      # http://localhost:5173
 Otros comandos:
 
 ```bash
-npm run build      # genera dist/
-npm run preview    # sirve dist/ en http://localhost:4173
-npm run typecheck  # TypeScript en modo estricto
+npm run build         # genera dist/
+npm run preview       # sirve dist/ en http://localhost:4173
+npm run build:single  # dist/tiu-virtual.html, todo en un solo archivo
+npm run typecheck     # TypeScript en modo estricto
 ```
+
+`build:single` mete el JS, el CSS, las fuentes y la foto dentro de un único HTML
+(~310 kB): se abre con doble clic, sin servidor. Sirve para mirar la pantalla rápido;
+para instalarla como app hace falta servir `dist/` por HTTPS.
 
 En pantallas grandes la app se dibuja dentro de una maqueta con forma de teléfono; en
 un móvil ocupa todo el alto.
