@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Banda de escaneo</title>
+<style>
+  /* =====================================================================
+     Banda de escaneo: recorre la tarjeta de arriba abajo y vuelve, y se
+     oculta al cruzar una franja concreta.
+
+     Los dos mecanismos que importan:
+
+     1) El recorrido. La banda se anima con translateY entre dos posiciones
+        y `alternate` la hace volver, asi que un solo par de keyframes
+        cubre ida y vuelta. Con `linear` el giro en los extremos es seco,
+        como en el original; con ease-in-out frenaria al llegar.
+
+     2) La desaparicion. No se apaga la banda: se le pone una MASCARA a la
+        capa que la contiene. La mascara es opaca arriba y abajo y
+        transparente en la franja intermedia, asi que mientras la banda
+        pasa por ahi simplemente no se dibuja, y reaparece sola al salir.
+        Como la mascara vive en la capa y no en la banda, el movimiento no
+        se entera: no hay que sincronizar nada.
+     ===================================================================== */
+
+  :root {
+    --tarjeta-w: 340px;
+    --tarjeta-h: 740px;
+    --naranja: #f5811f;
+    --tinta: #2b2f38;
+
+    /* Franja donde la banda se oculta, medida desde el tope de la tarjeta. */
+    --oculta-desde: 560px;
+    --oculta-hasta: 660px;
+
+    /* Recorrido: de donde a donde viaja la banda. */
+    --viaje-desde: -34px;
+    --viaje-hasta: var(--tarjeta-h);
+    --duracion: 4.4s;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #eef0f5;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--tinta);
+  }
+
+  .tarjeta {
+    position: relative;
+    width: var(--tarjeta-w);
+    height: var(--tarjeta-h);
+    overflow: hidden;
+    border-radius: 26px;
+    background: #fff;
+    box-shadow: 0 24px 60px rgba(43, 47, 56, 0.18);
+  }
+
+  /* --- Contenido de muestra ------------------------------------------ */
+
+  .contenido {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 42px 26px 34px;
+    text-align: center;
+  }
+
+  .marca {
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    background: var(--naranja);
+    display: grid;
+    place-items: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 1px;
+  }
+
+  .institucion {
+    margin-top: 12px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #7a8190;
+  }
+
+  .nombre {
+    margin-top: 34px;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1.25;
+    color: var(--naranja);
+  }
+
+  .codigo {
+    margin-top: 6px;
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--naranja);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .foto {
+    margin-top: 42px;
+    width: 176px;
+    height: 208px;
+    border-radius: 6px;
+    background: #e9ebf0;
+    overflow: hidden;
+  }
+
+  .foto svg { display: block; width: 100%; height: 100%; }
+
+  .rol {
+    margin-top: 38px;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: var(--naranja);
+  }
+
+  /* Bloque neutro que ocupa el lugar de una zona que la banda debe saltar.
+     A proposito no codifica nada: son barras iguales, decorativas. */
+  .zona-codigo {
+    margin-top: auto;
+    width: 100%;
+    height: 78px;
+    border-radius: 8px;
+    background: repeating-linear-gradient(
+      90deg,
+      #c9ccd4 0 6px,
+      transparent 6px 12px
+    );
+  }
+
+  .pie {
+    margin-top: 12px;
+    font-size: 11px;
+    letter-spacing: 1px;
+    color: #9aa1ad;
+  }
+
+  /* --- La banda ------------------------------------------------------- */
+
+  /* La capa lleva la mascara: opaca / transparente / opaca. Los dos topes
+     repetidos crean cortes duros en vez de un degradado. */
+  .capa-banda {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    pointer-events: none;
+    -webkit-mask-image: linear-gradient(
+      to bottom,
+      #000 0 var(--oculta-desde),
+      transparent var(--oculta-desde) var(--oculta-hasta),
+      #000 var(--oculta-hasta) 100%
+    );
+    mask-image: linear-gradient(
+      to bottom,
+      #000 0 var(--oculta-desde),
+      transparent var(--oculta-desde) var(--oculta-hasta),
+      #000 var(--oculta-hasta) 100%
+    );
+  }
+
+  .banda {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 34px;
+    background: var(--naranja);
+    opacity: 0.86;
+    will-change: transform;
+    animation: barrido var(--duracion) linear infinite alternate;
+  }
+
+  @keyframes barrido {
+    from { transform: translateY(var(--viaje-desde)); }
+    to   { transform: translateY(var(--viaje-hasta)); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .banda { animation: none; transform: translateY(240px); }
+  }
+</style>
+</head>
+<body>
+  <div class="tarjeta">
+    <div class="contenido">
+      <div class="marca">D</div>
+      <div class="institucion">INSTITUTO DEMO</div>
+
+      <div class="nombre">APELLIDO APELLIDO<br>NOMBRE NOMBRE</div>
+      <div class="codigo">00000000</div>
+
+      <div class="foto">
+        <svg viewBox="0 0 176 208" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="176" height="208" fill="#e9ebf0"/>
+          <circle cx="88" cy="78" r="36" fill="#bcc2ce"/>
+          <path d="M88 124c-38 0-68 24-74 58v26h148v-26c-6-34-36-58-74-58Z" fill="#bcc2ce"/>
+        </svg>
+      </div>
+
+      <div class="rol">ALUMNO</div>
+
+      <div class="zona-codigo"></div>
+      <div class="pie">DEMO · ANIMACIÓN DE EJEMPLO</div>
+    </div>
+
+    <div class="capa-banda">
+      <div class="banda"></div>
+    </div>
+  </div>
+</body>
+</html>
