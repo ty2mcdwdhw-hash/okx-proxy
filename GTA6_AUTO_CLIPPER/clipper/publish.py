@@ -204,3 +204,78 @@ def _log(row, dec, lang, platforms, status, slot, resp):
         fh.write(f"- {iso()} | `{row['id']}_{lang}` | {dec.get('pillar', '')} | {','.join(platforms)} | "
                  f"{status}{' @' + iso(slot) if slot else ''} | 🎥 @{row['creator_handle'].lstrip('@')} "
                  f"({row['lang']}->{lang}) | Spoiler: 0% (Verificado){err}\n")
+
+
+# ---------------------------------------------------------------- metrics
+BUCKETS = (12, 24, 72)
+
+
+def _metrics_table(con):
+    con.execute("""CREATE TABLE IF NOT EXISTS metrics (
+        clip_id TEXT, lang TEXT, platform TEXT, bucket INTEGER, views INTEGER, likes INTEGER,
+        comments INTEGER, shares INTEGER, fetched_at TEXT, PRIMARY KEY (clip_id, lang, platform, bucket))""")
+
+
+def fetch_metrics() -> int:
+    """Fill 12h/24h/72h snapshots for published posts (Upload-Post post-analytics)."""
+    cfg = settings()
+    p = cfg["publish"]
+    key = os.environ.get(p["api_key_env"], "proxy-injected")
+    con = db()
+    _metrics_table(con)
+    now = now_utc()
+    n = 0
+    for r in con.execute("SELECT * FROM posts WHERE status IN ('sent','scheduled') AND request_id IS NOT NULL").fetchall():
+        when = r["scheduled_for"] or r["posted_at"]
+        if not when:
+            continue
+        age_h = (now - dt.datetime.strptime(when, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc)).total_seconds() / 3600
+        due = [b for b in BUCKETS if age_h >= b and not con.execute(
+            "SELECT 1 FROM metrics WHERE clip_id=? AND lang=? AND platform=? AND bucket=?",
+            (r["clip_id"], r["lang"], r["platform"], b)).fetchone()]
+        if not due:
+            continue
+        try:
+            resp = requests.get(f"{p['api_base']}/api/uploadposts/post-analytics/{r['request_id']}",
+                                params={"platform": r["platform"]}, headers={"Authorization": f"Apikey {key}"}, timeout=30)
+            m = ((resp.json().get("platforms") or {}).get(r["platform"]) or {}).get("post_metrics") or {}
+        except Exception as ex:
+            print(f"[metrics] {r['clip_id']} {r['platform']}: {ex}")
+            continue
+        if not m:
+            continue
+        for b in due:
+            con.execute("INSERT OR REPLACE INTO metrics VALUES (?,?,?,?,?,?,?,?,?)",
+                        (r["clip_id"], r["lang"], r["platform"], b, m.get("views"), m.get("likes"),
+                         m.get("comments"), m.get("shares"), iso()))
+            n += 1
+    con.commit()
+    write_scoreboard()
+    return n
+
+
+def write_scoreboard() -> None:
+    """Rebuild scoreboard.csv from the posts + metrics tables."""
+    con = db()
+    _metrics_table(con)
+    met = {}
+    for m in con.execute("SELECT * FROM metrics"):
+        met[(m["clip_id"], m["lang"], m["platform"], m["bucket"])] = m
+    with SCORE.open("w", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=SCORE_COLS)
+        w.writeheader()
+        for r in con.execute("SELECT p.*, c.creator_handle, c.lang AS src_lang, c.test FROM posts p "
+                             "JOIN clips c ON c.id=p.clip_id ORDER BY COALESCE(p.scheduled_for, p.posted_at)"):
+            f = DECISIONS_DIR / f"{r['clip_id']}.json"
+            dec = json.loads(f.read_text()) if f.exists() else {}
+            g = lambda b, k: (met.get((r["clip_id"], r["lang"], r["platform"], b)) or {k: ""})[k]
+            w.writerow({"post_id": f"{r['clip_id']}_{r['lang']}_{r['platform']}", "clip_id": r["clip_id"],
+                        "lang": r["lang"], "platform": r["platform"], "profile": r["profile"],
+                        "pillar": dec.get("pillar", ""), "source_creator": r["creator_handle"],
+                        "source_lang": r["src_lang"],
+                        "duration_s": round(dec["trim"][1] - dec["trim"][0], 1) if dec.get("trim") else "",
+                        "status": r["status"], "scheduled_for": r["scheduled_for"] or "",
+                        "published_at": r["posted_at"] or "", "views_12h": g(12, "views"),
+                        "views_24h": g(24, "views"), "views_72h": g(72, "views"), "likes_24h": g(24, "likes"),
+                        "comments_24h": g(24, "comments"), "shares_24h": g(24, "shares"),
+                        "notes": "TEST" if r["test"] else ""})

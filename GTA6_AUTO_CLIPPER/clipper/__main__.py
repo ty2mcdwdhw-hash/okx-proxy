@@ -10,6 +10,7 @@
   publish [--dry]            sube (o deja en cola) lo renderizado
   cycle [--dry]              discover -> process -> (decide/render/publish de lo ya revisado)
   status                     resumen por estado
+  metrics                    trae vistas 12h/24h/72h a scoreboard.csv
   cards                      fichas de metadatos sanitizadas (texto, sin imágenes)
   purge-raw                  borra descargas temporales de clips ya publicados/rechazados
   takedown CLIP_ID           marca un clip como retirado (y lo anota en takedowns.md)
@@ -116,6 +117,7 @@ def main():
     sub.add_parser("pending"); sub.add_parser("decide"); sub.add_parser("render")
     pb = sub.add_parser("publish"); pb.add_argument("--dry", action="store_true")
     c = sub.add_parser("cycle"); c.add_argument("--dry", action="store_true"); c.add_argument("--group")
+    sub.add_parser("metrics")
     sub.add_parser("status"); sub.add_parser("cards"); sub.add_parser("purge-raw"); sub.add_parser("reset-test")
     t = sub.add_parser("takedown"); t.add_argument("clip_id")
     args = ap.parse_args()
@@ -144,9 +146,17 @@ def main():
         from .process import process
         from .publish import apply_decisions, publish_all
         from .render import render_all
+        from .publish import fetch_metrics
         apply_decisions(); render_all(); publish_all(args.dry)
+        try:
+            print("[metrics] snapshots:", fetch_metrics())
+        except Exception as ex:
+            print("[metrics] error:", ex)
         disc.discover(args.group); process()
         cmd_pending()
+    elif args.cmd == "metrics":
+        from .publish import fetch_metrics
+        print("snapshots:", fetch_metrics())
     elif args.cmd == "status":
         cmd_status()
     elif args.cmd == "cards":
