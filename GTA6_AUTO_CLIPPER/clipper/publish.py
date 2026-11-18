@@ -75,19 +75,34 @@ def _posts_today(con, profile: str, platform: str) -> list[str]:
 
 
 def _next_slot(con, profile: str, platforms: list[str], cfg: dict) -> dt.datetime | None:
-    """None = publish now. Otherwise the earliest time that respects caps and min gap."""
+    """Earliest time >= now that keeps min gap from every post of this account and the 24 h cap.
+    Fills holes in the schedule instead of always appending at the end. None = publish now."""
     p = cfg["publish"]
     gap = dt.timedelta(minutes=p["min_gap_minutes"])
-    slot = now_utc()
+    now = now_utc()
+    cand = now
     for plat in platforms:
-        times = [dt.datetime.strptime(t, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc)
-                 for t in _posts_today(con, profile, plat)]
-        if times:
-            slot = max(slot, max(times) + gap)
+        rows = con.execute(
+            "SELECT COALESCE(scheduled_for, posted_at) FROM posts WHERE profile=? AND platform=? "
+            "AND status IN ('sent','scheduled','queued') AND COALESCE(scheduled_for, posted_at) IS NOT NULL",
+            (profile, plat)).fetchall()
+        times = sorted(dt.datetime.strptime(r[0], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc) for r in rows)
         cap = p["daily_caps"].get(plat, 999)
-        if len(times) >= cap:
-            slot = max(slot, times[len(times) - cap] + dt.timedelta(hours=24))
-    return None if slot <= now_utc() + dt.timedelta(minutes=1) else slot
+        for _ in range(500):
+            moved = False
+            for t in times:
+                if abs(t - cand) < gap:
+                    cand = t + gap
+                    moved = True
+            window = [t for t in times if cand - dt.timedelta(hours=24) < t <= cand + dt.timedelta(hours=24)]
+            # rolling cap: in any 24 h window containing cand there must be room
+            before = [t for t in times if cand - dt.timedelta(hours=24) < t <= cand]
+            if len(before) >= cap:
+                cand = before[len(before) - cap] + dt.timedelta(hours=24) + dt.timedelta(seconds=1)
+                moved = True
+            if not moved:
+                break
+    return None if cand <= now + dt.timedelta(minutes=1) else cand
 
 
 def _upload(file: Path, fields: dict, cfg: dict, idem: str) -> dict:
