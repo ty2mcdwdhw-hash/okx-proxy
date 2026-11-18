@@ -65,10 +65,15 @@ def cmd_cards():
                 print(f"    [{lang}] {d['copy'][lang]['caption'].splitlines()[0]}")
 
 
+def settings_stale() -> int:
+    from .core import settings
+    return int(settings()["discovery"].get("stale_hours", 6))
+
+
 def cmd_purge():
     con = db()
     n = 0
-    for r in con.execute("SELECT id FROM clips WHERE status IN ('published','rejected','takedown')"):
+    for r in con.execute("SELECT id FROM clips WHERE status IN ('published','rejected','takedown','rendered')"):
         for f in RAW_DIR.glob(f"{r['id']}.*"):
             f.unlink()
             n += 1
@@ -147,6 +152,13 @@ def main():
         from .publish import apply_decisions, publish_all
         from .render import render_all
         from .publish import fetch_metrics
+        from .core import iso, now_utc
+        import datetime as _dt
+        con = db()
+        cutoff = iso(now_utc() - _dt.timedelta(hours=settings_stale()))
+        n = con.execute("UPDATE clips SET status='rejected', reason='stale' WHERE status='discovered' AND discovered_at < ?", (cutoff,)).rowcount
+        con.commit()
+        print(f"[cycle] {n} clips descubiertos vencidos (> {settings_stale()} h)")
         apply_decisions(); render_all(); publish_all(args.dry)
         try:
             print("[metrics] snapshots:", fetch_metrics())

@@ -9,6 +9,7 @@ discovery:
   not_before: "2026-11-18T11:00:00Z"   # desbloqueo NZ (06:00 Lima): nada anterior puede ser gameplay de GTA VI
   game_filter: [grand theft auto vi, gta vi, gta 6, gta6]   # categoría de Kick; se ignora en MODO TEST
   per_creator_max: 5        # objetivo: 4-5 clips por creador
+  stale_hours: 6            # clips descubiertos sin procesar en este plazo se descartan
   min_views: 0              # sube esto cuando haya volumen (ej. 200)
   youtube_enabled: false   # YouTube bloquea descargas desde IPs de nube; activar solo en un PC propio
   youtube_tabs: [streams, videos, shorts]
@@ -80,6 +81,7 @@ publish:
     instagram: 48
     youtube: 30
   min_gap_minutes: 30       # 2 por hora por cuenta
+  max_schedule_ahead_hours: {tiktok: 30, instagram: 12, youtube: 12}   # no programar más lejos (feed fresco)
   max_backlog_hours: 36     # redes conectadas tarde no reciben clips más viejos que esto
   tiktok_privacy: PUBLIC_TO_EVERYONE
 

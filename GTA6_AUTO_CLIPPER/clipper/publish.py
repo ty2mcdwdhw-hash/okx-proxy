@@ -157,7 +157,7 @@ def publish_all(dry: bool = False) -> list[str]:
             mp4 = EDITS_DIR / lang / f"{row['id']}_{lang}.mp4"
             profile = p["profiles"][lang]
             todo = [pl for pl in p["platforms"] if not con.execute(
-                "SELECT 1 FROM posts WHERE clip_id=? AND lang=? AND platform=? AND status IN ('sent','scheduled','queued')",
+                "SELECT 1 FROM posts WHERE clip_id=? AND lang=? AND platform=? AND status IN ('sent','scheduled','queued','skipped')",
                 (row["id"], lang, pl)).fetchone()]
             if not (dry or row["test"]):
                 todo = [pl for pl in todo if pl in connected_platforms(profile, cfg)]
@@ -172,6 +172,12 @@ def publish_all(dry: bool = False) -> list[str]:
             groups: dict = {}
             for pl in todo:
                 sl = _next_slot(con, profile, [pl], cfg)
+                ahead = p.get("max_schedule_ahead_hours", {}).get(pl)
+                if sl and ahead and sl > now_utc() + dt.timedelta(hours=ahead):
+                    con.execute("INSERT OR REPLACE INTO posts VALUES (?,?,?,?,?,?,?,?,?)",
+                                (row["id"], lang, pl, profile, "skipped", None, None, None,
+                                 json.dumps({"reason": f"cola de {pl} llena más de {ahead} h"})))
+                    continue
                 groups.setdefault(iso(sl) if sl else None, []).append(pl)
             for key, plats in groups.items():
                 slot = dt.datetime.strptime(key, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc) if key else None
@@ -197,7 +203,7 @@ def publish_all(dry: bool = False) -> list[str]:
                 _log(row, dec, lang, plats, status, slot, resp)
                 print(f"[publish] {row['id']} {lang} {plats} -> {status}{' @' + iso(slot) if slot else ''}")
         sts = [r["status"] for r in con.execute("SELECT status FROM posts WHERE clip_id=?", (row["id"],)).fetchall()]
-        if sts and all(s_ in ("sent", "scheduled", "queued") for s_ in sts) and len(sts) >= 2 * len(p["platforms"]):
+        if sts and all(s_ in ("sent", "scheduled", "queued", "skipped") for s_ in sts) and len(sts) >= 2 * len(p["platforms"]):
             set_status(con, row["id"], "published")
             done.append(row["id"])
     return done
