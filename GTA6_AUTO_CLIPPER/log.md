@@ -24,3 +24,7 @@
 - 2026-11-18T12:48:43Z | `TW_ManlySpunkyCaterpillarOMGScoots-ZHSXXFcUbr5CAcvy_EN` | Spotlight / Mecánicas | tiktok,instagram | scheduled @2026-11-18T15:06:18Z | 🎥 @jasontheween (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-18T12:48:45Z | `TW_TameRichCiderNotLikeThis-XnoflOX99c6DsR6L_ES` | Mapa / Exploración | tiktok | scheduled @2026-11-18T15:26:17Z | 🎥 @barnigameplay (hu->ES) | Spoiler: 0% (Verificado)
 - 2026-11-18T12:48:48Z | `TW_TameRichCiderNotLikeThis-XnoflOX99c6DsR6L_EN` | Mapa / Exploración | tiktok,instagram | scheduled @2026-11-18T15:26:18Z | 🎥 @barnigameplay (hu->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T13:43:52Z | `TW_ComfortableLachrymosePeppermintDendiFace-Aui_95KVt5WTgUSb_ES` | Autos y tuning / Mecánicas | tiktok | scheduled @2026-11-18T15:46:17Z | 🎥 @theburntpeanut (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T13:43:54Z | `TW_ComfortableLachrymosePeppermintDendiFace-Aui_95KVt5WTgUSb_EN` | Autos y tuning / Mecánicas | tiktok,instagram | scheduled @2026-11-18T15:46:18Z | 🎥 @theburntpeanut (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T13:44:01Z | `TW_ManlyProudPidgeonBloodTrail-PjN9TVhQ1zqg3GPr_ES` | NPCs / Físicas y Gameplay | tiktok | scheduled @2026-11-18T16:06:17Z | 🎥 @jasontheween (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T13:44:11Z | `TW_ManlyProudPidgeonBloodTrail-PjN9TVhQ1zqg3GPr_EN` | NPCs / Físicas y Gameplay | tiktok,instagram | scheduled @2026-11-18T16:06:18Z | 🎥 @jasontheween (en->EN) | Spoiler: 0% (Verificado)
