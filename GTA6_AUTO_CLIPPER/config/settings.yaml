@@ -58,12 +58,12 @@ publish:
     ES: GTA6_ES
     EN: default        # en Upload-Post las cuentas EN quedaron en el perfil 'default'
   platforms: [tiktok, instagram, youtube]
-  daily_caps:               # máximo por cuenta y día (cuentas nuevas: no pasarse)
+  daily_caps:               # topes duros de Upload-Post por cuenta / 24 h móviles
     tiktok: 15
-    instagram: 25
-    youtube: 40
-  min_gap_minutes: 20
-  max_backlog_hours: 36     # redes conectadas tarde no reciben clips más viejos que esto       # separación mínima entre posts de la misma cuenta
+    instagram: 48
+    youtube: 30
+  min_gap_minutes: 30       # 2 por hora por cuenta
+  max_backlog_hours: 36     # redes conectadas tarde no reciben clips más viejos que esto
   tiktok_privacy: PUBLIC_TO_EVERYONE
 
 spoiler:
