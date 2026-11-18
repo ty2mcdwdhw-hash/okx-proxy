@@ -79,9 +79,10 @@ publish:
   daily_caps:               # topes duros de Upload-Post por cuenta / 24 h móviles
     tiktok: 15
     instagram: 48
-    youtube: 30
+    youtube: 10                # límite real de YouTube para canales nuevos (se reinicia a medianoche Pacífico)
+  daily_reset_tz: {youtube: America/Los_Angeles}
   min_gap_minutes: 30       # 2 por hora por cuenta
-  max_schedule_ahead_hours: {tiktok: 8, instagram: 12, youtube: 12}   # no programar más lejos (feed fresco)
+  max_schedule_ahead_hours: {tiktok: 8, instagram: 12, youtube: 6}   # no programar más lejos (feed fresco)
   max_backlog_hours: 36     # redes conectadas tarde no reciben clips más viejos que esto
   tiktok_privacy: PUBLIC_TO_EVERYONE
 

@@ -88,6 +88,7 @@ def _next_slot(con, profile: str, platforms: list[str], cfg: dict) -> dt.datetim
             (profile, plat)).fetchall()
         times = sorted(dt.datetime.strptime(r[0], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc) for r in rows)
         cap = p["daily_caps"].get(plat, 999)
+        reset_tz = (p.get("daily_reset_tz") or {}).get(plat)
         for _ in range(500):
             moved = False
             for t in times:
@@ -97,7 +98,17 @@ def _next_slot(con, profile: str, platforms: list[str], cfg: dict) -> dt.datetim
             window = [t for t in times if cand - dt.timedelta(hours=24) < t <= cand + dt.timedelta(hours=24)]
             # rolling cap: in any 24 h window containing cand there must be room
             before = [t for t in times if cand - dt.timedelta(hours=24) < t <= cand]
-            if len(before) >= cap:
+            if reset_tz:
+                # platform limit resets at local midnight of reset_tz (YouTube: Pacific time)
+                from zoneinfo import ZoneInfo
+                tz = ZoneInfo(reset_tz)
+                day = cand.astimezone(tz).date()
+                same_day = [t for t in times if t.astimezone(tz).date() == day]
+                if len(same_day) >= cap:
+                    nxt = dt.datetime.combine(day + dt.timedelta(days=1), dt.time(0, 10), tz)
+                    cand = nxt.astimezone(dt.timezone.utc)
+                    moved = True
+            elif len(before) >= cap:
                 cand = before[len(before) - cap] + dt.timedelta(hours=24) + dt.timedelta(seconds=1)
                 moved = True
             if not moved:
