@@ -20,6 +20,42 @@ def _esc(text: str) -> str:
     return (text or "").replace("\\", "").replace("{", "(").replace("}", ")").replace("\n", "\\N")
 
 
+HI = "{\\c&H0000E5FF&\\fscx115\\fscy115}"   # active word: yellow + bigger
+RESET = "{\\r}"
+
+
+def _chunks(text: str, max_chars: int) -> list[list[str]]:
+    words, out, cur = text.split(), [], []
+    for w in words:
+        if cur and len(" ".join(cur + [w])) > max_chars:
+            out.append(cur)
+            cur = []
+        cur.append(w)
+    if cur:
+        out.append(cur)
+    return out
+
+
+def _dynamic_sub(text: str, a: float, b: float, max_chars: int) -> list[str]:
+    """Short word groups that pop in; the word being said turns yellow and grows."""
+    groups = _chunks(text, max_chars)
+    total = sum(len(w) + 1 for g in groups for w in g) or 1
+    t, ev = a, []
+    for g in groups:
+        g_len = sum(len(w) + 1 for w in g)
+        g_end = t + (b - a) * g_len / total
+        wt = t
+        for i, w in enumerate(g):
+            w_end = wt + (g_end - t) * (len(w) + 1) / g_len
+            words = [_esc(x) for x in g]
+            words[i] = f"{HI}{words[i]}{RESET}"
+            pop = "{\\fscx70\\fscy70\\t(0,120,\\fscx100\\fscy100)}" if i == 0 else ""
+            ev.append(f"Dialogue: 0,{_ts(wt)},{_ts(w_end)},Sub,,0,0,0,,{pop}{' '.join(words)}")
+            wt = w_end
+        t = g_end
+    return ev
+
+
 def build_ass(dec: dict, lang: str, dur: float, cfg: dict, row) -> str:
     r = cfg["render"]
     W, H, font = r["width"], r["height"], r["font"]
@@ -40,10 +76,10 @@ def build_ass(dec: dict, lang: str, dur: float, cfg: dict, row) -> str:
         "[V4+ Styles]",
         "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, "
         "Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding",
-        f"Style: Hook,{font},104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,7,3,8,70,70,250,1",
-        f"Style: Top,{font},70,&H0000E5FF,&H0000E5FF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,5,2,8,70,70,300,1",
-        f"Style: Credit,{font},40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,3,1,8,70,70,{r['video_top'] - 70},1",
-        f"Style: Sub,{font},76,&H00FFFFFF,&H0000E5FF,&H00000000,&H78000000,0,0,0,0,100,100,1,0,1,6,2,2,80,80,{sub_margin},1",
+        f"Style: Hook,{font},{r.get('hook_size', 122)},&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,8,3,8,60,60,190,1",
+        f"Style: Top,{font},{r.get('title_size', 86)},&H0000E5FF,&H0000E5FF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,6,2,8,60,60,250,1",
+        f"Style: Credit,{font},44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,3,1,8,70,70,{r['video_top'] - 70},1",
+        f"Style: Sub,{font},{r.get('sub_size', 96)},&H00FFFFFF,&H0000E5FF,&H00000000,&H78000000,0,0,0,0,100,100,1,0,1,7,3,2,60,60,{sub_margin},1",
         "", "[Events]",
         "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text",
         # big hook with pop-in for the first seconds, then a smaller persistent title
@@ -55,7 +91,11 @@ def build_ass(dec: dict, lang: str, dur: float, cfg: dict, row) -> str:
         a, b = s["start"] - t0, s["end"] - t0
         if b <= 0 or a >= dur or not s.get(lang):
             continue
-        out.append(f"Dialogue: 0,{_ts(max(a, 0))},{_ts(min(b, dur))},Sub,,0,0,0,,{_esc(s[lang])}")
+        a, b = max(a, 0.0), min(b, dur)
+        if r.get("dynamic_subs", True):
+            out += _dynamic_sub(s[lang], a, b, r.get("sub_chunk_chars", 20))
+        else:
+            out.append(f"Dialogue: 0,{_ts(a)},{_ts(b)},Sub,,0,0,0,,{_esc(s[lang])}")
     return "\n".join(out) + "\n"
 
 
