@@ -44,6 +44,10 @@ render:
   preset: veryfast
   loudnorm: true
   font: Anton
+  badge: GTA VI             # etiqueta de texto propia (no el logo oficial de Rockstar)
+  watermark:                # marca de agua semitransparente, esquina inferior derecha del gameplay
+    ES: "@gta6_es1"
+    EN: "@gta6_en2"
   fontsdir: assets/fonts
 
 publish:

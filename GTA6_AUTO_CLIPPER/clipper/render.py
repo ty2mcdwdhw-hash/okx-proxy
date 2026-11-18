@@ -80,6 +80,9 @@ def build_ass(dec: dict, lang: str, dur: float, cfg: dict, row) -> str:
         f"Style: Top,{font},{r.get('title_size', 86)},&H0000E5FF,&H0000E5FF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,6,2,8,60,60,250,1",
         f"Style: Credit,{font},44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,3,1,8,70,70,{r['video_top'] - 70},1",
         f"Style: Sub,{font},{r.get('sub_size', 96)},&H00FFFFFF,&H0000E5FF,&H00000000,&H78000000,0,0,0,0,100,100,1,0,1,7,3,2,60,60,{sub_margin},1",
+        # GTA VI tag (our own text badge, not Rockstar's logo artwork) and account watermark
+        f"Style: Badge,{font},46,&H00FFFFFF,&H00FFFFFF,&H00B43CFF,&H00B43CFF,0,0,0,0,100,100,2,0,3,10,0,7,40,40,{r['video_top'] + 22},1",
+        f"Style: WM,{font},44,&H59FFFFFF,&H59FFFFFF,&H90000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,3,40,40,{H - vid_bottom + 22},1",
         "", "[Events]",
         "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text",
         # big hook with pop-in for the first seconds, then a smaller persistent title
@@ -87,6 +90,12 @@ def build_ass(dec: dict, lang: str, dur: float, cfg: dict, row) -> str:
         f"Dialogue: 1,{_ts(min(hs, dur))},{_ts(dur)},Top,,0,0,0,,{{\\fad(150,0)}}{hook}",
         f"Dialogue: 1,{_ts(0)},{_ts(dur)},Credit,,0,0,0,,{_esc(credit)}",
     ]
+    badge = dec.get("badge", r.get("badge", "GTA VI"))
+    if badge:
+        out.append(f"Dialogue: 3,{_ts(0)},{_ts(dur)},Badge,,0,0,0,,{_esc(badge)}")
+    wm = (r.get("watermark") or {}).get(lang)
+    if wm:
+        out.append(f"Dialogue: 3,{_ts(0)},{_ts(dur)},WM,,0,0,0,,{_esc(wm)}")
     for s in dec.get("subs") or []:
         a, b = s["start"] - t0, s["end"] - t0
         if b <= 0 or a >= dur or not s.get(lang):

@@ -39,6 +39,7 @@ Ante la duda: `reject`. `spoiler_level` debe ser `0` para publicar.
 - Los tiempos de `subs` son del clip original (no recortado). `render` los desplaza.
 - Los subtítulos son localización gamer, no traducción literal: *wanted level, handling, spawn, glitch*.
 - Censura las groserías fuertes en los subtítulos.
+- No asumas el género del streamer: en EN evita he/his/she/her (usa the/their o reescribe la frase).
 - `trim`: entre 7 y 30 s (55 s si es HOW TO). Cortar silencios iniciales y terminar en el remate.
 - Pilares: Noticias Oficiales · Trucos y Mecánicas · Físicas y Gameplay · Comparativas GTA 5 vs 6 · Spotlights · Recap Diario · Preguntas a la Comunidad.
 
