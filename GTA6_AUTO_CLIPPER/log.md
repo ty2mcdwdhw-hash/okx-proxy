@@ -1,2 +1,18 @@
 # log.md — registro cronológico de publicaciones
 
+- 2026-11-18T11:46:17Z | `TW_TastyLivelyGorillaKappaRoss-XJg_HzTSewKws7nZ_ES` | Momentos divertidos / Lanzamiento | tiktok | sent | 🎥 @theorus_ (fr->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:18Z | `TW_TastyLivelyGorillaKappaRoss-XJg_HzTSewKws7nZ_EN` | Momentos divertidos / Lanzamiento | tiktok,instagram | sent | 🎥 @theorus_ (fr->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:21Z | `TW_HelplessTrappedScorpionLitty-p0CY-qPwfGTQ_iO0_ES` | Noticias / Lanzamiento | tiktok | scheduled @2026-11-18T12:06:17Z | 🎥 @lacy (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:23Z | `TW_HelplessTrappedScorpionLitty-p0CY-qPwfGTQ_iO0_EN` | Noticias / Lanzamiento | tiktok,instagram | scheduled @2026-11-18T12:06:18Z | 🎥 @lacy (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:25Z | `TW_EmpathicTallTroutGingerPower-JvgvTGmBHj_Tp8Dy_ES` | Momentos divertidos / Lanzamiento | tiktok | scheduled @2026-11-18T12:26:17Z | 🎥 @djmariio (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:28Z | `TW_EmpathicTallTroutGingerPower-JvgvTGmBHj_Tp8Dy_EN` | Momentos divertidos / Lanzamiento | tiktok,instagram | scheduled @2026-11-18T12:26:18Z | 🎥 @djmariio (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:29Z | `TW_CaringRealBatteryOSsloth-ObL8PG4pIfE4ZxYh_ES` | Noticias / Lanzamiento | tiktok | scheduled @2026-11-18T12:46:17Z | 🎥 @djmariio (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:32Z | `TW_CaringRealBatteryOSsloth-ObL8PG4pIfE4ZxYh_EN` | Noticias / Lanzamiento | tiktok,instagram | scheduled @2026-11-18T12:46:18Z | 🎥 @djmariio (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:34Z | `TW_ExuberantColdFriseeHeyGuys-80_f6WnXDTcLKfSl_ES` | Momentos divertidos / Lanzamiento | tiktok | scheduled @2026-11-18T13:06:17Z | 🎥 @montanablack88 (de->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:36Z | `TW_ExuberantColdFriseeHeyGuys-80_f6WnXDTcLKfSl_EN` | Momentos divertidos / Lanzamiento | tiktok,instagram | scheduled @2026-11-18T13:06:18Z | 🎥 @montanablack88 (de->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:38Z | `TW_StormyAbstemiousGaurDxCat-E3uc6GFbziEWrtJ9_ES` | Noticias / Lanzamiento | tiktok | scheduled @2026-11-18T13:26:17Z | 🎥 @evelone2004 (ru->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:39Z | `TW_StormyAbstemiousGaurDxCat-E3uc6GFbziEWrtJ9_EN` | Noticias / Lanzamiento | tiktok,instagram | scheduled @2026-11-18T13:26:18Z | 🎥 @evelone2004 (ru->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:42Z | `TW_TubularHyperTroutKlappa-XScekgj_-dJ7hmah_ES` | Noticias / Lanzamiento | tiktok | scheduled @2026-11-18T13:46:17Z | 🎥 @paulinholokobr (pt->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:44Z | `TW_TubularHyperTroutKlappa-XScekgj_-dJ7hmah_EN` | Noticias / Lanzamiento | tiktok,instagram | scheduled @2026-11-18T13:46:18Z | 🎥 @paulinholokobr (pt->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:47Z | `TW_LitigiousReliableAirGuitar4Head-uj3RDZ074Y6rMFu2_ES` | Momentos divertidos / Lanzamiento | tiktok | scheduled @2026-11-18T14:06:17Z | 🎥 @vicens (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T11:46:50Z | `TW_LitigiousReliableAirGuitar4Head-uj3RDZ074Y6rMFu2_EN` | Momentos divertidos / Lanzamiento | tiktok,instagram | scheduled @2026-11-18T14:06:18Z | 🎥 @vicens (es->EN) | Spoiler: 0% (Verificado)
