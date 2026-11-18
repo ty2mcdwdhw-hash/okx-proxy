@@ -81,7 +81,7 @@ publish:
     instagram: 48
     youtube: 30
   min_gap_minutes: 30       # 2 por hora por cuenta
-  max_schedule_ahead_hours: {tiktok: 30, instagram: 12, youtube: 12}   # no programar más lejos (feed fresco)
+  max_schedule_ahead_hours: {tiktok: 8, instagram: 12, youtube: 12}   # no programar más lejos (feed fresco)
   max_backlog_hours: 36     # redes conectadas tarde no reciben clips más viejos que esto
   tiktok_privacy: PUBLIC_TO_EVERYONE
 
