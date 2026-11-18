@@ -28,6 +28,13 @@ def blocked_title(title: str, cfg: dict) -> str | None:
     return None
 
 
+def _taken_today(con, handle: str) -> int:
+    """Clips kept for this creator in the last 24 h (per_creator_max is a daily budget)."""
+    since = iso(now_utc() - dt.timedelta(hours=24))
+    return con.execute("SELECT COUNT(*) FROM clips WHERE creator_handle=? AND status!='rejected' "
+                       "AND discovered_at>=?", (handle, since)).fetchone()[0]
+
+
 def _insert(con, row: dict) -> bool:
     if con.execute("SELECT 1 FROM clips WHERE id=?", (row["id"],)).fetchone():
         return False
@@ -66,8 +73,7 @@ def clip_channel(creator: dict, cfg: dict, con) -> list[str]:
         cutoff = max(cutoff, nb.timestamp())
     new = []
     entries = sorted(j.get("entries") or [], key=lambda e: e.get("view_count") or 0, reverse=True)
-    taken = con.execute("SELECT COUNT(*) FROM clips WHERE creator_handle=? AND status!='rejected'",
-                        (creator["handle"],)).fetchone()[0]
+    taken = _taken_today(con, creator["handle"])
     for e in entries:
         if taken + len(new) >= d["per_creator_max"]:
             break
@@ -108,8 +114,7 @@ def twitch_helix(creator: dict, cfg: dict, con, broadcaster_id: str) -> list[str
     d = cfg["discovery"]
     since = iso(dt.datetime.fromtimestamp(_cutoff_ts(cfg), dt.timezone.utc))
     game = str(cfg["twitch_api"]["game_id"])
-    taken = con.execute("SELECT COUNT(*) FROM clips WHERE creator_handle=? AND status!='rejected'",
-                        (creator["handle"],)).fetchone()[0]
+    taken = _taken_today(con, creator["handle"])
     new = []
     for c in sorted(twitch_api.clips(cfg, broadcaster_id, since, 50), key=lambda c: c["view_count"], reverse=True):
         if taken + len(new) >= d["per_creator_max"]:
@@ -145,8 +150,7 @@ def youtube(creator: dict, cfg: dict, con) -> list[str]:
     handle = creator["handle"] if creator["handle"].startswith("@") else "@" + creator["handle"]
     cutoff = now_utc() - dt.timedelta(hours=d["lookback_hours"])
     new: list[str] = []
-    taken = con.execute("SELECT COUNT(*) FROM clips WHERE creator_handle=? AND status!='rejected'",
-                        (creator["handle"],)).fetchone()[0]
+    taken = _taken_today(con, creator["handle"])
     for tab in d["youtube_tabs"]:
         lst = _ytdlp_json(["--flat-playlist", "--playlist-end", str(d["youtube_max_items"]),
                            f"https://www.youtube.com/{handle}/{tab}"])
