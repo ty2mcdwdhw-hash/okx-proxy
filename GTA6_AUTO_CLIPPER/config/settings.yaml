@@ -6,7 +6,8 @@ operator_tz: America/Lima
 discovery:
   lookback_hours: 24        # ventana de clips de Twitch (24hr | 7d según rango)
   twitch_range: 24hr        # 24hr | 7d | 30d | all
-  game_filter: Grand Theft Auto VI   # Kick trae la categoría; se ignora en MODO TEST
+  not_before: "2026-11-18T11:00:00Z"   # desbloqueo NZ (06:00 Lima): nada anterior puede ser gameplay de GTA VI
+  game_filter: [grand theft auto vi, gta vi, gta 6, gta6]   # categoría de Kick; se ignora en MODO TEST
   per_creator_max: 5        # objetivo: 4-5 clips por creador
   min_views: 0              # sube esto cuando haya volumen (ej. 200)
   youtube_enabled: false   # YouTube bloquea descargas desde IPs de nube; activar solo en un PC propio
@@ -39,7 +40,7 @@ render:
   fontsdir: assets/fonts
 
 publish:
-  provider: upload_post     # upload_post | queue (queue = no publica, solo deja listo)
+  provider: queue           # upload_post | queue (queue = renderiza y deja listo; cambiar a upload_post al conectar la API)
   api_base: https://api.upload-post.com
   api_key_env: UPLOAD_POST_API_KEY   # si no existe, el proxy de la sesión inyecta la clave
   profiles:                 # nombre del "user/profile" en Upload-Post

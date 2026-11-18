@@ -112,7 +112,12 @@ def publish_all(dry: bool = False) -> list[str]:
     p = cfg["publish"]
     con = db()
     done = []
-    for row in con.execute("SELECT * FROM clips WHERE status='rendered' ORDER BY views DESC").fetchall():
+    rows = con.execute("SELECT * FROM clips WHERE status='rendered' ORDER BY views DESC").fetchall()
+    if p["provider"] == "queue" and not dry:
+        live = [r for r in rows if not r["test"]]
+        print(f"[publish] provider=queue: {len(live)} clips listos en media/edits, esperando conexión de Upload-Post")
+        rows = [r for r in rows if r["test"]]
+    for row in rows:
         dec = json.loads((DECISIONS_DIR / f"{row['id']}.json").read_text())
         for lang in ("ES", "EN"):
             mp4 = EDITS_DIR / lang / f"{row['id']}_{lang}.mp4"
@@ -128,7 +133,7 @@ def publish_all(dry: bool = False) -> list[str]:
                       "external_id": f"{row['id']}_{lang}"}
             if slot:
                 fields["scheduled_date"] = iso(slot)
-            if dry or p["provider"] == "queue" or row["test"]:
+            if dry or row["test"]:
                 status, resp = "queued", {"dry_run": True, "fields": {k: v for k, v in fields.items()}}
             else:
                 resp = _upload(mp4, fields, cfg, idem=f"{row['id']}_{lang}")

@@ -61,4 +61,4 @@ groups:
 
   # Creadores de autos para el MODO TEST (contenido GTA V, no GTA VI)
   test_cars:
-    - {name: Broughy1322, platform: twitch, handle: broughy1322, lang: en, phase: 9, test: true}
+    - {name: Broughy1322, platform: twitch, handle: broughy1322, lang: en, phase: 9, test: true, enabled: false}

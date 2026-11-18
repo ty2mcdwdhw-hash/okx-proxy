@@ -55,11 +55,15 @@ def clip_channel(creator: dict, cfg: dict, con) -> list[str]:
     else:
         url = f"https://kick.com/{creator['handle']}/clips"
         prefix = "KK"
-    game = (d.get("game_filter") or "").lower()
+    games = d.get("game_filter") or []
+    games = [g.lower() for g in ([games] if isinstance(games, str) else games)]
     j = _ytdlp_json(["--flat-playlist", "--playlist-end", "40", url])
     if not j:
         return []
     cutoff = (now_utc() - dt.timedelta(hours=d["lookback_hours"])).timestamp()
+    if d.get("not_before"):
+        nb = dt.datetime.strptime(d["not_before"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc)
+        cutoff = max(cutoff, nb.timestamp())
     new = []
     entries = sorted(j.get("entries") or [], key=lambda e: e.get("view_count") or 0, reverse=True)
     taken = con.execute("SELECT COUNT(*) FROM clips WHERE creator_handle=? AND status!='rejected'",
@@ -72,7 +76,7 @@ def clip_channel(creator: dict, cfg: dict, con) -> list[str]:
         if (e.get("view_count") or 0) < d["min_views"]:
             continue
         cats = [c.lower() for c in (e.get("categories") or [])]
-        if game and cats and not creator.get("test") and not any(game in c for c in cats):
+        if games and cats and not creator.get("test") and not any(g in c for g in games for c in cats):
             continue  # Kick reports the category; Twitch listing does not
         cid = f"{prefix}_{e['id']}"
         row = dict(id=cid, source=f"{plat}_clip", url=e["url"], creator=creator["name"],
