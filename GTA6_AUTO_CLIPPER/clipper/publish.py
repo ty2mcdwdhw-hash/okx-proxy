@@ -153,28 +153,34 @@ def publish_all(dry: bool = False) -> list[str]:
                     todo = []
             if not todo:
                 continue
-            slot = _next_slot(con, profile, todo, cfg)
-            fields = {"user": profile, "platform[]": todo, **caption(dec, lang, row),
-                      "privacy_level": p["tiktok_privacy"], "async_upload": "true",
-                      "external_id": f"{row['id']}_{lang}"}
-            if slot:
-                fields["scheduled_date"] = iso(slot)
-            if dry or row["test"]:
-                status, resp = "queued", {"dry_run": True, "fields": {k: v for k, v in fields.items()}}
-            else:
-                resp = _upload(mp4, fields, cfg, idem=f"{row['id']}_{lang}")
-                ok = resp.get("_http") in (200, 201, 202) and resp.get("success", True) is not False
-                status = ("scheduled" if slot else "sent") if ok else "error"
+            # each platform gets its own slot (a full TikTok must not delay Instagram/YouTube)
+            groups: dict = {}
             for pl in todo:
-                con.execute("INSERT OR REPLACE INTO posts VALUES (?,?,?,?,?,?,?,?,?)",
-                            (row["id"], lang, pl, profile, status,
-                             resp.get("request_id") or resp.get("job_id"),
-                             iso(slot) if slot else None, None if slot else iso(),
-                             json.dumps(resp, ensure_ascii=False)[:4000]))
-                _score_row(row, dec, lang, pl, profile, status, slot)
-            con.commit()
-            _log(row, dec, lang, todo, status, slot, resp)
-            print(f"[publish] {row['id']} {lang} {todo} -> {status}{' @' + iso(slot) if slot else ''}")
+                sl = _next_slot(con, profile, [pl], cfg)
+                groups.setdefault(iso(sl) if sl else None, []).append(pl)
+            for key, plats in groups.items():
+                slot = dt.datetime.strptime(key, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc) if key else None
+                fields = {"user": profile, "platform[]": plats, **caption(dec, lang, row),
+                          "privacy_level": p["tiktok_privacy"], "async_upload": "true",
+                          "external_id": f"{row['id']}_{lang}"}
+                if slot:
+                    fields["scheduled_date"] = iso(slot)
+                if dry or row["test"]:
+                    status, resp = "queued", {"dry_run": True, "fields": {k: v for k, v in fields.items()}}
+                else:
+                    resp = _upload(mp4, fields, cfg, idem=f"{row['id']}_{lang}_{'-'.join(sorted(plats))}_{key or 'now'}")
+                    ok = resp.get("_http") in (200, 201, 202) and resp.get("success", True) is not False
+                    status = ("scheduled" if slot else "sent") if ok else "error"
+                for pl in plats:
+                    con.execute("INSERT OR REPLACE INTO posts VALUES (?,?,?,?,?,?,?,?,?)",
+                                (row["id"], lang, pl, profile, status,
+                                 resp.get("request_id") or resp.get("job_id"),
+                                 iso(slot) if slot else None, None if slot else iso(),
+                                 json.dumps(resp, ensure_ascii=False)[:4000]))
+                    _score_row(row, dec, lang, pl, profile, status, slot)
+                con.commit()
+                _log(row, dec, lang, plats, status, slot, resp)
+                print(f"[publish] {row['id']} {lang} {plats} -> {status}{' @' + iso(slot) if slot else ''}")
         sts = [r["status"] for r in con.execute("SELECT status FROM posts WHERE clip_id=?", (row["id"],)).fetchall()]
         if sts and all(s_ in ("sent", "scheduled", "queued") for s_ in sts) and len(sts) >= 2 * len(p["platforms"]):
             set_status(con, row["id"], "published")
