@@ -1,0 +1,64 @@
+# Watchlist de creadores. `python -m clipper verify` comprueba que cada canal existe.
+# platform: twitch | kick | youtube
+# handle: login de Twitch o @handle de YouTube
+# lang: idioma principal del creador (ISO 639-1)
+# phase: 1 Oceanía/Asia | 2 Europa/MEA | 3 América | 0 oficial
+# enabled: false = no se monitorea (handle no verificado por `verify` el 2026-11-18)
+# NOTA: YouTube bloquea descargas desde la nube -> settings.discovery.youtube_enabled
+
+groups:
+  official:
+    - {name: Rockstar Games, platform: youtube, handle: "@RockstarGames", lang: en, phase: 0}
+    - {name: YouTube 24h GTA VI stream, platform: youtube, handle: "@YouTube", lang: en, phase: 3}
+
+  launch_asia:
+    - {name: KIMBLUE, platform: youtube, handle: "@KIMBLUE", lang: ko, phase: 1, enabled: false}
+    - {name: Sleepground TV (잠뜰), platform: youtube, handle: "@sleepground", lang: ko, phase: 1}
+    - {name: Akagami no Tomo (赤髪のとも), platform: youtube, handle: "@akagaminotomo", lang: ja, phase: 1}
+    - {name: Kato Junichi (加藤純一), platform: youtube, handle: "@katojunichi", lang: ja, phase: 1, enabled: false}
+    - {name: Total Gaming, platform: youtube, handle: "@TotalGaming093", lang: hi, phase: 1}
+    - {name: k4sen, platform: twitch, handle: k4sen, lang: ja, phase: 1}
+    - {name: SHAKA, platform: twitch, handle: fps_shaka, lang: ja, phase: 1}
+    - {name: StylishNoob (関優太), platform: twitch, handle: stylishnoob4, lang: ja, phase: 1}
+    - {name: Kato Junichi (Twitch), platform: twitch, handle: kato_junichi0817, lang: ja, phase: 1}
+    - {name: Loserfruit, platform: twitch, handle: loserfruit, lang: en, phase: 1}
+
+  launch_europe:
+    - {name: MontanaBlack, platform: twitch, handle: montanablack88, lang: de, phase: 2}
+    - {name: Papaplatte, platform: twitch, handle: papaplatte, lang: de, phase: 2}
+    - {name: Trymacs, platform: twitch, handle: trymacs, lang: de, phase: 2}
+    - {name: Squeezie, platform: twitch, handle: squeezie, lang: fr, phase: 2}
+    - {name: Gotaga, platform: twitch, handle: gotaga, lang: fr, phase: 2}
+    - {name: Evelone, platform: twitch, handle: evelone192, lang: ru, phase: 2}
+    - {name: Bratishkin, platform: twitch, handle: bratishkinoff, lang: ru, phase: 2}
+    - {name: elxokas, platform: kick, handle: elxokas, lang: es, phase: 2}
+    - {name: Ibai, platform: twitch, handle: ibai, lang: es, phase: 2}
+    - {name: AuronPlay, platform: twitch, handle: auronplay, lang: es, phase: 2}
+    - {name: Rubius, platform: twitch, handle: rubius, lang: es, phase: 2}
+    - {name: TheGrefg, platform: twitch, handle: thegrefg, lang: es, phase: 2}
+
+  launch_americas:
+    - {name: Kai Cenat, platform: twitch, handle: kaicenat, lang: en, phase: 3}
+    - {name: xQc, platform: twitch, handle: xqc, lang: en, phase: 3}
+    - {name: summit1g, platform: twitch, handle: summit1g, lang: en, phase: 3}
+    - {name: Asmongold, platform: twitch, handle: zackrawrr, lang: en, phase: 3}
+    - {name: Jynxzi, platform: twitch, handle: jynxzi, lang: en, phase: 3}
+    - {name: Cinna, platform: twitch, handle: cinna, lang: en, phase: 3}
+    - {name: Caylus, platform: youtube, handle: "@Caylus", lang: en, phase: 3, enabled: false}
+    - {name: Zhong, platform: youtube, handle: "@ZHONG", lang: en, phase: 3}
+    - {name: Jelly, platform: youtube, handle: "@Jelly", lang: en, phase: 3}
+    - {name: Gameranx (Jake Baldino), platform: youtube, handle: "@gameranx", lang: en, phase: 3, enabled: false}
+    - {name: Juansguarnizo, platform: twitch, handle: juansguarnizo, lang: es, phase: 3}
+    - {name: Rivers, platform: twitch, handle: rivers_gg, lang: es, phase: 3}
+    - {name: ElMariana, platform: twitch, handle: elmariana, lang: es, phase: 3}
+    - {name: Westcol, platform: kick, handle: westcol, lang: es, phase: 3}
+    - {name: Spreen, platform: kick, handle: spreen, lang: es, phase: 3}
+    - {name: Coscu, platform: kick, handle: coscu, lang: es, phase: 3}
+    - {name: xQc (Kick), platform: kick, handle: xqc, lang: en, phase: 3}
+    - {name: Adin Ross, platform: kick, handle: adinross, lang: en, phase: 3}
+    - {name: Gaules, platform: twitch, handle: gaules, lang: pt, phase: 3}
+    - {name: Casimiro, platform: twitch, handle: casimiro, lang: pt, phase: 3}
+
+  # Creadores de autos para el MODO TEST (contenido GTA V, no GTA VI)
+  test_cars:
+    - {name: Broughy1322, platform: twitch, handle: broughy1322, lang: en, phase: 9, test: true}

@@ -1,0 +1,7 @@
+yt-dlp[default]
+deno
+streamlink
+faster-whisper
+pyyaml
+requests
+numpy

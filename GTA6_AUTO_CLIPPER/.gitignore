@@ -1,0 +1,11 @@
+media/raw/*
+media/edits/**/*.mp4
+media/edits/**/*.ass
+state/*
+!media/raw/.gitkeep
+!media/edits/ES/.gitkeep
+!media/edits/EN/.gitkeep
+!state/.gitkeep
+__pycache__/
+*.pyc
+.env

@@ -1,0 +1,94 @@
+# GTA6_AUTO_CLIPPER — configuración activa
+# Zona horaria del operador: America/Lima (UTC-5)
+
+operator_tz: America/Lima
+
+discovery:
+  lookback_hours: 24        # ventana de clips de Twitch (24hr | 7d según rango)
+  twitch_range: 24hr        # 24hr | 7d | 30d | all
+  game_filter: Grand Theft Auto VI   # Kick trae la categoría; se ignora en MODO TEST
+  per_creator_max: 5        # objetivo: 4-5 clips por creador
+  min_views: 0              # sube esto cuando haya volumen (ej. 200)
+  youtube_enabled: false   # YouTube bloquea descargas desde IPs de nube; activar solo en un PC propio
+  youtube_tabs: [streams, videos, shorts]
+  youtube_max_items: 6      # últimos N items por pestaña
+  youtube_peaks_per_vod: 5  # picos de "más repetido" por VOD
+  youtube_segment: [-18, 14]  # segundos alrededor del pico
+
+clip:
+  min_seconds: 7
+  max_seconds: 30
+  max_seconds_howto: 55
+
+transcribe:
+  model: small              # tiny|base|small|medium (CPU). small = buen equilibrio
+  compute_type: int8
+
+render:
+  width: 1080
+  height: 1920
+  fps_max: 60
+  layout: blur              # blur | fill | stack
+  zoom: 1.30                # zoom central del gameplay en layout blur
+  video_top: 560            # y donde empieza el gameplay
+  hook_seconds: 2.5         # gancho grande al inicio
+  crf: 20
+  preset: veryfast
+  loudnorm: true
+  font: Anton
+  fontsdir: assets/fonts
+
+publish:
+  provider: upload_post     # upload_post | queue (queue = no publica, solo deja listo)
+  api_base: https://api.upload-post.com
+  api_key_env: UPLOAD_POST_API_KEY   # si no existe, el proxy de la sesión inyecta la clave
+  profiles:                 # nombre del "user/profile" en Upload-Post
+    ES: gta6_es
+    EN: gta6_en
+  platforms: [tiktok, instagram, youtube]
+  daily_caps:               # máximo por cuenta y día (cuentas nuevas: no pasarse)
+    tiktok: 15
+    instagram: 25
+    youtube: 40
+  min_gap_minutes: 20       # separación mínima entre posts de la misma cuenta
+  tiktok_privacy: PUBLIC_TO_EVERYONE
+
+spoiler:
+  # Rechazo automático si el título del clip contiene alguno de estos términos
+  title_blocklist:
+    - spoiler
+    - ending
+    - final
+    - finale
+    - cutscene
+    - cinematic
+    - mission
+    - misión
+    - mision
+    - story
+    - historia
+    - boss
+    - dies
+    - death
+    - muere
+    - muerte
+    - plot
+    - twist
+    - credits
+    - créditos
+    - ネタバレ
+    - エンディング
+    - ラスト
+    - 스포
+    - 엔딩
+    - спойлер
+    - концовка
+    - финал
+    - сюжет
+    - história
+    - fim
+    - ende
+    - handlung
+    - fin du jeu
+  # Barras negras (letterbox) = probable cinemática -> rechazo
+  letterbox_reject: true
