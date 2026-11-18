@@ -25,3 +25,11 @@ Fuente: listados regionales de PlayStation Store. Rockstar no confirmó la hora.
 
 ## Plantillas de copy
 Se usan las plantillas 1-3 del brief (Viral/Física, HOW TO, Noticia oficial). Crédito siempre: `🎥: @creador`.
+
+## Horarios clave (investigación del operador, 18/11, hora Lima)
+- Adelanto con horario de NZ (ya en vivo desde las 06:00): Alanzoka, MontanaBlack, DjMaRiiO, xQc, Evelone, Adin Ross, Sasel, DavyJones, SanInPlay, Cross.
+- 18:00 — IlloJuan (medianoche España). Rubius: multistream el 18, sin hora.
+- 20:00 — Kai Cenat (playthrough completo, 20:00 ET = 20:00 Lima).
+- 21:00 — IShowSpeed (primera sesión, ~10 h/día).
+- 23:00 — Pre-show RDCWorld; 00:00 del 19 — maratón oficial de 24 h en YouTube.
+- 19/11 — Clix + CORE (Adapt, Jasontheween, Lacy, Marlon, Silky, Stable Ronaldo) 24 h desde Miami; DDG en Kick; Ludwig sin parar.

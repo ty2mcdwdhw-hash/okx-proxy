@@ -15,6 +15,31 @@ groups:
     - {name: Ludwig, platform: twitch, handle: ludwig, lang: en, phase: 3, announced: true}       # stream sin parar
     - {name: Lacy, platform: twitch, handle: lacy, lang: en, phase: 3, announced: true}           # maratón desde una mansión en Miami
     - {name: DDG, platform: twitch, handle: ddg, lang: en, phase: 3, announced: true}             # maratón (plataforma no clara)
+  streams_charts_18nov:      # investigación del operador (Streams Charts y anuncios, 18/11)
+    - {name: Sasel, platform: twitch, handle: sasel, lang: pt, phase: 1, announced: true}   # adelanto NZ
+    - {name: DavyJones, platform: twitch, handle: davyjones, lang: pt, phase: 1, announced: true}   # adelanto NZ
+    - {name: SanInPlay, platform: twitch, handle: saninplay, lang: pt, phase: 1, announced: true}   # adelanto NZ
+    - {name: Cross, platform: twitch, handle: crossbr, lang: pt, phase: 1, announced: true}   # adelanto NZ
+    - {name: DjMaRiiO, platform: twitch, handle: djmariio, lang: es, phase: 1, announced: true}   # pico Streams Charts 18/11
+    - {name: Evelone (2004), platform: twitch, handle: evelone2004, lang: ru, phase: 1, announced: true}   # pico Streams Charts 18/11
+    - {name: IShowSpeed, platform: twitch, handle: ishowspeed, lang: en, phase: 3, announced: true}   # primera sesión 18/11 21:00
+    - {name: Adapt, platform: twitch, handle: adapt, lang: en, phase: 3, announced: true}   # CORE Miami 24h desde 19/11
+    - {name: Marlon, platform: twitch, handle: marlon, lang: en, phase: 3, announced: true}   # CORE Miami
+    - {name: Silky, platform: twitch, handle: silky, lang: en, phase: 3, announced: true}   # CORE Miami
+    - {name: Stable Ronaldo, platform: twitch, handle: stableronaldo, lang: en, phase: 3, announced: true}   # CORE Miami
+    - {name: CaseOh, platform: twitch, handle: caseoh_, lang: en, phase: 3, announced: true}   # no confirmado
+    - {name: IlloJuan, platform: twitch, handle: illojuan, lang: es, phase: 2, announced: true}   # medianoche España (18:00 Lima)
+    - {name: DaniRep, platform: twitch, handle: thedanirep, lang: es, phase: 2, announced: true}   # sin hora
+    - {name: LIRIK, platform: twitch, handle: lirik, lang: en, phase: 3, announced: true}   # sin anuncio
+    - {name: shroud, platform: twitch, handle: shroud, lang: en, phase: 3, announced: true}   # sin anuncio
+    - {name: HasanAbi, platform: twitch, handle: hasanabi, lang: en, phase: 3, announced: true}   # sin anuncio
+    - {name: Sodapoppin, platform: twitch, handle: sodapoppin, lang: en, phase: 3, announced: true}   # sin anuncio
+    - {name: tarik, platform: twitch, handle: tarik, lang: en, phase: 3, announced: true}   # sin anuncio
+    - {name: Buddha, platform: twitch, handle: buddha, lang: en, phase: 3, announced: true}   # sin anuncio
+    - {name: Trainwreck, platform: twitch, handle: trainwreckstv, lang: en, phase: 3, announced: true}   # sin anuncio
+    - {name: Pokimane, platform: twitch, handle: pokimane, lang: en, phase: 3, announced: true}   # sin anuncio
+    - {name: Ninja, platform: twitch, handle: ninja, lang: en, phase: 3, announced: true}   # sin anuncio
+
   official:
     - {name: Rockstar Games, platform: youtube, handle: "@RockstarGames", lang: en, phase: 0}
     - {name: YouTube 24h GTA VI stream, platform: youtube, handle: "@YouTube", lang: en, phase: 3}
@@ -46,7 +71,7 @@ groups:
     - {name: TheGrefg, platform: twitch, handle: thegrefg, lang: es, phase: 2}
 
   launch_americas:
-    - {name: Kai Cenat, platform: twitch, handle: kaicenat, lang: en, phase: 3, announced: true}   # partida completa desde 20:00 ET del 18/11
+    - {name: Kai Cenat, platform: twitch, handle: kaicenat, lang: en, phase: 3, announced: true}   # partida completa desde 20:00 ET (= 20:00 Lima) del 18/11
     - {name: xQc, platform: twitch, handle: xqc, lang: en, phase: 3}
     - {name: summit1g, platform: twitch, handle: summit1g, lang: en, phase: 3}
     - {name: Asmongold, platform: twitch, handle: zackrawrr, lang: en, phase: 3}
