@@ -210,3 +210,5 @@
 - 2026-11-18T19:39:52Z | `TW_GoldenKathishSeahorsePJSalt-Ws0uQnOJA1ivZXjt_EN` | NPCs / Físicas y Gameplay | instagram | scheduled @2026-11-19T00:26:18Z | 🎥 @xargon0731 (zh->EN) | Spoiler: 0% (Verificado)
 - 2026-11-18T20:26:39Z | `TW_CoweringResourcefulJuiceNotLikeThis-RJUB6yBKAOu2Tba__EN` | Historia / Reacciones | instagram | scheduled @2026-11-19T00:56:18Z | 🎥 @montanablack88 (de->EN) | Spoiler: 0% (Verificado)
 - 2026-11-18T20:26:43Z | `TW_TrustworthyHonestSkirretPeteZaroll-5djihRvDTPqd1iX-_EN` | Mapa / Exploración | instagram | scheduled @2026-11-19T01:26:18Z | 🎥 @cellbit (pt->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T21:20:01Z | `TW_StrangeUnusualDotterelHoneyBadger-LSKO5c0KRHoErxkg_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-19T01:56:18Z | 🎥 @lacy (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T21:20:07Z | `TW_GiftedCourteousFloofTooSpicy-48Js9MCEmktoA1c2_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-19T02:26:18Z | 🎥 @alanzoka (pt->EN) | Spoiler: 0% (Verificado)
