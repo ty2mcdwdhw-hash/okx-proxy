@@ -208,3 +208,5 @@
 - 2026-11-18T19:39:44Z | `TW_DepressedCoySharkEleGiggle-Qx4nme4Mp2U5ne57_EN` | Físicas y Gameplay (Agua) | instagram | scheduled @2026-11-18T23:56:18Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)
 - 2026-11-18T19:39:48Z | `TW_DepressedCoySharkEleGiggle-Qx4nme4Mp2U5ne57_EN` | Físicas y Gameplay (Agua) | youtube | scheduled @2026-11-19T06:10:05Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)
 - 2026-11-18T19:39:52Z | `TW_GoldenKathishSeahorsePJSalt-Ws0uQnOJA1ivZXjt_EN` | NPCs / Físicas y Gameplay | instagram | scheduled @2026-11-19T00:26:18Z | 🎥 @xargon0731 (zh->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T20:26:39Z | `TW_CoweringResourcefulJuiceNotLikeThis-RJUB6yBKAOu2Tba__EN` | Historia / Reacciones | instagram | scheduled @2026-11-19T00:56:18Z | 🎥 @montanablack88 (de->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T20:26:43Z | `TW_TrustworthyHonestSkirretPeteZaroll-5djihRvDTPqd1iX-_EN` | Mapa / Exploración | instagram | scheduled @2026-11-19T01:26:18Z | 🎥 @cellbit (pt->EN) | Spoiler: 0% (Verificado)
