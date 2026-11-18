@@ -43,7 +43,9 @@ def live_channels(cfg: dict) -> list[dict]:
         if not cursor:
             break
     picked, per_lang = [], {}
-    caps = t.get("live_top_per_lang", {})
+    from .core import current_focus
+    focus = current_focus(cfg)
+    caps = (focus or {}).get("live_top_per_lang") or t.get("live_top_per_lang", {})
     default_cap = caps.get("other", 3)
     for s in sorted(out, key=lambda x: x["viewers"], reverse=True):
         if s["viewers"] < t.get("live_min_viewers", 500):

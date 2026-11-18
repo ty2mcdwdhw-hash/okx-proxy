@@ -34,8 +34,15 @@ def cmd_status():
 
 
 def cmd_pending():
+    from .core import current_focus, settings
     con = db()
-    for r in con.execute("SELECT id, creator, lang, views FROM clips WHERE status='packet' ORDER BY views DESC"):
+    f = current_focus(settings())
+    langs = set((f or {}).get("langs") or [])
+    if f:
+        print(f"# foco regional: {f['name']}")
+    rows = sorted(con.execute("SELECT id, creator, lang, views FROM clips WHERE status='packet'").fetchall(),
+                  key=lambda r: ((r["lang"] or "") in langs, r["views"] or 0), reverse=True)
+    for r in rows:
         print(f"{r['id']:<50} {r['creator']:<22} {r['lang']} views={r['views']}  -> {REVIEW_DIR / r['id']}")
 
 

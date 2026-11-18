@@ -23,6 +23,23 @@ twitch_api:                 # API oficial de Twitch (token inyectado por la sesi
   live_min_viewers: 500
   live_top_per_lang: {en: 12, es: 10, pt: 6, de: 5, fr: 5, ru: 5, ja: 5, it: 3, other: 3}
 
+focus:                      # bombardeo por regiones (hora de Lima). Prioriza idiomas en ranking en vivo y en revisión
+  - name: asia
+    from: "2026-11-18T06:00"
+    to: "2026-11-18T17:59"
+    langs: [ja, zh, ko, th, id, vi, tl, ms, hi]
+    live_top_per_lang: {ja: 15, zh: 10, ko: 8, th: 6, id: 6, vi: 5, tl: 5, ms: 4, hi: 5, en: 6, other: 2}
+  - name: europa
+    from: "2026-11-18T18:00"
+    to: "2026-11-18T23:59"
+    langs: [de, fr, es, ru, it, pl, tr, ar, pt, nl, cs, uk, hu, sv]
+    live_top_per_lang: {de: 10, fr: 10, es: 10, ru: 8, it: 6, pl: 6, tr: 5, ar: 5, pt: 5, nl: 4, other: 3}
+  - name: america
+    from: "2026-11-19T00:00"
+    to: "2026-11-19T12:00"
+    langs: [en, es, pt]
+    live_top_per_lang: {en: 15, es: 12, pt: 8, other: 2}
+
 clip:
   min_seconds: 7
   max_seconds: 30

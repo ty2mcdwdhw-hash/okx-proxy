@@ -117,3 +117,14 @@ def safe_id(s: str) -> str:
 
 def yt_dlp_base() -> list[str]:
     return ["yt-dlp", "--no-warnings", "--quiet", "--no-progress", "--js-runtimes", "deno"]
+
+
+def current_focus(cfg: dict) -> dict | None:
+    """Regional focus window active now (times in operator_tz)."""
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo(cfg.get("operator_tz", "UTC"))
+    now = dt.datetime.now(tz).replace(tzinfo=None)
+    for f in cfg.get("focus") or []:
+        if dt.datetime.fromisoformat(f["from"]) <= now <= dt.datetime.fromisoformat(f["to"]):
+            return f
+    return None

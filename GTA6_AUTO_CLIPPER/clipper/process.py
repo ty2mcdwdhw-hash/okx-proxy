@@ -99,10 +99,16 @@ def build_packet(row, raw: Path, meta: dict, tr: dict, lb: float) -> Path:
 def process(limit: int = 50, test_only: bool = False) -> list[str]:
     cfg = settings()
     con = db()
-    q = "SELECT * FROM clips WHERE status='discovered'" + (" AND test=1" if test_only else "") + \
-        " ORDER BY views DESC LIMIT ?"
+    from .core import current_focus
+    focus = current_focus(cfg)
+    langs = set((focus or {}).get("langs") or [])
+    q = "SELECT * FROM clips WHERE status='discovered'" + (" AND test=1" if test_only else "")
+    rows = sorted(con.execute(q).fetchall(),
+                  key=lambda r: ((r["lang"] or "") in langs, r["views"] or 0), reverse=True)[:limit]
+    if focus:
+        print(f"[process] foco regional: {focus['name']} ({', '.join(sorted(langs))})")
     done = []
-    for row in con.execute(q, (limit,)).fetchall():
+    for row in rows:
         cid = row["id"]
         try:
             raw = download(row)
