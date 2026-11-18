@@ -40,18 +40,19 @@ render:
   fontsdir: assets/fonts
 
 publish:
-  provider: queue           # upload_post | queue (queue = renderiza y deja listo; cambiar a upload_post al conectar la API)
+  provider: upload_post     # upload_post | queue (queue = renderiza y deja listo, no publica)
   api_base: https://api.upload-post.com
   api_key_env: UPLOAD_POST_API_KEY   # si no existe, el proxy de la sesión inyecta la clave
   profiles:                 # nombre del "user/profile" en Upload-Post
-    ES: gta6_es
-    EN: gta6_en
+    ES: GTA6_ES
+    EN: default        # en Upload-Post las cuentas EN quedaron en el perfil 'default'
   platforms: [tiktok, instagram, youtube]
   daily_caps:               # máximo por cuenta y día (cuentas nuevas: no pasarse)
     tiktok: 15
     instagram: 25
     youtube: 40
-  min_gap_minutes: 20       # separación mínima entre posts de la misma cuenta
+  min_gap_minutes: 20
+  max_backlog_hours: 36     # redes conectadas tarde no reciben clips más viejos que esto       # separación mínima entre posts de la misma cuenta
   tiktok_privacy: PUBLIC_TO_EVERYONE
 
 spoiler:

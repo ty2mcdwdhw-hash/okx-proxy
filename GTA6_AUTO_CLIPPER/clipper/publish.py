@@ -107,6 +107,25 @@ def _upload(file: Path, fields: dict, cfg: dict, idem: str) -> dict:
     return body
 
 
+_CONNECTED: dict[str, set] = {}
+
+
+def connected_platforms(profile: str, cfg: dict) -> set:
+    """Platforms actually connected to an Upload-Post profile (cached per run)."""
+    if profile not in _CONNECTED:
+        p = cfg["publish"]
+        key = os.environ.get(p["api_key_env"], "proxy-injected")
+        try:
+            r = requests.get(f"{p['api_base']}/api/uploadposts/users",
+                             headers={"Authorization": f"Apikey {key}"}, timeout=30)
+            for prof in r.json().get("profiles", []):
+                _CONNECTED[prof.get("username")] = {k for k, v in (prof.get("social_accounts") or {}).items() if v}
+        except Exception as ex:
+            print(f"[publish] no pude leer perfiles: {ex}")
+        _CONNECTED.setdefault(profile, set())
+    return _CONNECTED[profile]
+
+
 def publish_all(dry: bool = False) -> list[str]:
     cfg = settings()
     p = cfg["publish"]
@@ -125,6 +144,13 @@ def publish_all(dry: bool = False) -> list[str]:
             todo = [pl for pl in p["platforms"] if not con.execute(
                 "SELECT 1 FROM posts WHERE clip_id=? AND lang=? AND platform=? AND status IN ('sent','scheduled','queued')",
                 (row["id"], lang, pl)).fetchone()]
+            if not (dry or row["test"]):
+                todo = [pl for pl in todo if pl in connected_platforms(profile, cfg)]
+                age_h = (now_utc() - dt.datetime.strptime(row["discovered_at"], "%Y-%m-%dT%H:%M:%SZ")
+                         .replace(tzinfo=dt.timezone.utc)).total_seconds() / 3600
+                already = con.execute("SELECT 1 FROM posts WHERE clip_id=? AND lang=?", (row["id"], lang)).fetchone()
+                if already and age_h > p.get("max_backlog_hours", 36):
+                    todo = []
             if not todo:
                 continue
             slot = _next_slot(con, profile, todo, cfg)
@@ -149,8 +175,8 @@ def publish_all(dry: bool = False) -> list[str]:
             con.commit()
             _log(row, dec, lang, todo, status, slot, resp)
             print(f"[publish] {row['id']} {lang} {todo} -> {status}{' @' + iso(slot) if slot else ''}")
-        if all(r["status"] in ("sent", "scheduled", "queued") for r in
-               con.execute("SELECT status FROM posts WHERE clip_id=?", (row["id"],)).fetchall()):
+        sts = [r["status"] for r in con.execute("SELECT status FROM posts WHERE clip_id=?", (row["id"],)).fetchall()]
+        if sts and all(s_ in ("sent", "scheduled", "queued") for s_ in sts) and len(sts) >= 2 * len(p["platforms"]):
             set_status(con, row["id"], "published")
             done.append(row["id"])
     return done
