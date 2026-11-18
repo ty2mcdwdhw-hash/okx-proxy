@@ -49,9 +49,12 @@ def cmd_cards():
         d = json.loads(f.read_text())
         dur = d["trim"][1] - d["trim"][0]
         print(f"`{r['id']}` | `{(r['lang'] or '?').upper()} -> ES/EN` | `{d.get('pillar', '')}` | `{dur:.0f}s` | "
-              f"`Nivel Spoiler: 0% (Verificado)` | estado: {r['status']}")
+              f"`🛡️ Escudo operador: OK` | estado: {r['status']}")
         for lang in ("ES", "EN"):
-            print(f"    [{lang}] {d['copy'][lang]['caption'].splitlines()[0]}")
+            if d.get("story", True) and not d.get("operator_safe", False):
+                print(f"    [{lang}] 🔒 copy oculto (puede contener historia)")
+            else:
+                print(f"    [{lang}] {d['copy'][lang]['caption'].splitlines()[0]}")
 
 
 def cmd_purge():

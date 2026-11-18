@@ -67,41 +67,7 @@ publish:
   tiktok_privacy: PUBLIC_TO_EVERYONE
 
 spoiler:
-  # Rechazo automático si el título del clip contiene alguno de estos términos
-  title_blocklist:
-    - spoiler
-    - ending
-    - final
-    - finale
-    - cutscene
-    - cinematic
-    - mission
-    - misión
-    - mision
-    - story
-    - historia
-    - boss
-    - dies
-    - death
-    - muere
-    - muerte
-    - plot
-    - twist
-    - credits
-    - créditos
-    - ネタバレ
-    - エンディング
-    - ラスト
-    - 스포
-    - 엔딩
-    - спойлер
-    - концовка
-    - финал
-    - сюжет
-    - história
-    - fim
-    - ende
-    - handlung
-    - fin du jeu
-  # Barras negras (letterbox) = probable cinemática -> rechazo
-  letterbox_reject: true
+  # El escudo anti-spoiler es para el OPERADOR, no para los clips: los clips pueden tener historia.
+  # Aquí solo quedan filtros de seguridad de plataforma (por título).
+  title_blocklist: [nude, naked, desnudo, desnuda, nsfw, strip club, stripclub, стрипуха, стрип]
+  letterbox_reject: false

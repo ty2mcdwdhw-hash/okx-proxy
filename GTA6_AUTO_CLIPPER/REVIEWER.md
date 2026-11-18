@@ -1,51 +1,29 @@
-# Protocolo del revisor (Claude): escudo anti-spoilers
+# Protocolo del revisor (Claude)
 
-El operador humano **no ve** videos, imágenes ni detalles de historia. El único que mira los
-fotogramas es el revisor (Claude), y nunca los muestra en el chat.
+## Escudo anti-spoiler = protección del OPERADOR (no de los clips)
+- Los clips **sí pueden** incluir historia, cinemáticas, misiones y personajes. Es contenido válido y suele ser el más viral.
+- El operador **nunca** debe ver ni leer nada del juego: en el chat no se muestran fotogramas, videos de GTA VI, ni descripciones, títulos, hooks o captions que cuenten algo de la historia.
+- Lo que sí se le muestra: conteos y fichas `ID | idioma -> ES/EN | pilar | duración | estado`. El copy solo se muestra si `operator_safe: true` (clip sin nada de historia); si no, aparece "🔒 copy oculto".
+- No uses nombres de personajes, misiones ni giros en los mensajes al operador, ni siquiera en resúmenes o motivos de rechazo (usa motivos genéricos).
 
-## Entrada
-`python -m clipper pending` lista los paquetes de `state/review/<ID>/`:
-- `packet.md`: metadatos + transcripción con tiempos
-- `contact.jpg`: 8 fotogramas del clip (solo para el revisor)
-- `transcript.json`
+## Rechazo (seguridad de plataforma y calidad)
+1. Desnudos, contenido sexual explícito (clubs/lapdances), violencia gráfica extrema.
+2. Consumo explícito de drogas como foco del clip.
+3. Contenido que no es GTA VI, clips sin momento claro, duplicados de temas ya publicados.
+4. Música con copyright como protagonista.
+5. Insultos discriminatorios del streamer como foco del clip.
 
-## Reglas de rechazo (cualquiera = `reject`)
-1. Cinemáticas, escenas con barras negras, diálogos de misión, cartel de misión, créditos.
-2. Muertes de personajes de la historia, finales, giros de trama, nombres de misiones.
-3. Contenido que no es GTA (IRL, otros juegos, deportes, transmisiones de TV de terceros).
-4. Desnudos, violencia gráfica extrema, contenido sexual, apuestas o casinos.
-5. Música con copyright claramente audible como protagonista.
-6. Sin valor sistémico: el clip no muestra físicas, conducción, clima, mapa, gráficos, NPCs, bugs ni mecánicas.
-
-Ante la duda: `reject`. `spoiler_level` debe ser `0` para publicar.
+## Selección
+- Prioriza por vistas y por momento: reacciones fuertes, momentos épicos/graciosos, física, conducción, mapa, NPCs, y también momentos de historia potentes.
+- Respeta topes diarios de TikTok (15/cuenta): elige lo mejor.
 
 ## Salida: `state/decisions/<ID>.json`
 ```json
-{
-  "id": "TW_123",
-  "verdict": "approve",
-  "spoiler_level": 0,
-  "reason": "Conducción en autopista, sin historia",
-  "pillar": "Físicas y Gameplay",
-  "trim": [2.0, 24.5],
-  "hook": {"ES": "...", "EN": "..."},
-  "subs": [{"start": 3.1, "end": 5.0, "ES": "...", "EN": "..."}],
-  "copy": {
-    "ES": {"title": "...", "caption": "...", "hashtags": ["GTA6", "GTAVI", "GTAVIClips"]},
-    "EN": {"title": "...", "caption": "...", "hashtags": ["GTA6", "GTAVI", "GTAVIClips"]}
-  }
-}
+{"id": "TW_123", "verdict": "approve", "spoiler_level": 0, "story": true, "operator_safe": false,
+ "reason": "genérico, sin trama", "pillar": "Historia / Reacciones", "trim": [2.0, 24.5],
+ "hook": {"ES": "...", "EN": "..."}, "subs": [{"start": 3.1, "end": 5.0, "ES": "...", "EN": "..."}],
+ "copy": {"ES": {"title": "...", "caption": "...", "hashtags": ["GTA6"]}, "EN": {"title": "...", "caption": "...", "hashtags": ["GTA6"]}}}
 ```
-- Los tiempos de `subs` son del clip original (no recortado). `render` los desplaza.
-- Los subtítulos son localización gamer, no traducción literal: *wanted level, handling, spawn, glitch*.
-- Censura las groserías fuertes en los subtítulos.
-- No asumas el género del streamer: en EN evita he/his/she/her (usa the/their o reescribe la frase).
-- `trim`: entre 7 y 30 s (55 s si es HOW TO). Cortar silencios iniciales y terminar en el remate.
-- Pilares: Noticias Oficiales · Trucos y Mecánicas · Físicas y Gameplay · Comparativas GTA 5 vs 6 · Spotlights · Recap Diario · Preguntas a la Comunidad.
-
-## Ciclo
-```bash
-python -m clipper cycle      # aplica decisiones, renderiza, publica, descubre y procesa lo nuevo
-python -m clipper pending    # -> el revisor escribe decisiones
-python -m clipper cycle
-```
+- `spoiler_level` se mantiene en 0 por compatibilidad (el filtro de publicación lo exige); ya no mide historia.
+- Los tiempos de `subs` son del clip original. Localización gamer, groserías fuertes censuradas, pronombres neutros en EN.
+- `trim`: 7-30 s (55 s si es HOW TO).
