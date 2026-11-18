@@ -64,3 +64,7 @@
 - 2026-11-18T14:56:11Z | `TW_TubularHyperTroutKlappa-XScekgj_-dJ7hmah_EN` | Noticias / Lanzamiento | youtube | scheduled @2026-11-18T21:55:32Z | 🎥 @paulinholokobr (pt->EN) | Spoiler: 0% (Verificado)
 - 2026-11-18T14:56:12Z | `TW_LitigiousReliableAirGuitar4Head-uj3RDZ074Y6rMFu2_ES` | Momentos divertidos / Lanzamiento | youtube | scheduled @2026-11-18T22:25:30Z | 🎥 @vicens (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-18T14:56:13Z | `TW_LitigiousReliableAirGuitar4Head-uj3RDZ074Y6rMFu2_EN` | Momentos divertidos / Lanzamiento | youtube | scheduled @2026-11-18T22:25:32Z | 🎥 @vicens (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T15:26:42Z | `TW_WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke_ES` | Reacciones / Historia | tiktok,youtube | scheduled @2026-11-19T12:16:17Z | 🎥 @xqc (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T15:26:48Z | `TW_WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke_EN` | Reacciones / Historia | tiktok,instagram,youtube | scheduled @2026-11-19T12:16:18Z | 🎥 @xqc (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T15:26:50Z | `TW_CarelessOptimisticSquirrelWutFace-Tw3lE4vxdFwPnq5L_ES` | Físicas y Gameplay (Conducción) | tiktok,youtube | scheduled @2026-11-19T12:46:17Z | 🎥 @a541021 (zh->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T15:26:54Z | `TW_CarelessOptimisticSquirrelWutFace-Tw3lE4vxdFwPnq5L_EN` | Físicas y Gameplay (Conducción) | tiktok,instagram,youtube | scheduled @2026-11-19T12:46:18Z | 🎥 @a541021 (zh->EN) | Spoiler: 0% (Verificado)
