@@ -7,6 +7,14 @@
 # NOTA: YouTube bloquea descargas desde la nube -> settings.discovery.youtube_enabled
 
 groups:
+  # Anuncios confirmados en prensa (18/11). announced: true
+  confirmed_launch:
+    - {name: alanzoka, platform: twitch, handle: alanzoka, lang: pt, phase: 1, announced: true}   # stream el 18 usando horario de NZ
+    - {name: Michou, platform: twitch, handle: michou, lang: fr, phase: 2, announced: true}       # maratón desde el miércoles 12:00
+    - {name: Samuel Etienne, platform: twitch, handle: samueletienne, lang: fr, phase: 2, announced: true}  # estreno jueves 12:30
+    - {name: Ludwig, platform: twitch, handle: ludwig, lang: en, phase: 3, announced: true}       # stream sin parar
+    - {name: Lacy, platform: twitch, handle: lacy, lang: en, phase: 3, announced: true}           # maratón desde una mansión en Miami
+    - {name: DDG, platform: twitch, handle: ddg, lang: en, phase: 3, announced: true}             # maratón (plataforma no clara)
   official:
     - {name: Rockstar Games, platform: youtube, handle: "@RockstarGames", lang: en, phase: 0}
     - {name: YouTube 24h GTA VI stream, platform: youtube, handle: "@YouTube", lang: en, phase: 3}
@@ -38,7 +46,7 @@ groups:
     - {name: TheGrefg, platform: twitch, handle: thegrefg, lang: es, phase: 2}
 
   launch_americas:
-    - {name: Kai Cenat, platform: twitch, handle: kaicenat, lang: en, phase: 3}
+    - {name: Kai Cenat, platform: twitch, handle: kaicenat, lang: en, phase: 3, announced: true}   # partida completa desde 20:00 ET del 18/11
     - {name: xQc, platform: twitch, handle: xqc, lang: en, phase: 3}
     - {name: summit1g, platform: twitch, handle: summit1g, lang: en, phase: 3}
     - {name: Asmongold, platform: twitch, handle: zackrawrr, lang: en, phase: 3}
