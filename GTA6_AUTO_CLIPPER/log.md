@@ -28,3 +28,7 @@
 - 2026-11-18T13:43:54Z | `TW_ComfortableLachrymosePeppermintDendiFace-Aui_95KVt5WTgUSb_EN` | Autos y tuning / Mecánicas | tiktok,instagram | scheduled @2026-11-18T15:46:18Z | 🎥 @theburntpeanut (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-18T13:44:01Z | `TW_ManlyProudPidgeonBloodTrail-PjN9TVhQ1zqg3GPr_ES` | NPCs / Físicas y Gameplay | tiktok | scheduled @2026-11-18T16:06:17Z | 🎥 @jasontheween (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-18T13:44:11Z | `TW_ManlyProudPidgeonBloodTrail-PjN9TVhQ1zqg3GPr_EN` | NPCs / Físicas y Gameplay | tiktok,instagram | scheduled @2026-11-18T16:06:18Z | 🎥 @jasontheween (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T14:37:02Z | `TW_MagnificentAbrasiveCroissantFrankerZ-IU7QBvJBbiibVAjc_ES` | Físicas y Gameplay (Agua) | tiktok | scheduled @2026-11-18T16:26:17Z | 🎥 @alanzoka (pt->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T14:37:07Z | `TW_MagnificentAbrasiveCroissantFrankerZ-IU7QBvJBbiibVAjc_EN` | Físicas y Gameplay (Agua) | tiktok,instagram | scheduled @2026-11-18T16:26:18Z | 🎥 @alanzoka (pt->EN) | Spoiler: 0% (Verificado)
+- 2026-11-18T14:37:10Z | `TW_FreezingImportantEggplantAllenHuhu-w0aY-0DtF1BnbRAH_ES` | Mapa / Exploración | tiktok | scheduled @2026-11-19T11:46:17Z | 🎥 @typicalgamer (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-18T14:37:16Z | `TW_FreezingImportantEggplantAllenHuhu-w0aY-0DtF1BnbRAH_EN` | Mapa / Exploración | tiktok,instagram | scheduled @2026-11-19T11:46:18Z | 🎥 @typicalgamer (en->EN) | Spoiler: 0% (Verificado)
