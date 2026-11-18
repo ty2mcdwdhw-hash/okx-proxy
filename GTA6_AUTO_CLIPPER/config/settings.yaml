@@ -34,12 +34,12 @@ focus:                      # bombardeo por regiones (hora de Lima). Prioriza id
     from: "2026-11-18T18:00"
     to: "2026-11-18T23:59"
     langs: [de, fr, es, ru, it, pl, tr, ar, pt, nl, cs, uk, hu, sv]
-    live_top_per_lang: {de: 10, fr: 10, es: 10, ru: 8, it: 6, pl: 6, tr: 5, ar: 5, pt: 5, nl: 4, other: 3}
+    live_top_per_lang: {de: 10, fr: 10, es: 20, ru: 8, it: 6, pl: 6, tr: 5, ar: 5, pt: 5, nl: 4, other: 3}
   - name: america
     from: "2026-11-19T00:00"
     to: "2026-11-19T12:00"
     langs: [en, es, pt]
-    live_top_per_lang: {en: 15, es: 12, pt: 8, other: 2}
+    live_top_per_lang: {es: 25, en: 15, pt: 8, other: 2}
 
 clip:
   min_seconds: 7

@@ -10,7 +10,9 @@ Lee primero REVIEWER.md y config/settings.yaml (bloque `focus`) y sigue esas reg
 3. Rechaza por seguridad (desnudos, contenido sexual/club, violencia extrema o contra ancianos/animales,
    drogas como foco, insultos discriminatorios) o calidad (no es GTA VI, duplicado de temas ya publicados,
    sin momento claro). La historia SÍ está permitida.
-4. Aprueba entre 2 y {MAX} clips, los mejores, priorizando el foco. Escribe state/decisions/<ID>.json con el
+4. Aprueba entre 2 y {MAX} clips, los mejores, priorizando el foco. En las ventanas de Europa y América,
+   a igual calidad prefiere clips de streamers hispanohablantes (lang es) con buena audiencia: el público
+   principal es de habla hispana. Escribe state/decisions/<ID>.json con el
    esquema de REVIEWER.md: trim 7-30 s, hook ES/EN, subs con tiempos del clip original (localización gamer,
    groserías fuertes censuradas, pronombres neutros en EN), copy ES/EN con hashtags
    [GTA6, GTAVI, GTAVIClips + 1 temático]. Marca "story": true/false y "operator_safe" (true solo si el clip
