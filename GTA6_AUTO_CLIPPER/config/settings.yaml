@@ -16,6 +16,13 @@ discovery:
   youtube_peaks_per_vod: 5  # picos de "más repetido" por VOD
   youtube_segment: [-18, 14]  # segundos alrededor del pico
 
+twitch_api:                 # API oficial de Twitch (token inyectado por la sesión)
+  client_id: 38r2gm3jnmp23utoi8g4ewh62mbc7j
+  game_id: 1867279146         # Grand Theft Auto VI
+  live_pages: 3               # hasta 300 streams en vivo revisados por ciclo
+  live_min_viewers: 500
+  live_top_per_lang: {en: 12, es: 10, pt: 6, de: 5, fr: 5, ru: 5, ja: 5, it: 3, other: 3}
+
 clip:
   min_seconds: 7
   max_seconds: 30

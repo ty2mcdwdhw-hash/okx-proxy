@@ -93,6 +93,41 @@ def clip_channel(creator: dict, cfg: dict, con) -> list[str]:
     return new
 
 
+def _cutoff_ts(cfg: dict) -> float:
+    d = cfg["discovery"]
+    cutoff = (now_utc() - dt.timedelta(hours=d["lookback_hours"])).timestamp()
+    if d.get("not_before"):
+        nb = dt.datetime.strptime(d["not_before"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc)
+        cutoff = max(cutoff, nb.timestamp())
+    return cutoff
+
+
+def twitch_helix(creator: dict, cfg: dict, con, broadcaster_id: str) -> list[str]:
+    """Twitch via the official API: exact game per clip, so off-topic clips never get downloaded."""
+    from . import twitch_api
+    d = cfg["discovery"]
+    since = iso(dt.datetime.fromtimestamp(_cutoff_ts(cfg), dt.timezone.utc))
+    game = str(cfg["twitch_api"]["game_id"])
+    taken = con.execute("SELECT COUNT(*) FROM clips WHERE creator_handle=? AND status!='rejected'",
+                        (creator["handle"],)).fetchone()[0]
+    new = []
+    for c in sorted(twitch_api.clips(cfg, broadcaster_id, since, 50), key=lambda c: c["view_count"], reverse=True):
+        if taken + len(new) >= d["per_creator_max"]:
+            break
+        if str(c.get("game_id")) != game or c["view_count"] < d["min_views"]:
+            continue
+        row = dict(id=f"TW_{c['id']}"[:80], source="twitch_clip", url=c["url"], creator=creator["name"],
+                   creator_handle=creator["handle"], platform="twitch",
+                   lang=(c.get("language") or creator["lang"])[:2].lower(), title=c.get("title"),
+                   views=c["view_count"], duration=c.get("duration"), created_at=c.get("created_at"))
+        hit = blocked_title(row["title"], cfg)
+        if hit:
+            row.update(status="rejected", reason=f"title blocklist: {hit}")
+        if _insert(con, row) and not hit:
+            new.append(row["id"])
+    return new
+
+
 def _heat_peaks(heatmap: list[dict], k: int, min_sep: float) -> list[float]:
     pts = sorted(heatmap or [], key=lambda h: h.get("value", 0), reverse=True)
     peaks: list[float] = []
@@ -189,7 +224,29 @@ def discover(only_group: str | None = None, only_handle: str | None = None) -> l
     cfg = settings()
     con = db()
     found = []
-    for c in watchlist():
+    creators = watchlist()
+    helix = False
+    ids: dict[str, str] = {}
+    try:
+        from . import twitch_api
+        helix = twitch_api.enabled(cfg)
+        if helix:
+            known = {c["handle"].lower() for c in creators if c["platform"] == "twitch"}
+            if not (only_group or only_handle):
+                live = twitch_api.live_channels(cfg)
+                top = ", ".join(f"{x['login']}:{x['lang']}:{x['viewers']}" for x in live[:12])
+                print(f"[discover] Twitch en vivo con GTA VI: {len(live)} canales seleccionados ({top})")
+                for s_ in live:
+                    if s_["login"].lower() not in known:
+                        creators.append({"name": s_["name"], "platform": "twitch", "handle": s_["login"],
+                                         "lang": s_["lang"], "group": "live_ranking"})
+                        ids[s_["login"]] = s_["id"]
+            missing = [c["handle"] for c in creators if c["platform"] == "twitch" and c["handle"] not in ids]
+            ids.update(twitch_api.user_ids(cfg, missing))
+    except Exception as ex:
+        print(f"[discover] Twitch API no disponible ({str(ex)[:150]}); uso yt-dlp")
+        helix = False
+    for c in creators:
         if only_group and c["group"] != only_group:
             continue
         if only_handle and c["handle"].lstrip("@").lower() != only_handle.lstrip("@").lower():
@@ -197,8 +254,13 @@ def discover(only_group: str | None = None, only_handle: str | None = None) -> l
         if c["platform"] == "youtube" and not cfg["discovery"].get("youtube_enabled", True):
             continue
         try:
-            fn = youtube if c["platform"] == "youtube" else clip_channel
-            got = fn(c, cfg, con)
+            if c["platform"] == "twitch" and helix and not c.get("test"):
+                if c["handle"] not in ids:
+                    continue
+                got = twitch_helix(c, cfg, con, ids[c["handle"]])
+            else:
+                fn = youtube if c["platform"] == "youtube" else clip_channel
+                got = fn(c, cfg, con)
             print(f"[discover] {c['name']:<32} +{len(got)}")
             found += got
         except Exception as ex:  # keep going on one bad channel
