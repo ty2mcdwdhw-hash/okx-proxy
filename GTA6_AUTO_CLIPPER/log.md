@@ -277,3 +277,7 @@
 - 2026-11-19T00:27:20Z | `LOCAL_grefg_03555_ES` | Físicas y Gameplay (Agua) | instagram | scheduled @2026-11-19T12:26:27Z | 🎥 @TheGrefg (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T00:27:36Z | `TW_DiligentBumblingBaconKlappa-whzsnIIWPJDxTdud_ES` | Momentos divertidos / Viral | tiktok | scheduled @2026-11-19T11:56:17Z | 🎥 @illojuan (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T00:27:38Z | `TW_DiligentBumblingBaconKlappa-whzsnIIWPJDxTdud_EN` | Momentos divertidos / Viral | tiktok | scheduled @2026-11-19T11:56:18Z | 🎥 @illojuan (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T00:49:38Z | `TW_RockyObliviousBorkSaltBae-yL2LZw7W7dIGsuhZ_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-19T06:26:18Z | 🎥 @rubius (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T00:49:40Z | `TW_GoldenSmallSnoodDoritosChip-x0DvrHfiQKRc6GNe_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-19T06:56:18Z | 🎥 @folagorlives (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T00:49:43Z | `TW_BadBoldWeaselBabyRage-tbhs_f-k40WXDdwM_EN` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-19T07:26:18Z | 🎥 @alanzoka (pt->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T00:49:47Z | `TW_ZanyTangibleMelonRiPepperonis-PazCjZFUrS2aCjDO_EN` | Historia / Reacciones | instagram | scheduled @2026-11-19T07:56:18Z | 🎥 @djmariio (es->EN) | Spoiler: 0% (Verificado)
