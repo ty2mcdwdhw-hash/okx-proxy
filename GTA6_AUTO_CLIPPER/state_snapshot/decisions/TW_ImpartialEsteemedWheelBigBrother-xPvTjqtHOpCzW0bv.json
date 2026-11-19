@@ -1,0 +1,108 @@
+{
+ "id": "TW_ImpartialEsteemedWheelBigBrother-xPvTjqtHOpCzW0bv",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "física absurda con fauna, reacción fuerte, tema nuevo",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.5,
+  22.0
+ ],
+ "hook": {
+  "ES": "Lo atacó un cocodrilo en GTA 6… y se vengó a lo GRANDE 🐊🚁",
+  "EN": "A gator attacked them in GTA 6… so they got EPIC revenge 🐊🚁"
+ },
+ "subs": [
+  {
+   "start": 0.99,
+   "end": 2.5,
+   "ES": "¡Aaah! ¡[[Hijo de puta]]!",
+   "EN": "Aaah! [[Son of a b*tch]]!"
+  },
+  {
+   "start": 6.83,
+   "end": 8.1,
+   "ES": "¡Mira, me atacan los cocodrilos!",
+   "EN": "Look, the gators are attacking me!"
+  },
+  {
+   "start": 9.97,
+   "end": 11.0,
+   "ES": "¡Te vas a [[cagar]]!",
+   "EN": "You're gonna [[sh*t]] yourself!"
+  },
+  {
+   "start": 13.5,
+   "end": 17.5,
+   "ES": "🐊🚁 Cocodrilo-helicóptero",
+   "EN": "🐊🚁 Gator-copter"
+  },
+  {
+   "start": 18.66,
+   "end": 19.4,
+   "ES": "¡No [[mames]]!",
+   "EN": "No [[f*cking]] way!"
+  }
+ ],
+ "bleep": [
+  [
+   1.65,
+   2.53
+  ],
+  [
+   10.53,
+   10.95
+  ],
+  [
+   18.66,
+   19.28
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.87,
+    0.4,
+    0.12
+   ],
+   "start": 0.5,
+   "end": 22.0
+  },
+  {
+   "box": [
+    0.83,
+    0.58,
+    0.17,
+    0.22
+   ],
+   "start": 0.5,
+   "end": 22.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El cocodrilo volador de GTA 6",
+   "caption": "Un cocodrilo lo atacó… y la física de GTA 6 hizo el resto 🐊🚁😂 ¿Qué habrías hecho tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "The flying gator of GTA 6",
+   "caption": "A gator jumped them… and GTA 6 physics did the rest 🐊🚁😂 What would you have done?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

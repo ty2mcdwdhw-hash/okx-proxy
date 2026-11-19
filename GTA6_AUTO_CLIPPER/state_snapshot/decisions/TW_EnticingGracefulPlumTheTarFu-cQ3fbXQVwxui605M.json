@@ -1,0 +1,60 @@
+{
+ "id": "TW_EnticingGracefulPlumTheTarFu-cQ3fbXQVwxui605M",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "huida y salto en paracaídas sobre la ciudad de noche",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  9.0,
+  21.8
+ ],
+ "hook": {
+  "ES": "Acorralada por la policía en la azotea… y saltó en paracaídas 🪂🌃",
+  "EN": "Cornered by the cops on the rooftop… so they BASE jumped 🪂🌃"
+ },
+ "subs": [
+  {
+   "start": 11.08,
+   "end": 12.3,
+   "ES": "¡No me queda otra!",
+   "EN": "I've got no choice!"
+  },
+  {
+   "start": 12.44,
+   "end": 12.9,
+   "ES": "¡Me largo!",
+   "EN": "I'm out!"
+  },
+  {
+   "start": 13.02,
+   "end": 14.3,
+   "ES": "¡Aaah! ¡Tengo paracaídas!",
+   "EN": "Aaah! I've got a parachute!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Salto en paracaídas en GTA 6",
+   "caption": "4 estrellas, sin salida… y la mejor escapatoria fue saltar de la azotea 🪂 Las vistas de noche de GTA 6 son otra cosa 🌃 ¿Lo intentarías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Paracaidas"
+   ]
+  },
+  "EN": {
+   "title": "Parachute escape in GTA 6",
+   "caption": "4 stars, no way out… so the best escape was jumping off the roof 🪂 GTA 6 at night hits different 🌃 Would you try it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Parachute"
+   ]
+  }
+ }
+}
