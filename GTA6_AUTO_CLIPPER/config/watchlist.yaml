@@ -15,7 +15,8 @@ groups:
     - {name: Ludwig, platform: twitch, handle: ludwig, lang: en, phase: 3, announced: true}       # stream sin parar
     - {name: Lacy, platform: twitch, handle: lacy, lang: en, phase: 3, announced: true}           # maratón desde una mansión en Miami
     - {name: DDG, platform: twitch, handle: ddg, lang: en, phase: 3, announced: true}             # maratón (plataforma no clara)
-  streams_charts_18nov:      # investigación del operador (Streams Charts y anuncios, 18/11)
+  streams_charts_18nov:
+    - {name: RDJavi, platform: kick, handle: rdjavi, lang: es, phase: 3, announced: true}   # en vivo en Kick (operador, 18/11)      # investigación del operador (Streams Charts y anuncios, 18/11)
     - {name: DDG (Kick), platform: kick, handle: ddg, lang: en, phase: 3, announced: true}   # maratón en Kick
     - {name: Sasel, platform: twitch, handle: sasel, lang: pt, phase: 1, announced: true}   # adelanto NZ
     - {name: DavyJones, platform: twitch, handle: davyjones, lang: pt, phase: 1, announced: true}   # adelanto NZ
