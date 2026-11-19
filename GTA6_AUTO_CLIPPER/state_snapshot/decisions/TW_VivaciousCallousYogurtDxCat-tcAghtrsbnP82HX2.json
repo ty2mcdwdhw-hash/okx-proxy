@@ -1,0 +1,89 @@
+{
+ "id": "TW_VivaciousCallousYogurtDxCat-tcAghtrsbnP82HX2",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "opinión tras 24 h de directo, sin detalles de trama",
+ "pillar": "Noticias / Lanzamiento",
+ "trim": [
+  4.3,
+  33.6
+ ],
+ "hook": {
+  "ES": "xQc tras 24 h de GTA 6: ¿cine o 30 FPS? 🎬",
+  "EN": "xQc after 24h of GTA 6: cinema or 30 FPS? 🎬"
+ },
+ "subs": [
+  {
+   "start": 4.4,
+   "end": 6.9,
+   "ES": "La historia es buena, avanza a buen ritmo",
+   "EN": "The story is good, it's moving at a good pace"
+  },
+  {
+   "start": 7.6,
+   "end": 11.0,
+   "ES": "y el mundo es inmersivo.",
+   "EN": "and the world is immersive."
+  },
+  {
+   "start": 11.3,
+   "end": 15.2,
+   "ES": "No me metí del todo porque me dolían los ojos",
+   "EN": "I couldn't get fully immersed, it was hurting my eyes"
+  },
+  {
+   "start": 15.3,
+   "end": 17.9,
+   "ES": "al mirar el césped y el suelo.",
+   "EN": "to look at the grass and the ground."
+  },
+  {
+   "start": 18.1,
+   "end": 21.0,
+   "ES": "Odiaba mirar alrededor mientras manejaba",
+   "EN": "I kinda hated looking around while driving"
+  },
+  {
+   "start": 21.1,
+   "end": 25.1,
+   "ES": "porque me daba dolor de cabeza por los FPS. Muy mal.",
+   "EN": "because the frame rate gave me a headache. It's so bad."
+  },
+  {
+   "start": 25.2,
+   "end": 31.2,
+   "ES": "Que baje de 30 FPS a 20 y pico es una locura.",
+   "EN": "Dropping from 30 FPS into the 20s is crazy."
+  },
+  {
+   "start": 31.6,
+   "end": 33.6,
+   "ES": "¡No se ve nada!",
+   "EN": "You can't see anything!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "xQc opina de GTA 6 tras 24 horas",
+   "caption": "Después de 24 horas jugando: le encanta… pero los FPS no 😵 ¿Tú lo notas? Te leo 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "xQc"
+   ]
+  },
+  "EN": {
+   "title": "xQc's verdict on GTA 6 after 24 hours",
+   "caption": "After a 24-hour stream: loves it… but not the frame rate 😵 Do you notice it? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "xQc"
+   ]
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "TW_ResoluteArborealCocoaSoBayed-CVrhIVa_N_PHJQRM",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "enfrentamiento con la policía en el agua, sin historia",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  3.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "6 estrellas… y se plantó en medio del mar 🌊🚁",
+  "EN": "6 stars… and they made a stand in the middle of the sea 🌊🚁"
+ },
+ "subs": [],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.0,
+    0.34,
+    0.1
+   ],
+   "start": 3.0,
+   "end": 30.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "6 estrellas en medio del agua en GTA 6",
+   "caption": "Helicóptero, lancha del sheriff y él aguantando en el agua bajo el puente 😂 ¿Cuánto duras tú con 6 estrellas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "6-star standoff in the water in GTA 6",
+   "caption": "Chopper, sheriff boat and they just hold their ground under the bridge 😂 How long would you last at 6 stars?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}
