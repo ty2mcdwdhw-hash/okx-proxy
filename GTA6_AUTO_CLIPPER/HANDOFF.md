@@ -29,3 +29,12 @@ Crear con CronCreate (`13,43 * * * *`) el mensaje de ciclo de abajo. Si el servi
 - Clip viral de IlloJuan (borró el juego): ya programado con prioridad en las 6 cuentas (IG enviado; YouTube 03:10 y TikTok 06:56 Lima del 19/11).
 - Día 2 = día de mejora: informe de métricas (scoreboard.csv, vistas 12/24/72 h) y segunda cuenta de TikTok por idioma si el operador la crea (repartir clips entre perfiles).
 - Revisar si TikTok marca 0 vistas (alcance limitado en cuentas nuevas) cuando haya métricas de 24 h.
+
+## Piloto automático (desde 18/11 23:43 Lima)
+- La máquina de la sesión se reinicia sola cada pocas horas: mata procesos y borra los CronCreate (los archivos quedan).
+- `scripts/autopilot.sh` hace el ciclo completo cada 30 min (:13/:43): `clipper cycle` → revisión con un Claude aislado
+  (`claude -p` con entorno mínimo, no aparece en el chat del operador) → decide/render/publish → commit/push.
+  Log resumido sin spoilers: `state/autopilot.log`. Pausar: `touch state/autopilot.pause`. Apagar: `touch state/autopilot.disabled` y matar el pid.
+- `/root/.claude/settings.json` tiene hooks SessionStart y UserPromptSubmit que ejecutan `scripts/autopilot_ensure.sh`:
+  tras un reinicio, el piloto vuelve a arrancar en cuanto la sesión arranca o recibe un mensaje.
+- El CronCreate de la conversación es solo un reporte horario (:57); no ejecuta ciclos.
