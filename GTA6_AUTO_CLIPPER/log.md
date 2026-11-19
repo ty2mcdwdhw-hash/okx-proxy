@@ -426,3 +426,7 @@
 - 2026-11-19T17:08:39Z | `TW_NurturingUnsightlyBeanANELE-UM63nuXGcIq0uB39_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-20T04:56:18Z | 🎥 @loserfruit (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T17:08:45Z | `TW_HungryComfortableBibimbapVoteYea-UIZM6RDVhUv1esAe_ES` | NPCs / Detalles | instagram | scheduled @2026-11-20T05:06:27Z | 🎥 @auronplay (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T17:47:42Z | `TW_TawdryInnocentSageTBTacoLeft-lMytfzSwH3uA1Zk7_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-20T05:26:18Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T18:41:49Z | `TW_ComfortableAbrasivePorcupineFeelsBadMan-X3ohcHkHial_C1wL_ES` | Momentos divertidos / Viral | instagram | scheduled @2026-11-20T06:06:27Z | 🎥 @tototmix (ja->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T18:41:53Z | `TW_ComfortableAbrasivePorcupineFeelsBadMan-X3ohcHkHial_C1wL_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-20T05:56:18Z | 🎥 @tototmix (ja->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T18:41:56Z | `TW_PlumpBlitheYakPJSalt-LAIoKJILpVUkpcCX_ES` | NPCs / Detalles | instagram | scheduled @2026-11-20T06:36:27Z | 🎥 @kr1stw (zh->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T18:42:00Z | `TW_PlumpBlitheYakPJSalt-LAIoKJILpVUkpcCX_EN` | NPCs / Detalles | instagram | scheduled @2026-11-20T06:26:18Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)

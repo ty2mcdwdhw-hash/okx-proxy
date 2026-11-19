@@ -1,0 +1,90 @@
+{
+ "id": "TW_ComfortableAbrasivePorcupineFeelsBadMan-X3ohcHkHial_C1wL",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "reacción + choque claro",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "Solo quería mirar por el retrovisor en GTA 6… 💀🚗",
+  "EN": "They just wanted to check the rear-view mirror in GTA 6… 💀🚗"
+ },
+ "subs": [
+  {
+   "start": 3.42,
+   "end": 4.2,
+   "ES": "¡Espera, espera!",
+   "EN": "Wait, wait!"
+  },
+  {
+   "start": 4.2,
+   "end": 7.61,
+   "ES": "¿¡Queeeé!?",
+   "EN": "Whaaat!?"
+  },
+  {
+   "start": 11.94,
+   "end": 13.04,
+   "ES": "¿Por qué me morí?",
+   "EN": "Why did I die?"
+  },
+  {
+   "start": 15.62,
+   "end": 17.45,
+   "ES": "¿Qué me acaba de pasar?",
+   "EN": "What just happened to me?"
+  },
+  {
+   "start": 17.51,
+   "end": 23.97,
+   "ES": "Solo quería mirar por el retrovisor…",
+   "EN": "I just wanted to check the rear-view mirror…"
+  },
+  {
+   "start": 26.87,
+   "end": 29.77,
+   "ES": "¿Cómo se mira el retrovisor en este juego?",
+   "EN": "How do you even use the rear-view mirror?"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.8,
+    0.4,
+    0.12
+   ],
+   "start": 0.0,
+   "end": 3.4
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El retrovisor más caro de GTA 6",
+   "caption": "Solo quería mirar atrás… y GTA 6 no perdona 💀 ¿Te pasó también?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "The most expensive rear-view mirror in GTA 6",
+   "caption": "Just wanted to look back… and GTA 6 showed no mercy 💀 Happened to you too?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

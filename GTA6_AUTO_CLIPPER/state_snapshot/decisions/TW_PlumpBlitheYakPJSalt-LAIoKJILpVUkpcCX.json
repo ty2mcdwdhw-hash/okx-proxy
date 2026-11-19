@@ -1,0 +1,92 @@
+{
+ "id": "TW_PlumpBlitheYakPJSalt-LAIoKJILpVUkpcCX",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "persecución graciosa, censura aplicada",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  33.5,
+  42.8
+ ],
+ "hook": {
+  "ES": "Le quitó el scooter a la abuela… y ella no se rindió 🛵👵😂",
+  "EN": "Took grandma's mobility scooter… and she did NOT give up 🛵👵😂"
+ },
+ "subs": [
+  {
+   "start": 36.54,
+   "end": 37.04,
+   "ES": "¡Ah, [[mierda]]!",
+   "EN": "Ah, [[shit]]!"
+  },
+  {
+   "start": 37.78,
+   "end": 39.58,
+   "ES": "Esta cosa es [[jodidamente]] lenta",
+   "EN": "This thing is [[damn]] slow"
+  },
+  {
+   "start": 39.58,
+   "end": 41.0,
+   "ES": "¡Y la tengo pegada detrás!",
+   "EN": "And they're right behind me!"
+  },
+  {
+   "start": 41.0,
+   "end": 42.8,
+   "ES": "😂😂😂",
+   "EN": "😂😂😂"
+  }
+ ],
+ "bleep": [
+  [
+   36.45,
+   37.1
+  ],
+  [
+   38.12,
+   38.88
+  ],
+  [
+   39.7,
+   40.48
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.0,
+    0.32,
+    0.14
+   ],
+   "start": 33.5,
+   "end": 42.8
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La abuela más rápida de GTA 6",
+   "caption": "El scooter a 5 km/h y la abuela en modo atleta 😂 ¿Quién gana?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "The fastest grandma in GTA 6",
+   "caption": "Scooter at walking speed vs. grandma in sprint mode 😂 Who wins?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}
