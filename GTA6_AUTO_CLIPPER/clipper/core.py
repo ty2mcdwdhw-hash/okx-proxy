@@ -56,8 +56,10 @@ def iso(ts: dt.datetime | None = None) -> str:
 
 
 def db() -> sqlite3.Connection:
-    con = sqlite3.connect(DB_PATH)
+    con = sqlite3.connect(DB_PATH, timeout=60)
     con.row_factory = sqlite3.Row
+    con.execute("PRAGMA journal_mode=WAL")      # lectores y escritor a la vez: evita "database is locked"
+    con.execute("PRAGMA busy_timeout=60000")
     con.executescript(
         """
         CREATE TABLE IF NOT EXISTS clips (
@@ -119,12 +121,31 @@ def yt_dlp_base() -> list[str]:
     return ["yt-dlp", "--no-warnings", "--quiet", "--no-progress", "--js-runtimes", "deno"]
 
 
+def _hm(v) -> str | None:
+    """'HH:MM' si el valor es solo hora (ventana diaria); None si lleva fecha."""
+    if isinstance(v, int):  # YAML 1.1 lee 18:00 sin comillas como sexagesimal (1080)
+        return f"{v // 60:02d}:{v % 60:02d}"
+    v = str(v).strip()
+    return v if re.fullmatch(r"\d{1,2}:\d{2}", v) and len(v) <= 5 else None
+
+
 def current_focus(cfg: dict) -> dict | None:
-    """Regional focus window active now (times in operator_tz)."""
+    """Regional focus window active now (times in operator_tz).
+
+    Las ventanas con fecha ('YYYY-MM-DDTHH:MM') tienen prioridad; si ninguna aplica, se usan las diarias
+    (from/to solo 'HH:MM', se repiten cada día; si from > to cruzan la medianoche)."""
     from zoneinfo import ZoneInfo
     tz = ZoneInfo(cfg.get("operator_tz", "UTC"))
     now = dt.datetime.now(tz).replace(tzinfo=None)
+    daily = []
     for f in cfg.get("focus") or []:
-        if dt.datetime.fromisoformat(f["from"]) <= now <= dt.datetime.fromisoformat(f["to"]):
+        a, b = _hm(f["from"]), _hm(f["to"])
+        if a and b:
+            daily.append((a.zfill(5), b.zfill(5), f))
+        elif dt.datetime.fromisoformat(str(f["from"])) <= now <= dt.datetime.fromisoformat(str(f["to"])):
+            return f
+    hm = now.strftime("%H:%M")
+    for a, b, f in daily:
+        if (a <= hm <= b) if a <= b else (hm >= a or hm <= b):
             return f
     return None

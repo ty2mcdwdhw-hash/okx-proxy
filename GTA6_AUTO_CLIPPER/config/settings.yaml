@@ -45,6 +45,27 @@ focus:                      # bombardeo por regiones (hora de Lima). Prioriza id
     to: "2026-11-19T12:00"
     langs: [en, es, pt]
     live_top_per_lang: {es: 25, en: 15, pt: 8, other: 2}
+  # rotación diaria (solo HH:MM, hora de Lima). Las ventanas con fecha de arriba tienen prioridad.
+  - name: america
+    from: "00:00"
+    to: "05:59"
+    langs: [es, en, pt]
+    live_top_per_lang: {es: 25, en: 15, pt: 8, other: 2}
+  - name: asia
+    from: "06:00"
+    to: "17:59"
+    langs: [ja, zh, ko, th, id, vi, tl, ms, hi]
+    live_top_per_lang: {ja: 15, zh: 10, ko: 8, th: 6, id: 6, vi: 5, tl: 5, ms: 4, hi: 5, en: 6, other: 2}
+  - name: europa+america
+    from: "18:00"
+    to: "21:59"
+    langs: [es, en, pt, de, fr, ru, it, pl]
+    live_top_per_lang: {es: 22, en: 12, pt: 6, de: 8, fr: 8, ru: 5, it: 4, pl: 4, other: 2}
+  - name: america+europa
+    from: "22:00"
+    to: "23:59"
+    langs: [es, en, pt, de, fr]
+    live_top_per_lang: {es: 25, en: 15, pt: 8, de: 5, fr: 5, ru: 3, other: 2}
 
 clip:
   min_seconds: 7
