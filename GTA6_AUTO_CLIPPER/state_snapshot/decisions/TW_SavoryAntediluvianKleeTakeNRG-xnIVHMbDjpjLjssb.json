@@ -1,0 +1,100 @@
+{
+ "id": "TW_SavoryAntediluvianKleeTakeNRG-xnIVHMbDjpjLjssb",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "priority": false,
+ "pillar": "Físicas / Momentos divertidos",
+ "reason": "física de auto graciosa",
+ "trim": [
+  0.0,
+  28.0
+ ],
+ "hook": {
+  "ES": "No pagó la grúa… y lo resolvió a pulso 💪🚗",
+  "EN": "Refused to pay for a tow… so they fixed it by hand 💪🚗"
+ },
+ "subs": [
+  {
+   "start": 0.53,
+   "end": 3.75,
+   "ES": "[[Carajo]], choqué el auto bien [[feo]], olvidé que era mío",
+   "EN": "[[Damn]], I wrecked the car hard, forgot it was mine"
+  },
+  {
+   "start": 13.8,
+   "end": 15.96,
+   "ES": "No voy a usar la app para remolcar mi auto",
+   "EN": "I'm not using the app to tow my car"
+  },
+  {
+   "start": 16.04,
+   "end": 18.92,
+   "ES": "Voy a empujar esta [[mierda]] yo solo",
+   "EN": "I'm pushing this [[shit]] myself"
+  },
+  {
+   "start": 19.72,
+   "end": 21.84,
+   "ES": "¡Vamos!",
+   "EN": "Come on!"
+  },
+  {
+   "start": 22.84,
+   "end": 25.5,
+   "ES": "No pienso pagar la app, estoy quebrado",
+   "EN": "Not paying for the app, I'm broke"
+  },
+  {
+   "start": 26.68,
+   "end": 27.6,
+   "ES": "Qué locura",
+   "EN": "That's crazy"
+  }
+ ],
+ "bleep": [
+  [
+   0.43,
+   1.23
+  ],
+  [
+   1.89,
+   2.49
+  ],
+  [
+   16.22,
+   16.8
+  ],
+  [
+   17.16,
+   17.56
+  ],
+  [
+   18.32,
+   18.7
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Grúa gratis en GTA 6",
+   "caption": "Quebrado pero con fuerza 💪😂 ¿Tú pagarías la grúa?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Free tow in GTA 6",
+   "caption": "Broke but strong 💪😂 Would you pay for the tow?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

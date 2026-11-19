@@ -1,0 +1,70 @@
+{
+ "id": "TW_StylishObservantHyenaKappaWealth-Roq_Fl6YeFXcrZbc",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "pillar": "Momentos divertidos / Viral",
+ "reason": "reacción fuerte, caos viral",
+ "trim": [
+  0.0,
+  29.5
+ ],
+ "hook": {
+  "ES": "Nadie esperaba ESTO en GTA 6 💚💥",
+  "EN": "Nobody expected THIS in GTA 6 💚💥"
+ },
+ "subs": [
+  {
+   "start": 0.05,
+   "end": 2.5,
+   "ES": "¿Qué demonios?",
+   "EN": "What the hell?"
+  },
+  {
+   "start": 9.26,
+   "end": 10.4,
+   "ES": "¿Qué [[carajo]] es este juego?",
+   "EN": "What the [[fuck]] is this game?"
+  },
+  {
+   "start": 26.8,
+   "end": 29.4,
+   "ES": "¿Qué [[carajo]] hace Hulk en este juego?",
+   "EN": "What the [[fuck]] is Hulk doing in this game?"
+  }
+ ],
+ "bleep": [
+  [
+   9.28,
+   9.55
+  ],
+  [
+   27.92,
+   28.3
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "¿Hulk en GTA 6?",
+   "caption": "La reacción lo dice todo 😂💥 ¿Qué harías tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Viral"
+   ]
+  },
+  "EN": {
+   "title": "Hulk in GTA 6?",
+   "caption": "The reaction says it all 😂💥 What would you do?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Viral"
+   ]
+  }
+ }
+}

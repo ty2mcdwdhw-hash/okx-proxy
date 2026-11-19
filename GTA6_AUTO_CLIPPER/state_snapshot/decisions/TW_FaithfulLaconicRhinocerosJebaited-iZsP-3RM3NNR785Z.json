@@ -1,0 +1,78 @@
+{
+ "id": "TW_FaithfulLaconicRhinocerosJebaited-iZsP-3RM3NNR785Z",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "pillar": "Mapa / Exploración",
+ "reason": "reacción a gráficos",
+ "trim": [
+  3.5,
+  23.5
+ ],
+ "hook": {
+  "ES": "Pausó el juego solo para mirar esto 🌊😳",
+  "EN": "They paused the game just to stare at this 🌊😳"
+ },
+ "subs": [
+  {
+   "start": 4.85,
+   "end": 5.95,
+   "ES": "Qué hermoso está esto",
+   "EN": "This is so beautiful"
+  },
+  {
+   "start": 6.87,
+   "end": 9.27,
+   "ES": "No, no, no, no",
+   "EN": "No, no, no, no"
+  },
+  {
+   "start": 9.61,
+   "end": 12.27,
+   "ES": "Esperen, déjenme pausar",
+   "EN": "Wait, let me pause"
+  },
+  {
+   "start": 12.47,
+   "end": 16.55,
+   "ES": "¿Se dan cuenta de estos gráficos?",
+   "EN": "Do you guys realize these graphics?"
+  },
+  {
+   "start": 16.55,
+   "end": 17.93,
+   "ES": "Ya ni puedo hablar",
+   "EN": "I can't even talk"
+  },
+  {
+   "start": 20.37,
+   "end": 22.97,
+   "ES": "No, pero esto es…",
+   "EN": "No, but this is…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los gráficos de GTA 6",
+   "caption": "Hasta el streamer se quedó sin palabras 🌊😳",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Graficos"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 graphics",
+   "caption": "Even the streamer was left speechless 🌊😳",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Graphics"
+   ]
+  }
+ }
+}
