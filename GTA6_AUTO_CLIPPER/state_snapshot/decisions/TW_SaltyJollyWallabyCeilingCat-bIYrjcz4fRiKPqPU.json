@@ -1,0 +1,60 @@
+{
+ "id": "TW_SaltyJollyWallabyCeilingCat-bIYrjcz4fRiKPqPU",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "susto real con animal en el auto, reacción clara",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  3.0,
+  22.0
+ ],
+ "hook": {
+  "ES": "Iba manejando tranquilo en GTA 6… y algo saltó dentro del auto 😱🐱",
+  "EN": "Just driving around in GTA 6… then something jumped inside the car 😱🐱"
+ },
+ "subs": [
+  {
+   "start": 9.82,
+   "end": 10.6,
+   "ES": "¡Bro!",
+   "EN": "Bro!"
+  },
+  {
+   "start": 11.48,
+   "end": 13.2,
+   "ES": "¡Qué susto me di, en serio!",
+   "EN": "Dude, that actually scared me!"
+  },
+  {
+   "start": 14.64,
+   "end": 16.2,
+   "ES": "Es literalmente un gato en el auto.",
+   "EN": "It's literally just a cat in the car."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Un gato en el auto en GTA 6",
+   "caption": "Nadie te avisa que en GTA 6 puede haber un gato escondido en el auto 😂🐱 ¿Te habrías asustado también?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Detalles"
+   ]
+  },
+  "EN": {
+   "title": "A cat in the car in GTA 6",
+   "caption": "Nobody warns you there can be a cat hiding in your car in GTA 6 😂🐱 Would you have jumped too?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Details"
+   ]
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "TW_SnappyModernTortoisePrimeMe-hubrPHV6UGu11Khc",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "mecánica de gimnasio, tema nuevo",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0.0,
+  24.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes ir al GYM… y cuenta cada repetición 💪🏋️",
+  "EN": "You can hit the GYM in GTA 6… and it counts every rep 💪🏋️"
+ },
+ "subs": [
+  {
+   "start": 0.78,
+   "end": 8.26,
+   "ES": "¡Bang! ¡Bang! ¡Bang!",
+   "EN": "Bang! Bang! Bang!"
+  },
+  {
+   "start": 9.72,
+   "end": 11.56,
+   "ES": "¡Bang! ¡Bang!",
+   "EN": "Bang! Bang!"
+  },
+  {
+   "start": 18.48,
+   "end": 19.2,
+   "ES": "¡Eso!",
+   "EN": "Yeah!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.66,
+    0.0,
+    0.34,
+    0.2
+   ],
+   "start": 0.0,
+   "end": 24.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El gym de GTA 6",
+   "caption": "Pesas, repeticiones y hasta un aviso de proteína para recuperarte más rápido 💪 GTA 6 se tomó el ejercicio en serio. ¿Lo usarías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gym"
+   ]
+  },
+  "EN": {
+   "title": "The GTA 6 gym",
+   "caption": "Weights, rep counter and even a protein tip to recover faster 💪 GTA 6 takes working out seriously. Would you use it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gym"
+   ]
+  }
+ }
+}

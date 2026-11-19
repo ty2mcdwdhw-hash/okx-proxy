@@ -1,0 +1,54 @@
+{
+ "id": "TW_OddSpicyWeaselMrDestructoid-Rp1pkJt2BiLvEDCq",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "nivel de búsqueda máximo y huida, momento épico",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  20.0,
+  48.0
+ ],
+ "hook": {
+  "ES": "¿Sabías que GTA 6 tiene 6 ESTRELLAS de búsqueda? ⭐🚓💥",
+  "EN": "Did you know GTA 6 has a 6-STAR wanted level? ⭐🚓💥"
+ },
+ "subs": [
+  {
+   "start": 26.0,
+   "end": 30.0,
+   "ES": "6 estrellas: escapar es imposible…",
+   "EN": "6 stars: escape is impossible…"
+  },
+  {
+   "start": 38.0,
+   "end": 42.0,
+   "ES": "…así que se llevó la patrulla del sheriff 😂",
+   "EN": "…so they took the sheriff's car 😂"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "6 estrellas en GTA 6",
+   "caption": "Voló una gasolinera y el juego le soltó el nivel de búsqueda de 6 estrellas: \"escapar es imposible\" 💀🚓 ¿Cuánto durarías tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "6 stars in GTA 6",
+   "caption": "Blew up a gas station and the game dropped a 6-star wanted level: \"escape is impossible\" 💀🚓 How long would you last?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}
