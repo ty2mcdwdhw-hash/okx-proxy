@@ -1,0 +1,72 @@
+{
+ "id": "TW_AuspiciousSquareCarrotLitFam-J5LRy6Eg9Fsx-mYB",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "Usa el móvil al volante y choca; sin trama.",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  7.0,
+  28.0
+ ],
+ "hook": {
+  "ES": "Mirando el móvil al volante en GTA 6… 📱💥",
+  "EN": "Scrolling their phone while driving in GTA 6… 📱💥"
+ },
+ "subs": [
+  {
+   "start": 8.9,
+   "end": 10.8,
+   "ES": "¡Dios mío! ¡Dios mío!",
+   "EN": "Oh God! Oh God!"
+  },
+  {
+   "start": 11.3,
+   "end": 14.0,
+   "ES": "¡Señora, que es un agente de la ley!",
+   "EN": "Lady, that's an officer of the law!"
+  },
+  {
+   "start": 16.0,
+   "end": 17.8,
+   "ES": "¡Es un agente de la ley!",
+   "EN": "That's an officer of the law!"
+  },
+  {
+   "start": 19.7,
+   "end": 21.1,
+   "ES": "¿Qué dicen los comentarios?",
+   "EN": "What are the comments saying?"
+  },
+  {
+   "start": 21.6,
+   "end": 23.5,
+   "ES": "«Eso le va a doler semanas»",
+   "EN": "'He's gonna feel that for weeks'"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "No uses el móvil mientras manejas en GTA 6",
+   "caption": "Se puso a ver videos en el móvil mientras manejaba… y ya sabes cómo terminó 📱💥\nGTA 6 también te enseña seguridad vial 😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Conduccion"
+   ]
+  },
+  "EN": {
+   "title": "Don't text and drive in GTA 6",
+   "caption": "Watching videos on the phone while driving… you know how this ends 📱💥\nGTA 6 teaching road safety 😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Driving"
+   ]
+  }
+ }
+}

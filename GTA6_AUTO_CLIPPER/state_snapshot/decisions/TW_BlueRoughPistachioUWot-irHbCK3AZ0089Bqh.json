@@ -1,0 +1,84 @@
+{
+ "id": "TW_BlueRoughPistachioUWot-irHbCK3AZ0089Bqh",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "Mecánica de nevera y mejoras de estado; sin trama.",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  2.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 la nevera te da mejoras de estado 🥤💪",
+  "EN": "In GTA 6 the fridge gives you stat buffs 🥤💪"
+ },
+ "subs": [
+  {
+   "start": 2.2,
+   "end": 3.4,
+   "ES": "¿Qué hay en la nevera?",
+   "EN": "What's in the fridge?"
+  },
+  {
+   "start": 7.9,
+   "end": 12.1,
+   "ES": "Dame el batido de proteínas",
+   "EN": "Give me the protein shake"
+  },
+  {
+   "start": 12.1,
+   "end": 18.3,
+   "ES": "¡Tómatelo, tómatelo!",
+   "EN": "Drink it, drink it!"
+  },
+  {
+   "start": 25.8,
+   "end": 28.9,
+   "ES": "¿Salud mejorada, estamina mejorada?",
+   "EN": "Health buffed, stamina buffed?"
+  },
+  {
+   "start": 28.9,
+   "end": 29.8,
+   "ES": "Espera, ¿qué?",
+   "EN": "Wait, what?"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.73,
+    0.0,
+    0.27,
+    0.28
+   ],
+   "start": 2.0,
+   "end": 30.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El batido de proteínas de GTA 6 te da mejoras",
+   "caption": "Abrió la nevera, se tomó un batido de proteínas… y le subió la salud y la estamina 🥤💪\n¿Sabías que la comida da mejoras en GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mecanicas"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 protein shakes give you buffs",
+   "caption": "Opened the fridge, chugged a protein shake… and got health and stamina buffs 🥤💪\nDid you know food gives buffs in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mechanics"
+   ]
+  }
+ }
+}

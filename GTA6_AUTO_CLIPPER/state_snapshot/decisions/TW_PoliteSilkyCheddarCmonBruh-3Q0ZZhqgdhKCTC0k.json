@@ -1,0 +1,78 @@
+{
+ "id": "TW_PoliteSilkyCheddarCmonBruh-3Q0ZZhqgdhKCTC0k",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "Huida de la policía por la playa en deportivo; sin trama.",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.0,
+  27.0
+ ],
+ "hook": {
+  "ES": "La policía lo persiguió en cuatrimoto por la playa 🏖️🚔",
+  "EN": "The cops chased them on an ATV across the beach 🏖️🚔"
+ },
+ "subs": [
+  {
+   "start": 0.2,
+   "end": 3.6,
+   "ES": "Uy, la poli trae una cuatrimoto",
+   "EN": "Oh shoot, the cops got an ATV over here"
+  },
+  {
+   "start": 4.7,
+   "end": 9.0,
+   "ES": "Mira cómo se acerca con la pistola en la mano",
+   "EN": "Look how he's approaching with his gun out"
+  },
+  {
+   "start": 14.3,
+   "end": 16.9,
+   "ES": "¿Que me baje del auto? ¿Ahora?",
+   "EN": "Get out of the vehicle? Now?"
+  },
+  {
+   "start": 17.0,
+   "end": 18.2,
+   "ES": "No creo",
+   "EN": "I don't think so"
+  },
+  {
+   "start": 18.7,
+   "end": 23.5,
+   "ES": "¡Uy, va corriendo! ¡Uy, uy!",
+   "EN": "Oh shoot, he's running! Oh shoot!"
+  },
+  {
+   "start": 24.7,
+   "end": 26.6,
+   "ES": "¡Eso estuvo brutal!",
+   "EN": "That was sick!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Huida por la playa en GTA 6",
+   "caption": "La policía llegó en cuatrimoto… y él se fue derrapando por la arena 🏖️🚔\n¿Te habrías bajado del auto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Beach escape in GTA 6",
+   "caption": "The cops showed up on an ATV… so they drifted off across the sand 🏖️🚔\nWould you have gotten out of the car?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}
