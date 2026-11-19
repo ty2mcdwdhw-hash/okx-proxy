@@ -1,0 +1,112 @@
+{
+ "id": "TW_NastyArtsyFloofTBTacoLeft-Bid874efBA0FChNM",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "priority": false,
+ "story": false,
+ "operator_safe": true,
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.3,
+  28.9
+ ],
+ "hook": {
+  "ES": "Su plan para que la policía no le disparara… salió fatal 😂",
+  "EN": "Their plan to keep the cops from shooting… went terribly 😂"
+ },
+ "subs": [
+  {
+   "start": 0.59,
+   "end": 3.67,
+   "ES": "Ah, para que no me dispare la policía tengo un rehén",
+   "EN": "Ah, so the cops don't shoot me, I've got a hostage"
+  },
+  {
+   "start": 3.69,
+   "end": 7.19,
+   "ES": "Qué bien pensado. ¡Manos arriba, poli, manos arriba!",
+   "EN": "So well thought out. Hands up, cop, hands up!"
+  },
+  {
+   "start": 7.19,
+   "end": 9.35,
+   "ES": "No quiero hacerle daño a este…",
+   "EN": "I don't wanna hurt this one…"
+  },
+  {
+   "start": 10.92,
+   "end": 12.26,
+   "ES": "Pues te lo lanzo a la [[puta]] cara",
+   "EN": "Then I'll throw it in your [[damn]] face"
+  },
+  {
+   "start": 12.26,
+   "end": 14.16,
+   "ES": "¡A la [[puta]] cara!",
+   "EN": "Right in your [[damn]] face!"
+  },
+  {
+   "start": 14.72,
+   "end": 17.22,
+   "ES": "Oye, qué ridículo. Acabo de perder pasta",
+   "EN": "Bruh, so embarrassing. I just lost cash"
+  },
+  {
+   "start": 20.65,
+   "end": 24.31,
+   "ES": "¿Cómo voy a tirarle un cuerpo a un policía?",
+   "EN": "How am I gonna throw a body at a cop?"
+  },
+  {
+   "start": 24.39,
+   "end": 26.97,
+   "ES": "Esto es GTA, pero tampoco soy Superman",
+   "EN": "This is GTA, but I'm not Superman either"
+  }
+ ],
+ "bleep": [
+  [
+   11.72,
+   12.08
+  ],
+  [
+   13.5,
+   13.82
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.86,
+    0.5,
+    0.12
+   ],
+   "start": 10.8,
+   "end": 14.4
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El plan del rehén en GTA 6 salió fatal",
+   "caption": "Quiso usar un rehén contra la policía de GTA 6… y terminó eliminado 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "The hostage plan in GTA 6 went wrong",
+   "caption": "Tried using a hostage against the GTA 6 cops… and got wasted 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

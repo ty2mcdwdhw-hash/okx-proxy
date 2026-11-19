@@ -1,0 +1,72 @@
+{
+ "id": "TW_TardyAuspiciousReindeerLitFam-ycHUhaiAGW9G4AAC",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "priority": false,
+ "story": false,
+ "operator_safe": true,
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  2.5,
+  27.0
+ ],
+ "hook": {
+  "ES": "4 estrellas… y se fue a volar en jet sobre Vice City ✈️🌇",
+  "EN": "4 stars… so they took a jet over Vice City ✈️🌇"
+ },
+ "subs": [
+  {
+   "start": 2.78,
+   "end": 7.08,
+   "ES": "Se nos lió… se nos lió",
+   "EN": "It's all going down… it's all going down"
+  },
+  {
+   "start": 8.49,
+   "end": 9.21,
+   "ES": "¡Vamos para el cielo!",
+   "EN": "Up to the sky!"
+  },
+  {
+   "start": 16.64,
+   "end": 21.35,
+   "ES": "Bro, qué limpio. Limpio, bro",
+   "EN": "Bro, so clean. Clean, bro"
+  },
+  {
+   "start": 22.47,
+   "end": 23.83,
+   "ES": "Mira toda la ciudad",
+   "EN": "Look at the whole city"
+  },
+  {
+   "start": 23.83,
+   "end": 26.25,
+   "ES": "4 estrellas, pero ¿a qué costo?",
+   "EN": "4 stars, but at what cost?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Vice City desde un jet en GTA 6",
+   "caption": "Con 4 estrellas encima, despegó y sobrevoló todo Vice City al atardecer 🌇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mapa"
+   ]
+  },
+  "EN": {
+   "title": "Vice City from a jet in GTA 6",
+   "caption": "With 4 stars on them, they took off and flew over all of Vice City at sunset 🌇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Map"
+   ]
+  }
+ }
+}

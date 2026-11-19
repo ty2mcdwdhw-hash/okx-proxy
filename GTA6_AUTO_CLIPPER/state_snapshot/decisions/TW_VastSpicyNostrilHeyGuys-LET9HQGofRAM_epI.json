@@ -1,0 +1,53 @@
+{
+ "id": "TW_VastSpicyNostrilHeyGuys-LET9HQGofRAM_epI",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "priority": false,
+ "story": false,
+ "operator_safe": true,
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  11.0,
+  41.0
+ ],
+ "hook": {
+  "ES": "Volcó la van… y salió corriendo de la policía 🚐💥🚔",
+  "EN": "Flipped the van… then tried to outrun the cops 🚐💥🚔"
+ },
+ "subs": [],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.84,
+    0.5,
+    0.12
+   ],
+   "start": 14.0,
+   "end": 22.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Volcó la van en GTA 6 y lo atraparon",
+   "caption": "Kai Cenat volcó la van en GTA 6… y la policía no tardó en llegar 😭",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Kai flipped the van in GTA 6 and got caught",
+   "caption": "Kai Cenat flipped the van in GTA 6… and the cops showed up fast 😭",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

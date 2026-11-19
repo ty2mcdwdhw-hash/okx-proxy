@@ -396,3 +396,6 @@
 - 2026-11-19T13:35:34Z | `TW_ThirstyHelpfulLeopardDoggo-hiDQcwYSEDsMu1ab_EN` | Mapa / Exploración | instagram | scheduled @2026-11-20T01:26:18Z | 🎥 @ohnepixel (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T14:05:58Z | `TW_FunOnerousDuckUWot-3mJqQklyrVQHaG3G_ES` | NPCs / Detalles | instagram | scheduled @2026-11-20T01:36:27Z | 🎥 @ohnepixel (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T14:06:00Z | `TW_FunOnerousDuckUWot-3mJqQklyrVQHaG3G_EN` | NPCs / Detalles | instagram | scheduled @2026-11-20T01:56:18Z | 🎥 @ohnepixel (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T14:42:41Z | `TW_VastSpicyNostrilHeyGuys-LET9HQGofRAM_epI_ES` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-20T02:06:27Z | 🎥 @kaicenat (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T14:42:46Z | `TW_VastSpicyNostrilHeyGuys-LET9HQGofRAM_epI_EN` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-20T02:26:18Z | 🎥 @kaicenat (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T14:42:53Z | `TW_TardyAuspiciousReindeerLitFam-ycHUhaiAGW9G4AAC_ES` | Mapa / Exploración | instagram | scheduled @2026-11-20T02:36:27Z | 🎥 @vicens (es->ES) | Spoiler: 0% (Verificado)
