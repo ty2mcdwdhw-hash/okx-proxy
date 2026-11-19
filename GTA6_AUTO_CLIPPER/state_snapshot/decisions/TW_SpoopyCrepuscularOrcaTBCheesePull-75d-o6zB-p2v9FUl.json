@@ -1,0 +1,66 @@
+{
+ "id": "TW_SpoopyCrepuscularOrcaTBCheesePull-75d-o6zB-p2v9FUl",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro, buena calidad",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.0,
+  15.5
+ ],
+ "hook": {
+  "ES": "«Cruzo sin mirar»… y GTA 6 no perdona 💥🚗",
+  "EN": "\"Not checking left or right\"… GTA 6 had other plans 💥🚗"
+ },
+ "subs": [
+  {
+   "start": 2.38,
+   "end": 4.14,
+   "ES": "Voy a cruzar derecho esta intersección.",
+   "EN": "I'm going right across this intersection."
+  },
+  {
+   "start": 4.36,
+   "end": 5.78,
+   "ES": "No voy a mirar ni a la izquierda ni a la derecha.",
+   "EN": "I'm not checking left or right."
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.0,
+    0.27,
+    0.48
+   ],
+   "start": 0.0,
+   "end": 15.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Cruzar sin mirar en GTA 6",
+   "caption": "Se confió cruzando la intersección sin mirar… y la física de GTA 6 hizo el resto 😂💥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Choques"
+   ]
+  },
+  "EN": {
+   "title": "Crossing without looking in GTA 6",
+   "caption": "They ran the intersection without looking… GTA 6 physics did the rest 😂💥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Crash"
+   ]
+  }
+ }
+}

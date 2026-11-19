@@ -1,0 +1,78 @@
+{
+ "id": "TW_ColdPlumpHerringPeteZaroll-g4G6fFrglaPtGkH0",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro, buena calidad",
+ "pillar": "Autos y tuning / Mecánicas",
+ "trim": [
+  2.5,
+  30.0
+ ],
+ "hook": {
+  "ES": "Vice City de noche a toda velocidad 🌆🏎️",
+  "EN": "Vice City at night, full throttle 🌆🏎️"
+ },
+ "subs": [
+  {
+   "start": 6.44,
+   "end": 9.2,
+   "ES": "Tranqui, bro. No digas «mal piloto».",
+   "EN": "Relax, bro. Don't say \"bad driver\"."
+  },
+  {
+   "start": 9.2,
+   "end": 12.46,
+   "ES": "Este auto es rapidísimo, bro.",
+   "EN": "This car is fast as heck, bro."
+  },
+  {
+   "start": 15.86,
+   "end": 17.82,
+   "ES": "Soy Lando Norris, bro.",
+   "EN": "I'm Lando Norris, bro."
+  },
+  {
+   "start": 18.64,
+   "end": 21.3,
+   "ES": "Y Lewis Hamilton. ¡Vamos! ¿Qué?",
+   "EN": "And Lewis Hamilton. Come on! What?"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.83,
+    0.0,
+    0.17,
+    0.55
+   ],
+   "start": 2.5,
+   "end": 30.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Superdeportivo de noche en GTA 6",
+   "caption": "Se creyó piloto de F1 por las autopistas de Vice City de noche… ¿cómo terminó? 🏎️🌆",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Superdeportivo"
+   ]
+  },
+  "EN": {
+   "title": "Supercar night drive in GTA 6",
+   "caption": "Thought they were an F1 driver on the Vice City highways at night… how did it end? 🏎️🌆",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Supercar"
+   ]
+  }
+ }
+}

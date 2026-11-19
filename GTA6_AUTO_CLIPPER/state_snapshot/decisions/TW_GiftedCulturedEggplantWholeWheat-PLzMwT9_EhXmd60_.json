@@ -1,0 +1,100 @@
+{
+ "id": "TW_GiftedCulturedEggplantWholeWheat-PLzMwT9_EhXmd60_",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro, buena calidad",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  0.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "Pescando tranquilo en GTA 6… y apareció un tiburón 🎣🦈",
+  "EN": "Chill fishing in GTA 6… then a shark showed up 🎣🦈"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 0.86,
+   "ES": "Tiene que ser este.",
+   "EN": "This has got to be it."
+  },
+  {
+   "start": 1.18,
+   "end": 2.68,
+   "ES": "Este pez está mamado.",
+   "EN": "This fish is jacked."
+  },
+  {
+   "start": 2.68,
+   "end": 3.96,
+   "ES": "Ah, es chiquito, [[carajo]].",
+   "EN": "Oh, it's tiny as [[fuck]]."
+  },
+  {
+   "start": 8.72,
+   "end": 10.58,
+   "ES": "Una caballa española, nada mal.",
+   "EN": "A little Spanish mackerel, not bad."
+  },
+  {
+   "start": 10.72,
+   "end": 12.36,
+   "ES": "Pesa como medio kilo, lo soltamos.",
+   "EN": "About a pound, let's throw it back."
+  },
+  {
+   "start": 27.86,
+   "end": 29.98,
+   "ES": "¿Eso es un [[puto]] tiburón al lado de mi bote?",
+   "EN": "Is that a [[fucking]] shark next to my boat?"
+  }
+ ],
+ "bleep": [
+  [
+   3.6,
+   4.06
+  ],
+  [
+   28.42,
+   28.94
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.0,
+    0.27,
+    0.48
+   ],
+   "start": 0.0,
+   "end": 30.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Pesca en GTA 6",
+   "caption": "La pesca de GTA 6 tiene especies reales… y visitas inesperadas 🎣🦈",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Pesca"
+   ]
+  },
+  "EN": {
+   "title": "Fishing in GTA 6",
+   "caption": "GTA 6 fishing has real species… and unexpected visitors 🎣🦈",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Fishing"
+   ]
+  }
+ }
+}
