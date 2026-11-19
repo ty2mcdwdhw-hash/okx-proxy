@@ -414,3 +414,5 @@
 - 2026-11-19T15:34:22Z | `TW_KawaiiSplendidPigeonDeIlluminati-AI_IJdVvLDp9Vbcn_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-20T03:26:18Z | 🎥 @vegetta777 (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T16:04:56Z | `TW_SpoopyCrepuscularOrcaTBCheesePull-75d-o6zB-p2v9FUl_ES` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-20T03:36:27Z | 🎥 @timthetatman (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T16:05:13Z | `TW_SpoopyCrepuscularOrcaTBCheesePull-75d-o6zB-p2v9FUl_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-20T03:56:18Z | 🎥 @timthetatman (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T16:35:00Z | `TW_InquisitiveFastWaspBlargNaut-6-ppBF6dCdqdnaBl_ES` | NPCs / Detalles | instagram | scheduled @2026-11-20T04:06:27Z | 🎥 @vegetta777 (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T16:35:02Z | `TW_InquisitiveFastWaspBlargNaut-6-ppBF6dCdqdnaBl_EN` | NPCs / Detalles | instagram | scheduled @2026-11-20T04:26:18Z | 🎥 @vegetta777 (es->EN) | Spoiler: 0% (Verificado)

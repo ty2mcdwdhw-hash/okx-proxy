@@ -1,0 +1,84 @@
+{
+ "id": "TW_TenaciousAmericanPheasantCoolStoryBob--eW__09n03FrRf7x",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento claro, buena calidad",
+ "pillar": "Reacciones / Historia",
+ "trim": [
+  0.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "«Voy a hacer una locura»… y la misión se fue al agua 🚁💀",
+  "EN": "\"I'm gonna do something crazy\"… and the mission sank 🚁💀"
+ },
+ "subs": [
+  {
+   "start": 1.1,
+   "end": 2.08,
+   "ES": "¡Ok!",
+   "EN": "Ok!"
+  },
+  {
+   "start": 4.91,
+   "end": 6.33,
+   "ES": "¡Vamos a darle!",
+   "EN": "Let's hit it!"
+  },
+  {
+   "start": 16.02,
+   "end": 18.06,
+   "ES": "¡Voy a hacer una locura! ¡Voy! ¡Voy!",
+   "EN": "I'm gonna do something crazy! I'm going! I'm going!"
+  },
+  {
+   "start": 23.44,
+   "end": 25.1,
+   "ES": "Bro, me pasé de locura.",
+   "EN": "Bro, that was way too crazy."
+  },
+  {
+   "start": 29.06,
+   "end": 29.78,
+   "ES": "¡Uff, bro!",
+   "EN": "Oof, bro!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.18,
+    0.85,
+    0.64,
+    0.1
+   ],
+   "start": 0.0,
+   "end": 22.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La locura salió mal en GTA 6",
+   "caption": "Prometió una locura con el helicóptero… y GTA 6 le respondió con un FRACASO 😂🚁",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Helicoptero"
+   ]
+  },
+  "EN": {
+   "title": "Going crazy went wrong in GTA 6",
+   "caption": "They promised something crazy with the chopper… GTA 6 answered with MISSION FAILED 😂🚁",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Helicopter"
+   ]
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "id": "TW_InquisitiveFastWaspBlargNaut-6-ppBF6dCdqdnaBl",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro, buena calidad",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  0.0,
+  14.5
+ ],
+ "hook": {
+  "ES": "Quiso saludar a una NPC… y lo mandó a volar 😂🍔",
+  "EN": "Tried to say hi to an NPC… got told off instantly 😂🍔"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.56,
+   "ES": "Tranquilo. Tranquilo.",
+   "EN": "Easy. Easy."
+  },
+  {
+   "start": 2.7,
+   "end": 4.8,
+   "ES": "¿Qué? ¿No te conozco? ¿[[Fuck]] off?",
+   "EN": "What? I don't know you? [[Fuck]] off?"
+  },
+  {
+   "start": 5.68,
+   "end": 8.04,
+   "ES": "Hombre, [[fuck]] off, no me hables, que estoy comiendo.",
+   "EN": "Dude, [[fuck]] off, don't talk to me, I'm eating."
+  },
+  {
+   "start": 8.44,
+   "end": 10.32,
+   "ES": "Ok, [[fuck]] you y [[fuck]] off, ¿ok?",
+   "EN": "Ok, [[fuck]] you and [[fuck]] off, ok?"
+  },
+  {
+   "start": 11.08,
+   "end": 14.28,
+   "ES": "Vale, vale, vale… vale.",
+   "EN": "Okay, okay, okay… okay."
+  }
+ ],
+ "bleep": [
+  [
+   4.38,
+   4.9
+  ],
+  [
+   6.2,
+   6.72
+  ],
+  [
+   8.88,
+   10.18
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPC de GTA 6 no tienen paciencia",
+   "caption": "Solo quería conversar con una NPC mientras comía… y la respuesta fue directa 😂 Los NPC de GTA 6 tienen carácter.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs have zero patience",
+   "caption": "They just wanted to chat with an NPC while she was eating… the answer was brutal 😂 GTA 6 NPCs have attitude.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPC"
+   ]
+  }
+ }
+}

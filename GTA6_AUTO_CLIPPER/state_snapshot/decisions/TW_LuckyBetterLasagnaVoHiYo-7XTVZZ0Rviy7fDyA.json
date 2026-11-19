@@ -1,0 +1,66 @@
+{
+ "id": "TW_LuckyBetterLasagnaVoHiYo-7XTVZZ0Rviy7fDyA",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro, buena calidad",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  8.0,
+  35.0
+ ],
+ "hook": {
+  "ES": "Quería tomarse un batido de proteína en GTA 6… y lo tiró a la basura 🥤😭",
+  "EN": "Wanted a protein shake in GTA 6… threw it in the trash instead 🥤😭"
+ },
+ "subs": [
+  {
+   "start": 17.91,
+   "end": 23.47,
+   "ES": "Tiré un batido de proteína entero. Ni un sorbo.",
+   "EN": "I threw out a whole protein drink. Didn't drink it once."
+  },
+  {
+   "start": 24.45,
+   "end": 27.95,
+   "ES": "No, eso me dolió de verdad.",
+   "EN": "No, that was actually really upsetting."
+  },
+  {
+   "start": 30.01,
+   "end": 31.45,
+   "ES": "Qué desperdicio.",
+   "EN": "So wasteful."
+  },
+  {
+   "start": 32.47,
+   "end": 34.13,
+   "ES": "Apreté el botón equivocado.",
+   "EN": "I pressed the wrong button."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El batido de proteína en GTA 6",
+   "caption": "En GTA 6 puedes tomar cosas de la refri… si aprietas el botón correcto 😂🥤 ¿A quién más le pasó?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "The GTA 6 protein shake incident",
+   "caption": "In GTA 6 you can grab drinks from the fridge… if you press the right button 😂🥤 Who else did this?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Gameplay"
+   ]
+  }
+ }
+}
