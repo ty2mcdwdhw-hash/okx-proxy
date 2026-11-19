@@ -1,0 +1,66 @@
+{
+ "id": "TW_LittleCourageousDunlinTBTacoLeft-jPNkcDJncRYIE6r5",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "arresto policial, reacción",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  4.8,
+  19.5
+ ],
+ "hook": {
+  "ES": "Lo arrestaron… y solo quería volver a la cafetería ☕🚓",
+  "EN": "Got arrested… and all they wanted was the coffee shop ☕🚓"
+ },
+ "subs": [
+  {
+   "start": 6.37,
+   "end": 7.07,
+   "ES": "Bajo custodia.",
+   "EN": "Suspect in custody."
+  },
+  {
+   "start": 7.25,
+   "end": 9.11,
+   "ES": "Tengo que volver a la cafetería, ¡está ahí nomás!",
+   "EN": "I gotta get back to the coffee shop, it's right there!"
+  },
+  {
+   "start": 12.17,
+   "end": 14.15,
+   "ES": "¡No! ¡Espera! ¡Te dije que esperes!",
+   "EN": "No! Wait! I said wait!"
+  },
+  {
+   "start": 16.15,
+   "end": 19.19,
+   "ES": "¡Déjame ir a casa! ¡Necesito volver!",
+   "EN": "Let me go home! I need to get back!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Arrestado en GTA 6 🚓",
+   "caption": "La policía de Vice City no perdona 😂 ¿Te han arrestado ya?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Arrested in GTA 6 🚓",
+   "caption": "Vice City cops don't play around 😂 Have you been arrested yet?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

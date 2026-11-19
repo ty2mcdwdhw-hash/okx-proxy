@@ -1,0 +1,54 @@
+{
+ "id": "TW_CorrectPluckyPoxPanicBasket--IOTE2Nv2bGXq1i_",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": true,
+ "reason": "momento sorpresa misión secundaria",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  3.0,
+  24.5
+ ],
+ "hook": {
+  "ES": "La verdad está ahí fuera… y GTA 6 lo demuestra 👽",
+  "EN": "The truth is out there… and GTA 6 proves it 👽"
+ },
+ "subs": [
+  {
+   "start": 5.01,
+   "end": 6.3,
+   "ES": "La verdad está ahí fuera…",
+   "EN": "The truth is out there…"
+  },
+  {
+   "start": 19.72,
+   "end": 21.2,
+   "ES": "¿Al menos me dejaron plata?",
+   "EN": "Did they at least leave me some money?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Abducido por un OVNI en GTA 6 👽",
+   "caption": "Fue a investigar luces raras en el campo… y terminó así 😳 ¿Ya lo encontraste?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6OVNI"
+   ]
+  },
+  "EN": {
+   "title": "Abducted by a UFO in GTA 6 👽",
+   "caption": "Went to check out weird lights in a field… and this happened 😳 Have you found it yet?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6UFO"
+   ]
+  }
+ }
+}
