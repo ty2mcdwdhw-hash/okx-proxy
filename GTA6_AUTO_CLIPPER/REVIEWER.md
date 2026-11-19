@@ -11,7 +11,14 @@
 2. Consumo explícito de drogas como foco del clip.
 3. Contenido que no es GTA VI, clips sin momento claro, duplicados de temas ya publicados.
 4. Música con copyright como protagonista.
-5. Insultos discriminatorios del streamer como foco del clip.
+5. Insultos discriminatorios (homófobos, racistas, etc.) en CUALQUIER punto del audio, aunque sea de pasada, y aunque nuestros subtítulos lo censuren.
+
+### Reglas endurecidas (aviso de Instagram, 18/11 noche)
+Auditoría tras un aviso de Normas comunitarias: las causas fueron lenguaje sexual legible en pantalla, un insulto homófobo en el audio, groserías fuertes continuas en el audio y subtítulos/textos ORIGINALES del streamer (overlays, chat, subs quemados) con groserías sin censurar. Por eso:
+6. Rechaza si en el fotograma se lee texto sexual o grosero (overlays del stream, chat, subtítulos quemados del streamer, carteles del juego). Revisa el contact sheet buscando texto legible.
+7. Rechaza si el audio tiene groserías fuertes de forma continua (más de 2-3 en el tramo recortado) o cualquier contenido sexual verbal explícito. Una grosería aislada se permite si nuestros subtítulos la censuran.
+8. Elige el trim para dejar fuera insultos y groserías cuando el momento lo permita.
+9. Ante la duda en seguridad, rechaza: Instagram penaliza la cuenta entera, no solo el post.
 
 ## Selección
 - Prioriza por vistas y por momento: reacciones fuertes, momentos épicos/graciosos, física, conducción, mapa, NPCs, y también momentos de historia potentes.

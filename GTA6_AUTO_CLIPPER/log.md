@@ -299,3 +299,6 @@
 - 2026-11-19T01:46:51Z | `LOCAL_danirep_00135_EN` | Momentos divertidos / Lanzamiento | instagram | scheduled @2026-11-19T12:26:18Z | 🎥 @DaniRep (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T01:46:53Z | `LOCAL_danirep_00585_EN` | Historia / Reacciones | instagram | scheduled @2026-11-19T12:56:18Z | 🎥 @DaniRep (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T01:46:56Z | `LOCAL_danirep_03645_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-19T13:26:18Z | 🎥 @DaniRep (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T02:16:18Z | `TW_SaltyResilientFiddleheadsKevinTurtle-cmpT7cyxHzkDcJ31_ES` | Spotlight / Mecánicas | instagram | scheduled @2026-11-19T02:26:27Z | 🎥 @rubius (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T02:16:20Z | `TW_SaltyResilientFiddleheadsKevinTurtle-cmpT7cyxHzkDcJ31_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-19T13:56:18Z | 🎥 @rubius (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T02:16:22Z | `TW_GleamingPeppyFoxKreygasm-YcbkS7WGvnAtA25H_ES` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-19T04:26:27Z | 🎥 @alanzoka (pt->ES) | Spoiler: 0% (Verificado)
