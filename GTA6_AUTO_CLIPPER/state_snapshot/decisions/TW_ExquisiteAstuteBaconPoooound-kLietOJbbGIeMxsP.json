@@ -1,0 +1,41 @@
+{
+ "id": "TW_ExquisiteAstuteBaconPoooound-kLietOJbbGIeMxsP",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "fauna salvaje, tema nuevo",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  0.5,
+  29.0
+ ],
+ "hook": {
+  "ES": "Quiso fotografiar un caimán en GTA 6… mala idea 🐊",
+  "EN": "Tried to photograph a gator in GTA 6… bad idea 🐊"
+ },
+ "subs": [],
+ "copy": {
+  "ES": {
+   "title": "Los caimanes de GTA 6 no perdonan 🐊",
+   "caption": "Modo foto, un caimán en el agua… y pasó lo que tenía que pasar 😬 La fauna de Leonida va en serio.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Caiman"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 gators don't mess around 🐊",
+   "caption": "Photo mode, a gator in the water… and it went exactly how you'd expect 😬 Leonida's wildlife is no joke.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gator"
+   ]
+  }
+ }
+}

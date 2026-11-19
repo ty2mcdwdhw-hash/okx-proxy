@@ -1,0 +1,60 @@
+{
+ "id": "TW_CallousEnergeticHamburgerKappaPride-F3pxJVDzdZErAi4b",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "NPCs reaccionan a un choque; tema no repetido",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  3.5,
+  31.5
+ ],
+ "hook": {
+  "ES": "Chocó en Vice City… y los NPC salieron a grabarlo 📱",
+  "EN": "A crash in Vice City… and the NPCs pulled out their phones 📱"
+ },
+ "subs": [
+  {
+   "start": 4.27,
+   "end": 5.15,
+   "ES": "¡Mano!",
+   "EN": "Dude!"
+  },
+  {
+   "start": 18.94,
+   "end": 22.14,
+   "ES": "¡Son youtubers, instagramers, tiktokers!",
+   "EN": "They're YouTubers, Instagrammers, TikTokers!"
+  },
+  {
+   "start": 27.64,
+   "end": 29.86,
+   "ES": "Tiktokers, salieron a hacerse selfies",
+   "EN": "TikTokers, they came out to take selfies"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPC de GTA 6 graban los choques 📱",
+   "caption": "Hubo un accidente en Vice City y los NPC no ayudaron… sacaron el móvil 😂 ¿Tú qué harías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs film every crash 📱",
+   "caption": "A crash in Vice City and the NPCs didn't help… they went straight for selfies 😂 What would you do?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

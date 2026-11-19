@@ -1,0 +1,54 @@
+{
+ "id": "TW_EnchantingCaringPuffinFreakinStinkin-C-mfV0x8mPD6vUrU",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "reacción de streamer hispano a mecánica de vuelo",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  4.5,
+  29.5
+ ],
+ "hook": {
+  "ES": "Despegar una avioneta desde el agua en GTA 6 ✈️🌊",
+  "EN": "Taking off a seaplane from the water in GTA 6 ✈️🌊"
+ },
+ "subs": [
+  {
+   "start": 12.01,
+   "end": 12.89,
+   "ES": "¡Qué realista!",
+   "EN": "So realistic!"
+  },
+  {
+   "start": 16.38,
+   "end": 18.54,
+   "ES": "¡Qué agobio! ¡Corre, corre, corre!",
+   "EN": "This is so stressful! Go, go, go!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Despegue en hidroavión en GTA 6 ✈️",
+   "caption": "Así se siente despegar desde el pantano en GTA 6 😮 ¿Realismo nivel 10?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Aviones"
+   ]
+  },
+  "EN": {
+   "title": "Seaplane takeoff in GTA 6 ✈️",
+   "caption": "This is what taking off from the swamp feels like in GTA 6 😮 Realism level 10?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Planes"
+   ]
+  }
+ }
+}
