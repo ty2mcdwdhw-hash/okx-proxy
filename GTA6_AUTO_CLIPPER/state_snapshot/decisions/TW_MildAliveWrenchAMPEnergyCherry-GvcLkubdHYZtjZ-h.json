@@ -1,0 +1,53 @@
+{
+ "id": "TW_MildAliveWrenchAMPEnergyCherry-GvcLkubdHYZtjZ-h",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "easter egg de tono de llamada en NPC, streamer es",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  0.0,
+  20.8
+ ],
+ "hook": {
+  "ES": "¿Lo escuchaste? Un NPC de GTA 6 tiene el tono de Trevor 📱👀",
+  "EN": "Did you catch that? A GTA 6 NPC has Trevor's ringtone 📱👀"
+ },
+ "subs": [
+  {
+   "start": 8.89,
+   "end": 11.2,
+   "ES": "No sé si lo escucharon: a este NPC",
+   "EN": "Not sure if you heard it: this NPC"
+  },
+  {
+   "start": 11.21,
+   "end": 14.89,
+   "ES": "le acaba de sonar el tono de llamada de Trevor de GTA 5",
+   "EN": "just got a call with Trevor's ringtone from GTA 5"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El tono de Trevor en GTA 6 📱",
+   "caption": "Easter egg: un NPC de Vice City tiene el tono de llamada de GTA 5 👀 ¿Lo habías notado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  },
+  "EN": {
+   "title": "Trevor's ringtone in GTA 6 📱",
+   "caption": "Easter egg: a Vice City NPC has the GTA 5 ringtone 👀 Did you notice?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  }
+ }
+}

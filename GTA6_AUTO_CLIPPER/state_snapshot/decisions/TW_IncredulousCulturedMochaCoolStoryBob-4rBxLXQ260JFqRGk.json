@@ -1,0 +1,65 @@
+{
+ "id": "TW_IncredulousCulturedMochaCoolStoryBob-4rBxLXQ260JFqRGk",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "pelea con NPC por un auto, foco ja",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  0.5,
+  30.0
+ ],
+ "hook": {
+  "ES": "Un NPC se bajó a reclamarle… mala idea 👊🚗",
+  "EN": "An NPC stepped out to confront them… bad idea 👊🚗"
+ },
+ "subs": [
+  {
+   "start": 1.1,
+   "end": 3.56,
+   "ES": "¡Oye! ¿Te bajas o qué? ¡Tú, tú!",
+   "EN": "Hey! You getting out or what? You, you!"
+  },
+  {
+   "start": 3.56,
+   "end": 6.04,
+   "ES": "¿Tú qué? ¡Tú!",
+   "EN": "What about you? You!"
+  },
+  {
+   "start": 6.04,
+   "end": 7.66,
+   "ES": "¿De quién es el auto, eh?",
+   "EN": "Whose car is this, huh?"
+  },
+  {
+   "start": 28.18,
+   "end": 29.64,
+   "ES": "¿De quién es el auto, a ver?",
+   "EN": "So whose car is it now?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPC de GTA 6 no se dejan 👊",
+   "caption": "Se bajó a reclamar… y no le salió nada bien 😂🚗",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs don't back down 👊",
+   "caption": "They stepped out to argue… and it went terribly 😂🚗",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}
