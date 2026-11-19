@@ -1,0 +1,59 @@
+{
+ "id": "TW_StormyAbstemiousGaurDxCat-E3uc6GFbziEWrtJ9",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Solo menús de consola/cuenta regresiva/arte oficial. Sin historia.",
+ "pillar": "Noticias / Lanzamiento",
+ "trim": [
+  0.0,
+  14.8
+ ],
+ "hook": {
+  "ES": "Rusia: el segundo exacto en que abrió GTA 6",
+  "EN": "Russia: the second GTA 6 opened"
+ },
+ "subs": [
+  {
+   "start": 2.0,
+   "end": 12.0,
+   "ES": "10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0!",
+   "EN": "10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0!"
+  },
+  {
+   "start": 12.0,
+   "end": 13.6,
+   "ES": "¡Jugar!",
+   "EN": "Play!"
+  },
+  {
+   "start": 13.6,
+   "end": 14.8,
+   "ES": "¡Una locura!",
+   "EN": "Holy sh*t!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Rusia: el segundo exacto en que abrió GTA 6",
+   "caption": "Así se vivió el desbloqueo de GTA 6 en Rusia 🇷🇺\n¿Dónde lo viviste tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Lanzamiento"
+   ]
+  },
+  "EN": {
+   "title": "Russia: the exact second GTA 6 opened",
+   "caption": "This is how GTA 6 unlocked in Russia 🇷🇺\nWhere were you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Launch"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

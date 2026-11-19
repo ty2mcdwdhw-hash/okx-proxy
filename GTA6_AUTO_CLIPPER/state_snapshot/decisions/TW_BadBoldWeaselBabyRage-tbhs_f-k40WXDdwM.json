@@ -1,0 +1,59 @@
+{
+ "id": "TW_BadBoldWeaselBabyRage-tbhs_f-k40WXDdwM",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "Choque gracioso conduciendo, reacción clara (genérico)",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  2.0,
+  18.4
+ ],
+ "hook": {
+  "ES": "Iba con toda la vibra… hasta que no 🌆💥",
+  "EN": "Full vibes… until it wasn't 🌆💥"
+ },
+ "subs": [
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "ES": "¡Qué vibra, bro!",
+   "EN": "What a vibe, bro!"
+  },
+  {
+   "start": 14.5,
+   "end": 16.0,
+   "ES": "Se acabó la vibra",
+   "EN": "Vibe's gone"
+  },
+  {
+   "start": 16.0,
+   "end": 18.4,
+   "ES": "Bro… perdón",
+   "EN": "Bro… my bad"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "alanzoka y la vibra nocturna de GTA 6 🌆",
+   "caption": "🌆💥 alanzoka manejando de noche con toda la vibra… y la rampa dijo que no 😂 ¿Tú también manejas así en GTA 6? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "alanzoka"
+   ]
+  },
+  "EN": {
+   "title": "alanzoka's night drive vibe in GTA 6 🌆",
+   "caption": "🌆💥 alanzoka cruising at night with full vibes… then the ramp said no 😂 Do you drive like this in GTA 6 too? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "alanzoka"
+   ]
+  }
+ }
+}

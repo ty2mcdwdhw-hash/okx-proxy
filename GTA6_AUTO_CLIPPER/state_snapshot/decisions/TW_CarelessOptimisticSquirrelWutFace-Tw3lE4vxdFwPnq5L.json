@@ -1,0 +1,59 @@
+{
+ "id": "TW_CarelessOptimisticSquirrelWutFace-Tw3lE4vxdFwPnq5L",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Conducción nocturna, persecución y choque.",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0,
+  15.7
+ ],
+ "hook": {
+  "ES": "Persecución de noche en GTA 6",
+  "EN": "Night chase in GTA 6"
+ },
+ "subs": [
+  {
+   "start": 0,
+   "end": 1.5,
+   "ES": "¡Me sigue persiguiendo!",
+   "EN": "They keep chasing me!"
+  },
+  {
+   "start": 4.5,
+   "end": 8,
+   "ES": "¡Contra el poste!",
+   "EN": "Right into the pole!"
+  },
+  {
+   "start": 9,
+   "end": 15.7,
+   "ES": "…y la huida sigue",
+   "EN": "…and the getaway continues"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Persecución de noche en GTA 6",
+   "caption": "Huida nocturna, choque contra un poste… y a seguir acelerando 🚙💥\n¿Así manejas tú en GTA?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "Night chase in GTA 6",
+   "caption": "Night getaway, a pole in the way… and still flooring it 🚙💥\nIs this how you drive in GTA?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  }
+ }
+}

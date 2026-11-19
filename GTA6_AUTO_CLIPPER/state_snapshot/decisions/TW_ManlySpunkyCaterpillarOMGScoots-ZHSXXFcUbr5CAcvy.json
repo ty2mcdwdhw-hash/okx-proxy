@@ -1,0 +1,71 @@
+{
+ "id": "TW_ManlySpunkyCaterpillarOMGScoots-ZHSXXFcUbr5CAcvy",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Teléfono del juego, app social. Sin historia.",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0,
+  30
+ ],
+ "hook": {
+  "ES": "GTA 6 tiene su propio Instagram",
+  "EN": "GTA 6 has its own Instagram"
+ },
+ "subs": [
+  {
+   "start": 1.74,
+   "end": 6.26,
+   "ES": "Si te tomas una selfie… ¿Snapmatic?",
+   "EN": "Take a selfie… Snapmatic?"
+  },
+  {
+   "start": 8.46,
+   "end": 12.02,
+   "ES": "¡¿Tenemos Instagram en GTA?!",
+   "EN": "We got Instagram in GTA?!"
+  },
+  {
+   "start": 15.7,
+   "end": 17.7,
+   "ES": "1K likes",
+   "EN": "1K likes"
+  },
+  {
+   "start": 17.98,
+   "end": 20.86,
+   "ES": "130",
+   "EN": "130"
+  },
+  {
+   "start": 20.86,
+   "end": 29.98,
+   "ES": "Estoy siguiendo a una modelo de Instagram",
+   "EN": "I'm following an IG model"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "GTA 6 tiene su propio Instagram dentro del juego",
+   "caption": "El teléfono de GTA 6 tiene su propia red social: selfies, likes y seguidores 📱\n¿Qué publicarías tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 has its own in-game Instagram",
+   "caption": "GTA 6's phone has its own social app: selfies, likes and followers 📱\nWhat would you post?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

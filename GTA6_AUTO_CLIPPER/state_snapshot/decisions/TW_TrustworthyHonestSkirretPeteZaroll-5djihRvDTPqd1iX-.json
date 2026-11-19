@@ -1,0 +1,71 @@
+{
+ "id": "TW_TrustworthyHonestSkirretPeteZaroll-5djihRvDTPqd1iX-",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "reason": "encuentro secreto, reacción fuerte, momento claro",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  3.5,
+  33.5
+ ],
+ "hook": {
+  "ES": "Encontró a Pie Grande en GTA 6 👣",
+  "EN": "They found Bigfoot in GTA 6 👣"
+ },
+ "subs": [
+  {
+   "start": 4.5,
+   "end": 7.5,
+   "ES": "¿Qué m***a es eso?",
+   "EN": "What the h*ll is that?"
+  },
+  {
+   "start": 9.5,
+   "end": 11.5,
+   "ES": "Dios mío, es el...",
+   "EN": "Oh my God, it's the..."
+  },
+  {
+   "start": 11.5,
+   "end": 14.5,
+   "ES": "¿Me estoy volviendo loco?",
+   "EN": "Am I losing it?"
+  },
+  {
+   "start": 16.0,
+   "end": 19.5,
+   "ES": "¿Qué es eso? ¡Me desmayé!",
+   "EN": "What is that? I passed out!"
+  },
+  {
+   "start": 29.5,
+   "end": 33.5,
+   "ES": "Uff... ¡ca***o!",
+   "EN": "Ugh... d*mn!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Encontró a Pie Grande en GTA 6 👣",
+   "caption": "👣😱 Se metió al bosque, vio algo enorme entre los árboles… y se desmayó.\n¿Ustedes ya lo encontraron? ¿Creen que es real?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "PieGrande"
+   ]
+  },
+  "EN": {
+   "title": "They found Bigfoot in GTA 6 👣",
+   "caption": "👣😱 They wandered into the woods, saw something huge between the trees… and passed out.\nHave you found it yet? Do you think it's real?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Bigfoot"
+   ]
+  }
+ }
+}

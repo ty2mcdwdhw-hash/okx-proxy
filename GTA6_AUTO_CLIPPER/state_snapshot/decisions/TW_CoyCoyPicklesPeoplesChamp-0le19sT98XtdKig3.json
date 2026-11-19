@@ -1,0 +1,65 @@
+{
+ "id": "TW_CoyCoyPicklesPeoplesChamp-0le19sT98XtdKig3",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Escape de la policía con salto épico.",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  8.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "Escapó de la policía volando desde el aeropuerto ✈️",
+  "EN": "Escaped the cops by flying off the airport ✈️"
+ },
+ "subs": [
+  {
+   "start": 8.34,
+   "end": 12.0,
+   "ES": "Estamos asaltando el aeropuerto… y llegó la poli",
+   "EN": "We're raiding the airport… and the cops showed up"
+  },
+  {
+   "start": 12.0,
+   "end": 15.68,
+   "ES": "¡Nos vamos, nos vamos! ¡Salgo primero!",
+   "EN": "We're out, we're out! I'm going first!"
+  },
+  {
+   "start": 15.68,
+   "end": 24.25,
+   "ES": "¡Wooooo! ¡Jajaja!",
+   "EN": "Wooooo! Hahaha!"
+  },
+  {
+   "start": 24.25,
+   "end": 29.23,
+   "ES": "Uff… creo que se bugueó, se bugueó",
+   "EN": "Whoa… I think it glitched, it glitched"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Escape de la policía volando desde el aeropuerto en GTA 6",
+   "caption": "Llegó la poli al aeropuerto y la única salida fue… por el aire 🚗✈️\n¿Ustedes también escapan así de la policía?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Escaping the cops by flying off the airport in GTA 6",
+   "caption": "The cops showed up at the airport and the only way out was… through the air 🚗✈️\nIs this how you escape the cops too?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

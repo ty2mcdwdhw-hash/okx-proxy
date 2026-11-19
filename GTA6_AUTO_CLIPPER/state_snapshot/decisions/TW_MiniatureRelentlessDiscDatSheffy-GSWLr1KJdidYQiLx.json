@@ -1,0 +1,77 @@
+{
+ "id": "TW_MiniatureRelentlessDiscDatSheffy-GSWLr1KJdidYQiLx",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "giro gracioso con la policía, mundo abierto",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.0,
+  26.0
+ ],
+ "hook": {
+  "ES": "¿Robar un auto de lujo… o una patrulla? 🚓",
+  "EN": "Stealing a fancy car… or a cop car? 🚓"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "ES": "Ese carro se ve carísimo",
+   "EN": "That car looks kinda pricey"
+  },
+  {
+   "start": 7.0,
+   "end": 10.91,
+   "ES": "Teoría: si le apunto con la pistola...",
+   "EN": "Theory: if I just point a gun at them..."
+  },
+  {
+   "start": 10.91,
+   "end": 15.58,
+   "ES": "...me lo puedo quedar",
+   "EN": "...I can just take it"
+  },
+  {
+   "start": 15.58,
+   "end": 17.58,
+   "ES": "¡¿Pero si eres una patrulla?!",
+   "EN": "Wait, you're a cop car?!"
+  },
+  {
+   "start": 17.58,
+   "end": 24.75,
+   "ES": "Pues me la quedo",
+   "EN": "Welp, I'm keeping it"
+  },
+  {
+   "start": 24.75,
+   "end": 25.75,
+   "ES": "¿Va?",
+   "EN": "Deal?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Quiso robar un auto de lujo… y era una patrulla",
+   "caption": "🚓 Apuntó para robarse un carro caro y resultó ser de la policía 😂\n¿Ustedes también se quedarían con la patrulla? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Tried to jack a fancy car… it was a cop car",
+   "caption": "🚓 Pulled a gun to steal a fancy ride and it turned out to be the police 😂\nWould you keep the cop car too? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cops"
+   ]
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "TW_AmericanStupidKleeRickroll-XBuE_VMyP-dZ_DEm",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Asalto a un velero en mundo abierto con remate gracioso.",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  19.0,
+  49.0
+ ],
+ "hook": {
+  "ES": "Asaltó un velero en GTA 6… y se llevó 13 dólares ⛵",
+  "EN": "Robbed a sailboat in GTA 6… for 13 bucks ⛵"
+ },
+ "subs": [
+  {
+   "start": 19.44,
+   "end": 20.44,
+   "ES": "Por un costado",
+   "EN": "From the side"
+  },
+  {
+   "start": 27.3,
+   "end": 35.03,
+   "ES": "No se entera de nada",
+   "EN": "They have no clue"
+  },
+  {
+   "start": 41.53,
+   "end": 43.53,
+   "ES": "¡Dame el dinero! ¡Dinero! ¡Dinero!",
+   "EN": "Give me the cash! Cash! Cash!"
+  },
+  {
+   "start": 46.53,
+   "end": 48.53,
+   "ES": "¿¡13 dólares!?",
+   "EN": "13 dollars?!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Asaltando un velero en GTA 6",
+   "caption": "Nadó hasta el velero, subió sin que lo vieran… y el botín fue de 13 dólares ⛵😂\n¿Ustedes qué asaltarían primero en GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Barcos"
+   ]
+  },
+  "EN": {
+   "title": "Robbing a sailboat in GTA 6",
+   "caption": "Swam up to the sailboat, climbed aboard unseen… and the loot was 13 bucks ⛵😂\nWhat would you rob first in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Boats"
+   ]
+  }
+ }
+}

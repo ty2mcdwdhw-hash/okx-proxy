@@ -1,0 +1,71 @@
+{
+ "id": "TW_TastyLivelyGorillaKappaRoss-XJg_HzTSewKws7nZ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Solo menús de consola/cuenta regresiva/arte oficial. Sin historia. Pantalla de sincronización y error de red.",
+ "pillar": "Momentos divertidos / Lanzamiento",
+ "trim": [
+  6.0,
+  32.3
+ ],
+ "hook": {
+  "ES": "Listo para jugar GTA 6… error de red",
+  "EN": "Ready to play GTA 6… network error"
+ },
+ "subs": [
+  {
+   "start": 6.58,
+   "end": 7.58,
+   "ES": "¡Ah!",
+   "EN": "Ah!"
+  },
+  {
+   "start": 9.51,
+   "end": 10.51,
+   "ES": "¡Qué susto!",
+   "EN": "That scared me!"
+  },
+  {
+   "start": 16.31,
+   "end": 19.31,
+   "ES": "Sincronizando datos para GTA 6...",
+   "EN": "Syncing data for GTA 6..."
+  },
+  {
+   "start": 22.31,
+   "end": 23.31,
+   "ES": "¿Ya puedo jugar?",
+   "EN": "Can I play now?"
+  },
+  {
+   "start": 24.5,
+   "end": 32.0,
+   "ES": "(error de red temporal)",
+   "EN": "(temporary network error)"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Listo para GTA 6… y error de red",
+   "caption": "Esperó 13 años para esto… y le salió error de red 💀\n¿A ti te cargó bien?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Lanzamiento"
+   ]
+  },
+  "EN": {
+   "title": "Ready for GTA 6… then a network error",
+   "caption": "Waited 13 years for this… and got a network error 💀\nDid yours load fine?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Launch"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

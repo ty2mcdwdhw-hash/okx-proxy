@@ -1,0 +1,71 @@
+{
+ "id": "TW_LitigiousReliableAirGuitar4Head-uj3RDZ074Y6rMFu2",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Solo menús de consola/cuenta regresiva/arte oficial. Sin historia. Mensaje 'aún no disponible'.",
+ "pillar": "Momentos divertidos / Lanzamiento",
+ "trim": [
+  3.4,
+  30.0
+ ],
+ "hook": {
+  "ES": "Llegó a cero… y GTA 6 todavía no abría",
+  "EN": "The countdown hit zero… and GTA 6 still wouldn't open"
+ },
+ "subs": [
+  {
+   "start": 3.4,
+   "end": 7.6,
+   "ES": "Ni música épica ni nada. Cinco segundos...",
+   "EN": "No epic music, nothing. Five seconds..."
+  },
+  {
+   "start": 7.6,
+   "end": 18.63,
+   "ES": "13 años... no puede ser real",
+   "EN": "13 years... this can't be real"
+  },
+  {
+   "start": 18.63,
+   "end": 23.55,
+   "ES": "Lo entiendo, señores, lo entiendo",
+   "EN": "I get it, guys, I get it"
+  },
+  {
+   "start": 23.55,
+   "end": 28.87,
+   "ES": "Juro que entiendo que no funcione",
+   "EN": "I swear I get that it's not working"
+  },
+  {
+   "start": 28.87,
+   "end": 30.0,
+   "ES": "No me lo puedo creer",
+   "EN": "I can't believe it"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La cuenta llegó a cero y GTA 6 no abría",
+   "caption": "La cuenta llegó a cero… y la consola dijo que todavía no 😭\n¿Te pasó lo mismo?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Lanzamiento"
+   ]
+  },
+  "EN": {
+   "title": "The countdown hit zero and GTA 6 wouldn't open",
+   "caption": "Countdown hit zero… and the console said not yet 😭\nDid this happen to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Launch"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

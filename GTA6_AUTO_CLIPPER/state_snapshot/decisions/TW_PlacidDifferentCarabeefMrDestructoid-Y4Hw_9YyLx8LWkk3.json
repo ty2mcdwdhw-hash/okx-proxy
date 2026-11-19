@@ -1,0 +1,83 @@
+{
+ "id": "TW_PlacidDifferentCarabeefMrDestructoid-Y4Hw_9YyLx8LWkk3",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "reacción fuerte, momento claro",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  2.5,
+  23.5
+ ],
+ "hook": {
+  "ES": "¡Esto es un asalto! 💰",
+  "EN": "This is a robbery! 💰"
+ },
+ "subs": [
+  {
+   "start": 3.0,
+   "end": 6.14,
+   "ES": "¡Ay, ca***o! ¡Todos manos arriba! ¡Es un asalto!",
+   "EN": "Oh sh*t! Hands up, everybody! This is a robbery!"
+  },
+  {
+   "start": 6.14,
+   "end": 8.98,
+   "ES": "¡Arriba! ¡Al suelo, agáchense!",
+   "EN": "Hands up! Get down, get down!"
+  },
+  {
+   "start": 8.98,
+   "end": 10.98,
+   "ES": "¡Que te agaches, te dije!",
+   "EN": "I said get down!"
+  },
+  {
+   "start": 10.98,
+   "end": 13.78,
+   "ES": "¡Al suelo! ¡Suelten la lana ya mismo!",
+   "EN": "Down! Hand over the cash, right now!"
+  },
+  {
+   "start": 13.78,
+   "end": 15.74,
+   "ES": "¿Y tú qué miras, señora?",
+   "EN": "What are you looking at, lady?"
+  },
+  {
+   "start": 15.74,
+   "end": 19.34,
+   "ES": "¡Dame la lana! Ya me la llevo.",
+   "EN": "Give me the money! I'm taking it."
+  },
+  {
+   "start": 20.9,
+   "end": 23.14,
+   "ES": "¡Más, más, más! ¡No alcanza!",
+   "EN": "More, more, more! That's not enough!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Atraco en GTA 6: ¡todos al suelo!",
+   "caption": "😤 Un asalto en GTA 6 y no para de gritar “¡agáchense!” 💰\n¿Ustedes también atracan así de intensos? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Atraco"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 robbery: everybody get down!",
+   "caption": "😤 A GTA 6 holdup and they won't stop yelling “get down!” 💰\nAre you this intense during a robbery too? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Heist"
+   ]
+  }
+ }
+}

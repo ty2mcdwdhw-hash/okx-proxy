@@ -1,0 +1,71 @@
+{
+ "id": "TW_ExuberantColdFriseeHeyGuys-80_f6WnXDTcLKfSl",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Solo menús de consola/cuenta regresiva/arte oficial. Sin historia.",
+ "pillar": "Momentos divertidos / Lanzamiento",
+ "trim": [
+  0.0,
+  26.1
+ ],
+ "hook": {
+  "ES": "Abrió GTA 6 y lo primero que pensó: ¿me banearon?",
+  "EN": "Opened GTA 6 and first thought: am I banned?"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 9.44,
+   "ES": "¡Diez, nueve, ocho, siete, seis, cinco, cuatro, tres, dos, uno, PUM!",
+   "EN": "Ten, nine, eight, seven, six, five, four, three, two, one, BOOM!"
+  },
+  {
+   "start": 9.44,
+   "end": 14.1,
+   "ES": "¡Jugar! ¡Jugar!",
+   "EN": "Play! Play!"
+  },
+  {
+   "start": 14.1,
+   "end": 21.02,
+   "ES": "¡Oh sí, bro, bro, bro!",
+   "EN": "Oh yes, bro, bro, bro!"
+  },
+  {
+   "start": 21.02,
+   "end": 25.02,
+   "ES": "¿Me banearon? ¡No quiero que me baneen!",
+   "EN": "Am I banned? I don't want to get banned!"
+  },
+  {
+   "start": 25.02,
+   "end": 26.1,
+   "ES": "¡Siguiente!",
+   "EN": "Next!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "MontanaBlack abre GTA 6: ¿me banearon?",
+   "caption": "El streamer alemán MontanaBlack abriendo GTA 6 por primera vez 🇩🇪😂\n¿Cuál fue tu primera reacción?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Lanzamiento"
+   ]
+  },
+  "EN": {
+   "title": "MontanaBlack opens GTA 6: am I banned?",
+   "caption": "German streamer MontanaBlack opening GTA 6 for the first time 🇩🇪😂\nWhat was your first reaction?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Launch"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

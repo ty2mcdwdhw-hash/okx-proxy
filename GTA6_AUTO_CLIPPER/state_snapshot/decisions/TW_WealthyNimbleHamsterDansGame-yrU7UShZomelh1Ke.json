@@ -1,0 +1,71 @@
+{
+ "id": "TW_WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "Clip muy visto de un streamer grande.",
+ "pillar": "Reacciones / Historia",
+ "trim": [
+  22,
+  50
+ ],
+ "hook": {
+  "ES": "xQc roba su primer auto en GTA 6",
+  "EN": "xQc steals a car in GTA 6 for the first time"
+ },
+ "subs": [
+  {
+   "start": 22,
+   "end": 26,
+   "ES": "¿Cómo consigo un auto?",
+   "EN": "How do I get a car?"
+  },
+  {
+   "start": 26,
+   "end": 29.7,
+   "ES": "¡Vuelve, por favor!",
+   "EN": "Please come back!"
+  },
+  {
+   "start": 30.6,
+   "end": 32.6,
+   "ES": "¿Me lo puedo llevar?",
+   "EN": "Can I take this?"
+  },
+  {
+   "start": 36,
+   "end": 44,
+   "ES": "(su primer auto en GTA 6)",
+   "EN": "(first car in GTA 6)"
+  },
+  {
+   "start": 44,
+   "end": 50,
+   "ES": "Sí, corrí...",
+   "EN": "Yeah, I ran..."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "xQc roba su primer auto en GTA 6",
+   "caption": "xQc cometiendo su primer Grand Theft Auto en GTA 6 🚗😂\n¿Cuál fue tu primer auto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "xQc"
+   ]
+  },
+  "EN": {
+   "title": "xQc steals a car in GTA 6 for the first time",
+   "caption": "xQc committing grand theft auto for the first time in GTA 6 🚗😂\nWhat was your first car?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "xQc"
+   ]
+  }
+ }
+}

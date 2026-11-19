@@ -1,0 +1,89 @@
+{
+ "id": "LOCAL_grefg_01845",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "Huida épica en avión bajo presión (genérico).",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  13.5,
+  43.5
+ ],
+ "hook": {
+  "ES": "Huyó en avión con el motor dañado ✈️🔥",
+  "EN": "Escaped by plane with a damaged engine ✈️🔥"
+ },
+ "subs": [
+  {
+   "start": 13.88,
+   "end": 15.88,
+   "ES": "¡Corre al p*to avión! ¡Corre al avión!",
+   "EN": "Run to the d*mn plane! Run to the plane!"
+  },
+  {
+   "start": 18.51,
+   "end": 20.51,
+   "ES": "¡Me c*go en todo, qué cagada!",
+   "EN": "Oh sh*t, what a mess!"
+  },
+  {
+   "start": 21.51,
+   "end": 24.51,
+   "ES": "¡Son como 200! ¡Son 200!",
+   "EN": "There's like 200 of them!"
+  },
+  {
+   "start": 25.51,
+   "end": 28.51,
+   "ES": "Tengo que acelerar y despegar",
+   "EN": "Gotta hit the gas and take off"
+  },
+  {
+   "start": 28.51,
+   "end": 32.51,
+   "ES": "Me van a reventar el avión… ¡Motor dañado!",
+   "EN": "They're gonna wreck the plane… Engine damaged!"
+  },
+  {
+   "start": 33.51,
+   "end": 36.51,
+   "ES": "«Mantén cuadrado para usar el timón mientras…»",
+   "EN": "'Hold square to use the rudder while…'"
+  },
+  {
+   "start": 37.51,
+   "end": 39.51,
+   "ES": "«…estás en el agua». ¡Ya, pero ya no estoy en el agua!",
+   "EN": "'…on the water.' Yeah, but I'm not on the water anymore!"
+  },
+  {
+   "start": 42.56,
+   "end": 43.5,
+   "ES": "Y para hacerme el chulo… ¡me voy a estrellar!",
+   "EN": "And trying to show off… I'm gonna crash!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "TheGrefg escapando en avión en GTA 6",
+   "caption": "Disparos por todos lados, motor dañado… y despegando como podía ✈️🔥\n¿Ustedes ya pilotaron en GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  },
+  "EN": {
+   "title": "TheGrefg escaping by plane in GTA 6",
+   "caption": "Bullets everywhere, engine damaged… and taking off anyway ✈️🔥\nHave you flown a plane in GTA 6 yet?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  }
+ }
+}

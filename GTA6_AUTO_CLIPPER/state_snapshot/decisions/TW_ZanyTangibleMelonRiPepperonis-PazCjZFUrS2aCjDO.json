@@ -1,0 +1,53 @@
+{
+ "id": "TW_ZanyTangibleMelonRiPepperonis-PazCjZFUrS2aCjDO",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "Reacción con timing irónico (genérico)",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  6.0,
+  23.4
+ ],
+ "hook": {
+  "ES": "Lo dijo en el peor momento 💀",
+  "EN": "Worst timing ever 💀"
+ },
+ "subs": [
+  {
+   "start": 6.0,
+   "end": 10.0,
+   "ES": "¡Hostia, es la primera vez que estoy muy cerca…",
+   "EN": "Damn, it's the first time I'm this close…"
+  },
+  {
+   "start": 10.0,
+   "end": 14.16,
+   "ES": "…muy cerca de morir, ¿eh?",
+   "EN": "…this close to dying, huh?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "DjMaRiiO y el peor timing en GTA 6 💀",
+   "caption": "💀 DjMaRiiO lo dijo en voz alta… y el juego le contestó 😂 ¿Te ha pasado algo así? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "DjMaRiiO"
+   ]
+  },
+  "EN": {
+   "title": "DjMaRiiO's worst timing in GTA 6 💀",
+   "caption": "💀 DjMaRiiO said it out loud… and the game answered 😂 Ever had timing this bad? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "DjMaRiiO"
+   ]
+  }
+ }
+}

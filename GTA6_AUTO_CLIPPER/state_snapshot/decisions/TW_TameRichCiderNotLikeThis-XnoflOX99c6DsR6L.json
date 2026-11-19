@@ -1,0 +1,65 @@
+{
+ "id": "TW_TameRichCiderNotLikeThis-XnoflOX99c6DsR6L",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Solo pantalla de mapa (condados). Sin historia.",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  22,
+  52
+ ],
+ "hook": {
+  "ES": "Así de grande es el mapa de GTA 6",
+  "EN": "This is how big the GTA 6 map is"
+ },
+ "subs": [
+  {
+   "start": 22,
+   "end": 30,
+   "ES": "Hasta aquí puedo alejar el zoom",
+   "EN": "This is as far as I can zoom out"
+  },
+  {
+   "start": 30,
+   "end": 38,
+   "ES": "Pero mira arriba también… qué mapa tan grande",
+   "EN": "But look up here too… this map is huge"
+  },
+  {
+   "start": 38,
+   "end": 46,
+   "ES": "Esto es lo máximo que deja alejar",
+   "EN": "This is the max zoom out it allows"
+  },
+  {
+   "start": 46.09,
+   "end": 52,
+   "ES": "No, no me deja ir más allá",
+   "EN": "No, it won't let me go any further"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El mapa completo de GTA 6 con zoom al máximo",
+   "caption": "Zoom al máximo en el mapa de Leonida en GTA 6 🗺️🤯\n¿Más grande que el de GTA 5?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "The full GTA 6 map at max zoom out",
+   "caption": "Max zoom out on the Leonida map in GTA 6 🗺️🤯\nBigger than GTA 5's?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

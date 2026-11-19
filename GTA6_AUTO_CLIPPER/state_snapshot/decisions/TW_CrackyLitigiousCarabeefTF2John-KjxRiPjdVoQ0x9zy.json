@@ -1,0 +1,59 @@
+{
+ "id": "TW_CrackyLitigiousCarabeefTF2John-KjxRiPjdVoQ0x9zy",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Mecánica de comida/consumibles, momento gracioso.",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  36.0,
+  60.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 las manzanas nunca se acaban 🍎",
+  "EN": "The apples in GTA 6 never run out 🍎"
+ },
+ "subs": [
+  {
+   "start": 37.0,
+   "end": 41.9,
+   "ES": "¡Maldición! ¡Lo dejaron aquí a propósito para hacerme enojar!",
+   "EN": "Dammit! They left this here on purpose just to make me mad!"
+  },
+  {
+   "start": 52.38,
+   "end": 56.0,
+   "ES": "Las manzanas no bajan nunca…",
+   "EN": "The apples never go down…"
+  },
+  {
+   "start": 56.0,
+   "end": 59.82,
+   "ES": "¿Qué onda con estas manzanas?",
+   "EN": "What's up with these apples?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Las manzanas infinitas de GTA 6",
+   "caption": "En GTA 6 puedes comer fruta para subir tu vida… y este frutero parece no vaciarse nunca 🍎😂\n¿Cuántas manzanas te comerías tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mecanicas"
+   ]
+  },
+  "EN": {
+   "title": "The infinite apples of GTA 6",
+   "caption": "In GTA 6 you can eat fruit to boost your health… and this fruit bowl just never runs out 🍎😂\nHow many apples would you eat?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mechanics"
+   ]
+  }
+ }
+}

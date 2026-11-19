@@ -1,0 +1,59 @@
+{
+ "id": "TW_DepressedCoySharkEleGiggle-Qx4nme4Mp2U5ne57",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Escape de la policía saltando al mar, buen momento de agua.",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  16.0,
+  46.0
+ ],
+ "hook": {
+  "ES": "Se tiró del puente para escapar de la policía 🌊",
+  "EN": "Jumped off the bridge to escape the cops 🌊"
+ },
+ "subs": [
+  {
+   "start": 21.5,
+   "end": 23.5,
+   "ES": "Policía: ¡Tiene un arma! ¡Está armado!",
+   "EN": "Cop: Gun! The suspect is armed!"
+  },
+  {
+   "start": 24.5,
+   "end": 27.5,
+   "ES": "Policía: ¡Alto! ¡Vigilen sus manos!",
+   "EN": "Cop: Stop right there! Watch their hands!"
+  },
+  {
+   "start": 42.86,
+   "end": 46.0,
+   "ES": "Olvídate del auto, ahorita no me pueden atrapar",
+   "EN": "Forget the car, I can't get caught right now"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Escapó de la policía saltando al mar en GTA 6",
+   "caption": "Sin salida en el puente… y la única opción fue el mar 🌊🚓\n¿Ustedes también se tiran al agua para perder a la poli?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Agua"
+   ]
+  },
+  "EN": {
+   "title": "Escaping the cops by diving into the sea in GTA 6",
+   "caption": "No way out on the bridge… so the only option was the ocean 🌊🚓\nDo you also jump in the water to lose the cops?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Water"
+   ]
+  }
+ }
+}

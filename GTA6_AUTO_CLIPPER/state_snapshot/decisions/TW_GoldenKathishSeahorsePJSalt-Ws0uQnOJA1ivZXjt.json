@@ -1,0 +1,59 @@
+{
+ "id": "TW_GoldenKathishSeahorsePJSalt-Ws0uQnOJA1ivZXjt",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Robo de moto a un NPC con la policía cerca.",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  0.0,
+  21.0
+ ],
+ "hook": {
+  "ES": "Le robó la moto a un NPC… con la policía al lado 🏍️",
+  "EN": "Stole a bike from an NPC… right next to the cops 🏍️"
+ },
+ "subs": [
+  {
+   "start": 4.34,
+   "end": 6.34,
+   "ES": "¡Una Harley!",
+   "EN": "A Harley!"
+  },
+  {
+   "start": 7.34,
+   "end": 8.34,
+   "ES": "¡Harley!",
+   "EN": "Harley!"
+  },
+  {
+   "start": 8.34,
+   "end": 10.34,
+   "ES": "¡Bro!",
+   "EN": "Bro!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Robando una moto de noche en GTA 6",
+   "caption": "Vio la moto, se la quitó al dueño… y la patrulla pasando justo ahí 🏍️🚓\n¿Ustedes qué prefieren en GTA 6: moto o auto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Motos"
+   ]
+  },
+  "EN": {
+   "title": "Stealing a motorcycle at night in GTA 6",
+   "caption": "Saw the bike, yanked the owner off… with a cop car driving right by 🏍️🚓\nWhat do you prefer in GTA 6: bike or car?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Bikes"
+   ]
+  }
+ }
+}

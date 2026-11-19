@@ -1,0 +1,71 @@
+{
+ "id": "TW_CaringRealBatteryOSsloth-ObL8PG4pIfE4ZxYh",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Solo menús de consola/cuenta regresiva/arte oficial. Sin historia.",
+ "pillar": "Noticias / Lanzamiento",
+ "trim": [
+  12.2,
+  42.0
+ ],
+ "hook": {
+  "ES": "Así se vivió el segundo cero de GTA 6",
+  "EN": "The exact second GTA 6 unlocked"
+ },
+ "subs": [
+  {
+   "start": 12.24,
+   "end": 22.52,
+   "ES": "10, 9, 8, 7, 6, 5, 4, 3, 2, 1",
+   "EN": "10, 9, 8, 7, 6, 5, 4, 3, 2, 1"
+  },
+  {
+   "start": 25.25,
+   "end": 28.25,
+   "ES": "¡Grande!",
+   "EN": "Let's go!"
+  },
+  {
+   "start": 28.25,
+   "end": 30.25,
+   "ES": "¡Señores!",
+   "EN": "Guys!"
+  },
+  {
+   "start": 30.25,
+   "end": 35.25,
+   "ES": "Por favor, no me falles, que ya son las 12",
+   "EN": "Please don't fail me, it's 12 already"
+  },
+  {
+   "start": 35.25,
+   "end": 42.0,
+   "ES": "¡Ay, por favor! ¡Ay, por favor!",
+   "EN": "Oh please! Oh please!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El segundo cero de GTA 6 en directo",
+   "caption": "Cuenta regresiva, botón de jugar y nervios: así llegó GTA 6 🎮\n¿Te funcionó a la primera?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Lanzamiento"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 unlock countdown live",
+   "caption": "Countdown, play button and nerves: this is how GTA 6 dropped 🎮\nDid it work for you first try?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Launch"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

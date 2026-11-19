@@ -1,0 +1,71 @@
+{
+ "id": "TW_TolerantQuaintRavenPeoplesChamp-ogpLDBPNEKM-k8YT",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Personalización de la casa: pintura de paredes.",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0.0,
+  28.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes pintar tu casa 🎨",
+  "EN": "You can paint your house in GTA 6 🎨"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "ES": "Este es el dinero que llevo encima",
+   "EN": "This is the cash I'm carrying"
+  },
+  {
+   "start": 2.0,
+   "end": 8.0,
+   "ES": "OK, OK",
+   "EN": "OK, OK"
+  },
+  {
+   "start": 13.98,
+   "end": 16.98,
+   "ES": "Verde tropical… azul tormenta…",
+   "EN": "Tropical green… storm blue…"
+  },
+  {
+   "start": 16.98,
+   "end": 19.98,
+   "ES": "Durazno pastel",
+   "EN": "Pastel peach"
+  },
+  {
+   "start": 19.98,
+   "end": 23.98,
+   "ES": "El cuarto de un tipo rudo… en durazno pastel",
+   "EN": "A tough guy's room… in pastel peach"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "En GTA 6 puedes pintar tu casa",
+   "caption": "Escondite en el piso y paredes nuevas: en GTA 6 puedes pintar tu casa 🎨🏠\n¿De qué color pintarían su cuarto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Casa"
+   ]
+  },
+  "EN": {
+   "title": "You can paint your house in GTA 6",
+   "caption": "A hidden floor stash and fresh walls: you can paint your house in GTA 6 🎨🏠\nWhat color would you paint your room?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Home"
+   ]
+  }
+ }
+}

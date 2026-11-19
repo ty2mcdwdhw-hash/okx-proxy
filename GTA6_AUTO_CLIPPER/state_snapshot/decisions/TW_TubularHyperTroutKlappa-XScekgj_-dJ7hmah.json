@@ -1,0 +1,53 @@
+{
+ "id": "TW_TubularHyperTroutKlappa-XScekgj_-dJ7hmah",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Solo menús de consola/cuenta regresiva/arte oficial. Sin historia.",
+ "pillar": "Noticias / Lanzamiento",
+ "trim": [
+  5.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "Así contó Brasil los últimos segundos",
+  "EN": "Brazil's last seconds before GTA 6"
+ },
+ "subs": [
+  {
+   "start": 6.8,
+   "end": 26.0,
+   "ES": "15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2",
+   "EN": "15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2"
+  },
+  {
+   "start": 26.0,
+   "end": 30.0,
+   "ES": "¡GTA!",
+   "EN": "GTA!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Brasil contando los últimos segundos de GTA 6",
+   "caption": "Brasil contando los últimos segundos antes de GTA 6 🇧🇷🔥\n¿Desde qué país lo jugaste?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Lanzamiento"
+   ]
+  },
+  "EN": {
+   "title": "Brazil counting down to GTA 6",
+   "caption": "Brazil counting down the last seconds to GTA 6 🇧🇷🔥\nWhat country did you play from?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Launch"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

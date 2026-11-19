@@ -1,0 +1,53 @@
+{
+ "id": "TW_HeadstrongTangibleFinchJonCarnage-ZafS6_K5vzA18lH5",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Salto acrobático coleccionable sobre el río.",
+ "pillar": "Trucos y Mecánicas (Autos)",
+ "trim": [
+  0.0,
+  16.4
+ ],
+ "hook": {
+  "ES": "GTA 6 tiene 130 saltos acrobáticos 🚗💨",
+  "EN": "GTA 6 has 130 stunt jumps 🚗💨"
+ },
+ "subs": [
+  {
+   "start": 5.3,
+   "end": 14.91,
+   "ES": "¡Oyeee!",
+   "EN": "Yooo!"
+  },
+  {
+   "start": 14.91,
+   "end": 16.39,
+   "ES": "¡Qué bien!",
+   "EN": "Nice!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "GTA 6 tiene 130 saltos acrobáticos",
+   "caption": "Saltó el río y desbloqueó el primero de 130 saltos acrobáticos de GTA 6 🚗💨\n¿Vas a completar todos?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tips"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 has 130 stunt jumps",
+   "caption": "Cleared the river and unlocked the first of GTA 6's 130 stunt jumps 🚗💨\nAre you going for all of them?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tips"
+   ]
+  }
+ }
+}

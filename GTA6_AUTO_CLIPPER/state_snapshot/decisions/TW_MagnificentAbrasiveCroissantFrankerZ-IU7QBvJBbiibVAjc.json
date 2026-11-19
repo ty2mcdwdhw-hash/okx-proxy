@@ -1,0 +1,71 @@
+{
+ "id": "TW_MagnificentAbrasiveCroissantFrankerZ-IU7QBvJBbiibVAjc",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Muelle, nado y buceo libre. Sin historia.",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  0,
+  30
+ ],
+ "hook": {
+  "ES": "Intentando el clavado del tráiler de GTA 6",
+  "EN": "Trying the GTA 6 trailer dive"
+ },
+ "subs": [
+  {
+   "start": 0,
+   "end": 2,
+   "ES": "¿Cómo se hace el mortal como en el tráiler?",
+   "EN": "How do you do the flip like in the trailer?"
+  },
+  {
+   "start": 9.1,
+   "end": 11.6,
+   "ES": "No salió el mortal, pero casi",
+   "EN": "Didn't land the flip, but almost"
+  },
+  {
+   "start": 12.7,
+   "end": 16,
+   "ES": "¿Será que hay que tirar hacia atrás?",
+   "EN": "Maybe you have to pull back?"
+  },
+  {
+   "start": 19.7,
+   "end": 22.8,
+   "ES": "Calma, toma número 2",
+   "EN": "Hold on, take number 2"
+  },
+  {
+   "start": 26.7,
+   "end": 28.7,
+   "ES": "No me sale el mortal",
+   "EN": "I can't do the flip"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Intentando el clavado del tráiler de GTA 6",
+   "caption": "Intentó hacer el mortal al agua igual que en el tráiler… y el agua se ve así 🌊🤿\n¿Alguien ya sabe cómo se hace?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "Trying the GTA 6 trailer dive",
+   "caption": "Tried the flip into the water just like the trailer… and the water looks like this 🌊🤿\nAnyone figured it out?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

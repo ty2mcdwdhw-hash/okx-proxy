@@ -1,0 +1,71 @@
+{
+ "id": "TW_StrangeUnusualDotterelHoneyBadger-LSKO5c0KRHoErxkg",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "choque en moto con físicas ragdoll, momento claro, sin trama",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  4.5,
+  26.5
+ ],
+ "hook": {
+  "ES": "Así se siente chocar en moto en GTA 6 😵",
+  "EN": "This is what a bike crash feels like in GTA 6 😵"
+ },
+ "subs": [
+  {
+   "start": 4.5,
+   "end": 7.0,
+   "ES": "Tranqui, ya nos vamos a casa.",
+   "EN": "Relax, we're heading home."
+  },
+  {
+   "start": 13.0,
+   "end": 17.0,
+   "ES": "Estoy bien, estoy bien...",
+   "EN": "I'm good, I'm good..."
+  },
+  {
+   "start": 19.45,
+   "end": 21.45,
+   "ES": "No voy a mentir...",
+   "EN": "Not gonna lie..."
+  },
+  {
+   "start": 22.01,
+   "end": 24.01,
+   "ES": "chocar en este juego...",
+   "EN": "crashing in this game..."
+  },
+  {
+   "start": 24.05,
+   "end": 26.05,
+   "ES": "¡está buenísimo!",
+   "EN": "hits different!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Así se siente chocar en moto en GTA 6 😵",
+   "caption": "😵🏍️ Iba tranqui a casa, se comió una camioneta y salió volando… y se levantó agarrándose el hombro.\n¿Ustedes ya probaron las físicas de GTA 6? ¿Mejores que en GTA 5?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "This is what a bike crash feels like in GTA 6 😵",
+   "caption": "😵🏍️ Just riding home, clipped a truck and went flying… then got up holding their shoulder.\nHave you tried the GTA 6 physics yet? Better than GTA 5?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GamePhysics"
+   ]
+  }
+ }
+}

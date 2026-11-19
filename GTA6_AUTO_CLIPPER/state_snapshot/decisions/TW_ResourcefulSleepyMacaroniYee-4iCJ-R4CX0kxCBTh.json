@@ -1,0 +1,83 @@
+{
+ "id": "TW_ResourcefulSleepyMacaroniYee-4iCJ-R4CX0kxCBTh",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Concesionario de lujo y reacción a un auto top.",
+ "pillar": "Autos y tuning / Mecánicas",
+ "trim": [
+  0.0,
+  25.0
+ ],
+ "hook": {
+  "ES": "Encontró un Paragon en el concesionario de GTA 6 🏎️",
+  "EN": "Found a Paragon at the GTA 6 dealership 🏎️"
+ },
+ "subs": [
+  {
+   "start": 0.05,
+   "end": 4.08,
+   "ES": "Espera, ¿cuál? ¿Cuál me llevo?",
+   "EN": "Wait, which one? Which one do I take?"
+  },
+  {
+   "start": 4.08,
+   "end": 7.54,
+   "ES": "¿Cuál? ¿Cuál? ¿Cuál?",
+   "EN": "Which one? Which one? Which one?"
+  },
+  {
+   "start": 7.54,
+   "end": 9.76,
+   "ES": "¡Un Paragon!",
+   "EN": "A Paragon!"
+  },
+  {
+   "start": 9.76,
+   "end": 11.58,
+   "ES": "¡Hay un Paragon!",
+   "EN": "There's a Paragon!"
+  },
+  {
+   "start": 11.58,
+   "end": 13.66,
+   "ES": "¡Uff, un Paragon!",
+   "EN": "Whoa, a Paragon!"
+  },
+  {
+   "start": 13.66,
+   "end": 22.11,
+   "ES": "Pero creo que no me lo puedo llevar…",
+   "EN": "But I don't think I can take it…"
+  },
+  {
+   "start": 22.11,
+   "end": 24.41,
+   "ES": "…no se puede forzar la cerradura",
+   "EN": "…can't force the lock"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Así es el concesionario de lujo de GTA 6",
+   "caption": "Entró al concesionario, vio un Paragon… y se le iluminaron los ojos 🏎️✨\n¿Cuál se llevarían ustedes?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "This is the luxury car dealership in GTA 6",
+   "caption": "Walked into the dealership, spotted a Paragon… and lost it 🏎️✨\nWhich one would you take?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "id": "TW_ComfortableLachrymosePeppermintDendiFace-Aui_95KVt5WTgUSb",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Conducción libre + taller + mapa. Sin historia.",
+ "pillar": "Autos y tuning / Mecánicas",
+ "trim": [
+  18,
+  48
+ ],
+ "hook": {
+  "ES": "El taller no aceptó su auto robado",
+  "EN": "The shop won't take a stolen car in GTA 6"
+ },
+ "subs": [
+  {
+   "start": 18.4,
+   "end": 28.1,
+   "ES": "Se maneja mucho mejor… pero el taller está cerrado",
+   "EN": "Way better handling… but the shop's locked"
+  },
+  {
+   "start": 28.1,
+   "end": 37.7,
+   "ES": "¿Que no es mi auto? ¿Que tengo que comprarlo?",
+   "EN": "It's not my car? I need to buy it?"
+  },
+  {
+   "start": 37.7,
+   "end": 48,
+   "ES": "El juego se llama Grand Theft Auto… solo robé un auto",
+   "EN": "The game's called Grand Theft Auto… I simply stole a car"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "En GTA 6 el taller no acepta autos robados",
+   "caption": "Robó un deportivo y el taller le dijo: este auto no es tuyo 😂🚗\n¿Te parece bien este cambio?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "In GTA 6 the shop won't take stolen cars",
+   "caption": "Stole a sports car and the shop said: this isn't your car 😂🚗\nGood change or not?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

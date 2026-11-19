@@ -1,0 +1,53 @@
+{
+ "id": "TW_CoweringResourcefulJuiceNotLikeThis-RJUB6yBKAOu2Tba_",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "cinemática potente, momento claro",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  12.0,
+  42.0
+ ],
+ "hook": {
+  "ES": "Liberaron a la orca en GTA 6 🐋",
+  "EN": "They set the orca free in GTA 6 🐋"
+ },
+ "subs": [
+  {
+   "start": 14.0,
+   "end": 17.0,
+   "ES": "¡Eres libre!",
+   "EN": "You're free!"
+  },
+  {
+   "start": 39.0,
+   "end": 42.0,
+   "ES": "¡No se muevan y suelten a la ballena!",
+   "EN": "Stay where you are and release the whale!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Liberaron a la orca en GTA 6 🐋",
+   "caption": "🐋🌅 La soltaron en el mar al atardecer… y el salto final es una locura.\n¿La escena más bonita de GTA 6 hasta ahora?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Orca"
+   ]
+  },
+  "EN": {
+   "title": "They set the orca free in GTA 6 🐋",
+   "caption": "🐋🌅 Released into the sea at sunset… and that final leap is insane.\nMost beautiful scene in GTA 6 so far?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Orca"
+   ]
+  }
+ }
+}

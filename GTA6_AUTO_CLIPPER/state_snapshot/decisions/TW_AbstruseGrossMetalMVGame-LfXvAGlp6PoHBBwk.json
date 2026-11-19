@@ -1,0 +1,59 @@
+{
+ "id": "TW_AbstruseGrossMetalMVGame-LfXvAGlp6PoHBBwk",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Mecánica de robo de vehículos.",
+ "pillar": "Trucos y Mecánicas (Autos)",
+ "trim": [
+  0,
+  15
+ ],
+ "hook": {
+  "ES": "En GTA 6 algunos autos tienen sistema de seguridad",
+  "EN": "Some cars in GTA 6 have security systems"
+ },
+ "subs": [
+  {
+   "start": 0,
+   "end": 4.2,
+   "ES": "Para robar un auto hay que clonar la llave",
+   "EN": "To steal a car you have to clone the key"
+  },
+  {
+   "start": 4.2,
+   "end": 6.2,
+   "ES": "¿Qué significa eso, bro?",
+   "EN": "What does that even mean, bro?"
+  },
+  {
+   "start": 6.2,
+   "end": 14.2,
+   "ES": "¿Algunos autos tienen sistema de seguridad?",
+   "EN": "Some cars have security systems?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "En GTA 6 algunos autos tienen sistema de seguridad",
+   "caption": "Ya no basta con romper la ventana: en GTA 6 hay autos con llave sin contacto que tienes que clonar 🔑🚗\n¿Te gusta este cambio?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tips"
+   ]
+  },
+  "EN": {
+   "title": "Some cars in GTA 6 have security systems",
+   "caption": "Smashing the window isn't enough anymore: some GTA 6 cars are keyless and you have to clone the key 🔑🚗\nGood change?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tips"
+   ]
+  }
+ }
+}

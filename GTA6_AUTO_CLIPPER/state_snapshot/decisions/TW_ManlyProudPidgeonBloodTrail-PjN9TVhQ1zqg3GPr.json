@@ -1,0 +1,65 @@
+{
+ "id": "TW_ManlyProudPidgeonBloodTrail-PjN9TVhQ1zqg3GPr",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Conducción libre, NPC en tráfico. Sin historia.",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  0,
+  30
+ ],
+ "hook": {
+  "ES": "Los NPC de GTA 6 tienen furia al volante",
+  "EN": "GTA 6 NPCs have real road rage"
+ },
+ "subs": [
+  {
+   "start": 0.7,
+   "end": 8,
+   "ES": "¡¿Qué?! ¡Me cerró el paso!",
+   "EN": "What?! They cut me off!"
+  },
+  {
+   "start": 8,
+   "end": 15,
+   "ES": "¿Quién es este? ¡Hola!",
+   "EN": "Who is this? Hello!"
+  },
+  {
+   "start": 15,
+   "end": 23,
+   "ES": "¡Este tipo tiene furia al volante!",
+   "EN": "This guy's got crazy road rage!"
+  },
+  {
+   "start": 24,
+   "end": 30,
+   "ES": "¡Tranquilo! ¡Solo quiero ir por mis zapatos!",
+   "EN": "Chill! I'm just trying to get my shoes!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPC de GTA 6 tienen furia al volante",
+   "caption": "Un NPC le cerró el paso y se puso agresivo en plena calle 😤🚙\n¿La IA de GTA 6 está a otro nivel?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs have real road rage",
+   "caption": "An NPC cut them off and went full road rage 😤🚙\nIs GTA 6's AI on another level?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

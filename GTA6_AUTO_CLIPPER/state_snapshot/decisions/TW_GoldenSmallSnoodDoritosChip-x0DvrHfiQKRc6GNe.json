@@ -1,0 +1,65 @@
+{
+ "id": "TW_GoldenSmallSnoodDoritosChip-x0DvrHfiQKRc6GNe",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Bug de físicas con choque, reacción clara",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.0,
+  7.8
+ ],
+ "hook": {
+  "ES": "El primer bug de GTA 6 ya está aquí 🤯",
+  "EN": "The first GTA 6 glitch is already here 🤯"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "ES": "¡Toma, por c***!",
+   "EN": "Take that!"
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "ES": "¡Venga, toma!",
+   "EN": "Come on, eat that!"
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "ES": "¡Hostia!",
+   "EN": "Holy sh*t!"
+  },
+  {
+   "start": 6.0,
+   "end": 7.8,
+   "ES": "¡Uy, uy, uy, que se bugueaba!",
+   "EN": "Oh no, it's glitching out!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El primer bug de GTA 6 🤯",
+   "caption": "🤯 Un choque y la camioneta decidió bugearse 😂 ¿Ya encontraste tu primer bug en GTA 6? Cuéntanos 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Folagor"
+   ]
+  },
+  "EN": {
+   "title": "The first GTA 6 glitch 🤯",
+   "caption": "🤯 One crash and the truck just glitched out 😂 Have you found your first GTA 6 bug yet? Tell us 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Glitch"
+   ]
+  }
+ }
+}

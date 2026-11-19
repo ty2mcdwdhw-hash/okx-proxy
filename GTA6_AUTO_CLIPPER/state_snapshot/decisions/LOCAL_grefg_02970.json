@@ -1,0 +1,89 @@
+{
+ "id": "LOCAL_grefg_02970",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Mecánica de entrenamiento y estadísticas, mundo abierto.",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  15.5,
+  45.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes entrenar con saco de boxeo 🥊",
+  "EN": "You can train on a punching bag in GTA 6 🥊"
+ },
+ "subs": [
+  {
+   "start": 15.57,
+   "end": 19.67,
+   "ES": "Todo sirve para algo. ¡Un saco de boxeo! No me lo creo",
+   "EN": "Everything has a use. A punching bag! I can't believe it"
+  },
+  {
+   "start": 23.57,
+   "end": 27.37,
+   "ES": "¡Toma! Buen gancho al hígado",
+   "EN": "Boom! Nice hook to the liver"
+  },
+  {
+   "start": 27.47,
+   "end": 30.07,
+   "ES": "«Entrena con el saco para mejorar tu resistencia» ¡Pam!",
+   "EN": "'Train with the bag to boost your stamina' Bam!"
+  },
+  {
+   "start": 30.37,
+   "end": 33.57,
+   "ES": "¡Pum! Buen golpe, ganchito… ¡Pim, pam!",
+   "EN": "Pow! Nice shot, little hook… Bam, bam!"
+  },
+  {
+   "start": 34.37,
+   "end": 36.57,
+   "ES": "¡Entrenamiento de cardio +11%!",
+   "EN": "Cardio training +11%!"
+  },
+  {
+   "start": 36.67,
+   "end": 40.27,
+   "ES": "«Haz ejercicios de fuerza y cardio, mejora tu salud»",
+   "EN": "'Do strength and cardio workouts to improve your health'"
+  },
+  {
+   "start": 40.47,
+   "end": 43.07,
+   "ES": "«Sigue tu progreso en la app de fitness»",
+   "EN": "'Track your progress in the fitness app'"
+  },
+  {
+   "start": 43.87,
+   "end": 45.0,
+   "ES": "¿Qué te digo? ¡Vamos a estar súper fuertes!",
+   "EN": "Told you! We're gonna get super strong!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "GTA 6 tiene gimnasio y app de fitness",
+   "caption": "Saco de boxeo, cardio +11% y hasta app de fitness 🥊💪\n¿Ustedes van a entrenar a su personaje o directo al caos?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 has workouts and a fitness app",
+   "caption": "Punching bag, +11% cardio and even a fitness app 🥊💪\nWill you train your character or go straight to chaos?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  }
+ }
+}

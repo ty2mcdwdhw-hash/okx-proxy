@@ -1,0 +1,77 @@
+{
+ "id": "LOCAL_grefg_03555",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Pesca con captura grande, mecánica nueva.",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  14.0,
+  44.0
+ ],
+ "hook": {
+  "ES": "Pescó un pez enorme en GTA 6 🎣",
+  "EN": "Caught a huge fish in GTA 6 🎣"
+ },
+ "subs": [
+  {
+   "start": 14.0,
+   "end": 15.9,
+   "ES": "«Concéntrate para averiguar dónde están los peces»",
+   "EN": "'Focus to find where the fish are'"
+  },
+  {
+   "start": 16.86,
+   "end": 19.78,
+   "ES": "«Pulsa R2 cuando piquen»… ¡vibra el mando!",
+   "EN": "'Press R2 when they bite'… the controller's vibrating!"
+  },
+  {
+   "start": 24.19,
+   "end": 31.55,
+   "ES": "Esto es difícil de dominar… madre mía, a lo mejor pesqué una lata",
+   "EN": "This is hard to master… oh man, I probably caught a tin can"
+  },
+  {
+   "start": 33.15,
+   "end": 35.15,
+   "ES": "¡No me lo puedo creer, ahí está!",
+   "EN": "I can't believe it, there it is!"
+  },
+  {
+   "start": 38.87,
+   "end": 40.87,
+   "ES": "¿Pero qué demonios?",
+   "EN": "What the heck?"
+  },
+  {
+   "start": 41.87,
+   "end": 44.0,
+   "ES": "¡Qué barbaridad! Lo devuelvo al agua",
+   "EN": "That's insane! I'm putting it back"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Así se pesca en GTA 6",
+   "caption": "Pensaba que había pescado una lata… y salió un pez de récord 🎣😱\n¿Ustedes ya probaron la pesca en GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  },
+  "EN": {
+   "title": "This is fishing in GTA 6",
+   "caption": "Thought it was a tin can… turned out to be a record fish 🎣😱\nHave you tried fishing in GTA 6 yet?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  }
+ }
+}

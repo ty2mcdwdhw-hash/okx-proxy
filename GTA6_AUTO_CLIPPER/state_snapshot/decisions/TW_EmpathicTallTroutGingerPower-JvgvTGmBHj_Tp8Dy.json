@@ -1,0 +1,65 @@
+{
+ "id": "TW_EmpathicTallTroutGingerPower-JvgvTGmBHj_Tp8Dy",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Solo menús de consola/cuenta regresiva/arte oficial. Sin historia. Pantalla de sincronización y error.",
+ "pillar": "Momentos divertidos / Lanzamiento",
+ "trim": [
+  14.0,
+  44.0
+ ],
+ "hook": {
+  "ES": "Su amigo ya jugaba GTA 6… y su consola dio error",
+  "EN": "A friend was already playing GTA 6… then the error hit"
+ },
+ "subs": [
+  {
+   "start": 14.36,
+   "end": 18.36,
+   "ES": "¡Entra! ¡Entra! ¡Bateson ya está jugando! ¡Antes que yo!",
+   "EN": "Come on! Come on! Bateson's already playing! Before me!"
+  },
+  {
+   "start": 28.8,
+   "end": 29.8,
+   "ES": "¿Cómo?",
+   "EN": "What?"
+  },
+  {
+   "start": 30.8,
+   "end": 36.65,
+   "ES": "¿Que sincroniza qué? ¿Qué está sincronizando?",
+   "EN": "Syncing WHAT? What is it syncing?"
+  },
+  {
+   "start": 38.0,
+   "end": 44.0,
+   "ES": "(error de red temporal)",
+   "EN": "(temporary network error)"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Su amigo ya jugaba GTA 6 y a su consola le dio error",
+   "caption": "Su amigo ya estaba jugando GTA 6… y su consola eligió este momento para fallar 😭\n¿Te pasó?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Lanzamiento"
+   ]
+  },
+  "EN": {
+   "title": "A friend was already in GTA 6… then the error hit",
+   "caption": "A friend was already playing GTA 6… and the console picked this moment to fail 😭\nHappened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Launch"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

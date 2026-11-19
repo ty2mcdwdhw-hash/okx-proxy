@@ -1,0 +1,65 @@
+{
+ "id": "TW_RockyObliviousBorkSaltBae-yL2LZw7W7dIGsuhZ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Momento gracioso del streamer, sin trama",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  8.4
+ ],
+ "hook": {
+  "ES": "Rubius y su mascota en GTA 6 🐍💕",
+  "EN": "Rubius and his GTA 6 pet 🐍💕"
+ },
+ "subs": [
+  {
+   "start": 0.24,
+   "end": 2.24,
+   "ES": "Doli…",
+   "EN": "Dolly…"
+  },
+  {
+   "start": 2.24,
+   "end": 4.24,
+   "ES": "Dolores, mi amor",
+   "EN": "Dolores, my love"
+  },
+  {
+   "start": 4.24,
+   "end": 6.24,
+   "ES": "¿No tienes hambre, pequeña?",
+   "EN": "Aren't you hungry, little one?"
+  },
+  {
+   "start": 6.24,
+   "end": 8.3,
+   "ES": "¿No tienes hambre, Dolores?",
+   "EN": "Aren't you hungry, Dolores?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Rubius ya tiene mascota en GTA 6 🐍",
+   "caption": "🐍 Rubius le habla con todo el amor a Dolores 💕 ¿Qué nombre le pondrías tú a tu mascota en GTA 6? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Rubius"
+   ]
+  },
+  "EN": {
+   "title": "Rubius already has a GTA 6 pet 🐍",
+   "caption": "🐍 Rubius talking to Dolores with so much love 💕 What would you name your GTA 6 pet? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Rubius"
+   ]
+  }
+ }
+}

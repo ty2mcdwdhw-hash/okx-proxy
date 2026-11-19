@@ -1,0 +1,53 @@
+{
+ "id": "TW_HelplessTrappedScorpionLitty-p0CY-qPwfGTQ_iO0",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Solo menús de consola/cuenta regresiva/arte oficial. Sin historia.",
+ "pillar": "Noticias / Lanzamiento",
+ "trim": [
+  0,
+  19
+ ],
+ "hook": {
+  "ES": "13 años esperando… y por fin llegó GTA 6",
+  "EN": "13 years of waiting… GTA 6 is finally here"
+ },
+ "subs": [
+  {
+   "start": 0,
+   "end": 8,
+   "ES": "8, 7, 6, 5, 4, 3, 2, 1!",
+   "EN": "8, 7, 6, 5, 4, 3, 2, 1!"
+  },
+  {
+   "start": 8,
+   "end": 18,
+   "ES": "¡13 años de espera!",
+   "EN": "13 years of waiting!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "13 años esperando GTA 6: el segundo exacto",
+   "caption": "El segundo exacto en que se desbloqueó GTA 6 en directo 🤯\n¿Tú también estabas esperando?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Lanzamiento"
+   ]
+  },
+  "EN": {
+   "title": "13 years of waiting for GTA 6: the exact second",
+   "caption": "The exact second GTA 6 unlocked live 🤯\nWere you waiting too?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Launch"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

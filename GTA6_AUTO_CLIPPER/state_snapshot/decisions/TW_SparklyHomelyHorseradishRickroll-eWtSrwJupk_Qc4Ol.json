@@ -1,0 +1,65 @@
+{
+ "id": "TW_SparklyHomelyHorseradishRickroll-eWtSrwJupk_Qc4Ol",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Choque, incendio y bomberos: físicas.",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  24.0,
+  54.0
+ ],
+ "hook": {
+  "ES": "Chocó una patrulla en GTA 6… y llegaron los bomberos 🔥",
+  "EN": "Crashed into a cop car in GTA 6… then the fire truck showed up 🔥"
+ },
+ "subs": [
+  {
+   "start": 24.84,
+   "end": 25.64,
+   "ES": "¿Va a explotar?",
+   "EN": "Is it gonna blow?"
+  },
+  {
+   "start": 25.9,
+   "end": 30.0,
+   "ES": "Uy, esto se ve mal…",
+   "EN": "Uh oh, this looks bad…"
+  },
+  {
+   "start": 39.76,
+   "end": 45.26,
+   "ES": "¡Woah, woah, woah!",
+   "EN": "Woah, woah, woah!"
+  },
+  {
+   "start": 45.28,
+   "end": 53.5,
+   "ES": "¡Espera, espera, espera!",
+   "EN": "Wait, wait, wait!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Chocó una patrulla y llegaron los bomberos en GTA 6",
+   "caption": "Un choque, una patrulla en llamas y los bomberos echando agua en GTA 6 🔥🚒\n¿Las físicas de GTA 6 están a otro nivel?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Cop car crash and a fire truck in GTA 6",
+   "caption": "One crash, a burning cop car and a fire truck hosing it all down in GTA 6 🔥🚒\nAre GTA 6 physics on another level?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

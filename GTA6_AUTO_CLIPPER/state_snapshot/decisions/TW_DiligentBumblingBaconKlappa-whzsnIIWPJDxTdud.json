@@ -1,0 +1,90 @@
+{
+ "id": "TW_DiligentBumblingBaconKlappa-whzsnIIWPJDxTdud",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Streamer borra el juego por error en vez de cerrarlo; momento viral + reacción + vuelve a descargar.",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  29.3
+ ],
+ "hook": {
+  "ES": "IlloJuan borró GTA 6 en pleno directo 💀",
+  "EN": "IlloJuan deleted GTA 6 mid-stream 💀"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "ES": "¿Esto es normal? Te voy a cerrar.",
+   "EN": "Is this normal? I'm closing you."
+  },
+  {
+   "start": 3.76,
+   "end": 7.0,
+   "ES": "¿Es así o no? Y ya he cerrado el proceso y todo.",
+   "EN": "Is that how it works? I just closed the whole thing."
+  },
+  {
+   "start": 8.64,
+   "end": 12.87,
+   "ES": "¡ACABO DE BORRARLO!",
+   "EN": "I JUST DELETED IT!"
+  },
+  {
+   "start": 12.95,
+   "end": 14.43,
+   "ES": "Histórico, lo mío.",
+   "EN": "Historic. Truly historic."
+  },
+  {
+   "start": 14.67,
+   "end": 17.27,
+   "ES": "Se me ha ido la olla, tío.",
+   "EN": "I've completely lost it, bro."
+  },
+  {
+   "start": 17.35,
+   "end": 19.35,
+   "ES": "Se me acaba de ir la cabeza.",
+   "EN": "My brain just left the chat."
+  },
+  {
+   "start": 19.59,
+   "end": 21.59,
+   "ES": "Lo he hecho por memoria muscular.",
+   "EN": "I did it on muscle memory."
+  },
+  {
+   "start": 22.27,
+   "end": 24.87,
+   "ES": "Por memoria muscular. ¿Qué p*ta locura?",
+   "EN": "Pure muscle memory. What the f*ck?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "IlloJuan borró GTA 6 en pleno directo",
+   "caption": "Quería cerrar el juego… y le dio a ELIMINAR 💀🗑️\n¿A vosotros os ha pasado algo así alguna vez?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "IlloJuan"
+   ]
+  },
+  "EN": {
+   "title": "IlloJuan deleted GTA 6 mid-stream",
+   "caption": "Tried to close the game… hit DELETE instead 💀🗑️\nHas this ever happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "IlloJuan"
+   ]
+  }
+ },
+ "priority": true
+}

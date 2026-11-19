@@ -1,0 +1,83 @@
+{
+ "id": "LOCAL_grefg_03015",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Mecánica de remolque y moto de agua, reacción fuerte.",
+ "pillar": "Trucos y Mecánicas (Autos)",
+ "trim": [
+  15.0,
+  45.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes llevar tu moto de agua en remolque 🚤",
+  "EN": "In GTA 6 you can tow your jet ski on a trailer 🚤"
+ },
+ "subs": [
+  {
+   "start": 15.0,
+   "end": 18.84,
+   "ES": "El auto tiene enganche y la moto de agua… aquí no la puedo manejar",
+   "EN": "The car's got a hitch and the jet ski… can't ride it here"
+  },
+  {
+   "start": 18.84,
+   "end": 20.24,
+   "ES": "…a no ser que la ponga en el agua",
+   "EN": "…unless I put it in the water"
+  },
+  {
+   "start": 20.24,
+   "end": 25.0,
+   "ES": "Si esto funciona, me vuelvo absolutamente loco",
+   "EN": "If this works, I'm gonna lose my mind"
+  },
+  {
+   "start": 29.13,
+   "end": 33.57,
+   "ES": "¡No puede ser, no puede ser!",
+   "EN": "No way, no way!"
+  },
+  {
+   "start": 33.61,
+   "end": 36.61,
+   "ES": "Me niego a creer que esto sea real",
+   "EN": "I refuse to believe this is real"
+  },
+  {
+   "start": 36.61,
+   "end": 42.45,
+   "ES": "Todo lo que quieras hacer… la lógica funciona",
+   "EN": "Whatever you want to do… the logic just works"
+  },
+  {
+   "start": 42.45,
+   "end": 45.0,
+   "ES": "¡Acabo de echar la moto al agua, gente!",
+   "EN": "I just launched the jet ski into the water, guys!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Bajar la moto de agua con remolque en GTA 6",
+   "caption": "Enganchó el remolque, retrocedió a la rampa… y funcionó 🚤🤯\n¿Qué otro detalle así les gustaría probar?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  },
+  "EN": {
+   "title": "Launching a jet ski off a trailer in GTA 6",
+   "caption": "Hooked up the trailer, backed down the ramp… and it worked 🚤🤯\nWhat other detail like this do you want to try?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  }
+ }
+}

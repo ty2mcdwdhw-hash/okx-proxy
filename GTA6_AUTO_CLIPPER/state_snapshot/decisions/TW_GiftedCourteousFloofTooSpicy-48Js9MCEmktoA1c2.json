@@ -1,0 +1,89 @@
+{
+ "id": "TW_GiftedCourteousFloofTooSpicy-48Js9MCEmktoA1c2",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "huida con mecánica de puente en moto de agua, momento claro",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  16.0,
+  46.0
+ ],
+ "hook": {
+  "ES": "Huyó de la policía en moto de agua 🌊",
+  "EN": "They escaped the cops on a jet ski 🌊"
+ },
+ "subs": [
+  {
+   "start": 16.0,
+   "end": 20.5,
+   "ES": "¡Creo que la c*gué! ¡Me toca tirarme al agua!",
+   "EN": "I think I messed up! Gotta jump in the water!"
+  },
+  {
+   "start": 20.51,
+   "end": 22.51,
+   "ES": "Agarro un bote y me largo.",
+   "EN": "I'm grabbing a boat and bailing."
+  },
+  {
+   "start": 26.0,
+   "end": 29.22,
+   "ES": "¿Se puede agarrar una moto de agua?",
+   "EN": "Can I take a jet ski?"
+  },
+  {
+   "start": 30.22,
+   "end": 31.22,
+   "ES": "¡No ma***!",
+   "EN": "Holy sh*t!"
+  },
+  {
+   "start": 31.22,
+   "end": 33.0,
+   "ES": "¡Agarra la moto de agua!",
+   "EN": "Grab the jet ski!"
+  },
+  {
+   "start": 36.22,
+   "end": 37.22,
+   "ES": "¿Y esto qué es?",
+   "EN": "Wait, what's this?"
+  },
+  {
+   "start": 37.22,
+   "end": 40.22,
+   "ES": "¡Tengo que hacerle puente a la moto de agua!",
+   "EN": "I have to hotwire the jet ski!"
+  },
+  {
+   "start": 40.5,
+   "end": 45.5,
+   "ES": "Me escapo como sea.",
+   "EN": "I'm getting away no matter what."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Huyó de la policía en moto de agua 🌊",
+   "caption": "🌊🚨 Con la policía encima se tiró al agua… y tuvo que hacerle puente a una moto de agua para escapar.\n¿Ustedes cómo se escapan de la policía en GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "MotoDeAgua"
+   ]
+  },
+  "EN": {
+   "title": "They escaped the cops on a jet ski 🌊",
+   "caption": "🌊🚨 Cops closing in, they dove into the water… and had to hotwire a jet ski to get away.\nHow do you shake the cops in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "JetSki"
+   ]
+  }
+ }
+}

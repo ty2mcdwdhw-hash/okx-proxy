@@ -1,0 +1,65 @@
+{
+ "id": "TW_DoubtfulEnergeticTrollYouWHY-qAr8suSy0nMoeqvI",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Choque contra gasolinera, física y reacción.",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.5,
+  14.5
+ ],
+ "hook": {
+  "ES": "Se metió a la gasolinera a toda velocidad 💥",
+  "EN": "Drove full speed into a gas station 💥"
+ },
+ "subs": [
+  {
+   "start": 2.29,
+   "end": 6.29,
+   "ES": "Tengo que hacerlo, tengo que hacerlo…",
+   "EN": "I gotta do it, I gotta do it…"
+  },
+  {
+   "start": 6.29,
+   "end": 8.29,
+   "ES": "Bro… ¡ay, no, qué m*erda!",
+   "EN": "Bro… oh sh*t!"
+  },
+  {
+   "start": 8.29,
+   "end": 10.29,
+   "ES": "¡Dios mío!",
+   "EN": "Oh my god!"
+  },
+  {
+   "start": 10.29,
+   "end": 14.24,
+   "ES": "¡Genial!",
+   "EN": "Great!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Chocar contra una gasolinera en GTA 6",
+   "caption": "\"Tengo que hacerlo\"… y lo hizo 💥⛽\n¿Ustedes también lo habrían intentado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Crashing into a gas station in GTA 6",
+   "caption": "\"I gotta do it\"… and they did 💥⛽\nWould you have tried it too?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "TW_AlertStupidTermiteBCWarrior-UMassKjHXr5mb91X",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Vuelo libre y choque. Sin historia.",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0,
+  18
+ ],
+ "hook": {
+  "ES": "Su primer vuelo en GTA 6 terminó así",
+  "EN": "Their first flight in GTA 6 ended like this"
+ },
+ "subs": [
+  {
+   "start": 0.18,
+   "end": 3.92,
+   "ES": "Wow, esto se siente muy divertido",
+   "EN": "Wow, this is so much fun"
+  },
+  {
+   "start": 4.2,
+   "end": 9.0,
+   "ES": "(primer vuelo en hidroavión...)",
+   "EN": "(first seaplane flight...)"
+  },
+  {
+   "start": 13.6,
+   "end": 15.92,
+   "ES": "Un poco… no lo puedo controlar",
+   "EN": "It's a bit… out of control"
+  },
+  {
+   "start": 16.54,
+   "end": 17.54,
+   "ES": "Eh…",
+   "EN": "Uh…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Su primer vuelo en GTA 6 terminó así",
+   "caption": "Primer vuelo en hidroavión en GTA 6… y no salió como esperaba ✈️💀\n¿Ya lo intentaste?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "First flight in GTA 6 ended like this",
+   "caption": "First seaplane flight in GTA 6… didn't go as planned ✈️💀\nHave you tried it yet?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

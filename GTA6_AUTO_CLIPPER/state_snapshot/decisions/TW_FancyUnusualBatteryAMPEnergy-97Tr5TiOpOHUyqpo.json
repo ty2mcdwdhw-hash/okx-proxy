@@ -1,0 +1,59 @@
+{
+ "id": "TW_FancyUnusualBatteryAMPEnergy-97Tr5TiOpOHUyqpo",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Conducción libre en carretera. Sin historia.",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0,
+  9.8
+ ],
+ "hook": {
+  "ES": "Manejar en GTA 6 se ve así",
+  "EN": "This is what driving in GTA 6 looks like"
+ },
+ "subs": [
+  {
+   "start": 0,
+   "end": 4,
+   "ES": "Esto es como lo que vimos en los leaks",
+   "EN": "This feels like what we saw in the leaks"
+  },
+  {
+   "start": 4,
+   "end": 8,
+   "ES": "Siento que estoy viendo un gameplay en Twitter",
+   "EN": "Feels like I'm watching gameplay on Twitter"
+  },
+  {
+   "start": 8,
+   "end": 9.8,
+   "ES": "Muy loco",
+   "EN": "Insane"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Así se ve manejar en GTA 6",
+   "caption": "Primeros kilómetros en carretera en GTA 6 🚗 ¿Se ve como esperabas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "This is what driving in GTA 6 looks like",
+   "caption": "First miles on the highway in GTA 6 🚗 Does it look like you expected?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}

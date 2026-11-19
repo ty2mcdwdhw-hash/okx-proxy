@@ -1,0 +1,89 @@
+{
+ "id": "TW_TenaciousSleepySheepOSfrog-XZEvXrhS9ewoXvtQ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Mecánica de policía: memoria de vehículo y ropa.",
+ "pillar": "NPCs / Policía",
+ "trim": [
+  0.5,
+  30.0
+ ],
+ "hook": {
+  "ES": "La policía de GTA 6 recuerda tu auto y tu ropa 👀",
+  "EN": "GTA 6 cops remember your car and your outfit 👀"
+ },
+ "subs": [
+  {
+   "start": 0.72,
+   "end": 4.72,
+   "ES": "Dicen que la poli de esta zona te reconoce",
+   "EN": "They say the cops around here recognize you"
+  },
+  {
+   "start": 4.72,
+   "end": 6.72,
+   "ES": "Reconoce el auto con el que hiciste el crimen",
+   "EN": "They recognize the car you used for the crime"
+  },
+  {
+   "start": 6.72,
+   "end": 7.72,
+   "ES": "…y hasta tu ropa",
+   "EN": "…and even your clothes"
+  },
+  {
+   "start": 7.72,
+   "end": 8.72,
+   "ES": "Bueno, que me atrapen",
+   "EN": "Fine, let them catch me"
+  },
+  {
+   "start": 11.72,
+   "end": 14.72,
+   "ES": "¡Ya, atrápame!",
+   "EN": "Come on, catch me!"
+  },
+  {
+   "start": 16.72,
+   "end": 19.72,
+   "ES": "Si eres tan bueno, ¡atrápame!",
+   "EN": "If you're so good, catch me!"
+  },
+  {
+   "start": 19.72,
+   "end": 20.72,
+   "ES": "¿O no?",
+   "EN": "Right?"
+  },
+  {
+   "start": 23.72,
+   "end": 28.0,
+   "ES": "¿Y ahora qué?",
+   "EN": "So what now?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La policía de GTA 6 recuerda tu auto y tu ropa",
+   "caption": "En GTA 6 la poli reconoce el auto del crimen… y hasta tu ropa 👀🚓\n¿Ustedes se cambian de outfit después de cada golpe?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 cops remember your car and your outfit",
+   "caption": "In GTA 6 the cops recognize your getaway car… and even your outfit 👀🚓\nDo you change clothes after every crime?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

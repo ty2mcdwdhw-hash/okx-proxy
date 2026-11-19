@@ -1,0 +1,89 @@
+{
+ "id": "LOCAL_grefg_00765",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "Reacción fuerte, persecución caótica en el inicio (genérico).",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  16.0,
+  45.0
+ ],
+ "hook": {
+  "ES": "Su primera huida de la policía en GTA 6 salió FATAL 🚔",
+  "EN": "Their first police escape in GTA 6 went TERRIBLY 🚔"
+ },
+ "subs": [
+  {
+   "start": 19.11,
+   "end": 20.11,
+   "ES": "¡Ah, que me estoy metiendo!",
+   "EN": "Oh, I'm getting in!"
+  },
+  {
+   "start": 22.11,
+   "end": 23.11,
+   "ES": "¿Qué es esto?",
+   "EN": "What's this?"
+  },
+  {
+   "start": 26.29,
+   "end": 27.89,
+   "ES": "¡Ah, le estoy haciendo el puente!",
+   "EN": "Oh, I'm hotwiring it!"
+  },
+  {
+   "start": 29.09,
+   "end": 31.29,
+   "ES": "¡No me j*das, que se va a armar una buena!",
+   "EN": "No way, this is about to get crazy!"
+  },
+  {
+   "start": 31.49,
+   "end": 35.09,
+   "ES": "¿Cómo tengo tanta libertad tan pronto?",
+   "EN": "How do I have this much freedom already?"
+  },
+  {
+   "start": 37.42,
+   "end": 39.82,
+   "ES": "No me lo puedo creer, me han bloqueado. ¡Vaya cagada!",
+   "EN": "I can't believe it, they boxed me in. What a fail!"
+  },
+  {
+   "start": 39.82,
+   "end": 42.62,
+   "ES": "Tengo 34 policías delante, señores",
+   "EN": "I've got like 34 cops in front of me, guys"
+  },
+  {
+   "start": 43.42,
+   "end": 45.0,
+   "ES": "Acabo de atropellar a uno… ¡y es el inicio!",
+   "EN": "I just ran one over… and it's the opening!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La primera persecución de TheGrefg en GTA 6",
+   "caption": "Robó una grúa, lo encerraron… y tenía 34 policías delante 🚔😱\n¿Ustedes cómo habrían escapado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  },
+  "EN": {
+   "title": "TheGrefg's first police chase in GTA 6",
+   "caption": "Stole a tow truck, got boxed in… with 34 cops in front 🚔😱\nHow would you have escaped?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "TheGrefg"
+   ]
+  }
+ }
+}

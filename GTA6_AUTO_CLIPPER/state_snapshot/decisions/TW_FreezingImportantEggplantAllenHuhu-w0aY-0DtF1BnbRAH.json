@@ -1,0 +1,71 @@
+{
+ "id": "TW_FreezingImportantEggplantAllenHuhu-w0aY-0DtF1BnbRAH",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "Conducción libre por la ciudad. Sin historia.",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  0,
+  20.1
+ ],
+ "hook": {
+  "ES": "El crucero de Vice City en GTA 6",
+  "EN": "The Vice City cruise ship in GTA 6"
+ },
+ "subs": [
+  {
+   "start": 0,
+   "end": 2.4,
+   "ES": "¡Wow! ¡El crucero!",
+   "EN": "Whoa! The cruise ship!"
+  },
+  {
+   "start": 2.4,
+   "end": 4.5,
+   "ES": "Vamos al crucero",
+   "EN": "We're going to the cruise ship"
+  },
+  {
+   "start": 9,
+   "end": 10,
+   "ES": "Vamos al crucero",
+   "EN": "We're going to the cruise ship"
+  },
+  {
+   "start": 13.2,
+   "end": 14.7,
+   "ES": "También quiero ir al aeropuerto",
+   "EN": "I want to go to the airport too"
+  },
+  {
+   "start": 17.3,
+   "end": 19.8,
+   "ES": "Pero quiero ver el crucero",
+   "EN": "But I want to check out the cruise ship"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El crucero de Vice City en GTA 6",
+   "caption": "Manejando un bus por el puerto de Vice City con el crucero de fondo 🚢🌴\n¿Qué lugar visitarías primero?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "The Vice City cruise ship in GTA 6",
+   "caption": "Driving a bus past the Vice City port with the cruise ship behind 🚢🌴\nWhere would you go first?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  }
+ },
+ "operator_safe": true,
+ "story": false
+}
