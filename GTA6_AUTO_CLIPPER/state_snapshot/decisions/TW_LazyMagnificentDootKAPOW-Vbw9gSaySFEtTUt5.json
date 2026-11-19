@@ -1,0 +1,60 @@
+{
+ "id": "TW_LazyMagnificentDootKAPOW-Vbw9gSaySFEtTUt5",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "priority": false,
+ "story": false,
+ "operator_safe": true,
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  2.6,
+  21.0
+ ],
+ "hook": {
+  "ES": "«Voy a jugar GTA 6 sin cometer ni un crimen»… duró 5 segundos 😂",
+  "EN": "\"I'll play GTA 6 without committing a single crime\"… it lasted 5 seconds 😂"
+ },
+ "subs": [
+  {
+   "start": 3.22,
+   "end": 6.46,
+   "ES": "Voy a jugar este juego sin cometer ningún crimen.",
+   "EN": "I'm gonna play this game without committing any crime."
+  },
+  {
+   "start": 10.66,
+   "end": 11.92,
+   "ES": "Uy. Ese no es mi auto.",
+   "EN": "Oops. That's not my car."
+  },
+  {
+   "start": 18.88,
+   "end": 19.94,
+   "ES": "Esa estuvo cerca.",
+   "EN": "That was a close one."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Intentó ser buen ciudadano en GTA 6",
+   "caption": "El reto de cero crímenes no duró nada 😂🚗",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Humor"
+   ]
+  },
+  "EN": {
+   "title": "Tried to be a good citizen in GTA 6",
+   "caption": "The zero-crime challenge didn't last long 😂🚗",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}

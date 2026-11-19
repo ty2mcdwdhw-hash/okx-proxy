@@ -394,3 +394,5 @@
 - 2026-11-19T13:03:06Z | `TW_MoralModernFlamingoTwitchRPG-2RC_jRmaxJlhXReZ_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-20T00:56:18Z | 🎥 @lacy (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T13:35:32Z | `TW_ThirstyHelpfulLeopardDoggo-hiDQcwYSEDsMu1ab_ES` | Mapa / Exploración | instagram | scheduled @2026-11-20T01:06:27Z | 🎥 @ohnepixel (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T13:35:34Z | `TW_ThirstyHelpfulLeopardDoggo-hiDQcwYSEDsMu1ab_EN` | Mapa / Exploración | instagram | scheduled @2026-11-20T01:26:18Z | 🎥 @ohnepixel (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T14:05:58Z | `TW_FunOnerousDuckUWot-3mJqQklyrVQHaG3G_ES` | NPCs / Detalles | instagram | scheduled @2026-11-20T01:36:27Z | 🎥 @ohnepixel (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T14:06:00Z | `TW_FunOnerousDuckUWot-3mJqQklyrVQHaG3G_EN` | NPCs / Detalles | instagram | scheduled @2026-11-20T01:56:18Z | 🎥 @ohnepixel (en->EN) | Spoiler: 0% (Verificado)

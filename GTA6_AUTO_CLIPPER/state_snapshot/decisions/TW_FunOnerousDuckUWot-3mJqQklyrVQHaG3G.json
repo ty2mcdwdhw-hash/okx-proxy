@@ -1,0 +1,60 @@
+{
+ "id": "TW_FunOnerousDuckUWot-3mJqQklyrVQHaG3G",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "priority": false,
+ "story": true,
+ "operator_safe": false,
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  0.0,
+  9.6
+ ],
+ "hook": {
+  "ES": "Se fue al baño y dejó a los NPC bailando 💃🎸",
+  "EN": "Went AFK and left the NPCs dancing 💃🎸"
+ },
+ "subs": [
+  {
+   "start": 0.34,
+   "end": 2.64,
+   "ES": "Bro, tengo que ir al baño. Mírenlos bailar.",
+   "EN": "Bro, I gotta hit the bathroom. Watch them dance."
+  },
+  {
+   "start": 2.64,
+   "end": 5.22,
+   "ES": "Mírenlos bailar. Ya vuelvo, ya vuelvo.",
+   "EN": "Watch them dance. Be right back, be right back."
+  },
+  {
+   "start": 8.0,
+   "end": 9.4,
+   "ES": "Denme 60, denme 60.",
+   "EN": "Give me 60, give me 60."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPC de GTA 6 sí saben bailar",
+   "caption": "Banda en vivo y pista llena en un bar de GTA 6 🎶",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs can actually dance",
+   "caption": "Live band and a packed dance floor in a GTA 6 bar 🎶",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

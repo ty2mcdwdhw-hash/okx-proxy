@@ -1,0 +1,106 @@
+{
+ "id": "TW_NiceBrainyPheasantSquadGoals-Fm8smTfv0gu_wB62",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "priority": false,
+ "story": true,
+ "operator_safe": false,
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  3.2,
+  19.8
+ ],
+ "hook": {
+  "ES": "Empezó GTA 6… y lo primero fue la cárcel 😳",
+  "EN": "Started GTA 6… and the first stop was prison 😳"
+ },
+ "subs": [
+  {
+   "start": 3.47,
+   "end": 4.61,
+   "ES": "Acércate a tu compañera.",
+   "EN": "Go up to your cellmate."
+  },
+  {
+   "start": 4.73,
+   "end": 5.99,
+   "ES": "¡Wey, estoy en la prisión, amigo!",
+   "EN": "Dude, I'm in prison, bro!"
+  },
+  {
+   "start": 6.41,
+   "end": 7.19,
+   "ES": "¡Ay, Dios mío!",
+   "EN": "Oh my God!"
+  },
+  {
+   "start": 7.53,
+   "end": 8.89,
+   "ES": "¡Estoy en la [[puta]] prisión!",
+   "EN": "I'm in [[fucking]] prison!"
+  },
+  {
+   "start": 10.13,
+   "end": 10.53,
+   "ES": "¡Amigo!",
+   "EN": "Bro!"
+  },
+  {
+   "start": 11.11,
+   "end": 14.21,
+   "ES": "Hay que causar revuelo, como en Sangre por Sangre.",
+   "EN": "Gotta stir things up, like in Blood In Blood Out."
+  },
+  {
+   "start": 14.99,
+   "end": 15.63,
+   "ES": "Bueno, [[mamón]].",
+   "EN": "Alright, [[jerk]]."
+  },
+  {
+   "start": 16.05,
+   "end": 17.51,
+   "ES": "Dame tu chom-chom. ¡Amigo!",
+   "EN": "Hand over your snack. Bro!"
+  },
+  {
+   "start": 18.79,
+   "end": 19.47,
+   "ES": "Bueno, qué mala leche.",
+   "EN": "Well, that's rough."
+  }
+ ],
+ "bleep": [
+  [
+   8.01,
+   8.31
+  ],
+  [
+   15.23,
+   15.73
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Su inicio en GTA 6 fue tras las rejas",
+   "caption": "Nadie lo preparó para esto 😂🔒",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Reacciones"
+   ]
+  },
+  "EN": {
+   "title": "Their GTA 6 start was behind bars",
+   "caption": "Nobody warned them about this 😂🔒",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Reactions"
+   ]
+  }
+ }
+}

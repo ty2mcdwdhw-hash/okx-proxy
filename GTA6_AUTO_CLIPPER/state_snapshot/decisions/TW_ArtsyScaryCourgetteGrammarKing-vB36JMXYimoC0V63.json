@@ -1,0 +1,54 @@
+{
+ "id": "TW_ArtsyScaryCourgetteGrammarKing-vB36JMXYimoC0V63",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "priority": false,
+ "story": false,
+ "operator_safe": true,
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  1.0,
+  17.0
+ ],
+ "hook": {
+  "ES": "El tráfico de GTA 6 no perdona: el auto terminó de lado 🚗💥",
+  "EN": "GTA 6 traffic is brutal: that car ended up on its side 🚗💥"
+ },
+ "subs": [
+  {
+   "start": 4.66,
+   "end": 6.68,
+   "ES": "Vieron que agarró la bolsa y salió corriendo.",
+   "EN": "Saw them grab the bag and bolt."
+  },
+  {
+   "start": 7.22,
+   "end": 9.92,
+   "ES": "¿Clipearon ese accidente?",
+   "EN": "Did you guys clip that crash?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Accidentes en la autopista de GTA 6",
+   "caption": "Las físicas de choque de GTA 6 están en otro nivel 💥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Highway chaos in GTA 6",
+   "caption": "GTA 6 crash physics are on another level 💥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
