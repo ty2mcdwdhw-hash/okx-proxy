@@ -1,0 +1,65 @@
+{
+ "id": "TW_AlluringDreamyMilkPJSugar-gTL775NMnFDGrHEo",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "NPC sacado del auto, reacción",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  0.0,
+  14.5
+ ],
+ "hook": {
+  "ES": "El primer NPC de GTA 6 que sale volando del auto 😂🚗",
+  "EN": "The first NPC in GTA 6 to get yeeted out of a car 😂🚗"
+ },
+ "subs": [
+  {
+   "start": 2.82,
+   "end": 5.1,
+   "ES": "A ver, ¿qué [[carajo]] fue eso?",
+   "EN": "Okay, what the [[hell]] was that?"
+  },
+  {
+   "start": 5.32,
+   "end": 7.15,
+   "ES": "¿El primero que sacan del carro?",
+   "EN": "The first one to get thrown out?"
+  },
+  {
+   "start": 10.42,
+   "end": 14.1,
+   "ES": "Te lo juro, tú ya jugaste el modo historia",
+   "EN": "I swear, you've played single-player games"
+  }
+ ],
+ "bleep": [
+  [
+   4.06,
+   4.82
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Lo sacaron del auto en GTA 6 😂",
+   "caption": "Las físicas de los NPCs en GTA 6 no perdonan 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "Yanked out of the car in GTA 6 😂",
+   "caption": "GTA 6 NPC physics show no mercy 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

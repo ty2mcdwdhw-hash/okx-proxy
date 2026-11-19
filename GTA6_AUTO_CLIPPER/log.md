@@ -430,3 +430,5 @@
 - 2026-11-19T18:41:53Z | `TW_ComfortableAbrasivePorcupineFeelsBadMan-X3ohcHkHial_C1wL_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-20T05:56:18Z | 🎥 @tototmix (ja->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T18:41:56Z | `TW_PlumpBlitheYakPJSalt-LAIoKJILpVUkpcCX_ES` | NPCs / Detalles | instagram | scheduled @2026-11-20T06:36:27Z | 🎥 @kr1stw (zh->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T18:42:00Z | `TW_PlumpBlitheYakPJSalt-LAIoKJILpVUkpcCX_EN` | NPCs / Detalles | instagram | scheduled @2026-11-20T06:26:18Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T19:10:20Z | `TW_AlluringDreamyMilkPJSugar-gTL775NMnFDGrHEo_ES` | NPCs / Físicas y Gameplay | instagram | scheduled @2026-11-20T07:06:27Z | 🎥 @shadowkekw (ru->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T19:10:23Z | `TW_AlluringDreamyMilkPJSugar-gTL775NMnFDGrHEo_EN` | NPCs / Físicas y Gameplay | instagram | scheduled @2026-11-20T06:56:18Z | 🎥 @shadowkekw (ru->EN) | Spoiler: 0% (Verificado)

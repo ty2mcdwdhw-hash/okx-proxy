@@ -1,0 +1,89 @@
+{
+ "id": "TW_GleamingObedientPheasantThunBeast-1z43zFuuoIl5SCgK",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "choque en rampa durante conducción",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.0,
+  21.0
+ ],
+ "hook": {
+  "ES": "Le dijeron que era Lewis Hamilton… y pasó esto 🏎️💥",
+  "EN": "They called them Lewis Hamilton… then this happened 🏎️💥"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 1.7,
+   "ES": "Ven acá, Lewis Hamilton, bro",
+   "EN": "Come on over, Lewis Hamilton, bro"
+  },
+  {
+   "start": 6.86,
+   "end": 7.6,
+   "ES": "¿¡Qué!?",
+   "EN": "What?!"
+  },
+  {
+   "start": 13.97,
+   "end": 14.6,
+   "ES": "¿¡Qué!?",
+   "EN": "What?!"
+  },
+  {
+   "start": 16.79,
+   "end": 17.4,
+   "ES": "¿Qué?",
+   "EN": "What?"
+  },
+  {
+   "start": 17.63,
+   "end": 18.4,
+   "ES": "Este es el camino correcto",
+   "EN": "This is the right way"
+  },
+  {
+   "start": 19.81,
+   "end": 20.5,
+   "ES": "¿¡Qué!?",
+   "EN": "What?!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.86,
+    0.44,
+    0.1
+   ],
+   "start": 7.5,
+   "end": 10.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El peor piloto de GTA 6 🏎️💥",
+   "caption": "Rampa, barrera y caos total 😂 ¿Quién maneja peor?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Conduccion"
+   ]
+  },
+  "EN": {
+   "title": "The worst driver in GTA 6 🏎️💥",
+   "caption": "Ramp, barrier and total chaos 😂 Who drives worse?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Driving"
+   ]
+  }
+ }
+}
