@@ -1,0 +1,90 @@
+{
+ "id": "TW_ProductiveOptimisticGullPartyTime-SWdJc7wMPVhfSIUS",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "pelea 2 contra 1 con NPCs, reacción fuerte",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  24.5
+ ],
+ "hook": {
+  "ES": "Padre e hijo NPC lo enfrentaron 2 contra 1… mala idea 👊😂",
+  "EN": "An NPC father and son tried a 2v1… bad idea 👊😂"
+ },
+ "subs": [
+  {
+   "start": 0.3,
+   "end": 2.8,
+   "ES": "¿Crees que te me vas a acercar así?",
+   "EN": "Think you can just walk up on me like that?"
+  },
+  {
+   "start": 3.0,
+   "end": 4.6,
+   "ES": "Ay, hombre, te voy a acabar",
+   "EN": "Oh man, I'll end you"
+  },
+  {
+   "start": 8.9,
+   "end": 10.0,
+   "ES": "¡Y a tu hijo también le toca!",
+   "EN": "I'm whooping your son too!"
+  },
+  {
+   "start": 10.0,
+   "end": 10.9,
+   "ES": "¿No retrocedes?",
+   "EN": "You won't back up?"
+  },
+  {
+   "start": 11.0,
+   "end": 12.5,
+   "ES": "Eso pensé.",
+   "EN": "That's what I thought."
+  },
+  {
+   "start": 12.5,
+   "end": 14.0,
+   "ES": "¡Atrás!",
+   "EN": "Back up!"
+  },
+  {
+   "start": 18.1,
+   "end": 19.6,
+   "ES": "¡[[Jódete]], lárgate de aquí!",
+   "EN": "[[Fuck]] you, get out of here!"
+  }
+ ],
+ "bleep": [
+  [
+   18.1,
+   18.6
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "2 contra 1 en GTA 6",
+   "caption": "Un NPC y su hijo se le vinieron encima en plena calle… y terminaron los dos en el piso 😂👊 ¿Los NPC más valientes de GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Pelea"
+   ]
+  },
+  "EN": {
+   "title": "2v1 in GTA 6",
+   "caption": "An NPC and his son ran up on him in the middle of the street… and both ended up on the ground 😂👊 Bravest NPCs in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fight"
+   ]
+  }
+ }
+}

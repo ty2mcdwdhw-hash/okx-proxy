@@ -1,0 +1,152 @@
+{
+ "id": "TW_WiseSolidJuiceRuleFive-4CitvrkS30C-5KNR",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "robo de auto con pelea NPC, momento claro",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  1.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "Intentó robarse un Lamborghini… y el dueño no se dejó 🚗👊😳",
+  "EN": "Tried to steal a Lamborghini… and the owner fought back 🚗👊😳"
+ },
+ "subs": [
+  {
+   "start": 1.26,
+   "end": 1.92,
+   "ES": "¡Ay, Dios!",
+   "EN": "Oh my god!"
+  },
+  {
+   "start": 2.38,
+   "end": 3.44,
+   "ES": "¿Un Lamborghini Urus, chicos?",
+   "EN": "A Lamborghini Urus, chat?"
+  },
+  {
+   "start": 3.7,
+   "end": 4.74,
+   "ES": "Ey, lindo auto.",
+   "EN": "Hey, nice car."
+  },
+  {
+   "start": 4.9,
+   "end": 6.84,
+   "ES": "¡Te equivocaste de [[puto]] auto, bro!",
+   "EN": "Wrong [[fucking]] car, bro!"
+  },
+  {
+   "start": 10.3,
+   "end": 11.0,
+   "ES": "¡Vamos!",
+   "EN": "Let's go!"
+  },
+  {
+   "start": 11.9,
+   "end": 12.5,
+   "ES": "¡Ay, [[mierda]]!",
+   "EN": "Oh [[shit]]!"
+  },
+  {
+   "start": 13.2,
+   "end": 15.46,
+   "ES": "¡Dale, rómpete los nudillos en mi cara!",
+   "EN": "Go ahead, break your knuckles on my face!"
+  },
+  {
+   "start": 16.16,
+   "end": 16.78,
+   "ES": "¡Vamos!",
+   "EN": "Come on!"
+  },
+  {
+   "start": 25.24,
+   "end": 27.0,
+   "ES": "¡Dios, este tipo está [[jodidamente]] loco!",
+   "EN": "Oh my god, this guy's [[fucking]] crazy!"
+  },
+  {
+   "start": 27.64,
+   "end": 28.94,
+   "ES": "¡[[Jódete]], soy más rápido!",
+   "EN": "[[Fuck]] you, I'm faster!"
+  }
+ ],
+ "bleep": [
+  [
+   5.0,
+   5.5
+  ],
+  [
+   12.2,
+   12.6
+  ],
+  [
+   26.3,
+   26.7
+  ],
+  [
+   27.5,
+   28.1
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.22,
+    0.82,
+    0.56,
+    0.17
+   ],
+   "start": 4.0,
+   "end": 8.0
+  },
+  {
+   "box": [
+    0.22,
+    0.82,
+    0.56,
+    0.17
+   ],
+   "start": 11.7,
+   "end": 13.0
+  },
+  {
+   "box": [
+    0.22,
+    0.82,
+    0.56,
+    0.17
+   ],
+   "start": 25.0,
+   "end": 30.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Robar autos en GTA 6 no es tan fácil",
+   "caption": "Vio un Lamborghini Urus en Vice City, fue por él… y el dueño salió a pelear 😂👊 ¿Los NPC de GTA 6 ya no se dejan?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "Stealing cars in GTA 6 isn't that easy",
+   "caption": "Spotted a Lamborghini Urus in Vice City, went for it… and the owner jumped out swinging 😂👊 GTA 6 NPCs don't take it anymore?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}
