@@ -5,6 +5,7 @@
   add URL --creator C --lang xx [--test]   agrega un clip a mano
   process [--limit N] [--test]        descarga + letterbox + Whisper + paquete de revisión
   pending                    lista paquetes esperando decisión del revisor (Claude)
+  import-inbox               importa inbox/<ID>/ (clip.mp4 + decision.json + meta.json) como aprobados
   decide                     aplica state/decisions/*.json
   render                     genera MP4 9:16 ES/EN de lo aprobado
   publish [--dry]            sube (o deja en cola) lo renderizado
@@ -119,7 +120,7 @@ def main():
     a.add_argument("--lang", required=True); a.add_argument("--test", action="store_true")
     a.add_argument("--peaks", type=int, default=2)
     p = sub.add_parser("process"); p.add_argument("--limit", type=int, default=50); p.add_argument("--test", action="store_true")
-    sub.add_parser("pending"); sub.add_parser("decide"); sub.add_parser("render")
+    sub.add_parser("pending"); sub.add_parser("import-inbox"); sub.add_parser("decide"); sub.add_parser("render")
     pb = sub.add_parser("publish"); pb.add_argument("--dry", action="store_true")
     c = sub.add_parser("cycle"); c.add_argument("--dry", action="store_true"); c.add_argument("--group")
     sub.add_parser("metrics")
@@ -138,6 +139,9 @@ def main():
         process(args.limit, args.test)
     elif args.cmd == "pending":
         cmd_pending()
+    elif args.cmd == "import-inbox":
+        from .inbox import import_inbox
+        print("inbox: " + " ".join(f"{k}={v}" for k, v in import_inbox().items()))
     elif args.cmd == "decide":
         from .publish import apply_decisions
         print("approved=%d rejected=%d" % apply_decisions())

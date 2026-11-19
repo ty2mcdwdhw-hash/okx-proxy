@@ -51,3 +51,11 @@ bootstrap.sh restaura proyecto + state_snapshot, instala dependencias y hooks, e
 su piloto al verlo) y arranca el piloto. Log: /tmp/gta6_bootstrap.log y state/autopilot.log.
 Luego: cadena de send_later cada 30 min (despertador: ensure + 1 línea del log + reprogramar el siguiente).
 Pendiente al traspasar: 76 clips en 'packet' sin revisar (el piloto los revisa en su primer ciclo).
+
+## Bandeja (inbox) de clips ya revisados
+`python3 -m clipper import-inbox` (lo llama autopilot_once.sh justo antes de `clipper decide`, tras un fetch + merge
+del repo). Lee `GTA6_AUTO_CLIPPER/inbox/<ID>/` del repo: `clip.mp4` (fragmento ya recortado), `decision.json`
+(esquema de REVIEWER.md, trim relativo al fragmento) y `meta.json` (creator, creator_handle, lang, title, views,
+priority; opcionales platform, url). Inserta el clip como 'approved' si el ID no existe, copia a media/raw y
+state/decisions (no pisa clips ya rendered/published/takedown) y hace `git rm -r` + commit de la carpeta; el push
+del ciclo la vacía en GitHub. Las carpetas inválidas se quedan y se cuentan en el log (`bandeja: ... invalidos=N`).

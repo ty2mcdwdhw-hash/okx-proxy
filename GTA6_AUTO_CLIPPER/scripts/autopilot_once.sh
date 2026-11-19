@@ -56,6 +56,10 @@ Trabaja solo dentro de /home/user/GTA6_AUTO_CLIPPER y el directorio temporal /tm
   grep -E "^\s*[-*|]?\s*\`?(TW_|KK_|YT_|LOCAL_)" state/review_last.txt | head -8 | sed "s/^/[$(ts)]   aprobado: /" >> "$LOG"
 fi
 
+# bandeja: traer lo último de GitHub e importar clips ya recortados y revisados (inbox/<ID>/)
+( cd "$REPO" && git fetch -q origin "$BR" && git merge -q --no-edit -X theirs FETCH_HEAD ) > /dev/null 2>&1
+python3 -m clipper import-inbox > state/inbox.log 2>&1 || say "bandeja: import-inbox terminó con código $?"
+grep -q "^inbox: importados=0 ya_existian=0 invalidos=0" state/inbox.log || say "bandeja: $(tail -1 state/inbox.log)"
 python3 -m clipper decide > state/decide.log 2>&1
 python3 -m clipper render > state/render.log 2>&1
 python3 -m clipper publish > state/publish.log 2>&1
