@@ -1,0 +1,78 @@
+{
+ "id": "TW_GorgeousStrangeLEDMcaT-QgWT4O89h4FcXkBD",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "dato útil, tema nuevo",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0.5,
+  13.5
+ ],
+ "hook": {
+  "ES": "GTA 6 por fin te deja usar km/h 🚗📏",
+  "EN": "GTA 6 finally lets you switch to km/h 🚗📏"
+ },
+ "subs": [
+  {
+   "start": 0.6,
+   "end": 1.5,
+   "ES": "Qué locura",
+   "EN": "That's crazy"
+  },
+  {
+   "start": 2.2,
+   "end": 5.3,
+   "ES": "Puedes cambiar a kilómetros por hora",
+   "EN": "You can switch to kilometers per hour"
+  },
+  {
+   "start": 6.4,
+   "end": 7.7,
+   "ES": "Yo prefiero kilómetros",
+   "EN": "I prefer kilometers"
+  },
+  {
+   "start": 10.4,
+   "end": 12.8,
+   "ES": "No se puede guardar en misiones",
+   "EN": "You can't save during missions"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.79,
+    0.35,
+    0.21,
+    0.22
+   ],
+   "start": 0.5,
+   "end": 13.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Km/h en GTA 6",
+   "caption": "Por fin: el velocímetro de GTA 6 se puede poner en km/h 🙌 ¿Ya lo cambiaste?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Ajustes"
+   ]
+  },
+  "EN": {
+   "title": "Km/h in GTA 6",
+   "caption": "GTA 6 lets you switch the speedometer to km/h 🙌 Which one do you use?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Settings"
+   ]
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "TW_TastyPatientDinosaurKappa-VJdkaQEzXqZtgwyT",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro, buena calidad",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  3.0,
+  25.0
+ ],
+ "hook": {
+  "ES": "Se quedó en las vías… y el tren ACELERÓ 🚆💀",
+  "EN": "Stood on the tracks… and the train SPED UP 🚆💀"
+ },
+ "subs": [
+  {
+   "start": 13.1,
+   "end": 14.6,
+   "ES": "Espera, ¡está acelerando!",
+   "EN": "Wait, it's speeding up!"
+  },
+  {
+   "start": 14.9,
+   "end": 16.4,
+   "ES": "¿Por qué acelera?",
+   "EN": "Why is it speeding up?"
+  },
+  {
+   "start": 16.6,
+   "end": 17.6,
+   "ES": "¿Qué está haciendo?",
+   "EN": "What is it doing?"
+  },
+  {
+   "start": 18.4,
+   "end": 19.8,
+   "ES": "¿Por qué hizo eso?",
+   "EN": "Why did it do that?"
+  },
+  {
+   "start": 23.4,
+   "end": 24.8,
+   "ES": "¡Qué psicópata!",
+   "EN": "That psycho!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El tren no frena en GTA 6",
+   "caption": "Jerma quiso jugar con el tren de GTA 6… y el maquinista no tuvo piedad 😂🚆",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Tren"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 trains don't brake",
+   "caption": "Jerma tried to mess with the train in GTA 6… the driver showed no mercy 😂🚆",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Train"
+   ]
+  }
+ }
+}

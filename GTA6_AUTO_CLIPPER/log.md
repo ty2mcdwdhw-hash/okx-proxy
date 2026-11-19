@@ -384,3 +384,8 @@
 - 2026-11-19T11:38:50Z | `TW_FuriousBlightedCormorantPrimeMe-ItvngvkK4jHaiiLI_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-19T21:26:18Z | 🎥 @zackrawrr (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T11:38:54Z | `KK_clip_01M7QF9J0XH64X2PX51JR4D3H3_ES` | Autos y tuning / Mecánicas | instagram | scheduled @2026-11-19T23:36:27Z | 🎥 @rdjavi (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T11:38:58Z | `KK_clip_01M7QF9J0XH64X2PX51JR4D3H3_EN` | Autos y tuning / Mecánicas | instagram | scheduled @2026-11-19T21:56:18Z | 🎥 @rdjavi (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T12:09:21Z | `TW_TastyPatientDinosaurKappa-VJdkaQEzXqZtgwyT_ES` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-20T00:06:27Z | 🎥 @jerma985 (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T12:09:25Z | `TW_TastyPatientDinosaurKappa-VJdkaQEzXqZtgwyT_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-19T22:26:18Z | 🎥 @jerma985 (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T12:09:27Z | `TW_GorgeousStrangeLEDMcaT-QgWT4O89h4FcXkBD_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-19T22:56:18Z | 🎥 @darkviperau (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T12:09:33Z | `TW_CrepuscularEndearingReubenFrankerZ-WMrfVkTszl_JSVlX_EN` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-19T23:26:18Z | 🎥 @auronplay (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T12:09:37Z | `TW_MushyStrangeAlligatorMikeHogu-8sOTLhJqvke8tRgg_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-19T23:56:18Z | 🎥 @typicalgamer (en->EN) | Spoiler: 0% (Verificado)

@@ -1,0 +1,72 @@
+{
+ "id": "TW_MushyStrangeAlligatorMikeHogu-8sOTLhJqvke8tRgg",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro, tema nuevo",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  29.5,
+  59.5
+ ],
+ "hook": {
+  "ES": "Combate aéreo en un caza en GTA 6 ✈️🔥",
+  "EN": "Fighter jet dogfight in GTA 6 ✈️🔥"
+ },
+ "subs": [
+  {
+   "start": 30.0,
+   "end": 31.2,
+   "ES": "¡Combate aéreo! ¡Combate aéreo!",
+   "EN": "We got a dogfight! We got a dogfight!"
+  },
+  {
+   "start": 31.3,
+   "end": 32.6,
+   "ES": "Uf, me rozó el misil",
+   "EN": "Oh, I touched the missile"
+  },
+  {
+   "start": 32.8,
+   "end": 34.5,
+   "ES": "¡Me rozó un misil!",
+   "EN": "I just touched a missile!"
+  },
+  {
+   "start": 38.0,
+   "end": 39.4,
+   "ES": "Soy el mejor",
+   "EN": "I'm the best"
+  },
+  {
+   "start": 55.8,
+   "end": 59.5,
+   "ES": "Esto es una peli de guerra",
+   "EN": "This is a war movie right now"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Caza en GTA 6",
+   "caption": "Misiles, cinco estrellas y atardecer en Vice City ✈️ ¿El mejor vehículo de GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Aviones"
+   ]
+  },
+  "EN": {
+   "title": "Fighter jet in GTA 6",
+   "caption": "Missiles, five stars and a Vice City sunset ✈️ Best vehicle in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "FighterJet"
+   ]
+  }
+ }
+}

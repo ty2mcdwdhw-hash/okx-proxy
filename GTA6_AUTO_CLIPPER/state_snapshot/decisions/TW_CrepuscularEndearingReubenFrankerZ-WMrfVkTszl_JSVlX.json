@@ -1,0 +1,66 @@
+{
+ "id": "TW_CrepuscularEndearingReubenFrankerZ-WMrfVkTszl_JSVlX",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro, streamer hispano",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  7.0,
+  27.0
+ ],
+ "hook": {
+  "ES": "Iba a toda velocidad por Vice City… y el poste ganó 💥",
+  "EN": "Full speed through Vice City… and the pole won 💥"
+ },
+ "subs": [
+  {
+   "start": 22.0,
+   "end": 24.4,
+   "ES": "Mira cómo quedó reventado el coche",
+   "EN": "Look how wrecked the car is"
+  },
+  {
+   "start": 24.6,
+   "end": 26.5,
+   "ES": "Mira, mira la puerta",
+   "EN": "Look, look at the door"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.83,
+    0.6,
+    0.13
+   ],
+   "start": 15.0,
+   "end": 27.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El poste ganó en GTA 6",
+   "caption": "AuronPlay derrapando por Vice City… y el final 😂 Así se deforman los autos en GTA 6.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Choques"
+   ]
+  },
+  "EN": {
+   "title": "The pole won in GTA 6",
+   "caption": "AuronPlay drifting through Vice City… and that ending 😂 Look at the car damage in GTA 6.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "CarCrash"
+   ]
+  }
+ }
+}
