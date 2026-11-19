@@ -1,0 +1,83 @@
+{
+ "id": "TW_OddAverageAirGuitarSMOrc-MLLowNoG8aiMNjFO",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "reacción fuerte, mecánica de búsqueda policial",
+ "pillar": "NPCs / Policía",
+ "trim": [
+  0.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "La policía de GTA 6 te busca por tu ropa… y no perdona 🚔",
+  "EN": "GTA 6 cops hunt you by your outfit… and show no mercy 🚔"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 1.8,
+   "ES": "Ahí tienen tu descripción",
+   "EN": "They've got your description"
+  },
+  {
+   "start": 1.8,
+   "end": 4.4,
+   "ES": "Saben cómo voy vestido y saben mi cara",
+   "EN": "They know what I'm wearing and my face"
+  },
+  {
+   "start": 9.9,
+   "end": 12.7,
+   "ES": "Voy a intentar ir en sigilo, vale",
+   "EN": "I'm gonna try to sneak through"
+  },
+  {
+   "start": 12.8,
+   "end": 14.8,
+   "ES": "¿Dónde me agacho? Dime que sí",
+   "EN": "Where do I crouch? Tell me yes"
+  },
+  {
+   "start": 16.0,
+   "end": 16.8,
+   "ES": "¡Ay, ay, ay!",
+   "EN": "Oh no, no, no!"
+  },
+  {
+   "start": 20.6,
+   "end": 22.0,
+   "ES": "Hostia, el pitido, ¿qué [[cojones]]?",
+   "EN": "Damn, that ringing, what the [[hell]]?"
+  },
+  {
+   "start": 26.3,
+   "end": 27.6,
+   "ES": "¿Puedo subir? ¡Sí, sí, sí!",
+   "EN": "Can I climb? Yes, yes, yes!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La policía de GTA 6 no perdona",
+   "caption": "Intentó escapar en sigilo de la búsqueda policial… 😳 ¿Lo habrías logrado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Policia"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 cops don't play",
+   "caption": "Tried to sneak out of a police search… 😳 Would you have made it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Police"
+   ]
+  }
+ }
+}

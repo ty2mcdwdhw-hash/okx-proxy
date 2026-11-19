@@ -1,0 +1,59 @@
+{
+ "id": "TW_ThirstyHelpfulLeopardDoggo-hiDQcwYSEDsMu1ab",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "exploración submarina, tesoro",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  0.0,
+  15.0
+ ],
+ "hook": {
+  "ES": "Bucearon en GTA 6… y encontraron oro 🪙🌊",
+  "EN": "They went diving in GTA 6… and found gold 🪙🌊"
+ },
+ "subs": [
+  {
+   "start": 1.1,
+   "end": 2.2,
+   "ES": "¡Dios mío!",
+   "EN": "Oh my god!"
+  },
+  {
+   "start": 8.0,
+   "end": 9.0,
+   "ES": "¡Dios mío!",
+   "EN": "Oh my god!"
+  },
+  {
+   "start": 10.7,
+   "end": 11.7,
+   "ES": "¡Doblones de oro!",
+   "EN": "Gold doubloons!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Tesoros bajo el mar en GTA 6",
+   "caption": "Hay doblones de oro escondidos en el fondo del mar 🪙 ¿Ya los encontraste?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Tesoro"
+   ]
+  },
+  "EN": {
+   "title": "Underwater treasure in GTA 6",
+   "caption": "There are gold doubloons hidden on the seafloor 🪙 Found any yet?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Treasure"
+   ]
+  }
+ }
+}

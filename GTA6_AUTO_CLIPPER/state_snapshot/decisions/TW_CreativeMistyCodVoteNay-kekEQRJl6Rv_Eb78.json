@@ -1,0 +1,65 @@
+{
+ "id": "TW_CreativeMistyCodVoteNay-kekEQRJl6Rv_Eb78",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "mecánica nueva, interacción con mascota",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  3.5,
+  30.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes acariciar al perro 🐶",
+  "EN": "You can pet the dog in GTA 6 🐶"
+ },
+ "subs": [
+  {
+   "start": 4.4,
+   "end": 6.0,
+   "ES": "Dios mío, hay un perro",
+   "EN": "Oh my god, there's a dog"
+  },
+  {
+   "start": 7.5,
+   "end": 11.2,
+   "ES": "Primera interacción con una mascota en GTA 6",
+   "EN": "First interaction with a pet in GTA 6"
+  },
+  {
+   "start": 23.6,
+   "end": 25.2,
+   "ES": "Acariciar al perro. Vale, qué bonito",
+   "EN": "Pet the dog. Okay, that's nice"
+  },
+  {
+   "start": 27.3,
+   "end": 28.2,
+   "ES": "Qué bonito",
+   "EN": "That's very nice"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Sí, en GTA 6 puedes acariciar al perro",
+   "caption": "La pregunta más importante del juego por fin tiene respuesta 🐶❤️",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Mascotas"
+   ]
+  },
+  "EN": {
+   "title": "Yes, you can pet the dog in GTA 6",
+   "caption": "The most important question about the game finally has an answer 🐶❤️",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "PetTheDog"
+   ]
+  }
+ }
+}
