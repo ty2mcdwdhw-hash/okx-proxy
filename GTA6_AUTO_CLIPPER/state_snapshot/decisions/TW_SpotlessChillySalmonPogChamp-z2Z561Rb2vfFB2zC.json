@@ -1,0 +1,84 @@
+{
+ "id": "TW_SpotlessChillySalmonPogChamp-z2Z561Rb2vfFB2zC",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento gracioso con NPC, streamer hispano",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  3.5,
+  29.5
+ ],
+ "hook": {
+  "ES": "Solo quería un cebo para pescar… y el NPC no se lo dio 🎣😂",
+  "EN": "They just wanted some fishing bait… the NPC said no 🎣😂"
+ },
+ "subs": [
+  {
+   "start": 3.92,
+   "end": 4.58,
+   "ES": "¡Madre!",
+   "EN": "Oh man!"
+  },
+  {
+   "start": 11.94,
+   "end": 13.34,
+   "ES": "Señora, ¿tiene usted un cebo?",
+   "EN": "Ma'am, got any bait?"
+  },
+  {
+   "start": 14.44,
+   "end": 16.64,
+   "ES": "¿Se asustará si me subo a su barco? Supongo que sí, ¿no?",
+   "EN": "Will she freak out if I hop on her boat? Probably, right?"
+  },
+  {
+   "start": 17.78,
+   "end": 18.18,
+   "ES": "¡Señora!",
+   "EN": "Ma'am!"
+  },
+  {
+   "start": 19.3,
+   "end": 20.1,
+   "ES": "¿Tiene usted un cebo?",
+   "EN": "Got any bait?"
+  },
+  {
+   "start": 24.08,
+   "end": 25.66,
+   "ES": "¡Hola! ¿Qué tal?",
+   "EN": "Hi! How's it going?"
+  },
+  {
+   "start": 26.9,
+   "end": 28.9,
+   "ES": "No, no me quiero ir.",
+   "EN": "No, I don't wanna leave."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Pidiendo cebo a un NPC en GTA 6 🎣",
+   "caption": "Se subió a un barco ajeno solo para pedir cebo 😂 ¿Le habrías dado uno?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Pesca"
+   ]
+  },
+  "EN": {
+   "title": "Asking an NPC for bait in GTA 6 🎣",
+   "caption": "Hopped on a stranger's boat just to ask for bait 😂 Would you share?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fishing"
+   ]
+  }
+ }
+}

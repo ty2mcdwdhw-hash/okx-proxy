@@ -1,0 +1,60 @@
+{
+ "id": "TW_CalmFaithfulHyenaNerfRedBlaster-VMQATISrZQmztirn",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "mecánica de peso/dormir nueva",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  20.0,
+  49.2
+ ],
+ "hook": {
+  "ES": "En GTA 6 si comes mucho… engordas 🍔😳",
+  "EN": "In GTA 6, eat too much… and you gain weight 🍔😳"
+ },
+ "subs": [
+  {
+   "start": 43.59,
+   "end": 45.11,
+   "ES": "Creo que de verdad subió de peso.",
+   "EN": "I think he actually gained weight."
+  },
+  {
+   "start": 45.63,
+   "end": 47.01,
+   "ES": "Te juro que se ve más gordo,",
+   "EN": "I swear he looks fatter,"
+  },
+  {
+   "start": 47.23,
+   "end": 48.93,
+   "ES": "así que esto puede tardar como una semana.",
+   "EN": "so this might take like a week."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "GTA 6 tiene sistema de peso 🍔",
+   "caption": "Durmió, se despertó… y el juego le avisó que subió de peso 😳 ¿Gimnasio o más hamburguesas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mecanicas"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 has a weight system 🍔",
+   "caption": "Went to sleep, woke up… and the game said they gained weight 😳 Gym or more burgers?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mechanics"
+   ]
+  }
+ }
+}

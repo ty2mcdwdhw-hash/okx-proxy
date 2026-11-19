@@ -1,0 +1,60 @@
+{
+ "id": "TW_BlazingProductiveWebDogFace-0OJzDmcW6csST-IF",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "salto en paracaídas desde avión con estrellas",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  0.5,
+  29.5
+ ],
+ "hook": {
+  "ES": "Robó un avión con la policía detrás… y saltó en paracaídas sobre Vice City 🪂",
+  "EN": "Stole a plane with cops on them… then skydived over Vice City 🪂"
+ },
+ "subs": [
+  {
+   "start": 4.56,
+   "end": 6.02,
+   "ES": "Me voy…",
+   "EN": "I'm…"
+  },
+  {
+   "start": 15.65,
+   "end": 15.91,
+   "ES": "¡Fuera!",
+   "EN": "out!"
+  },
+  {
+   "start": 18.93,
+   "end": 20.11,
+   "ES": "Madre mía…",
+   "EN": "Oh my goodness…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Paracaídas sobre Vice City en GTA 6 🪂",
+   "caption": "Vista de Vice City desde las nubes 😮 ¿Saltarías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Paracaidas"
+   ]
+  },
+  "EN": {
+   "title": "Skydiving over Vice City in GTA 6 🪂",
+   "caption": "Vice City from the clouds 😮 Would you jump?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Skydive"
+   ]
+  }
+ }
+}
