@@ -1,0 +1,66 @@
+{
+ "id": "TW_FreezingSavagePheasantVoHiYo-EBaAN9gMaae0kLrb",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.0,
+  18.2
+ ],
+ "hook": {
+  "ES": "Aterrizó un hidroavión… en la pista del aeropuerto ✈️",
+  "EN": "Landed a seaplane… right on the runway ✈️"
+ },
+ "subs": [
+  {
+   "start": 0.4,
+   "end": 1.78,
+   "ES": "Así se aterriza un avión",
+   "EN": "This is how you land a plane"
+  },
+  {
+   "start": 15.13,
+   "end": 18.21,
+   "ES": "Nada mal, en serio, nada mal",
+   "EN": "Not even bad, for real, not even bad"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.7,
+    0.0,
+    0.3,
+    0.32
+   ],
+   "start": 0.0,
+   "end": 18.2
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Aterrizaje de 10 en GTA 6 ✈️",
+   "caption": "Hidroavión, pista de aeropuerto y cero miedo ✈️",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Avion"
+   ]
+  },
+  "EN": {
+   "title": "10/10 landing in GTA 6 ✈️",
+   "caption": "Seaplane, airport runway, zero fear ✈️",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Plane"
+   ]
+  }
+ }
+}

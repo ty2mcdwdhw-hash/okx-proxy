@@ -1,0 +1,66 @@
+{
+ "id": "TW_BoldPopularLegMrDestructoid-zkq_hgoilPQdO3R2",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.5,
+  25.0
+ ],
+ "hook": {
+  "ES": "«Las motos son mucho mejores»… lo dijo demasiado pronto 🏍️💀",
+  "EN": "\"Bikes are so much better\"… spoke too soon 🏍️💀"
+ },
+ "subs": [
+  {
+   "start": 2.77,
+   "end": 5.9,
+   "ES": "Mira esto, voy esquivando el tráfico",
+   "EN": "Look at this, weaving through traffic"
+  },
+  {
+   "start": 5.9,
+   "end": 9.13,
+   "ES": "las motos se manejan mucho mejor",
+   "EN": "bikes are way better to drive"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.7,
+    0.0,
+    0.3,
+    0.32
+   ],
+   "start": 0.0,
+   "end": 30.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Lo dijo demasiado pronto 🏍️",
+   "caption": "Presumiendo la moto en GTA 6… y pasó esto 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Moto"
+   ]
+  },
+  "EN": {
+   "title": "Spoke too soon 🏍️",
+   "caption": "Flexing the bike in GTA 6… then this happened 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Bike"
+   ]
+  }
+ }
+}

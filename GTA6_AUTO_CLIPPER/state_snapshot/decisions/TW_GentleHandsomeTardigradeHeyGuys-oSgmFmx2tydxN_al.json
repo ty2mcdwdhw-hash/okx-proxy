@@ -1,0 +1,72 @@
+{
+ "id": "TW_GentleHandsomeTardigradeHeyGuys-oSgmFmx2tydxN_al",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, apto",
+ "story": true,
+ "operator_safe": false,
+ "priority": true,
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  7.5,
+  37.5
+ ],
+ "hook": {
+  "ES": "IShowSpeed se cruzó con un tiburón buceando en GTA 6 🦈",
+  "EN": "IShowSpeed ran into a shark while diving in GTA 6 🦈"
+ },
+ "subs": [
+  {
+   "start": 18.9,
+   "end": 19.7,
+   "ES": "¡Vamos!",
+   "EN": "Go!"
+  },
+  {
+   "start": 26.2,
+   "end": 27.1,
+   "ES": "¡Lo tengo, por poco!",
+   "EN": "Got it, so close!"
+  }
+ ],
+ "bleep": [
+  [
+   13.44,
+   14.34
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.18,
+    0.84,
+    0.64,
+    0.12
+   ],
+   "start": 7.5,
+   "end": 37.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Un tiburón en pleno buceo 🦈",
+   "caption": "Speed bajó a bucear en GTA 6 y el océano no perdonó 😱",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "IShowSpeed"
+   ]
+  },
+  "EN": {
+   "title": "Shark encounter while diving 🦈",
+   "caption": "Speed went diving in GTA 6 and the ocean said no 😱",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "IShowSpeed"
+   ]
+  }
+ }
+}
