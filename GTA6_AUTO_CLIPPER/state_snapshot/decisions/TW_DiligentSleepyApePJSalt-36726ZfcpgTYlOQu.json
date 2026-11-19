@@ -1,0 +1,72 @@
+{
+ "id": "TW_DiligentSleepyApePJSalt-36726ZfcpgTYlOQu",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "reacción fuerte, streamer hispano con gran audiencia",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  30.0
+ ],
+ "priority": true,
+ "hook": {
+  "ES": "Se fue sin pagar… y salió fatal 😳🔥",
+  "EN": "Tried to dine and dash… big mistake 😳🔥"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.8,
+   "ES": "Hombre, no me llames, que estoy comiendo",
+   "EN": "Dude, don't call me, I'm eating"
+  },
+  {
+   "start": 6.34,
+   "end": 8.0,
+   "ES": "Vale, vale, vale",
+   "EN": "Okay, okay, okay"
+  },
+  {
+   "start": 13.03,
+   "end": 13.63,
+   "ES": "Ahora, ve",
+   "EN": "Now, go"
+  },
+  {
+   "start": 16.41,
+   "end": 20.49,
+   "ES": "Perdón, perdón, perdón… pensaba que iba",
+   "EN": "Sorry, sorry, sorry… I thought it'd work"
+  },
+  {
+   "start": 23.34,
+   "end": 29.98,
+   "ES": "No hagáis esto jamás, ¡jamás!",
+   "EN": "Never do this. NEVER!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "No hagáis esto jamás en GTA 6",
+   "caption": "Vegetta777 lo aprendió por las malas 😂 ¿Tú lo habrías intentado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Vegetta777"
+   ]
+  },
+  "EN": {
+   "title": "Never do this in GTA 6",
+   "caption": "Vegetta777 learned it the hard way 😂 Would you have tried it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}

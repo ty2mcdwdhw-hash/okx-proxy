@@ -1,0 +1,71 @@
+{
+ "id": "TW_NurturingHyperHareSmoocherZ-zhihGWX6gutPfkMG",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "choque en el agua, reacción, gameplay",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  0.0,
+  13.9
+ ],
+ "hook": {
+  "ES": "Remaba tranquilo en kayak… y llegó la policía 🛶🚤💀",
+  "EN": "Just kayaking in peace… then the cops showed up 🛶🚤💀"
+ },
+ "subs": [
+  {
+   "start": 2.13,
+   "end": 3.57,
+   "ES": "¡Oh, qué [[mierda]]!",
+   "EN": "Oh, what the [[f***]]!"
+  },
+  {
+   "start": 3.83,
+   "end": 4.49,
+   "ES": "Vale, bien",
+   "EN": "Okay, good"
+  },
+  {
+   "start": 8.78,
+   "end": 13.04,
+   "ES": "¡Qué mala suerte, bro!",
+   "EN": "That was unlucky, bro!"
+  },
+  {
+   "start": 13.34,
+   "end": 13.64,
+   "ES": "¿En serio?",
+   "EN": "Are you serious?"
+  }
+ ],
+ "bleep": [
+  [
+   2.95,
+   3.6
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Kayak vs. lancha de policía en GTA 6",
+   "caption": "Quin69 no vio venir la lancha 🛶💥 ¿Mala suerte o trickshot?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Kayak vs. police boat in GTA 6",
+   "caption": "Quin69 never saw the boat coming 🛶💥 Bad luck or trickshot?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
