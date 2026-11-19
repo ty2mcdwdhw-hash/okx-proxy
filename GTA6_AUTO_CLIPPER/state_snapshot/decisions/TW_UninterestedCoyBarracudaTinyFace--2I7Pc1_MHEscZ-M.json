@@ -1,0 +1,98 @@
+{
+ "id": "TW_UninterestedCoyBarracudaTinyFace--2I7Pc1_MHEscZ-M",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "huida de la policía en carrito de golf",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.8,
+  23.8
+ ],
+ "hook": {
+  "ES": "Huyendo de la policía en GTA 6… en carrito de golf ⛳🚓",
+  "EN": "Escaping the cops in GTA 6… in a golf cart ⛳🚓"
+ },
+ "subs": [
+  {
+   "start": 0.8,
+   "end": 2.08,
+   "ES": "El carro perfecto para un gánster",
+   "EN": "The perfect ride for a gangster"
+  },
+  {
+   "start": 5.67,
+   "end": 7.57,
+   "ES": "Ya nos vieron. Toca escapar, claro.",
+   "EN": "They've seen us. Time to bail, obviously."
+  },
+  {
+   "start": 7.81,
+   "end": 10.75,
+   "ES": "Sí, sí, sí, giro policial activado",
+   "EN": "Yeah yeah yeah, pulling a cop U-turn"
+  },
+  {
+   "start": 16.48,
+   "end": 19.12,
+   "ES": "[[Carajo]], ¡qué lento va esto! [[Mierda]]",
+   "EN": "[[Damn]], this thing is so slow! [[Crap]]"
+  },
+  {
+   "start": 19.98,
+   "end": 21.16,
+   "ES": "[[Carajo]], ¡dale gas!",
+   "EN": "[[Damn]], hit the gas!"
+  }
+ ],
+ "bleep": [
+  [
+   17.22,
+   17.86
+  ],
+  [
+   18.66,
+   19.22
+  ],
+  [
+   19.88,
+   20.46
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.44,
+    0.27,
+    0.22
+   ],
+   "start": 0.8,
+   "end": 23.8
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La persecución más lenta de GTA 6 ⛳",
+   "caption": "Velocidad máxima: 20 km/h. Estilo: infinito 😎🚓",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "The slowest chase in GTA 6 ⛳",
+   "caption": "Top speed: 12 mph. Style: unlimited 😎🚓",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

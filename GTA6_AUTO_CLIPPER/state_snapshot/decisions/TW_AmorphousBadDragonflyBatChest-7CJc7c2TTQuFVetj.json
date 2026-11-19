@@ -1,0 +1,41 @@
+{
+ "id": "TW_AmorphousBadDragonflyBatChest-7CJc7c2TTQuFVetj",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "hidroavión en tormenta, muestra de agua y clima",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  1.0,
+  19.0
+ ],
+ "hook": {
+  "ES": "Así se ve una tormenta en el mar de GTA 6 🌩️🌊",
+  "EN": "This is what a storm at sea looks like in GTA 6 🌩️🌊"
+ },
+ "subs": [],
+ "copy": {
+  "ES": {
+   "title": "Tormenta en GTA 6 🌩️",
+   "caption": "Hidroavión, olas y un cielo que da miedo ✈️🌊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Clima"
+   ]
+  },
+  "EN": {
+   "title": "Storm in GTA 6 🌩️",
+   "caption": "Seaplane, waves and a terrifying sky ✈️🌊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Weather"
+   ]
+  }
+ }
+}

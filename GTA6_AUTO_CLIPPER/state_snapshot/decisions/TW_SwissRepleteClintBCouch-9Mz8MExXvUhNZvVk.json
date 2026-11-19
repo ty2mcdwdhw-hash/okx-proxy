@@ -1,0 +1,136 @@
+{
+ "id": "TW_SwissRepleteClintBCouch-9Mz8MExXvUhNZvVk",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "escena de misión con giro cómico y reacción",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  0.9,
+  29.9
+ ],
+ "hook": {
+  "ES": "Todo iba bien en la negociación… hasta que soltaron a los perros 🐕💀",
+  "EN": "The negotiation was going great… until the dogs came out 🐕💀"
+ },
+ "subs": [
+  {
+   "start": 1.14,
+   "end": 5.82,
+   "ES": "Mira, haya hecho lo que haya hecho, no lo va a repetir. Te lo prometo.",
+   "EN": "Look, whatever they did, it won't happen again. I promise."
+  },
+  {
+   "start": 7.92,
+   "end": 9.94,
+   "ES": "Creo que ya captó el mensaje",
+   "EN": "I think they got the message anyway"
+  },
+  {
+   "start": 10.54,
+   "end": 14.9,
+   "ES": "¡Bien! Sabía que llegaríamos a un acuerdo entre caballeros",
+   "EN": "Alright! I knew we could reach a deal between reasonable gentlemen"
+  },
+  {
+   "start": 15.68,
+   "end": 19.0,
+   "ES": "Gracias. Gracias. Tú no. Vete a la [[mierda]].",
+   "EN": "Thank you. Thank you. Not you though. [[F*** yourself]]."
+  },
+  {
+   "start": 19.14,
+   "end": 20.38,
+   "ES": "¡Ahora te toca con los perros!",
+   "EN": "Now you've got the dogs on you!"
+  },
+  {
+   "start": 20.86,
+   "end": 24.3,
+   "ES": "¡Oh [[mierda]]! ¡Dios mío! ¡Dios mío!",
+   "EN": "Oh [[shit]]! Oh god! Oh god!"
+  },
+  {
+   "start": 25.28,
+   "end": 25.82,
+   "ES": "¡[[Perra]]!",
+   "EN": "[[B****]]!"
+  },
+  {
+   "start": 26.46,
+   "end": 28.18,
+   "ES": "¡Dios! ¡Dios!",
+   "EN": "Oh god! Oh god!"
+  }
+ ],
+ "bleep": [
+  [
+   18.6,
+   19.1
+  ],
+  [
+   21.2,
+   21.56
+  ],
+  [
+   25.18,
+   25.92
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.84,
+    0.6,
+    0.15
+   ],
+   "start": 18.4,
+   "end": 19.4
+  },
+  {
+   "box": [
+    0.2,
+    0.84,
+    0.6,
+    0.15
+   ],
+   "start": 21.0,
+   "end": 21.8
+  },
+  {
+   "box": [
+    0.2,
+    0.84,
+    0.6,
+    0.15
+   ],
+   "start": 25.0,
+   "end": 26.2
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Diplomacia nivel GTA 6 🐕",
+   "caption": "Un acuerdo perfecto… que duró dos segundos 😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 diplomacy 🐕",
+   "caption": "A perfect deal… that lasted two seconds 😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}

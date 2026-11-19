@@ -436,3 +436,5 @@
 - 2026-11-19T19:37:04Z | `TW_PricklySpineyChickpeaKeyboardCat-lPhZkKg4k9Nq98Bm_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-20T07:26:18Z | 🎥 @ohnepixel (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T20:08:54Z | `TW_AdventurousCourteousDogeM4xHeh-ZJSZgbKeneZTPJzV_ES` | Historia / Reacciones | instagram | scheduled @2026-11-20T08:06:27Z | 🎥 @kr1stw (zh->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T20:08:58Z | `TW_AdventurousCourteousDogeM4xHeh-ZJSZgbKeneZTPJzV_EN` | Historia / Reacciones | instagram | scheduled @2026-11-20T07:56:18Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T20:38:17Z | `TW_SwissRepleteClintBCouch-9Mz8MExXvUhNZvVk_ES` | Historia / Reacciones | instagram | scheduled @2026-11-20T08:36:27Z | 🎥 @theburntpeanut (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T20:38:19Z | `TW_SwissRepleteClintBCouch-9Mz8MExXvUhNZvVk_EN` | Historia / Reacciones | instagram | scheduled @2026-11-20T08:26:18Z | 🎥 @theburntpeanut (en->EN) | Spoiler: 0% (Verificado)
