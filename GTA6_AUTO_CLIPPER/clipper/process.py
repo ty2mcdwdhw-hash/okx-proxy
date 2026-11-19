@@ -64,8 +64,10 @@ def transcribe(path: Path, lang_hint: str | None) -> dict:
     audio = np.frombuffer(pcm, np.int16).astype(np.float32) / 32768.0
     if audio.size < 16000:
         return {"language": lang_hint, "language_prob": 0.0, "lang_hint": lang_hint, "segments": []}
-    segs, info = model.transcribe(audio, language=None, vad_filter=True, beam_size=5)
-    segs = [{"start": round(s.start, 2), "end": round(s.end, 2), "text": s.text.strip()} for s in segs]
+    segs, info = model.transcribe(audio, language=None, vad_filter=True, beam_size=5, word_timestamps=True)
+    segs = [{"start": round(s.start, 2), "end": round(s.end, 2), "text": s.text.strip(),
+             "words": [[round(w.start, 2), round(w.end, 2), w.word.strip()] for w in (s.words or [])]}
+            for s in segs]
     return {"language": info.language, "language_prob": round(info.language_probability, 2),
             "lang_hint": lang_hint, "segments": segs}
 

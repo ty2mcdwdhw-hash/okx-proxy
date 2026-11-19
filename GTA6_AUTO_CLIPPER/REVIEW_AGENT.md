@@ -8,9 +8,10 @@ Lee primero REVIEWER.md y config/settings.yaml (bloque `focus`) y sigue esas reg
 2. Triaje por texto (packet.md + transcript.json) de los ~25 primeros. Para los candidatos, crea mosaicos de 4
    contact.jpg con ffmpeg (`vstack=4,scale=1600:-2`) en el scratchpad y míralos.
 3. Rechaza por seguridad (desnudos, contenido sexual/club, violencia extrema o contra ancianos/animales,
-   drogas como foco, insultos discriminatorios en cualquier punto del audio, texto sexual o grosero legible
-   en pantalla incluidos overlays/chat/subtítulos quemados del streamer, groserías fuertes continuas en el
-   audio; ver "Reglas endurecidas" en REVIEWER.md; ante la duda, rechaza) o calidad (no es GTA VI, duplicado de temas ya publicados,
+   drogas como foco) o calidad. Groserías, insultos discriminatorios y texto sexual/grosero en pantalla
+   (overlays, chat, subtítulos quemados del streamer) NO son motivo de rechazo: se CENSURAN con `[[...]]` en los
+   subs (mosaico pixelado), `bleep` en el audio y `pixelate` para zonas de pantalla (ver "Censura en vez de
+   rechazo" en REVIEWER.md). Mira el contact sheet buscando texto legible para pixelarlo (no es GTA VI, duplicado de temas ya publicados,
    sin momento claro). La historia SÍ está permitida.
 4. Aprueba entre 2 y {MAX} clips, los mejores, priorizando el foco. En las ventanas de Europa y América,
    a igual calidad prefiere clips de streamers hispanohablantes (lang es) con buena audiencia: el público

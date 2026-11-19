@@ -11,14 +11,23 @@
 2. Consumo explícito de drogas como foco del clip.
 3. Contenido que no es GTA VI, clips sin momento claro, duplicados de temas ya publicados.
 4. Música con copyright como protagonista.
-5. Insultos discriminatorios (homófobos, racistas, etc.) en CUALQUIER punto del audio, aunque sea de pasada, y aunque nuestros subtítulos lo censuren.
+5. Rechaza solo si el insulto discriminatorio ES el momento (el clip no se entiende sin él). Si no, censúralo (abajo).
 
-### Reglas endurecidas (aviso de Instagram, 18/11 noche)
-Auditoría tras un aviso de Normas comunitarias: las causas fueron lenguaje sexual legible en pantalla, un insulto homófobo en el audio, groserías fuertes continuas en el audio y subtítulos/textos ORIGINALES del streamer (overlays, chat, subs quemados) con groserías sin censurar. Por eso:
-6. Rechaza si en el fotograma se lee texto sexual o grosero (overlays del stream, chat, subtítulos quemados del streamer, carteles del juego). Revisa el contact sheet buscando texto legible.
-7. Rechaza si el audio tiene groserías fuertes de forma continua (más de 2-3 en el tramo recortado) o cualquier contenido sexual verbal explícito. Una grosería aislada se permite si nuestros subtítulos la censuran.
-8. Elige el trim para dejar fuera insultos y groserías cuando el momento lo permita.
-9. Ante la duda en seguridad, rechaza: Instagram penaliza la cuenta entera, no solo el post.
+### Censura en vez de rechazo (aviso de Instagram, 18/11 noche; decisión del operador)
+El aviso vino de: texto sexual legible en pantalla, un insulto homófobo en el audio, groserías continuas en el audio
+y subtítulos/overlays ORIGINALES del streamer con groserías sin censurar. El operador decidió NO quitar estos clips
+sino CENSURARLOS con un pixelado llamativo (atrae la mirada). Herramientas en la decisión:
+- **Subtítulos:** envuelve cada palabra a censurar en `[[...]]` (p. ej. `"ES": "qué [[cabrón]] el NPC"`). Se renderiza
+  como un mosaico pixelado rosa/blanco en el hueco exacto de la palabra. Úsalo para TODAS las groserías fuertes,
+  insultos discriminatorios y palabras sexuales explícitas (no uses asteriscos). Hazlo en ES y en EN.
+- **Audio:** `"bleep": [[start, end], ...]` (tiempos del clip original, ±0.1 s alrededor de la palabra, sácalos de los
+  tiempos por palabra de transcript.json) silencia y pone un pitido. Obligatorio para insultos discriminatorios y
+  lenguaje sexual explícito; recomendado para groserías fuertes (máx. ~6 pitidos por clip; si hay más, elige otro trim).
+- **Texto en pantalla:** `"pixelate": [{"box": [x, y, w, h], "start": s, "end": e}]` con fracciones (0-1) del fotograma
+  ORIGINAL y tiempos del clip original. Para overlays/chat/subtítulos quemados del streamer o carteles con texto
+  sexual o grosero. Cubre la zona con margen.
+Se sigue rechazando: desnudos/contenido sexual visual (clubs, lapdances), drogas como foco, gore, violencia contra
+animales/ancianos. Elige el trim para minimizar censuras cuando el momento lo permita.
 
 ## Selección
 - Prioriza por vistas y por momento: reacciones fuertes, momentos épicos/graciosos, física, conducción, mapa, NPCs, y también momentos de historia potentes.
@@ -32,5 +41,6 @@ Auditoría tras un aviso de Normas comunitarias: las causas fueron lenguaje sexu
  "copy": {"ES": {"title": "...", "caption": "...", "hashtags": ["GTA6"]}, "EN": {"title": "...", "caption": "...", "hashtags": ["GTA6"]}}}
 ```
 - `spoiler_level` se mantiene en 0 por compatibilidad (el filtro de publicación lo exige); ya no mide historia.
-- Los tiempos de `subs` son del clip original. Localización gamer, groserías fuertes censuradas, pronombres neutros en EN.
+- Los tiempos de `subs` son del clip original. Localización gamer, groserías fuertes censuradas con `[[...]]` (mosaico pixelado), pronombres neutros en EN.
+- Opcionales de censura: `"bleep": [[3.1, 3.5]]`, `"pixelate": [{"box": [0.62, 0.05, 0.36, 0.22], "start": 2.0, "end": 24.5}]` (ver sección de censura).
 - `trim`: 7-30 s (55 s si es HOW TO).
