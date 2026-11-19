@@ -1,0 +1,66 @@
+{
+ "id": "TW_AdventurousCourteousDogeM4xHeh-ZJSZgbKeneZTPJzV",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento tenso en el agua con reacción",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  37.5,
+  53.3
+ ],
+ "hook": {
+  "ES": "Llegaron en lancha al pantano… y alguien los estaba esperando 🐊",
+  "EN": "They rolled up to the swamp by boat… and something was waiting 🐊"
+ },
+ "subs": [
+  {
+   "start": 44.24,
+   "end": 45.4,
+   "ES": "Llegamos",
+   "EN": "We're here"
+  },
+  {
+   "start": 45.46,
+   "end": 46.76,
+   "ES": "¡Se voltea el bote!",
+   "EN": "The boat's gonna flip!"
+  },
+  {
+   "start": 46.76,
+   "end": 47.6,
+   "ES": "¡Se murió alguien!",
+   "EN": "Someone's dead!"
+  },
+  {
+   "start": 47.6,
+   "end": 50.74,
+   "ES": "¡¡UN CAIMÁN!!",
+   "EN": "A GATOR!!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El pantano de GTA 6 no perdona 🐊",
+   "caption": "Nadie esperaba esa visita en el agua… 😳🐊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6's swamp doesn't play 🐊",
+   "caption": "Nobody expected that visitor in the water… 😳🐊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}

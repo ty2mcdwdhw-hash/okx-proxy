@@ -1,0 +1,84 @@
+{
+ "id": "TW_OilyDelightfulDinosaurStoneLightning-_6o_-Y3UO40ggLwf",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "caos al volante con remate gracioso",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  17.5,
+  44.5
+ ],
+ "hook": {
+  "ES": "Su camioneta se caía a pedazos… así que se llevó un convertible 🚗😂",
+  "EN": "Their truck was falling apart… so they just took a convertible 🚗😂"
+ },
+ "subs": [
+  {
+   "start": 18.77,
+   "end": 19.4,
+   "ES": "¡Eh!",
+   "EN": "Hey!"
+  },
+  {
+   "start": 19.45,
+   "end": 22.64,
+   "ES": "Esta camioneta…",
+   "EN": "This truck…"
+  },
+  {
+   "start": 25.2,
+   "end": 26.5,
+   "ES": "¡Eh! ¡Me está persiguiendo!",
+   "EN": "Hey! They're chasing me!"
+  },
+  {
+   "start": 27.88,
+   "end": 30.26,
+   "ES": "¡Eh! ¡Rayos! Con esto estoy totalmente [[jodida]]",
+   "EN": "Ugh! Damn! Now I'm totally [[screwed]]"
+  },
+  {
+   "start": 35.15,
+   "end": 37.19,
+   "ES": "Me miró feo… y me embistió directo",
+   "EN": "Didn't like me… and rammed me head-on"
+  },
+  {
+   "start": 42.55,
+   "end": 44.4,
+   "ES": "Definitivamente: mejor manejar el auto de otro 😌",
+   "EN": "Yep: always better to drive someone else's car 😌"
+  }
+ ],
+ "bleep": [
+  [
+   29.02,
+   30.02
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Mejor manejar el auto de otro 😂",
+   "caption": "La camioneta no aguantó ni un choque más… solución: cambiar de auto. ¿Tú también lo harías? 🚗",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  },
+  "EN": {
+   "title": "Always drive someone else's car 😂",
+   "caption": "The truck couldn't take one more hit… solution: swap cars. Would you do the same? 🚗",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}

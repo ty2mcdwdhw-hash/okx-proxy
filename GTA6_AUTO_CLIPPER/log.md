@@ -434,3 +434,5 @@
 - 2026-11-19T19:10:23Z | `TW_AlluringDreamyMilkPJSugar-gTL775NMnFDGrHEo_EN` | NPCs / Físicas y Gameplay | instagram | scheduled @2026-11-20T06:56:18Z | 🎥 @shadowkekw (ru->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T19:36:59Z | `TW_PricklySpineyChickpeaKeyboardCat-lPhZkKg4k9Nq98Bm_ES` | Momentos divertidos / Viral | instagram | scheduled @2026-11-20T07:36:27Z | 🎥 @ohnepixel (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T19:37:04Z | `TW_PricklySpineyChickpeaKeyboardCat-lPhZkKg4k9Nq98Bm_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-20T07:26:18Z | 🎥 @ohnepixel (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T20:08:54Z | `TW_AdventurousCourteousDogeM4xHeh-ZJSZgbKeneZTPJzV_ES` | Historia / Reacciones | instagram | scheduled @2026-11-20T08:06:27Z | 🎥 @kr1stw (zh->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T20:08:58Z | `TW_AdventurousCourteousDogeM4xHeh-ZJSZgbKeneZTPJzV_EN` | Historia / Reacciones | instagram | scheduled @2026-11-20T07:56:18Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)

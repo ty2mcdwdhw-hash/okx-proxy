@@ -1,0 +1,54 @@
+{
+ "id": "TW_VivaciousAbstemiousAnacondaRaccAttack-oJvHJwy_Z4Pn8mZW",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "choque en misión con reacción",
+ "pillar": "Reacciones / Historia",
+ "trim": [
+  26.0,
+  45.0
+ ],
+ "hook": {
+  "ES": "Le tocaba manejar con calma… y terminó contra el muro 😅🚙",
+  "EN": "They were supposed to drive carefully… it ended at the guardrail 😅🚙"
+ },
+ "subs": [
+  {
+   "start": 34.65,
+   "end": 38.11,
+   "ES": "Cal, perdón, perdón, perdón… me pasé de velocidad",
+   "EN": "Cal, sorry, sorry, sorry… I went way too fast"
+  },
+  {
+   "start": 40.61,
+   "end": 44.19,
+   "ES": "Es que no pude frenar, iba demasiado rápido",
+   "EN": "I just couldn't stop, I was going way too fast"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El copiloto no lo va a olvidar 😅",
+   "caption": "Una curva, demasiada velocidad y muchas disculpas 🚙💥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  },
+  "EN": {
+   "title": "The passenger won't forget this 😅",
+   "caption": "One turn, too much speed and a lot of apologies 🚙💥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}
