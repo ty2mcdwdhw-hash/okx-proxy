@@ -1,0 +1,72 @@
+{
+ "id": "TW_RelatedSuspiciousBubbleteaKappaPride-sdbKFhQiaWOGbWRv",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Choque con ironía del streamer (genérico)",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "priority": false,
+ "trim": [
+  1.5,
+  27.2
+ ],
+ "hook": {
+  "ES": "«Miren cómo se toma una curva»… 💥🚗",
+  "EN": "\"Watch how I take this turn\"… 💥🚗"
+ },
+ "subs": [
+  {
+   "start": 1.97,
+   "end": 5.4,
+   "ES": "Una curvita a la izquierda… miren cómo lo hago",
+   "EN": "Nice little left turn here… watch how I do this"
+  },
+  {
+   "start": 13.4,
+   "end": 15.9,
+   "ES": "…y anótenlo para que NO lo hagan",
+   "EN": "…and write that down so you know NOT to do that"
+  },
+  {
+   "start": 19.1,
+   "end": 22.9,
+   "ES": "Espera… vamos, [[perra]], aún te quedan unos kilómetros",
+   "EN": "Hold on… come on, [[bitchy]], we still got a couple more miles"
+  },
+  {
+   "start": 23.5,
+   "end": 27.0,
+   "ES": "Seguro que aún aguantas unos kilómetros más",
+   "EN": "You got a couple more miles in you, bet"
+  }
+ ],
+ "bleep": [
+  [
+   20.68,
+   21.2
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "La peor clase de manejo en GTA 6 💥",
+   "caption": "💥 Prometió enseñar a tomar una curva… y la lección fue otra 😂 ¿Aprobarías esta clase? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Driving"
+   ]
+  },
+  "EN": {
+   "title": "The worst driving lesson in GTA 6 💥",
+   "caption": "💥 Promised to teach a turn… the lesson was something else 😂 Would you pass this class? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Driving"
+   ]
+  }
+ }
+}

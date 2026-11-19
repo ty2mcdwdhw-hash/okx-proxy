@@ -1,0 +1,88 @@
+{
+ "id": "TW_RepleteBraveAsteriskOSkomodo-6tMjjPVnkaibzmaG",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "Distracción con final inesperado (genérico)",
+ "pillar": "Momentos divertidos / Viral",
+ "priority": false,
+ "trim": [
+  2.5,
+  22.5
+ ],
+ "hook": {
+  "ES": "Se distrajo mirando un cartel… y pasó esto 🚚💀",
+  "EN": "Got distracted by a billboard… and this happened 🚚💀"
+ },
+ "subs": [
+  {
+   "start": 3.0,
+   "end": 4.4,
+   "ES": "No alcancé ni a ver su nombre",
+   "EN": "I couldn't even see the name"
+  },
+  {
+   "start": 5.6,
+   "end": 8.4,
+   "ES": "El peor cartel de la historia, no se puede ni leer",
+   "EN": "Worst billboard of all time, you can't even read it"
+  },
+  {
+   "start": 15.3,
+   "end": 17.0,
+   "ES": "Ah, es una abogada…",
+   "EN": "Oh, it's a lawyer…"
+  },
+  {
+   "start": 17.9,
+   "end": 19.0,
+   "ES": "¿¡QUÉ!?",
+   "EN": "WHAT!?"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.24,
+    0.33,
+    0.52,
+    0.32
+   ],
+   "start": 18.0,
+   "end": 22.5
+  },
+  {
+   "box": [
+    0.74,
+    0.0,
+    0.26,
+    0.32
+   ],
+   "start": 2.5,
+   "end": 22.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Nunca te distraigas en GTA 6 🚚💀",
+   "caption": "🚚💀 Solo quería leer un cartel… GTA 6 no perdona. ¿Te ha pasado? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Never get distracted in GTA 6 🚚💀",
+   "caption": "🚚💀 Just wanted to read a billboard… GTA 6 shows no mercy. Happened to you? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

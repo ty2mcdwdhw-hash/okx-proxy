@@ -438,3 +438,5 @@
 - 2026-11-19T20:08:58Z | `TW_AdventurousCourteousDogeM4xHeh-ZJSZgbKeneZTPJzV_EN` | Historia / Reacciones | instagram | scheduled @2026-11-20T07:56:18Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T20:38:17Z | `TW_SwissRepleteClintBCouch-9Mz8MExXvUhNZvVk_ES` | Historia / Reacciones | instagram | scheduled @2026-11-20T08:36:27Z | 🎥 @theburntpeanut (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-19T20:38:19Z | `TW_SwissRepleteClintBCouch-9Mz8MExXvUhNZvVk_EN` | Historia / Reacciones | instagram | scheduled @2026-11-20T08:26:18Z | 🎥 @theburntpeanut (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T21:07:18Z | `TW_RepleteBraveAsteriskOSkomodo-6tMjjPVnkaibzmaG_ES` | Momentos divertidos / Viral | instagram | scheduled @2026-11-20T09:06:27Z | 🎥 @cellbit (pt->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T21:07:21Z | `TW_RepleteBraveAsteriskOSkomodo-6tMjjPVnkaibzmaG_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-20T08:56:18Z | 🎥 @cellbit (pt->EN) | Spoiler: 0% (Verificado)

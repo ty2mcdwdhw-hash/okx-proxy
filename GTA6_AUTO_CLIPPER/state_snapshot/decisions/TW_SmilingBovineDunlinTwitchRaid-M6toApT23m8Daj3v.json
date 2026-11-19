@@ -1,0 +1,84 @@
+{
+ "id": "TW_SmilingBovineDunlinTwitchRaid-M6toApT23m8Daj3v",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "NPCs con reacciones graciosas (genérico)",
+ "pillar": "NPCs / Detalles",
+ "priority": false,
+ "trim": [
+  0.0,
+  15.5
+ ],
+ "hook": {
+  "ES": "Unos NPC se subieron a la ballena gigante… y los locales explotaron 🐋😂",
+  "EN": "Some NPCs climbed the giant whale… and the locals lost it 🐋😂"
+ },
+ "subs": [
+  {
+   "start": 7.3,
+   "end": 8.6,
+   "ES": "¡Ey! ¡Ni lo soñéis!",
+   "EN": "Hey! Don't even think about it!"
+  },
+  {
+   "start": 8.6,
+   "end": 10.2,
+   "ES": "Dios, bro, ¿qué [[coño]]…?",
+   "EN": "Oh God, bro, what the [[hell]]…?"
+  },
+  {
+   "start": 10.2,
+   "end": 11.6,
+   "ES": "¡Arg! Pero ¿¡qué [[coño]]!?",
+   "EN": "Argh! What the [[hell]]!?"
+  },
+  {
+   "start": 11.6,
+   "end": 13.2,
+   "ES": "¡Ahí va! ¡Ten un poco de respeto!",
+   "EN": "Come on! Show some respect!"
+  },
+  {
+   "start": 13.2,
+   "end": 15.5,
+   "ES": "Ay, la [[hostia]]… ¡No, no, no!",
+   "EN": "Oh, [[damn]]… No, no, no!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.72,
+    0.46,
+    0.24
+   ],
+   "start": 7.0,
+   "end": 15.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPC de GTA 6 contra la ballena gigante 🐋",
+   "caption": "🐋 Unos NPC se treparon a la ballena… y el pueblo entero se indignó 😂 ¿Tú también te subirías? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs vs the giant whale 🐋",
+   "caption": "🐋 A few NPCs climbed the whale statue… and the whole town got mad 😂 Would you climb it too? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}
