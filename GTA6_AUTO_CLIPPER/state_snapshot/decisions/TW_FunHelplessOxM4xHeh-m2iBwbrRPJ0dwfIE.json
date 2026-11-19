@@ -1,0 +1,98 @@
+{
+ "id": "TW_FunHelplessOxM4xHeh-m2iBwbrRPJ0dwfIE",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "choque fuerte buscando el freno de mano",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  6.0,
+  20.0
+ ],
+ "hook": {
+  "ES": "Buscaba el freno de mano… y lo encontró a lo bestia 💥",
+  "EN": "Looking for the handbrake… found it the hard way 💥"
+ },
+ "subs": [
+  {
+   "start": 10.22,
+   "end": 11.7,
+   "ES": "¿Y el freno de mano?",
+   "EN": "Where's the handbrake?"
+  },
+  {
+   "start": 13.14,
+   "end": 14.66,
+   "ES": "¡No [[mames]]!",
+   "EN": "Holy [[shit]]!"
+  },
+  {
+   "start": 14.88,
+   "end": 17.82,
+   "ES": "¡Dios mío! ¡Dios mío!",
+   "EN": "Oh my god! Oh my god!"
+  },
+  {
+   "start": 17.84,
+   "end": 18.98,
+   "ES": "¡Eso fue una [[puta]] locura!",
+   "EN": "That was [[fucking]] crazy!"
+  }
+ ],
+ "bleep": [
+  [
+   13.75,
+   14.75
+  ],
+  [
+   18.02,
+   18.58
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.86,
+    0.5,
+    0.12
+   ],
+   "start": 13.5,
+   "end": 15.0
+  },
+  {
+   "box": [
+    0.25,
+    0.86,
+    0.5,
+    0.12
+   ],
+   "start": 17.8,
+   "end": 19.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El freno de mano en GTA 6 😂",
+   "caption": "Jerma buscó el freno de mano en plena curva y terminó así 💥 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Conduccion"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 handbrake moment 😂",
+   "caption": "Jerma went looking for the handbrake mid-turn and this happened 💥 Ever been there?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Driving"
+   ]
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "id": "TW_MoralModernFlamingoTwitchRPG-2RC_jRmaxJlhXReZ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "parodia gamer graciosa, selfie libre",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  4.3,
+  28.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 ya hay vendehúmos de cursos 💸🏎️",
+  "EN": "GTA 6 already has fake course gurus 💸🏎️"
+ },
+ "subs": [
+  {
+   "start": 4.78,
+   "end": 7.04,
+   "ES": "Ey, gente, acabo de llegar a Miami",
+   "EN": "Hey y'all, I just got to Miami"
+  },
+  {
+   "start": 7.5,
+   "end": 10.56,
+   "ES": "Este es mi carro, nuevecito",
+   "EN": "This is my car right here, brand new"
+  },
+  {
+   "start": 11.3,
+   "end": 12.88,
+   "ES": "Lamborghini 2027",
+   "EN": "2027 Lamborghini"
+  },
+  {
+   "start": 12.88,
+   "end": 15.48,
+   "ES": "Avísenme si quieren comprar mi curso",
+   "EN": "Let me know if y'all want to buy my course"
+  },
+  {
+   "start": 15.74,
+   "end": 17.64,
+   "ES": "Solo 49,99 al mes",
+   "EN": "It's 49.99 a month"
+  },
+  {
+   "start": 17.64,
+   "end": 24.0,
+   "ES": "Puedes tener autos así: Lamborghini, Lamborghini, Lamborghini, Porsche",
+   "EN": "You can get cars like this: Lamborghini, Lamborghini, Lamborghini, Porsche"
+  },
+  {
+   "start": 24.0,
+   "end": 27.06,
+   "ES": "Compra mi curso, 49,99 al mes",
+   "EN": "Buy my course, 49.99 a month"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.7,
+    0.0,
+    0.3,
+    0.23
+   ],
+   "start": 4.3,
+   "end": 28.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El gurú de los cursos llegó a GTA 6",
+   "caption": "Lacy se hizo un selfie y vendió su curso de 49,99 al mes 😂 ¿Lo comprarías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Humor"
+   ]
+  },
+  "EN": {
+   "title": "The course guru made it to GTA 6",
+   "caption": "Lacy took a selfie and pitched a $49.99/month course 😂 Would you buy it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Funny"
+   ]
+  }
+ }
+}
