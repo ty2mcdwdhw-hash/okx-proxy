@@ -389,3 +389,5 @@
 - 2026-11-19T12:09:27Z | `TW_GorgeousStrangeLEDMcaT-QgWT4O89h4FcXkBD_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-19T22:56:18Z | 🎥 @darkviperau (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T12:09:33Z | `TW_CrepuscularEndearingReubenFrankerZ-WMrfVkTszl_JSVlX_EN` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-19T23:26:18Z | 🎥 @auronplay (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-19T12:09:37Z | `TW_MushyStrangeAlligatorMikeHogu-8sOTLhJqvke8tRgg_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-19T23:56:18Z | 🎥 @typicalgamer (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-19T12:38:23Z | `TW_InexpensiveConsiderateTapirBlargNaut-NzJsM7mENossZKll_ES` | Spotlight / Mecánicas | instagram | scheduled @2026-11-20T00:36:27Z | 🎥 @zerkaa (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-19T12:38:26Z | `TW_InexpensiveConsiderateTapirBlargNaut-NzJsM7mENossZKll_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-20T00:26:18Z | 🎥 @zerkaa (en->EN) | Spoiler: 0% (Verificado)

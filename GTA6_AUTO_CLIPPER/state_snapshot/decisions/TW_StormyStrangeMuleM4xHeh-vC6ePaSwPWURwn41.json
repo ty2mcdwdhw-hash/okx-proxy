@@ -1,0 +1,84 @@
+{
+ "id": "TW_StormyStrangeMuleM4xHeh-vC6ePaSwPWURwn41",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "detalle de NPCs, tema nuevo",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  28.8,
+  58.8
+ ],
+ "hook": {
+  "ES": "En GTA 6 los NPC se enojan si tiras basura 🍔🗑️",
+  "EN": "In GTA 6, NPCs get mad if you litter 🍔🗑️"
+ },
+ "subs": [
+  {
+   "start": 32.85,
+   "end": 33.93,
+   "ES": "Oh, [[mierda]]",
+   "EN": "Oh [[shit]]"
+  },
+  {
+   "start": 35.55,
+   "end": 40.46,
+   "ES": "Al tacho de basura, se enojan mucho",
+   "EN": "Trash can, they get really mad"
+  },
+  {
+   "start": 41.62,
+   "end": 44.28,
+   "ES": "Se enojan muchísimo si tiras basura",
+   "EN": "They get very, very mad if you litter"
+  },
+  {
+   "start": 45.22,
+   "end": 48.06,
+   "ES": "Tienes que usar el tacho de basura",
+   "EN": "You actually have to use the trash can"
+  },
+  {
+   "start": 53.8,
+   "end": 56.08,
+   "ES": "Ahí está. Delicioso",
+   "EN": "There it is. Delicious"
+  },
+  {
+   "start": 57.66,
+   "end": 58.78,
+   "ES": "Absolutamente delicioso",
+   "EN": "Absolutely delicious"
+  }
+ ],
+ "bleep": [
+  [
+   33.39,
+   34.03
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Prohibido tirar basura en GTA 6",
+   "caption": "Los NPC de GTA 6 te reclaman si tiras basura al piso 🗑️😂 ¿Tú usarías el tacho?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  },
+  "EN": {
+   "title": "No littering in GTA 6",
+   "caption": "GTA 6 NPCs call you out if you litter 🗑️😂 Would you use the trash can?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  }
+ }
+}

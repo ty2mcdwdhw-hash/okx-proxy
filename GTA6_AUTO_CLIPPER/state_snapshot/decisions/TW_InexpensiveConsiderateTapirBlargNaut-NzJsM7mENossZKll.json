@@ -1,0 +1,78 @@
+{
+ "id": "TW_InexpensiveConsiderateTapirBlargNaut-NzJsM7mENossZKll",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "mecánica nueva, tema no publicado",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0.5,
+  30.0
+ ],
+ "hook": {
+  "ES": "GTA 6 tiene cartas coleccionables 🃏",
+  "EN": "GTA 6 has collectible cards 🃏"
+ },
+ "subs": [
+  {
+   "start": 0.59,
+   "end": 2.51,
+   "ES": "Dame el botín",
+   "EN": "Give me the loot"
+  },
+  {
+   "start": 3.11,
+   "end": 4.55,
+   "ES": "Dios mío",
+   "EN": "Oh my god"
+  },
+  {
+   "start": 6.33,
+   "end": 12.04,
+   "ES": "Me salió un montón de Los Santos",
+   "EN": "I got a bunch of Los Santos ones"
+  },
+  {
+   "start": 15.81,
+   "end": 17.35,
+   "ES": "A abrir sobres",
+   "EN": "Time to pull cards"
+  },
+  {
+   "start": 23.62,
+   "end": 25.74,
+   "ES": "No puede ser, hay cartas en GTA",
+   "EN": "No way they have cards in GTA"
+  },
+  {
+   "start": 26.54,
+   "end": 28.84,
+   "ES": "Este juego está hecho para mí",
+   "EN": "This game was made for me"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Cartas coleccionables en GTA 6",
+   "caption": "En GTA 6 hay sobres de cartas y se pueden vender en la casa de empeño 🃏💰 ¿Las vas a coleccionar?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Coleccionables"
+   ]
+  },
+  "EN": {
+   "title": "Collectible cards in GTA 6",
+   "caption": "GTA 6 has card packs you can sell at pawn shops 🃏💰 Are you collecting them?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Collectibles"
+   ]
+  }
+ }
+}

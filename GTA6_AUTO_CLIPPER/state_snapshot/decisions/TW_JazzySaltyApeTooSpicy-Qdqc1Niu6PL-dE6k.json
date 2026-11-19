@@ -1,0 +1,66 @@
+{
+ "id": "TW_JazzySaltyApeTooSpicy-Qdqc1Niu6PL-dE6k",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "reacción fuerte a gráficos, streamer hispano",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.2,
+  17.0
+ ],
+ "hook": {
+  "ES": "«Esto parece un video hecho con IA» 🤯",
+  "EN": "\"This looks like an AI video\" 🤯"
+ },
+ "subs": [
+  {
+   "start": 0.37,
+   "end": 3.61,
+   "ES": "Parece un video hecho con IA, esto parece real",
+   "EN": "Looks like an AI video, this looks real"
+  },
+  {
+   "start": 4.79,
+   "end": 8.03,
+   "ES": "Voy a intentar robar un auto",
+   "EN": "I'm gonna try to steal a car"
+  },
+  {
+   "start": 8.97,
+   "end": 12.09,
+   "ES": "¿Me dejan hacerlo? Lleva a alguien atrás",
+   "EN": "Will they let me? Someone's in the back"
+  },
+  {
+   "start": 13.31,
+   "end": 15.69,
+   "ES": "¡Dios mío!",
+   "EN": "Oh my god!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "¿GTA 6 o video con IA?",
+   "caption": "Rubius no podía creer lo real que se ve GTA 6 😳 ¿Tú también lo confundirías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Graficos"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 or an AI video?",
+   "caption": "GTA 6 looks so real it got mistaken for AI 😳 Would you be fooled?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Graphics"
+   ]
+  }
+ }
+}
