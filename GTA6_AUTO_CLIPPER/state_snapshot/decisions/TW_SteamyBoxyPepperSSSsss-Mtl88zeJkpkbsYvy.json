@@ -1,0 +1,72 @@
+{
+ "id": "TW_SteamyBoxyPepperSSSsss-Mtl88zeJkpkbsYvy",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "momento viral de vehículo militar, sin trama",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  18.5,
+  46.0
+ ],
+ "hook": {
+  "ES": "Se robó un TANQUE de la base militar en GTA 6 💥🪖",
+  "EN": "They stole a TANK from the military base in GTA 6 💥🪖"
+ },
+ "subs": [
+  {
+   "start": 19.4,
+   "end": 20.6,
+   "ES": "¿Cómo se dispara? ¿R1?",
+   "EN": "How do you shoot? R1?"
+  },
+  {
+   "start": 25.6,
+   "end": 26.8,
+   "ES": "Ok, perfecto.",
+   "EN": "Okay, perfect."
+  },
+  {
+   "start": 27.8,
+   "end": 30.0,
+   "ES": "Oh sí, oh sí, oh sí",
+   "EN": "Oh yeah, oh yeah, oh yeah"
+  },
+  {
+   "start": 30.9,
+   "end": 35.6,
+   "ES": "¡Dios mío! ¡Dios mío!",
+   "EN": "Oh my God! Oh my God!"
+  },
+  {
+   "start": 41.7,
+   "end": 43.4,
+   "ES": "¡Buah! Ok…",
+   "EN": "Whoa! Okay…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Un tanque en GTA 6 🪖💥",
+   "caption": "Entró a la base militar y salió con un tanque… la policía no tuvo ninguna oportunidad 😳 ¿Qué harías tú con uno?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tanque"
+   ]
+  },
+  "EN": {
+   "title": "A tank in GTA 6 🪖💥",
+   "caption": "Walked into the military base and drove out in a tank… the cops never stood a chance 😳 What would you do with one?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tank"
+   ]
+  }
+ }
+}

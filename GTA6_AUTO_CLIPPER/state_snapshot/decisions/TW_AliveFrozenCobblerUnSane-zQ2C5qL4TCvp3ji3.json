@@ -1,0 +1,65 @@
+{
+ "id": "TW_AliveFrozenCobblerUnSane-zQ2C5qL4TCvp3ji3",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "choque con policía y auto destrozado, sin trama",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  1.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "De TODOS los autos para chocar en GTA 6… eligió el de la policía 🚓💀",
+  "EN": "Out of ALL the cars to hit in GTA 6… they picked the cop car 🚓💀"
+ },
+ "subs": [
+  {
+   "start": 1.5,
+   "end": 4.3,
+   "ES": "Imposible que tuviera un poli enfrente, no puede ser.",
+   "EN": "No way there was a cop right in front of me, no way."
+  },
+  {
+   "start": 11.7,
+   "end": 13.6,
+   "ES": "(Radio: accidente, dirección norte)",
+   "EN": "(Radio: accident, traveling northbound)"
+  },
+  {
+   "start": 17.7,
+   "end": 20.1,
+   "ES": "¡Dios mío, la policía otra vez!",
+   "EN": "Oh my God, the cops again!"
+  },
+  {
+   "start": 27.1,
+   "end": 30.0,
+   "ES": "Uf, se acabó para mí, bro, mi auto ya no anda.",
+   "EN": "Man, it's over for me, bro, my car won't move anymore."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Chocó justo con la policía en GTA 6 🚓",
+   "caption": "Iba tranquilo por la autopista… hasta que apareció una patrulla justo enfrente 😂 El daño en los autos de GTA 6 es otro nivel.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Crashed right into the cops in GTA 6 🚓",
+   "caption": "Just cruising down the highway… until a cop car showed up right in front 😂 Vehicle damage in GTA 6 is on another level.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "id": "TW_CovertSpookyCougarCoolCat-gCiAKbGNixVmfMiZ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "explosión con timing perfecto, sin trama",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  12.0,
+  29.8
+ ],
+ "hook": {
+  "ES": "Le disparó a la camioneta… y el timing fue PERFECTO 💥😳",
+  "EN": "They shot the truck… and the timing was PERFECT 💥😳"
+ },
+ "subs": [
+  {
+   "start": 19.3,
+   "end": 20.9,
+   "ES": "¡Que acaba de explotar!",
+   "EN": "It just blew up!"
+  },
+  {
+   "start": 25.4,
+   "end": 26.6,
+   "ES": "Eso ha sido timing.",
+   "EN": "Now THAT'S timing."
+  },
+  {
+   "start": 26.8,
+   "end": 28.4,
+   "ES": "¡Que acaba de explotar!",
+   "EN": "It literally just blew up!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El timing más perfecto de GTA 6 💥",
+   "caption": "Escopeta en mano, camioneta enfrente… y la explosión llegó justo a tiempo 😂 Las físicas de GTA 6 no perdonan.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Explosion"
+   ]
+  },
+  "EN": {
+   "title": "The most perfect timing in GTA 6 💥",
+   "caption": "Shotgun out, truck ahead… and the explosion hit right on cue 😂 GTA 6 physics don't miss.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Explosion"
+   ]
+  }
+ }
+}
