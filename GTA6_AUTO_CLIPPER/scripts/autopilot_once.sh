@@ -8,6 +8,18 @@ LOG=state/autopilot.log
 ts() { TZ=America/Lima date "+%d/%m %H:%M"; }
 say() { echo "[$(ts)] $*" >> "$LOG"; }
 
+REPO=/home/user/okx-proxy
+BR=claude/gallant-bardeen-s7mk6r
+# Propiedad: solo una sesión publica. Si en GitHub figura otra sesión como dueña, este piloto se apaga.
+ME=$(cat state/owner.txt 2>/dev/null)
+OWNER=$(cd "$REPO" && git fetch -q origin "$BR" 2>/dev/null && git show FETCH_HEAD:GTA6_AUTO_CLIPPER/state_snapshot/OWNER 2>/dev/null)
+if [ -n "$ME" ] && [ -n "$OWNER" ] && [ "$OWNER" != "$ME" ]; then
+  say "piloto: otra sesión tomó el control ($OWNER); me apago para no duplicar publicaciones"
+  touch state/autopilot.disabled
+  kill "$(cat state/autopilot.pid 2>/dev/null)" 2>/dev/null
+  exit 0
+fi
+
 say "ciclo: inicio"
 timeout 3m python3 scripts/preflight.py > state/preflight.txt 2>&1
 PF=$?
@@ -50,13 +62,20 @@ python3 -m clipper publish > state/publish.log 2>&1
 say "publicación: $(tail -1 state/decide.log) | posts=$(grep -c -- '-> ' state/publish.log) errores=$(grep -ci error state/publish.log) render_fail=$(grep -c FAILED state/render.log)"
 python3 -m clipper purge-raw > /dev/null 2>&1
 
-git add -A > /dev/null 2>&1
+# copia del estado en cada ciclo (para migrar de sesión sin perder nada)
+mkdir -p state_snapshot/decisions
+python3 -c "import sqlite3; s=sqlite3.connect('state/clipper.db'); d=sqlite3.connect('state_snapshot/clipper.db'); s.backup(d); d.close()"
+cp -u state/decisions/*.json state_snapshot/decisions/ 2>/dev/null
+cp state/pillars.txt state_snapshot/ 2>/dev/null
+[ -n "$ME" ] && echo "$ME" > state_snapshot/OWNER
+git add -A > /dev/null 2>&1; git add -f state_snapshot > /dev/null 2>&1
 git -c user.name="Claude" -c user.email="noreply@anthropic.com" commit -q -m "Autopilot cycle" > /dev/null 2>&1
-git archive HEAD | tar -x -C /home/user/okx-proxy/GTA6_AUTO_CLIPPER
-( cd /home/user/okx-proxy && git add -A GTA6_AUTO_CLIPPER > /dev/null 2>&1 && \
+( cd "$REPO" && git fetch -q origin "$BR" && git merge -q --no-edit -X theirs FETCH_HEAD ) > /dev/null 2>&1
+git archive HEAD | tar -x -C "$REPO/GTA6_AUTO_CLIPPER"
+( cd "$REPO" && git add -A -f GTA6_AUTO_CLIPPER > /dev/null 2>&1 && \
   git -c user.name="Claude" -c user.email="noreply@anthropic.com" commit -q -m "GTA6_AUTO_CLIPPER: autopilot cycle
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_012s2xZQegwGcgHuj7bDPLDm" > /dev/null 2>&1; \
+" > /dev/null 2>&1; \
   for i in 1 2 3; do git push -q origin claude/gallant-bardeen-s7mk6r > /dev/null 2>&1 && break; sleep $((i*10)); done )
 say "ciclo: fin"

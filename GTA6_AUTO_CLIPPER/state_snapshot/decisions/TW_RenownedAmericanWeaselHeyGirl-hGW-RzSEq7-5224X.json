@@ -1,0 +1,78 @@
+{
+ "id": "TW_RenownedAmericanWeaselHeyGirl-hGW-RzSEq7-5224X",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "Momento gracioso con NPC y físicas, reacción fuerte (genérico).",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  0.5,
+  21.2
+ ],
+ "hook": {
+  "ES": "El NPC iba mirando el celular… y lo tumbó de la bici 📱🚲",
+  "EN": "This NPC was glued to the phone… and knocked them off the bike 📱🚲"
+ },
+ "subs": [
+  {
+   "start": 0.98,
+   "end": 2.98,
+   "ES": "¡Vamos, Power Rangers!",
+   "EN": "Go go Power Rangers!"
+  },
+  {
+   "start": 4.3,
+   "end": 7.96,
+   "ES": "Bro, ¿con el celular?",
+   "EN": "Bro, on the phone?"
+  },
+  {
+   "start": 8.76,
+   "end": 10.76,
+   "ES": "¡Quítate!",
+   "EN": "Move!"
+  },
+  {
+   "start": 10.76,
+   "end": 12.76,
+   "ES": "¡Quítate del camino!",
+   "EN": "Get out of the way!"
+  },
+  {
+   "start": 14.65,
+   "end": 16.65,
+   "ES": "¡Mira eso!",
+   "EN": "Look at that!"
+  },
+  {
+   "start": 17.25,
+   "end": 20.73,
+   "ES": "Uf, eso dolió. Perdón, perdón.",
+   "EN": "Oof, that hurt. Yo, I'm so sorry."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPC de GTA 6 caminan mirando el celular 📱",
+   "caption": "IShowSpeed iba en bici y un NPC distraído con el celular se le cruzó 😭 Los NPC de GTA 6 están en otro nivel. #GTA6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "IShowSpeed"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs walk while staring at their phones 📱",
+   "caption": "IShowSpeed was biking and a phone-distracted NPC walked right into them 😭 GTA 6 NPCs are on another level. #GTA6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "IShowSpeed"
+   ]
+  }
+ }
+}

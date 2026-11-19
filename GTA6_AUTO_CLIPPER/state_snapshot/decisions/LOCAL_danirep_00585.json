@@ -1,0 +1,66 @@
+{
+ "id": "LOCAL_danirep_00585",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "Reacción al primer control del personaje (contiene historia).",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  0.0,
+  23.9
+ ],
+ "hook": {
+  "ES": "Sus primeros segundos jugando GTA 6 🎮",
+  "EN": "Their first seconds actually playing GTA 6 🎮"
+ },
+ "subs": [
+  {
+   "start": 0.4,
+   "end": 7.7,
+   "ES": "Gente, estoy jugando",
+   "EN": "Chat, I'm playing"
+  },
+  {
+   "start": 12.9,
+   "end": 14.9,
+   "ES": "¡Hostia, estoy en una celda!",
+   "EN": "Oh dang, I'm in a cell!"
+  },
+  {
+   "start": 14.9,
+   "end": 19.2,
+   "ES": "¡Me puedo mover!",
+   "EN": "I can move!"
+  },
+  {
+   "start": 19.2,
+   "end": 23.9,
+   "ES": "¡Soy Lucía!",
+   "EN": "I'm Lucia!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los primeros segundos de DaniRep en GTA 6",
+   "caption": "El momento exacto en el que DaniRep coge el mando por primera vez 🎮🔥\n¿Recordáis vuestro primer segundo?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "PrimeraVez"
+   ]
+  },
+  "EN": {
+   "title": "DaniRep's first seconds in GTA 6",
+   "caption": "The exact moment DaniRep takes control for the first time 🎮🔥\nRemember your first second?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "FirstTime"
+   ]
+  }
+ }
+}

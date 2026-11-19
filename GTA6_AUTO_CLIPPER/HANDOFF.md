@@ -38,3 +38,16 @@ Crear con CronCreate (`13,43 * * * *`) el mensaje de ciclo de abajo. Si el servi
 - `/root/.claude/settings.json` tiene hooks SessionStart y UserPromptSubmit que ejecutan `scripts/autopilot_ensure.sh`:
   tras un reinicio, el piloto vuelve a arrancar en cuanto la sesión arranca o recibe un mensaje.
 - El CronCreate de la conversación es solo un reporte horario (:57); no ejecuta ciclos.
+
+## Traspaso a sesión nueva SIN ordenador conectado (19/11 ~02:50 Lima)
+Motivo: la sesión vieja tuvo el Mac conectado y quedó ligada a él: la plataforma le rechaza send_later/triggers,
+que son lo único que despierta una sesión suspendida. Una sesión sin ordenador sí los admite.
+Arranque en la sesión nueva (una sola vez):
+```bash
+cd /home/user && ( [ -d okx-proxy ] || git clone -q https://github.com/ty2mcdwdhw-hash/okx-proxy.git okx-proxy ) && cd okx-proxy && git fetch -q origin claude/gallant-bardeen-s7mk6r && git checkout -q claude/gallant-bardeen-s7mk6r && git pull -q --ff-only
+bash /home/user/okx-proxy/GTA6_AUTO_CLIPPER/scripts/bootstrap.sh
+```
+bootstrap.sh restaura proyecto + state_snapshot, instala dependencias y hooks, escribe OWNER (la sesión vieja apaga
+su piloto al verlo) y arranca el piloto. Log: /tmp/gta6_bootstrap.log y state/autopilot.log.
+Luego: cadena de send_later cada 30 min (despertador: ensure + 1 línea del log + reprogramar el siguiente).
+Pendiente al traspasar: 76 clips en 'packet' sin revisar (el piloto los revisa en su primer ciclo).

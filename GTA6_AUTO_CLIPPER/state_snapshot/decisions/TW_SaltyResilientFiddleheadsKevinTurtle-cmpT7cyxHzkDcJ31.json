@@ -1,0 +1,72 @@
+{
+ "id": "TW_SaltyResilientFiddleheadsKevinTurtle-cmpT7cyxHzkDcJ31",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "Modo selfie de la cámara con un detalle oculto en el fondo; sin trama, sin groserías ni texto problemático.",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0.0,
+  22.0
+ ],
+ "hook": {
+  "ES": "Se hizo un selfie en GTA 6… y mira quién sale detrás 👀",
+  "EN": "Took a selfie in GTA 6… look who's in the background 👀"
+ },
+ "subs": [
+  {
+   "start": 0.24,
+   "end": 5.2,
+   "ES": "Si hago selfie apuntando aquí, ¿el personaje se gira solo?",
+   "EN": "If I take a selfie aiming here, does the character turn by themselves?"
+  },
+  {
+   "start": 5.3,
+   "end": 8.9,
+   "ES": "Ahí está.",
+   "EN": "There it is."
+  },
+  {
+   "start": 8.95,
+   "end": 10.9,
+   "ES": "Perdón.",
+   "EN": "Sorry."
+  },
+  {
+   "start": 10.95,
+   "end": 14.0,
+   "ES": "Ahí está.",
+   "EN": "There it is."
+  },
+  {
+   "start": 20.3,
+   "end": 21.3,
+   "ES": "¡Denle like!",
+   "EN": "Smash that like!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El selfie más raro de GTA 6",
+   "caption": "Rubius probó el modo selfie de GTA 6… y fíjate bien en el fondo 👀🌳\n¿Lo habías visto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "EasterEgg"
+   ]
+  },
+  "EN": {
+   "title": "The weirdest selfie in GTA 6",
+   "caption": "Rubius tried GTA 6's selfie mode… now look closely at the background 👀🌳\nDid you spot it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "EasterEgg"
+   ]
+  }
+ }
+}

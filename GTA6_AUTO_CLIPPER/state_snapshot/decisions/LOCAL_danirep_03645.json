@@ -1,0 +1,84 @@
+{
+ "id": "LOCAL_danirep_03645",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "Robo de patinete a un NPC y reacción graciosa; mundo abierto, sin trama.",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  18.4,
+  35.6
+ ],
+ "hook": {
+  "ES": "Le robó el patinete a una NPC en GTA 6 🛴",
+  "EN": "They stole an NPC's e-scooter in GTA 6 🛴"
+ },
+ "subs": [
+  {
+   "start": 18.6,
+   "end": 19.6,
+   "ES": "No, no, no, no, no",
+   "EN": "No, no, no, no, no"
+  },
+  {
+   "start": 19.6,
+   "end": 20.6,
+   "ES": "¡Dale, dale, dale!",
+   "EN": "Go, go, go!"
+  },
+  {
+   "start": 21.6,
+   "end": 22.6,
+   "ES": "¡Que gire el patín, c*ño!",
+   "EN": "Turn, scooter, d*mn it!"
+  },
+  {
+   "start": 27.1,
+   "end": 29.1,
+   "ES": "¡Un p*to patinete, gente!",
+   "EN": "A freaking scooter, chat!"
+  },
+  {
+   "start": 30.1,
+   "end": 32.1,
+   "ES": "¡UN P*TO PATINETE, GENTE!",
+   "EN": "A FREAKING SCOOTER!"
+  },
+  {
+   "start": 32.1,
+   "end": 33.1,
+   "ES": "¡Increíble, tío!",
+   "EN": "Unreal, bro!"
+  },
+  {
+   "start": 33.1,
+   "end": 35.1,
+   "ES": "¡Vámonos, c*brón!",
+   "EN": "Let's gooo!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "En GTA 6 puedes robar patinetes 🛴",
+   "caption": "DaniRep vio un patinete eléctrico y no se pudo resistir 🛴😂\n¿Patinete o deportivo para huir?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Patinete"
+   ]
+  },
+  "EN": {
+   "title": "You can steal e-scooters in GTA 6 🛴",
+   "caption": "DaniRep spotted an e-scooter and couldn't resist 🛴😂\nScooter or supercar for the getaway?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Scooter"
+   ]
+  }
+ }
+}

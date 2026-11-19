@@ -1,0 +1,78 @@
+{
+ "id": "LOCAL_danirep_03960",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "Reacción emocional fuerte en mundo abierto; sin trama.",
+ "pillar": "Reacciones / Historia",
+ "trim": [
+  0.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "GTA 6 casi le hace llorar 🥹",
+  "EN": "GTA 6 almost made them cry 🥹"
+ },
+ "subs": [
+  {
+   "start": 0.2,
+   "end": 3.6,
+   "ES": "Es que no se puede ver así de bien, tío",
+   "EN": "It shouldn't look THIS good, man"
+  },
+  {
+   "start": 4.2,
+   "end": 6.2,
+   "ES": "Gente, voy a llorar",
+   "EN": "Chat, I'm gonna cry"
+  },
+  {
+   "start": 6.9,
+   "end": 8.9,
+   "ES": "Tengo los ojos aguados…",
+   "EN": "My eyes are watering…"
+  },
+  {
+   "start": 9.4,
+   "end": 16.2,
+   "ES": "¿Sabéis cuál es la magia de esto, tío?",
+   "EN": "You know what the magic of this is?"
+  },
+  {
+   "start": 16.6,
+   "end": 21.1,
+   "ES": "¿Sabéis qué es lo surrealista?",
+   "EN": "You know what's so unreal about it?"
+  },
+  {
+   "start": 22.0,
+   "end": 30.0,
+   "ES": "Es que no parece un videojuego, tío. No parece un videojuego",
+   "EN": "It doesn't even look like a video game. It just doesn't"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "GTA 6 casi hace llorar a DaniRep",
+   "caption": "Ojos aguados y sin palabras: \"no parece un videojuego\" 🥹🎮\n¿A vosotros también os pasó?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Reaccion"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 almost made DaniRep cry",
+   "caption": "Watery eyes, no words: \"it doesn't even look like a game\" 🥹🎮\nDid it hit you the same way?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Reaction"
+   ]
+  }
+ }
+}

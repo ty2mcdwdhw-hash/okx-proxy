@@ -1,0 +1,102 @@
+{
+ "id": "TW_ReliablePowerfulOilBatChest-ydNija0st6UB0byp",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "Hallazgo sorprendente en mundo abierto con reacción fuerte (genérico).",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  10.0,
+  38.0
+ ],
+ "hook": {
+  "ES": "Encontró un perro en moto de agua en medio del mar 🐕🌊",
+  "EN": "They found a dog riding a jet ski in the middle of the ocean 🐕🌊"
+ },
+ "subs": [
+  {
+   "start": 10.32,
+   "end": 12.32,
+   "ES": "No puedo bajar tanto.",
+   "EN": "I can't go that far down."
+  },
+  {
+   "start": 12.32,
+   "end": 16.85,
+   "ES": "¿Qué ca***?",
+   "EN": "What the f***?"
+  },
+  {
+   "start": 18.85,
+   "end": 20.85,
+   "ES": "¿Qué demonios?",
+   "EN": "What the hell?"
+  },
+  {
+   "start": 20.85,
+   "end": 24.22,
+   "ES": "Dios mío.",
+   "EN": "Oh my god."
+  },
+  {
+   "start": 24.22,
+   "end": 26.22,
+   "ES": "Ok, ¿qué tan loco es esto?",
+   "EN": "Okay, how crazy is this?"
+  },
+  {
+   "start": 26.22,
+   "end": 28.22,
+   "ES": "¿Es un perro?",
+   "EN": "Is it a dog?"
+  },
+  {
+   "start": 28.22,
+   "end": 30.22,
+   "ES": "¡Se sube sin dudarlo!",
+   "EN": "Hops on, no questions asked!"
+  },
+  {
+   "start": 30.22,
+   "end": 32.22,
+   "ES": "Ok, amigo.",
+   "EN": "Okay, buddy."
+  },
+  {
+   "start": 32.22,
+   "end": 34.22,
+   "ES": "¿Y ahora qué?",
+   "EN": "What's next?"
+  },
+  {
+   "start": 34.22,
+   "end": 37.5,
+   "ES": "¿Qué?",
+   "EN": "What?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Un perro en moto de agua en GTA 6 🐕🌊",
+   "caption": "Nadaba en medio del mar… y apareció un perro en moto de agua 😂 ¿Ya lo encontraste? #GTA6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "EasterEgg"
+   ]
+  },
+  "EN": {
+   "title": "A dog on a jet ski in GTA 6 🐕🌊",
+   "caption": "Swimming in the middle of the ocean… and a dog on a jet ski shows up 😂 Have you found it yet? #GTA6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "EasterEgg"
+   ]
+  }
+ }
+}

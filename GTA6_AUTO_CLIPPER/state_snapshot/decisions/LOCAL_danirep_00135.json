@@ -1,0 +1,78 @@
+{
+ "id": "LOCAL_danirep_00135",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "Humor del streamer con el aviso de salud del menú; sin trama.",
+ "pillar": "Momentos divertidos / Lanzamiento",
+ "trim": [
+  31.5,
+  43.8
+ ],
+ "hook": {
+  "ES": "Se hizo un análisis de sangre antes de jugar GTA 6 🩸😂",
+  "EN": "They got a blood test before playing GTA 6 🩸😂"
+ },
+ "subs": [
+  {
+   "start": 31.8,
+   "end": 34.0,
+   "ES": "«Un porcentaje muy pequeño de personas puede experimentar…»",
+   "EN": "'A very small percentage of people may experience…'"
+  },
+  {
+   "start": 34.1,
+   "end": 35.6,
+   "ES": "Yo estoy muy sano. Yo estoy sano",
+   "EN": "I'm super healthy. I'm healthy"
+  },
+  {
+   "start": 35.8,
+   "end": 38.0,
+   "ES": "De verdad, me hice una analítica antes de jugar GTA VI",
+   "EN": "For real, I got a blood test before playing GTA VI"
+  },
+  {
+   "start": 38.1,
+   "end": 39.1,
+   "ES": "Por si acaso me moría",
+   "EN": "Just in case I died"
+  },
+  {
+   "start": 39.2,
+   "end": 41.3,
+   "ES": "¡Estoy sano, estoy sano, Rockstar!",
+   "EN": "I'm healthy, I'm healthy, Rockstar!"
+  },
+  {
+   "start": 41.4,
+   "end": 43.6,
+   "ES": "¡Estoy sano!",
+   "EN": "I'm healthy!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "DaniRep se hizo una analítica para jugar GTA 6",
+   "caption": "Rockstar avisa de los riesgos de salud… y DaniRep ya venía con los análisis hechos 🩸😂\n¿Vosotros también os preparasteis así?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Humor"
+   ]
+  },
+  "EN": {
+   "title": "DaniRep got a blood test to play GTA 6",
+   "caption": "Rockstar warns about health risks… DaniRep already came with lab results 🩸😂\nDid you prep this hard too?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Funny"
+   ]
+  }
+ }
+}

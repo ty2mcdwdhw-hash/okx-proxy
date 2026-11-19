@@ -1,0 +1,54 @@
+{
+ "id": "TW_GleamingPeppyFoxKreygasm-YcbkS7WGvnAtA25H",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "Física de conducción: confianza total y vuelco inmediato; sin trama ni groserías (trim evita texto del juego al inicio).",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.8,
+  16.5
+ ],
+ "hook": {
+  "ES": "«Tranqui, va a salir bien»… y volcó el auto 🙃",
+  "EN": "'Relax, it'll work out'… then the car flipped 🙃"
+ },
+ "subs": [
+  {
+   "start": 0.8,
+   "end": 6.2,
+   "ES": "¡Tranqui, va a salir bien!",
+   "EN": "Relax, it's gonna work out!"
+  },
+  {
+   "start": 6.25,
+   "end": 8.2,
+   "ES": "¡Tranqui!",
+   "EN": "Relax!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Iba a salir bien… en GTA 6",
+   "caption": "alanzoka estaba seguro de que salía bien 😂🚗 La física de GTA 6 opinaba otra cosa.\n¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "It was supposed to work out… in GTA 6",
+   "caption": "alanzoka was sure this would work 😂🚗 GTA 6's physics had other plans.\nEver happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Physics"
+   ]
+  }
+ }
+}

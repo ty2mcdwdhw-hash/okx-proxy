@@ -1,0 +1,84 @@
+{
+ "id": "LOCAL_danirep_04095",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "Comparación exagerada muy citable; reacción pura, sin trama.",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  26.6
+ ],
+ "hook": {
+  "ES": "Comparó GTA 6 con la cura del cáncer 😳",
+  "EN": "They compared GTA 6 to curing cancer 😳"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 4.6,
+   "ES": "Si lo extrapolamos a la sanidad, ¿vale?",
+   "EN": "Let's compare it to healthcare, okay?"
+  },
+  {
+   "start": 4.7,
+   "end": 6.8,
+   "ES": "Es como si ahora mismo un grupo de cirujanos…",
+   "EN": "It's like if a team of surgeons…"
+  },
+  {
+   "start": 6.9,
+   "end": 9.1,
+   "ES": "…Rockstar Games en el entretenimiento…",
+   "EN": "…Rockstar Games, in entertainment terms…"
+  },
+  {
+   "start": 9.2,
+   "end": 13.1,
+   "ES": "…hubiera encontrado la cura del 80% de los cánceres",
+   "EN": "…had found the cure for 80% of cancers"
+  },
+  {
+   "start": 13.2,
+   "end": 19.8,
+   "ES": "Para que os hagáis una idea, de un sector a otro",
+   "EN": "Just so you get the idea, from one industry to another"
+  },
+  {
+   "start": 19.9,
+   "end": 24.9,
+   "ES": "Es como si unos cirujanos encontraran el 80% de la cura del cáncer",
+   "EN": "Like surgeons finding 80% of the cure for cancer"
+  },
+  {
+   "start": 24.9,
+   "end": 26.5,
+   "ES": "¡Es la misma locura, tío!",
+   "EN": "It's the same level of insane, bro!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "DaniRep compara GTA 6 con curar el cáncer",
+   "caption": "Para DaniRep, GTA 6 es el equivalente gamer a curar el 80% de los cánceres 😳🎮\n¿Exagera o tiene razón?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Reaccion"
+   ]
+  },
+  "EN": {
+   "title": "DaniRep compares GTA 6 to curing cancer",
+   "caption": "For DaniRep, GTA 6 is the gaming equivalent of curing 80% of cancers 😳🎮\nOverreaction or fair take?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Reaction"
+   ]
+  }
+ }
+}
