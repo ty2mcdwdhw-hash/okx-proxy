@@ -109,7 +109,7 @@ def _next_slot(con, profile: str, platforms: list[str], cfg: dict) -> dt.datetim
                     cand = nxt.astimezone(dt.timezone.utc)
                     moved = True
             elif len(before) >= cap:
-                cand = before[len(before) - cap] + dt.timedelta(hours=24) + dt.timedelta(seconds=1)
+                cand = before[len(before) - cap] + dt.timedelta(hours=24) + dt.timedelta(minutes=10)
                 moved = True
             if not moved:
                 break
@@ -162,6 +162,13 @@ def publish_all(dry: bool = False) -> list[str]:
         live = [r for r in rows if not r["test"]]
         print(f"[publish] provider=queue: {len(live)} clips listos en media/edits, esperando conexión de Upload-Post")
         rows = [r for r in rows if r["test"]]
+    def _prio(r):
+        f = DECISIONS_DIR / f"{r['id']}.json"
+        try:
+            return bool(json.loads(f.read_text()).get("priority"))
+        except Exception:
+            return False
+    rows = sorted(rows, key=lambda r: (_prio(r), r["views"] or 0), reverse=True)
     for row in rows:
         dec = json.loads((DECISIONS_DIR / f"{row['id']}.json").read_text())
         for lang in ("ES", "EN"):
@@ -182,9 +189,13 @@ def publish_all(dry: bool = False) -> list[str]:
             # each platform gets its own slot (a full TikTok must not delay Instagram/YouTube)
             groups: dict = {}
             for pl in todo:
-                sl = _next_slot(con, profile, [pl], cfg)
+                prio = bool(dec.get("priority"))
+                pcfg = cfg
+                if prio:  # viral clip: tighter spacing, ignore lookahead (caps still apply)
+                    pcfg = {**cfg, "publish": {**p, "min_gap_minutes": 5}}
+                sl = _next_slot(con, profile, [pl], pcfg)
                 ahead = p.get("max_schedule_ahead_hours", {}).get(pl)
-                if sl and ahead and sl > now_utc() + dt.timedelta(hours=ahead):
+                if sl and ahead and not prio and sl > now_utc() + dt.timedelta(hours=ahead):
                     con.execute("INSERT OR REPLACE INTO posts VALUES (?,?,?,?,?,?,?,?,?)",
                                 (row["id"], lang, pl, profile, "skipped", None, None, None,
                                  json.dumps({"reason": f"cola de {pl} llena más de {ahead} h"})))
