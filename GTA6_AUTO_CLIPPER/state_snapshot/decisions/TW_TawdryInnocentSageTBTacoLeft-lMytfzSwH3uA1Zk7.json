@@ -1,0 +1,60 @@
+{
+ "id": "TW_TawdryInnocentSageTBTacoLeft-lMytfzSwH3uA1Zk7",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "caída de moto y atropello, momento claro, foco Asia",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.0,
+  12.0
+ ],
+ "hook": {
+  "ES": "Se cayó de la moto… y encima lo atropellaron 🏍️🚙💀",
+  "EN": "Fell off the bike… and then got run over 🏍️🚙💀"
+ },
+ "subs": [
+  {
+   "start": 0.75,
+   "end": 1.73,
+   "ES": "¡Uff!",
+   "EN": "Whoa!"
+  },
+  {
+   "start": 4.3,
+   "end": 6.0,
+   "ES": "Se acabó…",
+   "EN": "It's over…"
+  },
+  {
+   "start": 6.28,
+   "end": 7.4,
+   "ES": "¡No, no!",
+   "EN": "No, no!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La peor caída de moto en GTA 6",
+   "caption": "Una curva, una caída… y GTA 6 no tuvo piedad 😂🏍️💀 ¿Las motos de GTA 6 son una trampa?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Motos"
+   ]
+  },
+  "EN": {
+   "title": "The worst bike crash in GTA 6",
+   "caption": "One turn, one fall… and GTA 6 showed no mercy 😂🏍️💀 Are GTA 6 bikes a trap?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Bikes"
+   ]
+  }
+ }
+}

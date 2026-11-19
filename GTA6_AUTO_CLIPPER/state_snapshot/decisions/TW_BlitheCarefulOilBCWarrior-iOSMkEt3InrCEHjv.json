@@ -1,0 +1,96 @@
+{
+ "id": "TW_BlitheCarefulOilBCWarrior-iOSMkEt3InrCEHjv",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "atraco en tienda con momento claro, foco Asia",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  12.0,
+  38.0
+ ],
+ "hook": {
+  "ES": "Asaltó una hamburguesería… en bicicleta 🚲🍔💸",
+  "EN": "Robbed a burger joint… on a bicycle 🚲🍔💸"
+ },
+ "subs": [
+  {
+   "start": 15.22,
+   "end": 16.9,
+   "ES": "¿La hamburguesería tiene plata?",
+   "EN": "Does the burger place have cash?"
+  },
+  {
+   "start": 17.04,
+   "end": 18.32,
+   "ES": "¡Rápido, rápido, rápido!",
+   "EN": "Hurry, hurry, hurry!"
+  },
+  {
+   "start": 18.32,
+   "end": 20.16,
+   "ES": "¡Saquen la plata!",
+   "EN": "Hand over the cash!"
+  },
+  {
+   "start": 20.46,
+   "end": 23.0,
+   "ES": "OK, OK, OK…",
+   "EN": "OK, OK, OK…"
+  },
+  {
+   "start": 28.44,
+   "end": 29.7,
+   "ES": "¿Hay más plata? ¿Hay más?",
+   "EN": "Any more cash? Any more?"
+  },
+  {
+   "start": 32.62,
+   "end": 34.12,
+   "ES": "¡Hermoso, hermoso!",
+   "EN": "Beautiful, beautiful!"
+  },
+  {
+   "start": 34.12,
+   "end": 36.26,
+   "ES": "¡Vámonos, vámonos!",
+   "EN": "Let's go, let's go!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.1,
+    0.84,
+    0.8,
+    0.14
+   ],
+   "start": 19.5,
+   "end": 30.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "En GTA 6 puedes asaltar tiendas",
+   "caption": "Llegó en bici, sacó el arma y vació la caja de la hamburguesería 😂🚲💸 ¿El atraco más humilde de GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Robo"
+   ]
+  },
+  "EN": {
+   "title": "You can rob stores in GTA 6",
+   "caption": "Rolled up on a BMX, pulled out a gun and emptied the burger joint's register 😂🚲💸 The most humble heist in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Robbery"
+   ]
+  }
+ }
+}
