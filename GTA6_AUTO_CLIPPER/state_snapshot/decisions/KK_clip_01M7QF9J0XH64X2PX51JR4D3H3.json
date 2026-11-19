@@ -1,0 +1,77 @@
+{
+ "id": "KK_clip_01M7QF9J0XH64X2PX51JR4D3H3",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, buena calidad",
+ "story": true,
+ "operator_safe": false,
+ "pillar": "Autos y tuning / Mecánicas",
+ "trim": [
+  55.0,
+  85.0
+ ],
+ "hook": {
+  "ES": "Así se tunea un auto en GTA 6 🎨🚗",
+  "EN": "This is how car tuning works in GTA 6 🎨🚗"
+ },
+ "subs": [
+  {
+   "start": 55.3,
+   "end": 55.8,
+   "ES": "¡Pintura!",
+   "EN": "Paint job!"
+  },
+  {
+   "start": 63.4,
+   "end": 64.8,
+   "ES": "Nombre del color, vamos.",
+   "EN": "Color name, come on."
+  },
+  {
+   "start": 70.2,
+   "end": 72.9,
+   "ES": "Ese azulito… ¿qué opinan?",
+   "EN": "That light blue… what do you think?"
+  },
+  {
+   "start": 75.0,
+   "end": 78.0,
+   "ES": "Parece recién salido de fábrica.",
+   "EN": "Looks like it just rolled off the line."
+  },
+  {
+   "start": 79.0,
+   "end": 81.5,
+   "ES": "Ese azulito metálico.",
+   "EN": "That metallic blue."
+  },
+  {
+   "start": 83.0,
+   "end": 85.0,
+   "ES": "Ese es el que me gusta. Le dimos.",
+   "EN": "That's the one I like. Done."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Tuning en GTA 6",
+   "caption": "Reparar, motor y pintura metálica: así funciona el taller en GTA 6 🔧 ¿Qué color le pondrías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Tuning"
+   ]
+  },
+  "EN": {
+   "title": "Car tuning in GTA 6",
+   "caption": "Repairs, engine and metallic paint: this is how the garage works in GTA 6 🔧 What color would you pick?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "CarTuning"
+   ]
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "id": "TW_DarlingCovertCougarUncleNox-J-G9GbBJWQe_mKKZ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "reason": "momento claro, buena calidad",
+ "story": false,
+ "operator_safe": true,
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  6.5,
+  36.5
+ ],
+ "hook": {
+  "ES": "Una NPC sacó un arma… y todo el barrio entró en pánico 😱",
+  "EN": "An NPC pulled a gun… and the whole block panicked 😱"
+ },
+ "subs": [
+  {
+   "start": 7.2,
+   "end": 7.8,
+   "ES": "¡Oh, [[mierda]]!",
+   "EN": "Oh, [[f*ck]]!"
+  },
+  {
+   "start": 8.6,
+   "end": 9.4,
+   "ES": "¡Oh, [[mierda]]!",
+   "EN": "Oh, [[sh*t]]!"
+  },
+  {
+   "start": 9.9,
+   "end": 12.0,
+   "ES": "¡Salgan! ¡Corran todos! ¡Apártense!",
+   "EN": "Get out! Everybody run! Get out of the way!"
+  },
+  {
+   "start": 12.0,
+   "end": 13.8,
+   "ES": "¡Tiene un arma! ¡Tiene un arma!",
+   "EN": "They've got a gun! They've got a gun!"
+  },
+  {
+   "start": 16.0,
+   "end": 18.1,
+   "ES": "¡Que alguien llame al presidente!",
+   "EN": "Somebody call the president!"
+  },
+  {
+   "start": 18.6,
+   "end": 21.8,
+   "ES": "¡Necesito esto! ¡Suéltame!",
+   "EN": "I need this! Get off me!"
+  },
+  {
+   "start": 34.0,
+   "end": 36.5,
+   "ES": "Y eso fue limpio. ¡Limpísimo!",
+   "EN": "And that's clean. It IS clean!"
+  }
+ ],
+ "bleep": [
+  [
+   7.45,
+   7.75
+  ],
+  [
+   8.9,
+   9.47
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Pánico en GTA 6",
+   "caption": "Una NPC armada y Jerma huyendo en un auto robado 😂 Los NPC de GTA 6 reaccionan a todo.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  },
+  "EN": {
+   "title": "Panic in GTA 6",
+   "caption": "An armed NPC and Jerma escaping in a stolen car 😂 GTA 6 NPCs react to everything.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  }
+ }
+}
