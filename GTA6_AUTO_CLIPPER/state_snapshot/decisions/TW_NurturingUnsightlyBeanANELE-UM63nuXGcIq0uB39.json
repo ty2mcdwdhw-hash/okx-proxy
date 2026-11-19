@@ -1,0 +1,66 @@
+{
+ "id": "TW_NurturingUnsightlyBeanANELE-UM63nuXGcIq0uB39",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "avión alcanzado por misil y caída, momento claro",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  29.0,
+  57.0
+ ],
+ "hook": {
+  "ES": "Le dieron con un misil al avión… y empezó la caída más larga de GTA 6 ✈️🚀💀",
+  "EN": "A missile hit the plane… and the longest fall in GTA 6 began ✈️🚀💀"
+ },
+ "subs": [
+  {
+   "start": 31.99,
+   "end": 33.41,
+   "ES": "Me espero el misil…",
+   "EN": "I'm expecting the missile…"
+  },
+  {
+   "start": 34.31,
+   "end": 38.81,
+   "ES": "Me caigo, me caigo",
+   "EN": "I'm going down, I'm going down"
+  },
+  {
+   "start": 40.17,
+   "end": 44.05,
+   "ES": "¡Me caigo, me caigo, me caigo!",
+   "EN": "I'm going down, I'm going down, I'm going down!"
+  },
+  {
+   "start": 44.05,
+   "end": 46.13,
+   "ES": "Sube, por favor",
+   "EN": "Pull up, please"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Un misil contra su avión en GTA 6",
+   "caption": "Con 4 estrellas, a bordo de un avión de pasajeros… llegó el misil y ya no hubo vuelta atrás ✈️💀 ¿Lo habrías salvado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Aviones"
+   ]
+  },
+  "EN": {
+   "title": "Missile vs airliner in GTA 6",
+   "caption": "Four stars, flying a passenger jet… then the missile hit and there was no coming back ✈️💀 Could you have saved it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Planes"
+   ]
+  }
+ }
+}

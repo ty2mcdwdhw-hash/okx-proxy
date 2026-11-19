@@ -1,0 +1,78 @@
+{
+ "id": "TW_HungryComfortableBibimbapVoteYea-UIZM6RDVhUv1esAe",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro de NPCs, streamer hispanohablante",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  3.8,
+  29.0
+ ],
+ "hook": {
+  "ES": "Robó una camioneta en GTA 6… sin gasolina y con las vecinas insultándolo ⛽😂",
+  "EN": "Stole a truck in GTA 6… no gas and the locals roasting them ⛽😂"
+ },
+ "subs": [
+  {
+   "start": 4.32,
+   "end": 7.0,
+   "ES": "¡Guau! Te quedas embobado aquí con cualquier [[mierda]].",
+   "EN": "Wow! You get hypnotized by any [[shit]] here."
+  },
+  {
+   "start": 7.56,
+   "end": 10.5,
+   "ES": "Bueno, sí, voy a usar este coche.",
+   "EN": "Alright, yeah, I'm taking this car."
+  },
+  {
+   "start": 11.7,
+   "end": 13.52,
+   "ES": "No vuelvo por esa zona y ya está.",
+   "EN": "I'm just not going back there, done."
+  },
+  {
+   "start": 17.22,
+   "end": 18.6,
+   "ES": "¡Hostia, pero no tengo gasolina!",
+   "EN": "Dang, but I've got no gas!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.26,
+    0.83,
+    0.48,
+    0.11
+   ],
+   "start": 18.5,
+   "end": 23.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "En GTA 6 los coches se quedan sin gasolina",
+   "caption": "Robó una camioneta, salió a lo grande… y se quedó sin gasolina mientras las vecinas le gritaban 😂⛽ ¿Sabías que en GTA 6 hay que echar gasolina?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "In GTA 6 cars can run out of gas",
+   "caption": "Stole a pickup, rolled out in style… and ran out of gas while the locals roasted them 😂⛽ Did you know you need fuel in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

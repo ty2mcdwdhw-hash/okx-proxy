@@ -1,0 +1,84 @@
+{
+ "id": "TW_AttractiveImportantChimpanzeeKappaWealth-Pn4GIVLzi_QowzCL",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "choque frontal con cámara cinemática, momento claro",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  3.5,
+  28.0
+ ],
+ "hook": {
+  "ES": "Chocó de frente contra el sheriff… y CERO estrellas 🚔💥",
+  "EN": "Head-on crash into the sheriff… and ZERO stars 🚔💥"
+ },
+ "subs": [
+  {
+   "start": 3.66,
+   "end": 4.84,
+   "ES": "Parezco un asesino en serie",
+   "EN": "I look like a serial killer"
+  },
+  {
+   "start": 6.56,
+   "end": 7.4,
+   "ES": "¡[[Mierda]]!",
+   "EN": "[[Fuck]]!"
+  },
+  {
+   "start": 11.06,
+   "end": 12.24,
+   "ES": "No, ¡es el sheriff!",
+   "EN": "No, that's the sheriff!"
+  },
+  {
+   "start": 13.2,
+   "end": 14.78,
+   "ES": "Fue un malentendido, oficial",
+   "EN": "Officer, it's a misunderstanding"
+  },
+  {
+   "start": 20.48,
+   "end": 22.18,
+   "ES": "Él lo entiende, tú lo entiendes",
+   "EN": "They get it, you get it"
+  },
+  {
+   "start": 25.18,
+   "end": 27.2,
+   "ES": "¿Cero estrellas por eso? Una locura",
+   "EN": "No stars for that? That's crazy"
+  }
+ ],
+ "bleep": [
+  [
+   6.46,
+   6.95
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Chocó contra el sheriff en GTA 6 y no pasó nada",
+   "caption": "Iba tranquilo al atardecer en Vice City… se estrelló de frente contra el sheriff y la policía ni se enteró 😂🚔 ¿La poli de GTA 6 perdona?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Crashed into the sheriff in GTA 6 and got away",
+   "caption": "Cruising at sunset in Vice City… slammed head-on into the sheriff and somehow got zero stars 😂🚔 Is GTA 6 police too chill?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}
