@@ -9,6 +9,13 @@ ts() { TZ=America/Lima date "+%d/%m %H:%M"; }
 say() { echo "[$(ts)] $*" >> "$LOG"; }
 
 say "ciclo: inicio"
+timeout 3m python3 scripts/preflight.py > state/preflight.txt 2>&1
+PF=$?
+say "prechequeo: $([ $PF -eq 0 ] && echo 'todo OK' || grep -E '^(ERR|AVS)' state/preflight.txt | tr '\n' ';')"
+if [ $PF -eq 1 ] || [ $PF -eq 124 ]; then
+  say "ciclo: saltado por fallo crítico en el prechequeo (no se publica a ciegas)"
+  exit 0
+fi
 timeout 40m python3 -m clipper cycle > state/cycle.log 2>&1 || say "ciclo: cycle terminó con código $?"
 python3 -c "import json,glob; p=sorted({json.load(open(f)).get('pillar','') for f in glob.glob('state/decisions/*.json') if json.load(open(f)).get('verdict')=='approve'}); print('PILLARS:', '; '.join(p))" > state/pillars.txt 2>/dev/null
 
