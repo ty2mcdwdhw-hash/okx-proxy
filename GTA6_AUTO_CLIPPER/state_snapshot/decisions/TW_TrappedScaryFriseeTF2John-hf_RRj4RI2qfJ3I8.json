@@ -1,0 +1,90 @@
+{
+ "id": "TW_TrappedScaryFriseeTF2John-hf_RRj4RI2qfJ3I8",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "robo en tienda con malentendido gracioso",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.4,
+  24.0
+ ],
+ "hook": {
+  "ES": "Asaltó la tienda en GTA 6… pero dice que solo quería VENTILAR 😂🔫",
+  "EN": "Robbed the store in GTA 6… but swears they just wanted FRESH AIR 😂🔫"
+ },
+ "subs": [
+  {
+   "start": 0.69,
+   "end": 2.63,
+   "ES": "No quería llegar a esto…",
+   "EN": "Didn't want to go this route…"
+  },
+  {
+   "start": 3.07,
+   "end": 5.13,
+   "ES": "¡Ábrela! ¡Vamos! ¡Ábrela!",
+   "EN": "Open it! Come on! Open it!"
+  },
+  {
+   "start": 6.59,
+   "end": 8.75,
+   "ES": "¡Abre, vamos! ¡Ábrelo todo!",
+   "EN": "Open up! Open everything!"
+  },
+  {
+   "start": 10.01,
+   "end": 10.85,
+   "ES": "¡Abre… la ventana!",
+   "EN": "Open… the window!"
+  },
+  {
+   "start": 11.59,
+   "end": 13.97,
+   "ES": "¡No, qué haces! ¡Te digo que ventiles!",
+   "EN": "No, what are you doing?! I said air the place out!"
+  },
+  {
+   "start": 14.49,
+   "end": 15.53,
+   "ES": "Aquí el aire está cargado",
+   "EN": "The air in here is stuffy"
+  },
+  {
+   "start": 16.67,
+   "end": 19.39,
+   "ES": "No, no… ¡ventila! ¡La ventana!",
+   "EN": "No, no… ventilate! The window!"
+  },
+  {
+   "start": 19.39,
+   "end": 23.11,
+   "ES": "Bueno… si me lo das, lo acepto",
+   "EN": "Well… if you're giving it to me, I'll take it"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El atraco más educado de GTA 6 😂",
+   "caption": "Solo pidió abrir la ventana… y el cajero entendió otra cosa 😂🔫 ¿Le crees?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  },
+  "EN": {
+   "title": "The politest robbery in GTA 6 😂",
+   "caption": "Just asked to open the window… the cashier had other ideas 😂🔫 Do you buy it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}
