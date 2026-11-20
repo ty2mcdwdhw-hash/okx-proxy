@@ -1,0 +1,92 @@
+{
+ "id": "TW_PrettiestStupidSandstormVoHiYo-ijSARGAkDfH4Z-ca",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "easter egg viral con reacción fuerte",
+ "pillar": "Misterios / Easter eggs",
+ "trim": [
+  0.0,
+  25.0
+ ],
+ "priority": true,
+ "hook": {
+  "ES": "Dijo que en GTA 6 había un easter egg… y lo encontró de la PEOR forma 🦶😱",
+  "EN": "They said GTA 6 had an easter egg… and found it the WORST way 🦶😱"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 3.54,
+   "ES": "Les dije que iba a haber un easter egg así…",
+   "EN": "I told you there'd be an easter egg like this…"
+  },
+  {
+   "start": 18.07,
+   "end": 19.43,
+   "ES": "¡Me [[comió]] el [[trasero]]! ¡Qué grandote!",
+   "EN": "It [[ate my ass]]! It's HUGE!"
+  },
+  {
+   "start": 20.89,
+   "end": 22.87,
+   "ES": "¡Me [[comió]] el [[trasero]]! [[Mierda]]",
+   "EN": "It [[ate my ass]]! [[Damn]]"
+  },
+  {
+   "start": 23.71,
+   "end": 24.43,
+   "ES": "¿Qué pasó?",
+   "EN": "What just happened?"
+  }
+ ],
+ "bleep": [
+  [
+   18.69,
+   18.99
+  ],
+  [
+   21.25,
+   21.71
+  ],
+  [
+   22.37,
+   22.97
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.84,
+    0.5,
+    0.14
+   ],
+   "start": 10.0,
+   "end": 24.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "¿PIE GRANDE en GTA 6? 🦶😱",
+   "caption": "Fue a explorar el pantano y algo lo atacó… ¿Ya lo encontraste? 👀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  },
+  "EN": {
+   "title": "BIGFOOT in GTA 6? 🦶😱",
+   "caption": "Went exploring the swamp and something grabbed them… Have you found it yet? 👀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  }
+ }
+}

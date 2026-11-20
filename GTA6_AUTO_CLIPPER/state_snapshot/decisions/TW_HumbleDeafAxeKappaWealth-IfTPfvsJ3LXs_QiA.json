@@ -1,0 +1,66 @@
+{
+ "id": "TW_HumbleDeafAxeKappaWealth-IfTPfvsJ3LXs_QiA",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "momento de misión con reacción de streamer hispano, alto alcance",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  8.0,
+  30.0
+ ],
+ "priority": false,
+ "hook": {
+  "ES": "Querían liberar al animal… y el animal tenía otros planes 🐻‍❄️💀",
+  "EN": "They wanted to free the animal… the animal had other plans 🐻‍❄️💀"
+ },
+ "subs": [
+  {
+   "start": 9.44,
+   "end": 11.62,
+   "ES": "Yo me voy de aquí, creo",
+   "EN": "I'm getting out of here, I think"
+  },
+  {
+   "start": 27.1,
+   "end": 29.72,
+   "ES": "Claro, ¿qué esperabas? ¿Qué esperabas?",
+   "EN": "Obviously, what did you expect? What did you expect?"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.84,
+    0.5,
+    0.1
+   ],
+   "start": 19.0,
+   "end": 27.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Liberaron al animal equivocado en GTA 6 😳",
+   "caption": "Nadie esperaba este final 💀 ¿Tú qué habrías hecho?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Historia"
+   ]
+  },
+  "EN": {
+   "title": "They freed the wrong animal in GTA 6 😳",
+   "caption": "Nobody saw that ending coming 💀 What would you have done?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}

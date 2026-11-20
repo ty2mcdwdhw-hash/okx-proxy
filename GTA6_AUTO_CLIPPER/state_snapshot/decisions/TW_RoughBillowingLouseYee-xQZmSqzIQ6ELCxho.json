@@ -1,0 +1,84 @@
+{
+ "id": "TW_RoughBillowingLouseYee-xQZmSqzIQ6ELCxho",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "gameplay de avión con 4 estrellas, momento claro",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  34.0,
+  58.0
+ ],
+ "priority": false,
+ "hook": {
+  "ES": "Con 4 estrellas encima… se robó un AVIÓN DE PASAJEROS ✈️🚔",
+  "EN": "4 stars on them… so they stole a PASSENGER JET ✈️🚔"
+ },
+ "subs": [
+  {
+   "start": 35.62,
+   "end": 37.86,
+   "ES": "Con las cuatro estrellas encima",
+   "EN": "With four stars on me"
+  },
+  {
+   "start": 42.78,
+   "end": 44.66,
+   "ES": "Son las 5, toca ser piloto",
+   "EN": "It's 5 o'clock, pilot time"
+  },
+  {
+   "start": 44.86,
+   "end": 47.84,
+   "ES": "Chicos, les voy a enseñar",
+   "EN": "Chat, watch this"
+  },
+  {
+   "start": 48.76,
+   "end": 50.4,
+   "ES": "Vamos a volar un rato sobre el mapa",
+   "EN": "Let's fly over the map for a bit"
+  },
+  {
+   "start": 51.34,
+   "end": 52.9,
+   "ES": "¡Vamos, despegue!",
+   "EN": "Let's go, takeoff!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.85,
+    0.44,
+    0.1
+   ],
+   "start": 35.5,
+   "end": 38.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Huyó de la policía en un avión de pasajeros en GTA 6 ✈️",
+   "caption": "4 estrellas y la mejor ruta de escape 😂 ¿Hasta dónde llegó?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Avion"
+   ]
+  },
+  "EN": {
+   "title": "Escaped the cops in a passenger jet in GTA 6 ✈️",
+   "caption": "4 stars and the best escape route ever 😂 How far did they get?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Plane"
+   ]
+  }
+ }
+}
