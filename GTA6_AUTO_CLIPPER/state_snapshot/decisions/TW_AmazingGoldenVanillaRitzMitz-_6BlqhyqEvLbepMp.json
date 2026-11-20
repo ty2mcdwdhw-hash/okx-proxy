@@ -1,0 +1,97 @@
+{
+ "id": "TW_AmazingGoldenVanillaRitzMitz-_6BlqhyqEvLbepMp",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "reacción graciosa de streamer hispano",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  7.9,
+  27.6
+ ],
+ "hook": {
+  "ES": "GTA 6 se convirtió en el simulador de llevar a tu novia al trabajo 😭🚗",
+  "EN": "GTA 6 turned into a 'drive your girlfriend to work' simulator 😭🚗"
+ },
+ "subs": [
+  {
+   "start": 7.99,
+   "end": 11.1,
+   "ES": "Pues sí, te paso a recoger, [[joder]]",
+   "EN": "Fine, I'll come pick you up, [[dammit]]"
+  },
+  {
+   "start": 13.11,
+   "end": 15.87,
+   "ES": "Simulador de vago este juego, [[coño]]",
+   "EN": "This game is a lazybones simulator, [[dammit]]"
+  },
+  {
+   "start": 15.87,
+   "end": 19.91,
+   "ES": "Simulador de vago… simulador de pereza",
+   "EN": "Lazybones simulator… laziness simulator"
+  },
+  {
+   "start": 19.91,
+   "end": 23.0,
+   "ES": "Con lo que ha sido GTA, [[coño]]…",
+   "EN": "After everything GTA used to be, [[dammit]]…"
+  },
+  {
+   "start": 23.0,
+   "end": 27.4,
+   "ES": "¡Y yo solo me dedico a llevar a mi novia al trabajo!",
+   "EN": "And all I do is drive my girlfriend to work!"
+  }
+ ],
+ "bleep": [
+  [
+   10.35,
+   11.15
+  ],
+  [
+   15.25,
+   15.97
+  ],
+  [
+   22.27,
+   22.99
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.72,
+    0.5,
+    0.16
+   ],
+   "start": 7.9,
+   "end": 27.6
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El simulador menos esperado de GTA 6 😭",
+   "caption": "Esperaba caos y acción… y terminó de chofer 🚗😂 ¿Te pasó lo mismo en GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Humor"
+   ]
+  },
+  "EN": {
+   "title": "The least expected simulator in GTA 6 😭",
+   "caption": "Expected chaos and action… ended up as a chauffeur 🚗😂 Did this happen to you in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}

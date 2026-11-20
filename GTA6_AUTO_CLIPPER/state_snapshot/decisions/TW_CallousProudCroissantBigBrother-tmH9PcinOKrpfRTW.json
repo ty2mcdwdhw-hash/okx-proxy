@@ -1,0 +1,83 @@
+{
+ "id": "TW_CallousProudCroissantBigBrother-tmH9PcinOKrpfRTW",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "momento gracioso de físicas en el agua",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  21.5,
+  51.5
+ ],
+ "hook": {
+  "ES": "Un scooter de movilidad, un muelle y GTA 6… nada podía salir bien 🛵🌊",
+  "EN": "A mobility scooter, a dock and GTA 6… what could go wrong? 🛵🌊"
+ },
+ "subs": [
+  {
+   "start": 24.33,
+   "end": 25.23,
+   "ES": "¡No manches…!",
+   "EN": "Oh crap…"
+  },
+  {
+   "start": 25.23,
+   "end": 26.5,
+   "ES": "Espera, ven, ven, ven",
+   "EN": "Wait, come, come, come"
+  },
+  {
+   "start": 27.07,
+   "end": 28.9,
+   "ES": "¿¡Y tú por qué también te tiraste al agua!?",
+   "EN": "Why'd you jump in the water too?!"
+  },
+  {
+   "start": 29.62,
+   "end": 32.08,
+   "ES": "¡Noo… tú también te vas a caer!",
+   "EN": "Nooo… you're going in too!"
+  },
+  {
+   "start": 33.52,
+   "end": 34.6,
+   "ES": "¿Y ahora qué hago?",
+   "EN": "Now what do I do?"
+  },
+  {
+   "start": 47.28,
+   "end": 49.16,
+   "ES": "Avanzo un poquito más…",
+   "EN": "Just a little further…"
+  },
+  {
+   "start": 49.82,
+   "end": 51.3,
+   "ES": "¡Ay no! ¡Se acabó!",
+   "EN": "Oh no! It's over!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Scooter + muelle en GTA 6 = desastre 🛵🌊",
+   "caption": "Nadie debería manejar un scooter de movilidad tan cerca del agua en GTA 6 😂 ¿Tú habrías frenado a tiempo?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Scooter + dock in GTA 6 = disaster 🛵🌊",
+   "caption": "Nobody should ride a mobility scooter this close to the water in GTA 6 😂 Would you have stopped in time?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

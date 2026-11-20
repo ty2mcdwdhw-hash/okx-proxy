@@ -640,3 +640,6 @@
 - 2026-11-20T20:06:31Z | `TW_SuccessfulRelatedLocustCharlietheUnicorn-nx1rouwd9-oqcYxL_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-21T08:06:18Z | 🎥 @josie5297 (zh->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T20:43:40Z | `TW_AbrasiveBrightLouseRuleFive-BFSfSo6HS4Qot9Nn_ES` | NPCs / Momentos divertidos | instagram | scheduled @2026-11-21T08:16:27Z | 🎥 @welovegames (ru->ES) | Spoiler: 0% (Verificado)
 - 2026-11-20T20:43:43Z | `TW_AbrasiveBrightLouseRuleFive-BFSfSo6HS4Qot9Nn_EN` | NPCs / Momentos divertidos | instagram | scheduled @2026-11-21T08:36:18Z | 🎥 @welovegames (ru->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T21:40:50Z | `TW_SullenRoundHawkFreakinStinkin-QnQnsBJUGjKIyV0L_ES` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-21T08:46:27Z | 🎥 @steel (ru->ES) | Spoiler: 0% (Verificado)
+- 2026-11-20T21:40:55Z | `TW_SullenRoundHawkFreakinStinkin-QnQnsBJUGjKIyV0L_EN` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-21T09:06:18Z | 🎥 @steel (ru->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T21:40:58Z | `TW_AmazingGoldenVanillaRitzMitz-_6BlqhyqEvLbepMp_ES` | Momentos divertidos / Viral | instagram | scheduled @2026-11-21T09:16:27Z | 🎥 @auronplay (es->ES) | Spoiler: 0% (Verificado)
