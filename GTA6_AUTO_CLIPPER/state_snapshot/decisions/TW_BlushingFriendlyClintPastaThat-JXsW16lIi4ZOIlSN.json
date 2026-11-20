@@ -1,0 +1,66 @@
+{
+ "id": "TW_BlushingFriendlyClintPastaThat-JXsW16lIi4ZOIlSN",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "reacción a resultado de carrera",
+ "pillar": "Reacciones / Historia",
+ "trim": [
+  0.0,
+  28.5
+ ],
+ "hook": {
+  "ES": "Juraba que había quedado PRIMERO en la carrera… 🏁😤",
+  "EN": "They swore they finished FIRST in the race… 🏁😤"
+ },
+ "subs": [
+  {
+   "start": 12.5,
+   "end": 13.6,
+   "ES": "He quedado primero",
+   "EN": "I came in first"
+  },
+  {
+   "start": 14.7,
+   "end": 16.8,
+   "ES": "¡He quedado primero!",
+   "EN": "I CAME IN FIRST!"
+  },
+  {
+   "start": 18.1,
+   "end": 21.1,
+   "ES": "Me están robando en el GTA",
+   "EN": "GTA is straight up robbing me"
+  },
+  {
+   "start": 24.5,
+   "end": 27.9,
+   "ES": "Está scripted… scripted…",
+   "EN": "It's scripted… scripted…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "¿Carrera amañada en GTA 6? 🏁",
+   "caption": "Él jura que llegó primero… el juego no opina lo mismo 😤🏁 ¿Scripted o skill issue?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  },
+  "EN": {
+   "title": "Rigged race in GTA 6? 🏁",
+   "caption": "They swear they finished first… the game disagrees 😤🏁 Scripted or skill issue?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  }
+ }
+}

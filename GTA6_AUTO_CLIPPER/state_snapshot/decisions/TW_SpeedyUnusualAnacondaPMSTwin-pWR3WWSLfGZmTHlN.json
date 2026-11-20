@@ -1,0 +1,48 @@
+{
+ "id": "TW_SpeedyUnusualAnacondaPMSTwin-pWR3WWSLfGZmTHlN",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "explosión inesperada con reacción seca",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  11.5,
+  29.5
+ ],
+ "hook": {
+  "ES": "Quiso prenderle fuego al auto… y se olvidó de alejarse 🔥💀",
+  "EN": "Tried to set the car on fire… and forgot to step back 🔥💀"
+ },
+ "subs": [
+  {
+   "start": 28.6,
+   "end": 29.5,
+   "ES": "¿Qué?",
+   "EN": "What?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Fuego + auto en GTA 6 = 💥",
+   "caption": "Plan perfecto… excepto por la distancia 🔥🚗💀 ¿Quién más ha hecho esto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Fire + car in GTA 6 = 💥",
+   "caption": "Perfect plan… except for the distance 🔥🚗💀 Who else has done this?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

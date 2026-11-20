@@ -1,0 +1,66 @@
+{
+ "id": "TW_MotionlessDeafCheetahLeeroyJenkins-3nBqmpp7wJSFDxxA",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "presume de experto y choca al instante",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.5,
+  21.0
+ ],
+ "hook": {
+  "ES": "«Soy profesional en moto»… 3 segundos después 🏍️💀",
+  "EN": "\"I'm a pro on bikes\"… 3 seconds later 🏍️💀"
+ },
+ "subs": [
+  {
+   "start": 0.7,
+   "end": 2.9,
+   "ES": "En moto manejo mejor que en auto",
+   "EN": "I ride bikes better than I drive cars"
+  },
+  {
+   "start": 9.5,
+   "end": 12.7,
+   "ES": "Ahí sí soy profesional, sobre todo en off-road",
+   "EN": "I'm actually a pro at it, especially off-road"
+  },
+  {
+   "start": 12.8,
+   "end": 13.4,
+   "ES": "¿Eres pro?",
+   "EN": "You're a pro?"
+  },
+  {
+   "start": 13.8,
+   "end": 15.0,
+   "ES": "Sí, ahí nadie me gana",
+   "EN": "Yeah, nobody beats me there"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El \"profesional\" de las motos en GTA 6 🏍️",
+   "caption": "Dijo que era pro… GTA 6 pidió pruebas 🏍️💥😂 ¿Le das otra oportunidad?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Moto"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6's \"pro\" biker 🏍️",
+   "caption": "Said they were a pro… GTA 6 asked for proof 🏍️💥😂 Would you give them another shot?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Moto"
+   ]
+  }
+ }
+}

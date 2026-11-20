@@ -1,0 +1,88 @@
+{
+ "id": "TW_AntsyInterestingSkirretTTours-VgLogC2GY2K7vR4j",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": true,
+ "reason": "error de botón en pleno vuelo, reacción fuerte",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  23.0
+ ],
+ "hook": {
+  "ES": "Pulsó el botón equivocado… en pleno vuelo ✈️💀",
+  "EN": "Pressed the wrong button… mid-flight ✈️💀"
+ },
+ "subs": [
+  {
+   "start": 4.6,
+   "end": 6.6,
+   "ES": "¿¡QUÉ [[carajo]]!?",
+   "EN": "WHAT THE [[fuck]]?!"
+  },
+  {
+   "start": 12.9,
+   "end": 13.9,
+   "ES": "Pero si apreté R1",
+   "EN": "But I pressed R1"
+  },
+  {
+   "start": 15.4,
+   "end": 17.8,
+   "ES": "¿Por dónde [[carajo]] saltó?",
+   "EN": "Where the [[hell]] did she jump out?"
+  },
+  {
+   "start": 21.2,
+   "end": 22.8,
+   "ES": "Apreté R1…",
+   "EN": "I pressed R1…"
+  }
+ ],
+ "bleep": [
+  [
+   5.43,
+   6.1
+  ],
+  [
+   16.45,
+   16.9
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.63,
+    0.19,
+    0.13
+   ],
+   "start": 0.0,
+   "end": 23.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El peor botón de GTA 6 ✈️",
+   "caption": "Un botón. Un solo botón 💀✈️ ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "The worst button in GTA 6 ✈️",
+   "caption": "One button. Just one button 💀✈️ Has this happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
