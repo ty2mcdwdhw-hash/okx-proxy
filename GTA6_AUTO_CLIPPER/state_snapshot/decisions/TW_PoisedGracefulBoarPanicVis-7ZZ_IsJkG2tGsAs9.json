@@ -1,0 +1,54 @@
+{
+ "id": "TW_PoisedGracefulBoarPanicVis-7ZZ_IsJkG2tGsAs9",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "auto robado termina en el agua al instante",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  14.3
+ ],
+ "hook": {
+  "ES": "Se robó un deportivo… y le duró 1 segundo 🏎️🌊",
+  "EN": "Stole a sports car… and it lasted 1 second 🏎️🌊"
+ },
+ "subs": [
+  {
+   "start": 7.0,
+   "end": 8.68,
+   "ES": "Uy, qué auto más bonito",
+   "EN": "Ooh, what a nice car"
+  },
+  {
+   "start": 11.8,
+   "end": 14.12,
+   "ES": "¡Este juego no es para mí!",
+   "EN": "This game is not for me!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El deportivo de 1 segundo en GTA 6 🏎️",
+   "caption": "Robó el auto más bonito… directo al agua 🏎️🌊😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  },
+  "EN": {
+   "title": "The 1-second sports car in GTA 6 🏎️",
+   "caption": "Stole the nicest car… straight into the water 🏎️🌊😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

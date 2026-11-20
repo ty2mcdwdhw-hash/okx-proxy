@@ -1,0 +1,76 @@
+{
+ "id": "TW_BadTenuousEggnogOpieOP-zqyuljVfiM0Eco-8",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "error de controles en lancha, reacción graciosa",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  10.5,
+  29.0
+ ],
+ "hook": {
+  "ES": "Le dijeron que el turbo era con triángulo… 🚤💀",
+  "EN": "They said turbo was on triangle… 🚤💀"
+ },
+ "subs": [
+  {
+   "start": 16.79,
+   "end": 17.77,
+   "ES": "¡NOOOOO!",
+   "EN": "NOOOOO!"
+  },
+  {
+   "start": 17.77,
+   "end": 18.55,
+   "ES": "¿Por qué le di?",
+   "EN": "Why did I press it?"
+  },
+  {
+   "start": 22.75,
+   "end": 23.87,
+   "ES": "[[Puta]] madre",
+   "EN": "Oh [[shit]]"
+  },
+  {
+   "start": 24.79,
+   "end": 28.23,
+   "ES": "«Activa el turbo con triángulo»… le di, [[puta]] madre",
+   "EN": "“Hit triangle for turbo”… I pressed it, [[fuck]]"
+  }
+ ],
+ "bleep": [
+  [
+   22.65,
+   23.41
+  ],
+  [
+   27.29,
+   27.85
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "El turbo de la lancha en GTA 6 🚤",
+   "caption": "«El turbo es con triángulo»… y terminó nadando 🚤💀😂 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 boat turbo 🚤",
+   "caption": "“Turbo is on triangle”… and they ended up swimming 🚤💀😂 Ever happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

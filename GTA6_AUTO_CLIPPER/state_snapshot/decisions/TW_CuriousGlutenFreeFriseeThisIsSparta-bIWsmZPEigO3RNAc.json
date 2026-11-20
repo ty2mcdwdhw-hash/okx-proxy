@@ -1,0 +1,60 @@
+{
+ "id": "TW_CuriousGlutenFreeFriseeThisIsSparta-bIWsmZPEigO3RNAc",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "aterrizaje fallido, reacción graciosa",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  2.5,
+  17.5
+ ],
+ "hook": {
+  "ES": "«Voy a aterrizar con delicadeza»… GTA 6 tenía otros planes ✈️💀",
+  "EN": "“I'm gonna land it gently”… GTA 6 had other plans ✈️💀"
+ },
+ "subs": [
+  {
+   "start": 3.0,
+   "end": 5.46,
+   "ES": "Voy a aterrizar con delicadeza",
+   "EN": "I'm gonna land it gently"
+  },
+  {
+   "start": 11.65,
+   "end": 14.21,
+   "ES": "En mi cabeza iba a ser como un rebote",
+   "EN": "In my head it was gonna be like a bounce"
+  },
+  {
+   "start": 16.45,
+   "end": 17.09,
+   "ES": "Claro",
+   "EN": "Sure"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Aterrizaje con delicadeza en GTA 6 ✈️",
+   "caption": "Prometió un aterrizaje suave… 10/10 en delicadeza ✈️💀😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "A gentle landing in GTA 6 ✈️",
+   "caption": "Promised a smooth landing… 10/10 for gentleness ✈️💀😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

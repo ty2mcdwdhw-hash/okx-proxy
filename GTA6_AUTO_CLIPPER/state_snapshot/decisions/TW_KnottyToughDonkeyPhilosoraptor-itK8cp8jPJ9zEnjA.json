@@ -1,0 +1,41 @@
+{
+ "id": "TW_KnottyToughDonkeyPhilosoraptor-itK8cp8jPJ9zEnjA",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "vuelco espectacular y cae sobre las ruedas",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.0,
+  11.7
+ ],
+ "hook": {
+  "ES": "Volcó a toda velocidad… y cayó de pie 🚙🤯",
+  "EN": "Flipped at full speed… and landed on its wheels 🚙🤯"
+ },
+ "subs": [],
+ "copy": {
+  "ES": {
+   "title": "El vuelco más limpio de GTA 6 🚙",
+   "caption": "Dio la vuelta completa y siguió manejando como si nada 🚙🤯 Pura física de GTA 6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  },
+  "EN": {
+   "title": "The cleanest flip in GTA 6 🚙",
+   "caption": "Full flip and kept driving like nothing happened 🚙🤯 GTA 6 physics",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
