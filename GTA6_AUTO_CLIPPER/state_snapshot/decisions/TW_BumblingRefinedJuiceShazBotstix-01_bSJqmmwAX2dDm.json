@@ -1,0 +1,106 @@
+{
+ "id": "TW_BumblingRefinedJuiceShazBotstix-01_bSJqmmwAX2dDm",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "NPC aleatorio gracioso en mundo abierto, reacción del streamer",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  10.3,
+  39.6
+ ],
+ "hook": {
+  "ES": "Recogió a un NPC en la carretera… y no lo dejó escuchar su canción 🎶😩",
+  "EN": "They picked up a random NPC… and he wouldn't let them listen to their song 🎶😩"
+ },
+ "subs": [
+  {
+   "start": 12.54,
+   "end": 17.9,
+   "ES": "Este tipo me habló TODA la canción",
+   "EN": "This dude talked over the WHOLE song"
+  },
+  {
+   "start": 17.94,
+   "end": 19.32,
+   "ES": "Aquí no hay nadie, bro",
+   "EN": "There's nobody here, man"
+  },
+  {
+   "start": 19.74,
+   "end": 22.1,
+   "ES": "Yo solo quería escuchar mi canción",
+   "EN": "I just wanted to listen to this song"
+  },
+  {
+   "start": 22.5,
+   "end": 24.72,
+   "ES": "Habló todo el rato",
+   "EN": "He talked the whole time"
+  },
+  {
+   "start": 25.24,
+   "end": 27.96,
+   "ES": "No debí recoger a este tipo en la carretera",
+   "EN": "I shouldn't have picked this dude up off the side of the road"
+  },
+  {
+   "start": 29.32,
+   "end": 32.16,
+   "ES": "Dios… solo quiero escuchar mi canción",
+   "EN": "God… I just want to listen to my song"
+  },
+  {
+   "start": 35.09,
+   "end": 36.57,
+   "ES": "Solo quiero vibrar 🎶",
+   "EN": "I'm just trying to vibe 🎶"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.26,
+    0.8,
+    0.48,
+    0.1
+   ],
+   "start": 10.3,
+   "end": 12.8
+  },
+  {
+   "box": [
+    0.26,
+    0.8,
+    0.48,
+    0.1
+   ],
+   "start": 37.0,
+   "end": 39.6
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El NPC más hablador de GTA 6 🎶",
+   "caption": "Solo quería manejar escuchando su canción… y el NPC que recogió tenía OTROS planes 😩 ¿Tú lo bajabas del auto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "The most talkative NPC in GTA 6 🎶",
+   "caption": "Just wanted to cruise with their favorite song… the hitchhiker had OTHER plans 😩 Would you kick him out?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}
