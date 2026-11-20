@@ -1,0 +1,128 @@
+{
+ "id": "TW_TrappedStrangeDragonfruitUnSane-xo_zseXQ32EEMXgA",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "intento de domar fauna con giro cómico",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  2.2,
+  26.5
+ ],
+ "hook": {
+  "ES": "Quiso domar caimanes como en Jurassic World… y los jabalíes tenían otros planes 🦖🐗💀",
+  "EN": "Tried to tame gators Jurassic World style… the boars had other plans 🦖🐗💀"
+ },
+ "subs": [
+  {
+   "start": 2.38,
+   "end": 4.8,
+   "ES": "Soy literalmente Chris Pratt en Jurassic World",
+   "EN": "I'm literally Chris Pratt in Jurassic World"
+  },
+  {
+   "start": 6.66,
+   "end": 7.52,
+   "ES": "Con los velociraptors",
+   "EN": "With the raptors"
+  },
+  {
+   "start": 10.74,
+   "end": 12.46,
+   "ES": "Ven, Blue. Ven.",
+   "EN": "Come, Blue. Come."
+  },
+  {
+   "start": 15.14,
+   "end": 15.7,
+   "ES": "No se lo quiere comer",
+   "EN": "It doesn't want to eat it"
+  },
+  {
+   "start": 16.0,
+   "end": 17.1,
+   "ES": "Me cago en mi [[puta]] vida",
+   "EN": "Oh, [[fuck]] my life"
+  },
+  {
+   "start": 17.84,
+   "end": 18.5,
+   "ES": "¡Corre, corre, corre!",
+   "EN": "Run, run, run!"
+  },
+  {
+   "start": 21.2,
+   "end": 22.3,
+   "ES": "Le metió un mordisco",
+   "EN": "It took a bite"
+  },
+  {
+   "start": 22.92,
+   "end": 24.04,
+   "ES": "¡Qué pesados los jabalíes!",
+   "EN": "These boars, man!"
+  },
+  {
+   "start": 24.6,
+   "end": 25.7,
+   "ES": "¡Fuera de aquí, [[mierda]]!",
+   "EN": "Get outta here, [[dammit]]!"
+  }
+ ],
+ "bleep": [
+  [
+   16.62,
+   16.98
+  ],
+  [
+   25.02,
+   25.8
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.86,
+    0.5,
+    0.13
+   ],
+   "start": 15.0,
+   "end": 18.8
+  },
+  {
+   "box": [
+    0.25,
+    0.86,
+    0.5,
+    0.13
+   ],
+   "start": 24.4,
+   "end": 26.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Jurassic World versión GTA 6 🦖",
+   "caption": "Intentó ser domador de caimanes… y la fauna de Leonida no coopera 🐊🐗😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Wildlife"
+   ]
+  },
+  "EN": {
+   "title": "Jurassic World, GTA 6 edition 🦖",
+   "caption": "Tried to be a gator whisperer… Leonida's wildlife said no 🐊🐗😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Wildlife"
+   ]
+  }
+ }
+}

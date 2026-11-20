@@ -1,0 +1,54 @@
+{
+ "id": "TW_MushyRoughWatercressTBCheesePull-T7r8-FtJyjsDX_vy",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "secuencia de acción de historia con reacción",
+ "pillar": "Reacciones / Historia",
+ "trim": [
+  1.5,
+  29.5
+ ],
+ "hook": {
+  "ES": "Le saltaron encima en plena persecución por el pantano… 😱🌾",
+  "EN": "Someone jumped on board mid-chase through the swamp… 😱🌾"
+ },
+ "subs": [
+  {
+   "start": 1.87,
+   "end": 2.6,
+   "ES": "¡Ahí viene!",
+   "EN": "Here it comes!"
+  },
+  {
+   "start": 26.64,
+   "end": 28.78,
+   "ES": "¡Menos mal! No quedé hecho pedazos",
+   "EN": "Phew! I didn't get shredded"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Persecución en el pantano 🌾",
+   "caption": "La escena más intensa del pantano en GTA 6 😱 ¿La viste venir?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  },
+  "EN": {
+   "title": "Swamp chase 🌾",
+   "caption": "The most intense swamp scene in GTA 6 😱 Did you see it coming?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}

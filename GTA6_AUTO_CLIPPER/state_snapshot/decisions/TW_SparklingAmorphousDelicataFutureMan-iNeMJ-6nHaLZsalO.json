@@ -1,0 +1,48 @@
+{
+ "id": "TW_SparklingAmorphousDelicataFutureMan-iNeMJ-6nHaLZsalO",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "vehículo lanzado por los aires, física espectacular",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  2.0,
+  20.0
+ ],
+ "hook": {
+  "ES": "Le hizo algo a su camioneta en GTA 6… y terminó en ÓRBITA 🛻🚀",
+  "EN": "They messed with their truck in GTA 6… and it went into ORBIT 🛻🚀"
+ },
+ "subs": [
+  {
+   "start": 18.33,
+   "end": 19.4,
+   "ES": "¿Nos vamos?",
+   "EN": "Shall we go?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La camioneta voladora de GTA 6 🛻🚀",
+   "caption": "Pasó por encima de la noria 🎡💀 ¿Hasta dónde llegó?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6's flying truck 🛻🚀",
+   "caption": "Right over the Ferris wheel 🎡💀 How far did it go?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
