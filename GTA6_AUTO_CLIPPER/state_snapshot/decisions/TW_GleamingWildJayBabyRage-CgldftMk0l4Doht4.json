@@ -1,0 +1,84 @@
+{
+ "id": "TW_GleamingWildJayBabyRage-CgldftMk0l4Doht4",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento NPC gracioso",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  2.0,
+  29.2
+ ],
+ "hook": {
+  "ES": "El empleado lo humilló… y se fue ofendido 😂🍔",
+  "EN": "The cashier roasted them… and they left offended 😂🍔"
+ },
+ "subs": [
+  {
+   "start": 10.3,
+   "end": 11.5,
+   "ES": "¿Quién me dijo eso?",
+   "EN": "Who said that to me?"
+  },
+  {
+   "start": 13.5,
+   "end": 15.7,
+   "ES": "Ok, me hiciste sentir mal. Me voy a casa.",
+   "EN": "Okay, you made me feel bad. I'm going home."
+  },
+  {
+   "start": 16.2,
+   "end": 17.2,
+   "ES": "Como en otro lado",
+   "EN": "I'll eat somewhere else"
+  },
+  {
+   "start": 17.2,
+   "end": 19.2,
+   "ES": "¿Así tratas a tus clientes?",
+   "EN": "That's how you treat your customers?"
+  },
+  {
+   "start": 20.4,
+   "end": 21.8,
+   "ES": "A ver si vuelvo algún día",
+   "EN": "See if I ever come back"
+  },
+  {
+   "start": 24.6,
+   "end": 27.0,
+   "ES": "Disfrutaba la comida hasta que dijo eso",
+   "EN": "I was enjoying the meal until they said that"
+  },
+  {
+   "start": 28.0,
+   "end": 29.1,
+   "ES": "¿Y mi auto?",
+   "EN": "Where's my car?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Lo humillaron en la hamburguesería 😂",
+   "caption": "Los NPC de GTA 6 no tienen filtro 🍔😂 ¿Volverías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "Roasted at the burger joint 😂",
+   "caption": "GTA 6 NPCs have zero filter 🍔😂 Would you go back?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

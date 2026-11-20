@@ -537,3 +537,5 @@
 - 2026-11-20T06:35:29Z | `TW_PeppyTrustworthyKimchiRalpherZ-F_ngI3_j62qWUP9B_EN` | Físicas / Momentos divertidos | youtube | scheduled @2026-11-21T08:50:00Z | 🎥 @tibsonm (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T06:35:32Z | `TW_NaiveSarcasticChickpeaPastaThat-PZ_8vAeSmlG8eBEr_ES` | Momentos divertidos / Lanzamiento | instagram | scheduled @2026-11-20T18:11:27Z | 🎥 @juansguarnizo (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-20T06:35:35Z | `TW_NaiveSarcasticChickpeaPastaThat-PZ_8vAeSmlG8eBEr_EN` | Momentos divertidos / Lanzamiento | instagram | scheduled @2026-11-20T18:26:18Z | 🎥 @juansguarnizo (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T07:04:59Z | `TW_GleamingWildJayBabyRage-CgldftMk0l4Doht4_ES` | NPCs / Detalles | instagram | scheduled @2026-11-20T18:41:27Z | 🎥 @moistcr1tikal (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-20T07:05:01Z | `TW_GleamingWildJayBabyRage-CgldftMk0l4Doht4_EN` | NPCs / Detalles | instagram | scheduled @2026-11-20T18:56:18Z | 🎥 @moistcr1tikal (en->EN) | Spoiler: 0% (Verificado)

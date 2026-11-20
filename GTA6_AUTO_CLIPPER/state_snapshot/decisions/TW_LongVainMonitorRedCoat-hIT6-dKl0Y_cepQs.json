@@ -1,0 +1,72 @@
+{
+ "id": "TW_LongVainMonitorRedCoat-hIT6-dKl0Y_cepQs",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "conducción con choque",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "«Esta cosa es una bestia»… y la bestia terminó así 💥🏎️",
+  "EN": "\"This thing is a beast\"… and the beast ended up like this 💥🏎️"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 1.5,
+   "ES": "No puedo creer que se podía hacer esto",
+   "EN": "Can't believe we could do this the whole time"
+  },
+  {
+   "start": 1.7,
+   "end": 3.6,
+   "ES": "¡No puedo creer que se podía!",
+   "EN": "I cannot believe you could do that!"
+  },
+  {
+   "start": 4.7,
+   "end": 7.8,
+   "ES": "Esta cosa es una bestia",
+   "EN": "This thing is a beast"
+  },
+  {
+   "start": 8.1,
+   "end": 8.9,
+   "ES": "Ay, Dios mío",
+   "EN": "Oh my goodness"
+  },
+  {
+   "start": 27.7,
+   "end": 29.7,
+   "ES": "Ok, se lo va a llevar…",
+   "EN": "Okay, it's gonna take them…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El superauto que no aguantó 💥",
+   "caption": "Iba a fondo por Vice City… y la esquina ganó 🏎️💥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "The supercar that didn't make it 💥",
+   "caption": "Full speed through Vice City… the corner won 🏎️💥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}
