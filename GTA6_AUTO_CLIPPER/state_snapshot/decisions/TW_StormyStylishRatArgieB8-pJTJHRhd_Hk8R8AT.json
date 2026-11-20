@@ -1,0 +1,100 @@
+{
+ "id": "TW_StormyStylishRatArgieB8-pJTJHRhd_Hk8R8AT",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "daño de motor, conducción nocturna",
+ "pillar": "Autos y tuning / Mecánicas",
+ "trim": [
+  0.5,
+  29.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 un solo choque te ARRUINA el motor… 🏎️🔥",
+  "EN": "In GTA 6 one crash RUINS your engine… 🏎️🔥"
+ },
+ "subs": [
+  {
+   "start": 0.76,
+   "end": 4.2,
+   "ES": "¡Dios! ¡Dios!",
+   "EN": "Oh my god! Oh my god!"
+  },
+  {
+   "start": 9.38,
+   "end": 11.0,
+   "ES": "¡[[Puta]]! ¿Por qué gira, bro?",
+   "EN": "[[F***]]! Why's it turning, bro?"
+  },
+  {
+   "start": 12.74,
+   "end": 15.2,
+   "ES": "Lo malo es que un choque ya te daña el auto, bro",
+   "EN": "The worst part is one crash already wrecks your car, bro"
+  },
+  {
+   "start": 19.76,
+   "end": 21.5,
+   "ES": "¡Dios! ¡[[Mierda]]!",
+   "EN": "Oh god! [[S***]]!"
+  },
+  {
+   "start": 23.34,
+   "end": 24.6,
+   "ES": "¡Motor dañado! ¡No!",
+   "EN": "Engine damaged! No!"
+  },
+  {
+   "start": 25.94,
+   "end": 28.1,
+   "ES": "¡Qué poco me duran los autos, loco!",
+   "EN": "My cars never last, man!"
+  }
+ ],
+ "bleep": [
+  [
+   9.28,
+   9.82
+  ],
+  [
+   20.9,
+   21.48
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.22,
+    0.82,
+    0.56,
+    0.13
+   ],
+   "start": 22.0,
+   "end": 29.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los autos de GTA 6 no aguantan nada 💥",
+   "caption": "Un choque y el motor ya está tocado 🏎️💀 ¿Realismo o castigo?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 cars can't take a hit 💥",
+   "caption": "One crash and the engine is done 🏎️💀 Realism or punishment?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "id": "TW_ModernZealousDogeOSsloth-te8TfiaVpiLJi4BK",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "escena de historia con reacción",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  0.0,
+  19.0
+ ],
+ "hook": {
+  "ES": "La discusión más tensa de GTA 6 😳🔥",
+  "EN": "The tensest argument in GTA 6 😳🔥"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 1.7,
+   "ES": "Dime la verdad.",
+   "EN": "Tell me the truth."
+  },
+  {
+   "start": 1.96,
+   "end": 3.1,
+   "ES": "Tienes que calmarte.",
+   "EN": "You need to calm down."
+  },
+  {
+   "start": 5.16,
+   "end": 6.5,
+   "ES": "¿Sabías que estaba loca?",
+   "EN": "Did you know they were a psycho?"
+  },
+  {
+   "start": 7.46,
+   "end": 9.6,
+   "ES": "Yo reconozco a una loca cuando la veo.",
+   "EN": "I know a psycho when I see one."
+  },
+  {
+   "start": 9.8,
+   "end": 11.6,
+   "ES": "No, tienes que decirme.",
+   "EN": "No, you have to tell me."
+  },
+  {
+   "start": 16.06,
+   "end": 16.6,
+   "ES": "¿Qué fue eso?",
+   "EN": "What was that?"
+  },
+  {
+   "start": 17.18,
+   "end": 19.0,
+   "ES": "¡Déjame en paz!",
+   "EN": "Leave me alone!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.82,
+    0.6,
+    0.13
+   ],
+   "start": 18.4,
+   "end": 19.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Esta escena de GTA 6 se puso intensa 😳",
+   "caption": "Nadie esperaba esta discusión 🔥 ¿De qué lado estás?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Historia"
+   ]
+  },
+  "EN": {
+   "title": "This GTA 6 scene got intense 😳",
+   "caption": "Nobody expected this argument 🔥 Whose side are you on?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}

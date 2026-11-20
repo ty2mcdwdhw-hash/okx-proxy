@@ -1,0 +1,72 @@
+{
+ "id": "TW_FairPatientHorseradishMingLee-WD-cH82NDCTdCteQ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "NPC con comportamiento raro, reacción",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  8.0,
+  29.9
+ ],
+ "hook": {
+  "ES": "Este NPC de GTA 6 no deja de TEMBLAR… 13 años de desarrollo 😂",
+  "EN": "This GTA 6 NPC won't stop SHAKING… 13 years of development 😂"
+ },
+ "subs": [
+  {
+   "start": 8.06,
+   "end": 11.3,
+   "ES": "¿Qué pasó? ¿Estás bien?",
+   "EN": "What happened? Are you okay?"
+  },
+  {
+   "start": 13.02,
+   "end": 15.9,
+   "ES": "¿Por qué este hombre no para de temblar?",
+   "EN": "Why won't this guy stop shaking?"
+  },
+  {
+   "start": 19.94,
+   "end": 21.7,
+   "ES": "13 años. 13 años.",
+   "EN": "13 years. 13 years."
+  },
+  {
+   "start": 22.12,
+   "end": 24.1,
+   "ES": "13 años de desarrollo sin parar",
+   "EN": "13 years of nonstop development"
+  },
+  {
+   "start": 28.02,
+   "end": 29.8,
+   "ES": "Caballero, si necesita ayuda…",
+   "EN": "Sir, if you need any help…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El NPC que no para de temblar 😂",
+   "caption": "13 años de desarrollo para este momento 💀 ¿Qué le pasa?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "The NPC that won't stop shaking 😂",
+   "caption": "13 years of development for this moment 💀 What's wrong with them?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}
