@@ -1,0 +1,82 @@
+{
+ "id": "TW_NeighborlyEasyEagleTF2John-dU60VcwbM91HTUMI",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": true,
+ "reason": "hallazgo misterioso nocturno, reacción",
+ "pillar": "Misterios / Easter eggs",
+ "trim": [
+  0.0,
+  29.0
+ ],
+ "hook": {
+  "ES": "Encontró ESTO en el bosque de GTA 6 de noche… 👽🌲",
+  "EN": "Found THIS in GTA 6's woods at night… 👽🌲"
+ },
+ "subs": [
+  {
+   "start": 3.0,
+   "end": 4.7,
+   "ES": "Mira, me [[cagué]] encima",
+   "EN": "Look, I [[shat]] myself"
+  },
+  {
+   "start": 23.5,
+   "end": 25.4,
+   "ES": "¿Qué [[mierda]] es esto?",
+   "EN": "What the [[hell]] is this?"
+  },
+  {
+   "start": 25.6,
+   "end": 27.0,
+   "ES": "¿Qué es eso?",
+   "EN": "What is that?"
+  }
+ ],
+ "bleep": [
+  [
+   4.29,
+   4.7
+  ],
+  [
+   24.54,
+   25.24
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.85,
+    0.5,
+    0.12
+   ],
+   "start": 20.0,
+   "end": 29.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "¿Qué hay en el bosque de GTA 6? 👽",
+   "caption": "Fue a sacar una foto de noche… y no estaba solo 👽🌲 ¿Easter egg o algo más?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  },
+  "EN": {
+   "title": "What's in GTA 6's woods? 👽",
+   "caption": "Went for a night photo… and wasn't alone 👽🌲 Easter egg or something more?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  }
+ }
+}

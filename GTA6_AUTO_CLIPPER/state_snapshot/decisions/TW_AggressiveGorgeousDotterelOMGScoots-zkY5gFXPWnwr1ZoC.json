@@ -1,0 +1,90 @@
+{
+ "id": "TW_AggressiveGorgeousDotterelOMGScoots-zkY5gFXPWnwr1ZoC",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "mecánica de perfil criminal, reacción",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0.0,
+  18.3
+ ],
+ "hook": {
+  "ES": "GTA 6 te juzga: le dio una patada sin querer… y lo marcó como PSICÓPATA 😳🧠",
+  "EN": "GTA 6 judges you: one accidental kick… and it labeled them a PSYCHO 😳🧠"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.1,
+   "ES": "Bro, los devs pensaron en todo",
+   "EN": "Bro, the devs thought of everything"
+  },
+  {
+   "start": 7.0,
+   "end": 9.0,
+   "ES": "¡Perdí karma! «Comportamiento psicópata»",
+   "EN": "I lost karma! \"Psychopathic behavior\""
+  },
+  {
+   "start": 9.1,
+   "end": 12.4,
+   "ES": "[[Carajo]], ¿por qué soy psicópata? No hice nada",
+   "EN": "What the [[fuck]], why am I a psycho? I did nothing"
+  },
+  {
+   "start": 12.5,
+   "end": 14.7,
+   "ES": "Le di una patada sin querer",
+   "EN": "I kicked the guy by accident"
+  },
+  {
+   "start": 14.8,
+   "end": 17.9,
+   "ES": "Lo pateó sin querer, en serio",
+   "EN": "They kicked him by accident, for real"
+  }
+ ],
+ "bleep": [
+  [
+   9.0,
+   9.95
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.86,
+    0.6,
+    0.11
+   ],
+   "start": 0.0,
+   "end": 18.3
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "GTA 6 tiene perfil criminal 🧠",
+   "caption": "Una patada sin querer y el juego ya te ficha como psicópata 😂 ¿Qué perfil tendrías tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mechanics"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 has a criminal profile 🧠",
+   "caption": "One accidental kick and the game flags you as a psycho 😂 What profile would you get?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mechanics"
+   ]
+  }
+ }
+}
