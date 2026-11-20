@@ -1,0 +1,72 @@
+{
+ "id": "TW_TangibleBoringGoatTBTacoLeft-e_Y79Ko_vtU9-pxR",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "salto extremo en moto de cross con reacción",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.0,
+  14.4
+ ],
+ "hook": {
+  "ES": "Agarró la rampa de motocross… y casi llega a las NUBES 🏍️☁️",
+  "EN": "Hit the motocross ramp… and almost reached the CLOUDS 🏍️☁️"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 0.72,
+   "ES": "¡Vamooos!",
+   "EN": "Let's gooo!"
+  },
+  {
+   "start": 0.74,
+   "end": 3.04,
+   "ES": "¡Uooooh!",
+   "EN": "Whoooa!"
+  },
+  {
+   "start": 3.52,
+   "end": 4.3,
+   "ES": "¡Brutal, brutal, brutal!",
+   "EN": "Insane, insane, insane!"
+  },
+  {
+   "start": 4.96,
+   "end": 6.12,
+   "ES": "¿¡Se puede hacer esto!?",
+   "EN": "You can actually do this!?"
+  },
+  {
+   "start": 13.32,
+   "end": 14.4,
+   "ES": "Ah… uff…",
+   "EN": "Ah… oof…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Salto ÉPICO en GTA 6 🏍️",
+   "caption": "Las rampas de motocross de GTA 6 no tienen límite 🏍️☁️ ¿Lo aterrizaba o no?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Stunts"
+   ]
+  },
+  "EN": {
+   "title": "EPIC jump in GTA 6 🏍️",
+   "caption": "GTA 6 motocross ramps have no limit 🏍️☁️ Did they stick the landing?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Stunts"
+   ]
+  }
+ }
+}

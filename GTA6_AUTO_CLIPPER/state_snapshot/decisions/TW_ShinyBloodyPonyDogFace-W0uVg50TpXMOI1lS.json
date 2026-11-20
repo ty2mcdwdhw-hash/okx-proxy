@@ -1,0 +1,94 @@
+{
+ "id": "TW_ShinyBloodyPonyDogFace-W0uVg50TpXMOI1lS",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "ataque de tiburón tras decir que no atacan",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  1.4,
+  29.0
+ ],
+ "hook": {
+  "ES": "«Los tiburones no atacan, es un mito»… 3 segundos después 🦈💀",
+  "EN": "\"Sharks don't attack, it's a myth\"… 3 seconds later 🦈💀"
+ },
+ "bleep": [
+  [
+   9.86,
+   10.3
+  ],
+  [
+   11.26,
+   11.76
+  ]
+ ],
+ "subs": [
+  {
+   "start": 1.46,
+   "end": 5.82,
+   "ES": "No estoy sangrando… los tiburones no te atacan, ¿no?",
+   "EN": "I'm not bleeding… sharks don't attack you, right?"
+  },
+  {
+   "start": 5.82,
+   "end": 9.12,
+   "ES": "Creo que eso de que atacan es un mito",
+   "EN": "I think the whole attacking thing is a myth"
+  },
+  {
+   "start": 9.96,
+   "end": 11.78,
+   "ES": "¡[[Mierda]]! ¡Oh, [[mierda]]!",
+   "EN": "[[Holy shit]]! Oh [[shit]]!"
+  },
+  {
+   "start": 13.66,
+   "end": 15.48,
+   "ES": "Espera… ahora sí estoy sangrando, se acabó",
+   "EN": "Wait… now I'm bleeding, it's over"
+  },
+  {
+   "start": 16.3,
+   "end": 20.48,
+   "ES": "¡Se suponía que era un mito! Tipo Tiburón, la peli…",
+   "EN": "It was supposed to be a myth! Like Jaws…"
+  },
+  {
+   "start": 20.48,
+   "end": 24.02,
+   "ES": "Oh no, no, no, no, no, no…",
+   "EN": "Oh no, no, no, no, no, no…"
+  },
+  {
+   "start": 24.04,
+   "end": 28.44,
+   "ES": "Estoy muerto, literal",
+   "EN": "I'm literally dead"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Tiburones en GTA 6 🦈",
+   "caption": "En GTA 6 los tiburones SÍ atacan 🦈💀 ¿Te meterías al mar?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Sharks"
+   ]
+  },
+  "EN": {
+   "title": "Sharks in GTA 6 🦈",
+   "caption": "Sharks in GTA 6 DO attack 🦈💀 Would you go in the water?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Sharks"
+   ]
+  }
+ }
+}
