@@ -635,3 +635,6 @@
 - 2026-11-20T19:08:18Z | `KK_clip_01M7X21XEN4AG89S03FJ21NV01_ES` | Momentos divertidos / Policía | instagram | scheduled @2026-11-21T06:46:27Z | 🎥 @rdjavi (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-20T19:08:23Z | `KK_clip_01M7X21XEN4AG89S03FJ21NV01_EN` | Momentos divertidos / Policía | instagram | scheduled @2026-11-21T07:06:18Z | 🎥 @rdjavi (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T19:34:53Z | `TW_DignifiedAggressiveZebraCoolStoryBro-Jx6dSpRu2uUcadeI_ES` | NPCs / Detalles | instagram | scheduled @2026-11-21T07:16:27Z | 🎥 @illojuan (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-20T20:06:25Z | `TW_SteamyMagnificentCoffeeKAPOW-iUXp5ViwmBtmUZHh_ES` | Spotlight / Mecánicas | instagram | scheduled @2026-11-21T07:46:27Z | 🎥 @roger9527 (zh->ES) | Spoiler: 0% (Verificado)
+- 2026-11-20T20:06:28Z | `TW_SteamyMagnificentCoffeeKAPOW-iUXp5ViwmBtmUZHh_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-21T07:36:18Z | 🎥 @roger9527 (zh->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T20:06:31Z | `TW_SuccessfulRelatedLocustCharlietheUnicorn-nx1rouwd9-oqcYxL_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-21T08:06:18Z | 🎥 @josie5297 (zh->EN) | Spoiler: 0% (Verificado)

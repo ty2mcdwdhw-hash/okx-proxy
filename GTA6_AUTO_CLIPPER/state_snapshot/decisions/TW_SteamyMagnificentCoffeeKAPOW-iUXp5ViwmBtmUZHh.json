@@ -1,0 +1,95 @@
+{
+ "id": "TW_SteamyMagnificentCoffeeKAPOW-iUXp5ViwmBtmUZHh",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "mecánica nueva tras morir, reacción clara",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  25.8,
+  55.8
+ ],
+ "hook": {
+  "ES": "Murió contra la policía en GTA 6… y al revivir le esperaba OTRA sorpresa 🚓💸",
+  "EN": "Died fighting the cops in GTA 6… and respawning came with ANOTHER surprise 🚓💸"
+ },
+ "subs": [
+  {
+   "start": 29.4,
+   "end": 29.72,
+   "ES": "¿Ah?",
+   "EN": "Huh?"
+  },
+  {
+   "start": 30.48,
+   "end": 32.22,
+   "ES": "¿[[Mierda]], no puedo enfrentarme a la poli?",
+   "EN": "[[Crap]], I can't shoot it out with the cops?"
+  },
+  {
+   "start": 35.28,
+   "end": 36.06,
+   "ES": "¿Qué pasó?",
+   "EN": "What happened?"
+  },
+  {
+   "start": 36.92,
+   "end": 39.12,
+   "ES": "¿O el arma es muy mala? Primero consigo otra",
+   "EN": "Or is the gun just trash? Gotta grab a better one"
+  },
+  {
+   "start": 45.06,
+   "end": 46.32,
+   "ES": "¿Y por qué aparecí aquí?",
+   "EN": "Wait, why am I back here?"
+  },
+  {
+   "start": 47.99,
+   "end": 50.67,
+   "ES": "Uy… me cobraron 433 dólares",
+   "EN": "Ugh… they charged me 433 bucks"
+  },
+  {
+   "start": 52.21,
+   "end": 52.69,
+   "ES": "¿Qué?",
+   "EN": "What?"
+  },
+  {
+   "start": 53.41,
+   "end": 55.8,
+   "ES": "¡Me incautaron el auto! ¡Ya no tengo auto!",
+   "EN": "They IMPOUNDED my car! I've got no ride!"
+  }
+ ],
+ "bleep": [
+  [
+   30.38,
+   30.9
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Perder contra la poli sale CARO 🚓💸",
+   "caption": "Mueres, revives… y te cobran la cuenta y se llevan tu auto al depósito 😭 ¿Te pasó? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Losing to the cops costs EXTRA 🚓💸",
+   "caption": "You die, you respawn… then you get the bill AND your car gets impounded 😭 Happened to you? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

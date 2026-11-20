@@ -1,0 +1,71 @@
+{
+ "id": "TW_SuccessfulRelatedLocustCharlietheUnicorn-nx1rouwd9-oqcYxL",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "explosión inesperada con reacción",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  38.0,
+  60.0
+ ],
+ "hook": {
+  "ES": "Se puso a hablar por teléfono junto a su auto destrozado en GTA 6… MALA idea 📞💥",
+  "EN": "Took a phone call right next to their wrecked car in GTA 6… BAD idea 📞💥"
+ },
+ "subs": [
+  {
+   "start": 38.58,
+   "end": 40.52,
+   "ES": "Está tan roto que hay que dejarlo",
+   "EN": "It's so busted we gotta ditch it"
+  },
+  {
+   "start": 51.82,
+   "end": 53.1,
+   "ES": "Bueno, mi auto ya está…",
+   "EN": "Okay, my car's done…"
+  },
+  {
+   "start": 53.1,
+   "end": 54.54,
+   "ES": "¡Wow, me mandó directo…!",
+   "EN": "Whoa, it straight up sent me…!"
+  },
+  {
+   "start": 54.54,
+   "end": 56.16,
+   "ES": "¡Wow, súper…! ¡Ah!",
+   "EN": "Whoa, so…! Ahh!"
+  },
+  {
+   "start": 58.44,
+   "end": 60.0,
+   "ES": "Tengo las piernas rotas 🦵💀",
+   "EN": "My legs are broken 🦵💀"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La llamada más explosiva de GTA 6 💥",
+   "caption": "Nunca te quedes al lado de un auto humeando 📞💥 Las físicas al salir volando 🔥 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "The most explosive phone call in GTA 6 💥",
+   "caption": "Never stand next to a smoking car 📞💥 That ragdoll though 🔥 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
