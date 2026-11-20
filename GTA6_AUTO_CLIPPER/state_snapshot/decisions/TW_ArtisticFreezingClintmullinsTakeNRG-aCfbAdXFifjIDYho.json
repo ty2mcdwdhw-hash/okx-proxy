@@ -1,0 +1,84 @@
+{
+ "id": "TW_ArtisticFreezingClintmullinsTakeNRG-aCfbAdXFifjIDYho",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "choque con ragdoll y reacción graciosa",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.0,
+  16.8
+ ],
+ "hook": {
+  "ES": "«Que Dios tome el volante»… y Dios no sabía manejar 🛻💀",
+  "EN": "\"Jesus, take the wheel\"… Jesus couldn't drive 🛻💀"
+ },
+ "subs": [
+  {
+   "start": 5.84,
+   "end": 7.6,
+   "ES": "Que Dios tome el volante.",
+   "EN": "I'll let Jesus take the wheel."
+  },
+  {
+   "start": 7.66,
+   "end": 8.76,
+   "ES": "Por eso no choqué con los árboles",
+   "EN": "That's why I didn't hit the trees"
+  },
+  {
+   "start": 10.84,
+   "end": 12.94,
+   "ES": "Ok, eso no estuvo tan bien. Bueno",
+   "EN": "Okay, that's not so good. All right"
+  },
+  {
+   "start": 13.7,
+   "end": 16.4,
+   "ES": "Todo bien. Me vuelvo a subir. Todo bien, todo bien",
+   "EN": "It's fine. I'm getting back on. It's fine, it's fine"
+  }
+ ],
+ "bleep": [
+  [
+   9.5,
+   10.0
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.36,
+    0.83,
+    0.28,
+    0.1
+   ],
+   "start": 9.3,
+   "end": 11.8
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Dios no sabía manejar 🛻",
+   "caption": "Soltó el volante en plena persecución… y salió volando 💀 Todo bien, todo bien.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Jesus couldn't drive 🛻",
+   "caption": "Let go of the wheel mid-chase… and went flying 💀 It's fine, it's fine.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "id": "TW_RamshackleHedonisticChamoisCoolCat-sETUTSMZ78b5Utt-",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "acrobacia aérea espectacular con choque y escape",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.5,
+  23.5
+ ],
+ "hook": {
+  "ES": "Picada con un AVIÓN DE PASAJEROS sobre el estadio… y saltó en el último segundo 🪂💥",
+  "EN": "Nosediving a PASSENGER JET over the stadium… and bailing at the last second 🪂💥"
+ },
+ "subs": [
+  {
+   "start": 1.4,
+   "end": 3.6,
+   "ES": "¿Quién está abajo? Ah, es un estadio.",
+   "EN": "Who's that below me? Oh, it's a stadium."
+  },
+  {
+   "start": 3.6,
+   "end": 7.0,
+   "ES": "Sin presión… no quiero pasarle por encima a esto",
+   "EN": "Low-key… I don't wanna do a flyby on this thing"
+  },
+  {
+   "start": 24.9,
+   "end": 28.5,
+   "ES": "Salí de esa nube un poquito pasado de velocidad",
+   "EN": "I came out of that cloud a little hot"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Salto del avión en el último segundo 🪂",
+   "caption": "Picada en un jet sobre la ciudad de GTA 6… y paracaídas justo a tiempo 💥✈️ ¿Lo hubieras logrado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Aviones"
+   ]
+  },
+  "EN": {
+   "title": "Bailing out at the last second 🪂",
+   "caption": "Nosediving a jet over the GTA 6 city… and pulling the chute just in time 💥✈️ Would you make it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Stunts"
+   ]
+  }
+ }
+}
