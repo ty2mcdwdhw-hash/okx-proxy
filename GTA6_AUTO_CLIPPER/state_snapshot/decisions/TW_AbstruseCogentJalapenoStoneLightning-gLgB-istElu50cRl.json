@@ -1,0 +1,66 @@
+{
+ "id": "TW_AbstruseCogentJalapenoStoneLightning-gLgB-istElu50cRl",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "salto acrobático épico en moto",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.0,
+  22.8
+ ],
+ "hook": {
+  "ES": "Intentó un salto en moto en GTA 6… y le salió DOBLE MORTAL 🏍️🤯",
+  "EN": "Tried a bike jump in GTA 6… and pulled off a DOUBLE BACKFLIP 🏍️🤯"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 0.68,
+   "ES": "Miren esto",
+   "EN": "Watch this"
+  },
+  {
+   "start": 1.86,
+   "end": 2.9,
+   "ES": "Tuve bastante suerte",
+   "EN": "I got pretty lucky"
+  },
+  {
+   "start": 7.48,
+   "end": 9.33,
+   "ES": "¡Doble! ¡Doble! ¡DOBLE!",
+   "EN": "Double! Double! DOUBLE!"
+  },
+  {
+   "start": 18.95,
+   "end": 21.97,
+   "ES": "Pero bueno, hay que verle el lado bueno, ¿no?",
+   "EN": "But hey, look on the bright side, you know?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "DOBLE MORTAL en moto 🏍️",
+   "caption": "Ni él se lo creía 🤯 ¿Quién puede superar esto en GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Stunts"
+   ]
+  },
+  "EN": {
+   "title": "DOUBLE BACKFLIP on a bike 🏍️",
+   "caption": "Even they couldn't believe it 🤯 Who can top this in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Stunts"
+   ]
+  }
+ }
+}

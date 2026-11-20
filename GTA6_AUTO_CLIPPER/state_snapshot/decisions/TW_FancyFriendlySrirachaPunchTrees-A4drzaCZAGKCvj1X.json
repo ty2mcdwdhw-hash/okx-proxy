@@ -1,0 +1,60 @@
+{
+ "id": "TW_FancyFriendlySrirachaPunchTrees-A4drzaCZAGKCvj1X",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "mecánica de dron con NPCs, gracioso",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  1.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes tumbar NPCs… con un DRON 🚁💀",
+  "EN": "In GTA 6 you can knock NPCs down… with a DRONE 🚁💀"
+ },
+ "subs": [
+  {
+   "start": 6.93,
+   "end": 11.21,
+   "ES": "Estoy en tu carro. Te voy a arruinar la vida",
+   "EN": "I'm on your car. I'm gonna ruin your life"
+  },
+  {
+   "start": 13.8,
+   "end": 16.92,
+   "ES": "Torpedo de dron. Quédate en el suelo",
+   "EN": "Drone torpedo. Stay on the ground"
+  },
+  {
+   "start": 17.04,
+   "end": 26.62,
+   "ES": "Si sabes lo que te conviene… quédate en el suelo",
+   "EN": "If you know what's good for you… stay on the ground"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El dron más peligroso de GTA 6 🚁",
+   "caption": "Nadie está a salvo de este dron 💀 Quédate en el suelo.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Drone"
+   ]
+  },
+  "EN": {
+   "title": "The most dangerous drone in GTA 6 🚁",
+   "caption": "Nobody is safe from this drone 💀 Stay on the ground.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Drone"
+   ]
+  }
+ }
+}

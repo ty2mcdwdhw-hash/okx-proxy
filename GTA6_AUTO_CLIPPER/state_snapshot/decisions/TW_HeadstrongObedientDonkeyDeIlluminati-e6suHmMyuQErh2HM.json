@@ -1,0 +1,60 @@
+{
+ "id": "TW_HeadstrongObedientDonkeyDeIlluminati-e6suHmMyuQErh2HM",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "fail de conducción con reacción graciosa",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.8,
+  29.8
+ ],
+ "hook": {
+  "ES": "Escapó de la policía… y se olvidó de mirar por dónde iba 🌊💀",
+  "EN": "Escaped the cops… and forgot to look where they were going 🌊💀"
+ },
+ "subs": [
+  {
+   "start": 1.66,
+   "end": 2.72,
+   "ES": "¡Vamos, lo tenemos!",
+   "EN": "Let's go, we got it!"
+  },
+  {
+   "start": 22.5,
+   "end": 25.32,
+   "ES": "Tío, cada clip mío en GTA va a ser así",
+   "EN": "Dude, every GTA clip of mine is gonna be like this"
+  },
+  {
+   "start": 26.7,
+   "end": 29.68,
+   "ES": "Justo cuando escapé… no me fijé",
+   "EN": "Right when I escaped… I didn't even look"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Escapó… directo al agua 🌊",
+   "caption": "Clases de conducción en GTA 6: lección 1, mira por dónde vas 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Escaped… straight into the water 🌊",
+   "caption": "GTA 6 driving lessons: lesson 1, watch where you're going 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
