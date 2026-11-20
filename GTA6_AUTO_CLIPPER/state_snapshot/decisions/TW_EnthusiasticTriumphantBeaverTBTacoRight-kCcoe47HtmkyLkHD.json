@@ -1,0 +1,101 @@
+{
+ "id": "TW_EnthusiasticTriumphantBeaverTBTacoRight-kCcoe47HtmkyLkHD",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "compara su peso con las estadísticas del protagonista",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  5.0,
+  25.0
+ ],
+ "hook": {
+  "ES": "Miró las estadísticas del protagonista de GTA 6… y se comparó con él 📏🍔",
+  "EN": "Checked the GTA 6 protagonist's stats… and compared themself to him 📏🍔"
+ },
+ "subs": [
+  {
+   "start": 6.28,
+   "end": 7.12,
+   "ES": "186 cm, 98 kg",
+   "EN": "186 cm, 98 kg"
+  },
+  {
+   "start": 7.12,
+   "end": 9.68,
+   "ES": "[[Joder]], estoy más flaco que él",
+   "EN": "[[Damn]], I'm skinnier than him"
+  },
+  {
+   "start": 10.64,
+   "end": 12.88,
+   "ES": "Estoy más flaco que él",
+   "EN": "I'm skinnier than him"
+  },
+  {
+   "start": 12.88,
+   "end": 16.3,
+   "ES": "Así que, oficialmente… puedo comer",
+   "EN": "So, officially… I can eat"
+  },
+  {
+   "start": 17.06,
+   "end": 20.64,
+   "ES": "Pide hamburguesas, pide hamburguesas",
+   "EN": "Order burgers, order burgers"
+  },
+  {
+   "start": 20.64,
+   "end": 22.54,
+   "ES": "Todavía me faltan 4 kilos para alcanzarlo",
+   "EN": "Still 4 kilos to go to catch up"
+  },
+  {
+   "start": 23.58,
+   "end": 24.48,
+   "ES": "¡Au!",
+   "EN": "Ow!"
+  }
+ ],
+ "bleep": [
+  [
+   7.36,
+   7.98
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.36,
+    0.86,
+    0.3,
+    0.12
+   ],
+   "start": 5.0,
+   "end": 25.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El menú de estadísticas de GTA 6 😳",
+   "caption": "GTA 6 te muestra altura, peso, músculo y grasa corporal del personaje 📏 Él descubrió que está más flaco… y pidió hamburguesas 🍔😂 ¿Cuánto te falta a ti?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mecanicas"
+   ]
+  },
+  "EN": {
+   "title": "The GTA 6 stats menu 😳",
+   "caption": "GTA 6 shows your character's height, weight, muscle and body fat 📏 They found out they're skinnier… and ordered burgers 🍔😂 How far off are you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mechanics"
+   ]
+  }
+ }
+}

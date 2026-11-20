@@ -1,0 +1,95 @@
+{
+ "id": "TW_ResourcefulBillowingSushiOptimizePrime-Ntt1qvQAwSuHhPYZ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "cinemática en lancha con reacción del streamer",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  0.0,
+  26.0
+ ],
+ "hook": {
+  "ES": "La charla en lancha más inesperada de GTA 6 🚤🇮🇹",
+  "EN": "The most unexpected boat conversation in GTA 6 🚤🇮🇹"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "ES": "Relájate, pero para eso tienes que ser mejor",
+   "EN": "Relax, but you've got to be better for that"
+  },
+  {
+   "start": 3.8,
+   "end": 4.62,
+   "ES": "Podrías quedarte allí",
+   "EN": "You could stay there"
+  },
+  {
+   "start": 4.62,
+   "end": 6.36,
+   "ES": "Así que eras comunista…",
+   "EN": "So you were a communist…"
+  },
+  {
+   "start": 6.36,
+   "end": 7.76,
+   "ES": "…y soldado",
+   "EN": "…and a soldier"
+  },
+  {
+   "start": 9.34,
+   "end": 11.06,
+   "ES": "Pero por eso amo este país",
+   "EN": "But that's why I love this country"
+  },
+  {
+   "start": 11.3,
+   "end": 14.6,
+   "ES": "Por eso amo este país",
+   "EN": "This is why I love this country"
+  },
+  {
+   "start": 14.6,
+   "end": 17.84,
+   "ES": "Antes de dejar Italia, mi madre me dijo:",
+   "EN": "Before I left Italy, my mom told me:"
+  },
+  {
+   "start": 17.84,
+   "end": 20.02,
+   "ES": "«América está muy perdida»",
+   "EN": "\"America is very lost\""
+  },
+  {
+   "start": 20.02,
+   "end": 25.64,
+   "ES": "No me encontré a mí mismo hasta que llegué aquí",
+   "EN": "I didn't find myself until I came here"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Esta escena de GTA 6 en lancha 🚤",
+   "caption": "Un paseo en lancha por Vice City que terminó en una charla que nadie esperaba 🇮🇹🌴 ¿Ya llegaste a esta parte?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Historia"
+   ]
+  },
+  "EN": {
+   "title": "This GTA 6 boat scene 🚤",
+   "caption": "A boat ride through Vice City that turned into a conversation nobody expected 🇮🇹🌴 Have you reached this part yet?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}

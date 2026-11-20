@@ -1,0 +1,89 @@
+{
+ "id": "TW_PlacidPlainPineappleDatSheffy-aioh5HOWp5Z3ob3w",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "salto en paracaídas sobre rascacielos con final inesperado",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.5,
+  29.5
+ ],
+ "hook": {
+  "ES": "Saltaron juntos en paracaídas en GTA 6… y solo uno llegó entero 🪂💀",
+  "EN": "They parachuted together in GTA 6… and only one made it 🪂💀"
+ },
+ "subs": [
+  {
+   "start": 0.88,
+   "end": 2.38,
+   "ES": "Ni entiende las mecánicas",
+   "EN": "Doesn't even get the mechanics"
+  },
+  {
+   "start": 2.38,
+   "end": 3.58,
+   "ES": "No…",
+   "EN": "No…"
+  },
+  {
+   "start": 11.76,
+   "end": 13.22,
+   "ES": "La maté, bro",
+   "EN": "I killed her, bro"
+  },
+  {
+   "start": 13.22,
+   "end": 16.54,
+   "ES": "Dios mío, bro",
+   "EN": "Oh my God, bro"
+  },
+  {
+   "start": 16.54,
+   "end": 17.9,
+   "ES": "Bro…",
+   "EN": "Bro…"
+  },
+  {
+   "start": 22.66,
+   "end": 24.46,
+   "ES": "La maté, viejo",
+   "EN": "I killed her, man"
+  },
+  {
+   "start": 25.82,
+   "end": 27.14,
+   "ES": "Bro, ¿y ahora?",
+   "EN": "Bro, now what?"
+  },
+  {
+   "start": 28.06,
+   "end": 29.06,
+   "ES": "¿Se murió?",
+   "EN": "Is she dead?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Aterrizaje en la azotea en GTA 6 🪂",
+   "caption": "Bajaban en paracaídas sobre los rascacielos de Vice City… y el aterrizaje no salió como esperaba 💀 ¿Qué hizo mal?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Rooftop landing in GTA 6 🪂",
+   "caption": "Parachuting over the Vice City skyscrapers… and the landing didn't go as planned 💀 What went wrong?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
