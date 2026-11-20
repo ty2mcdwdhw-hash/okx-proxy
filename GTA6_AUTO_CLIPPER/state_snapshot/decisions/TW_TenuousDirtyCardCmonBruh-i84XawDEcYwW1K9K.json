@@ -1,0 +1,60 @@
+{
+ "id": "TW_TenuousDirtyCardCmonBruh-i84XawDEcYwW1K9K",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "conducción con choque y remate cómico, timing claro",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  2.5,
+  19.0
+ ],
+ "priority": false,
+ "hook": {
+  "ES": "Se creía el mejor chofer de fuga de Miami… hasta el cruce 🚗💥",
+  "EN": "Called themself the best getaway driver in Miami… then the intersection 🚗💥"
+ },
+ "subs": [
+  {
+   "start": 3.45,
+   "end": 5.3,
+   "ES": "Esto ya es una huida",
+   "EN": "Okay, this is a getaway now"
+  },
+  {
+   "start": 5.6,
+   "end": 8.27,
+   "ES": "pero suerte que soy el mejor chofer de fuga de todo Miami",
+   "EN": "but luckily I'm the best getaway driver in all of Miami"
+  },
+  {
+   "start": 13.63,
+   "end": 15.0,
+   "ES": "O no.",
+   "EN": "Or not."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "«El mejor chofer de fuga de Miami» en GTA 6 🚗💥",
+   "caption": "La confianza duró 5 segundos 😂 ¿Tú lo habrías esquivado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "\"Best getaway driver in Miami\" in GTA 6 🚗💥",
+   "caption": "The confidence lasted 5 seconds 😂 Would you have dodged it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "id": "TW_BlazingHonestAsparagusCoolCat-cp2d5wG04Lvxfekk",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "huida con caída física muy cómica, reacción ES",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.4,
+  15.7
+ ],
+ "priority": false,
+ "hook": {
+  "ES": "Huyendo de la policía en GTA 6… y la terraza se le cruzó 🪑💀",
+  "EN": "Running from the cops in GTA 6… then the patio furniture happened 🪑💀"
+ },
+ "subs": [
+  {
+   "start": 2.16,
+   "end": 4.32,
+   "ES": "Y ahora me voy a ir al [[carajo]]",
+   "EN": "Aaand now I'm getting the [[hell]] outta here"
+  },
+  {
+   "start": 5.78,
+   "end": 6.6,
+   "ES": "¡Brother!",
+   "EN": "Broooo!"
+  },
+  {
+   "start": 11.6,
+   "end": 12.2,
+   "ES": "¡Ojo!",
+   "EN": "Watch out!"
+  }
+ ],
+ "bleep": [
+  [
+   3.76,
+   4.42
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.86,
+    0.4,
+    0.1
+   ],
+   "start": 2.5,
+   "end": 7.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La peor huida de la policía en GTA 6 🪑😂",
+   "caption": "Iba perfecto… hasta que apareció la mesa 💀 ¿Le das un 10 a la caída?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "The worst police escape in GTA 6 🪑😂",
+   "caption": "It was going perfectly… until the table 💀 Rate that fall out of 10",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
