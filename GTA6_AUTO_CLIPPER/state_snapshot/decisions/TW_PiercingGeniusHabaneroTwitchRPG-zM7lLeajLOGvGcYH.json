@@ -1,0 +1,54 @@
+{
+ "id": "TW_PiercingGeniusHabaneroTwitchRPG-zM7lLeajLOGvGcYH",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "reacción de NPCs a la conducción",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  0.0,
+  21.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 los NPCs te HUMILLAN si manejas mal 🚗😂",
+  "EN": "In GTA 6 the NPCs ROAST you if you drive badly 🚗😂"
+ },
+ "subs": [
+  {
+   "start": 11.94,
+   "end": 13.56,
+   "ES": "No, perdón, fue sin querer",
+   "EN": "No, sorry, that was an accident"
+  },
+  {
+   "start": 13.56,
+   "end": 17.34,
+   "ES": "Pensé… pensé… pensé…",
+   "EN": "I thought… I thought… I thought…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPCs de GTA 6 no perdonan 😂",
+   "caption": "Un pequeño error al volante y todo el barrio te cae encima 💀 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs show no mercy 😂",
+   "caption": "One tiny driving mistake and the whole block roasts you 💀 Ever happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

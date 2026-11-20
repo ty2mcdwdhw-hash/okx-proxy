@@ -1,0 +1,53 @@
+{
+ "id": "TW_DullEnthusiasticAirGuitarMoreCowbell-P9APqSzS4Ybzb6xL",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "física de moto con choque",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.0,
+  11.5
+ ],
+ "hook": {
+  "ES": "Caballito perfecto en GTA 6… hasta que apareció el POSTE 🏍️💀",
+  "EN": "Perfect wheelie in GTA 6… until the POLE showed up 🏍️💀"
+ },
+ "subs": [],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.17,
+    0.2,
+    0.24
+   ],
+   "start": 0.0,
+   "end": 11.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El poste ganó 🏍️",
+   "caption": "Iba sin camiseta, sin casco y sin frenos… la física de GTA 6 no perdona 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Moto"
+   ]
+  },
+  "EN": {
+   "title": "The pole won 🏍️",
+   "caption": "No shirt, no helmet, no brakes… GTA 6 physics show no mercy 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Bike"
+   ]
+  }
+ }
+}

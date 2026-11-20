@@ -1,0 +1,41 @@
+{
+ "id": "TW_CleanBovinePandaBudBlast-EU6UDd-Hn3PwYMpc",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "fauna: foto arriesgada con final inesperado",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  20.3
+ ],
+ "hook": {
+  "ES": "Quiso la foto perfecta del cocodrilo en GTA 6… y el cocodrilo tenía hambre 🐊📸💀",
+  "EN": "They wanted the perfect gator photo in GTA 6… the gator was hungry 🐊📸💀"
+ },
+ "subs": [],
+ "copy": {
+  "ES": {
+   "title": "La foto más cara de Vice City 🐊📸",
+   "caption": "Modo foto, cocodrilo, demasiado cerca… ¿qué podía salir mal? 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cocodrilo"
+   ]
+  },
+  "EN": {
+   "title": "The most expensive photo in Vice City 🐊📸",
+   "caption": "Photo mode, a gator, way too close… what could go wrong? 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gator"
+   ]
+  }
+ }
+}
