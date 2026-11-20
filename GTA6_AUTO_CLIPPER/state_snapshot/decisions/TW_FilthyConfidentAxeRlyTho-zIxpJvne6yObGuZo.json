@@ -1,0 +1,48 @@
+{
+ "id": "TW_FilthyConfidentAxeRlyTho-zIxpJvne6yObGuZo",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "muerte absurda tras aterrizar hidroavión",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  8.0,
+  25.0
+ ],
+ "hook": {
+  "ES": "Aterrizó el hidroavión perfecto… y se bajó por el lado equivocado ✈️💀",
+  "EN": "Perfect seaplane landing… then they got out on the wrong side ✈️💀"
+ },
+ "subs": [
+  {
+   "start": 18.8,
+   "end": 20.6,
+   "ES": "Ok, voy a dejar esto aquí",
+   "EN": "Ok, I'll just leave this here"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Últimas palabras en GTA 6 ✈️",
+   "caption": "Aterrizaje 10/10, salida 0/10 💀 Famosas últimas palabras.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Famous last words in GTA 6 ✈️",
+   "caption": "Landing 10/10, exit 0/10 💀 Famous last words.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

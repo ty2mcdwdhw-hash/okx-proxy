@@ -1,0 +1,54 @@
+{
+ "id": "TW_RockyInquisitiveBaboonOhMyDog-VSyv9eCr9RsCF38u",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "fail de paracaidismo con reacción",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.0,
+  16.5
+ ],
+ "hook": {
+  "ES": "Su primer salto en paracaídas en GTA 6… no salió como esperaba 🪂💀",
+  "EN": "Their first skydive in GTA 6… did not go as planned 🪂💀"
+ },
+ "subs": [
+  {
+   "start": 1.97,
+   "end": 3.61,
+   "ES": "¡No, no, no, no, no!",
+   "EN": "Oh no no no no no!"
+  },
+  {
+   "start": 4.15,
+   "end": 5.73,
+   "ES": "¡NO, NO, NO, NO!",
+   "EN": "NO NO NO NO!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Paracaidismo en GTA 6 🪂",
+   "caption": "El aterrizaje más rápido de Vice City 💀 ¿Tú lo habrías logrado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Skydive"
+   ]
+  },
+  "EN": {
+   "title": "Skydiving in GTA 6 🪂",
+   "caption": "The fastest landing in Vice City 💀 Would you have made it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Skydive"
+   ]
+  }
+ }
+}

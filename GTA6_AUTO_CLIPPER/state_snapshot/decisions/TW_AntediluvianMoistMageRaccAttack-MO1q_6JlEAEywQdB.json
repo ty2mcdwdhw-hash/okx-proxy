@@ -1,0 +1,78 @@
+{
+ "id": "TW_AntediluvianMoistMageRaccAttack-MO1q_6JlEAEywQdB",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "easter egg con reacción fuerte",
+ "pillar": "Misterios / Easter eggs",
+ "trim": [
+  15.0,
+  40.0
+ ],
+ "hook": {
+  "ES": "Tiró el huevo de Pascua desde la torre… y cayó sobre un NPC 🥚💀",
+  "EN": "They dropped the Easter egg off the tower… and it hit an NPC 🥚💀"
+ },
+ "subs": [
+  {
+   "start": 17.5,
+   "end": 21.3,
+   "ES": "Esto va a caerle a un civil random y matarlo",
+   "EN": "This is gonna land on a random civilian and kill them"
+  },
+  {
+   "start": 29.4,
+   "end": 36.0,
+   "ES": "¡Dios mío! Era broma… ¡ERA BROMA!",
+   "EN": "Oh my god! I was joking… I WAS JOKING!"
+  },
+  {
+   "start": 36.5,
+   "end": 38.0,
+   "ES": "¿Qué [[carajo]]?",
+   "EN": "What the [[f***]]?"
+  }
+ ],
+ "bleep": [
+  [
+   36.9,
+   37.3
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.82,
+    0.6,
+    0.14
+   ],
+   "start": 29.0,
+   "end": 40.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El easter egg más inesperado de GTA 6 🥚",
+   "caption": "Lo dijo en broma… y GTA 6 lo hizo realidad 💀 ¿Lo sabías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  },
+  "EN": {
+   "title": "The most unexpected Easter egg in GTA 6 🥚",
+   "caption": "They said it as a joke… and GTA 6 made it happen 💀 Did you know?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  }
+ }
+}
