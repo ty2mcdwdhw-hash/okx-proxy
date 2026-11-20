@@ -627,3 +627,5 @@
 - 2026-11-20T16:41:55Z | `TW_SneakyCleanGaurOSfrog-dsjF81k_9f2Ny3-Y_EN` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-21T04:36:18Z | 🎥 @rubius (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T17:09:08Z | `TW_WimpyInventiveSardine4Head-d5wVgP3M5M1keCzF_ES` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-21T04:46:27Z | 🎥 @zarbex (de->ES) | Spoiler: 0% (Verificado)
 - 2026-11-20T17:09:11Z | `TW_WimpyInventiveSardine4Head-d5wVgP3M5M1keCzF_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-21T05:06:18Z | 🎥 @zarbex (de->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T17:38:11Z | `TW_AverageToughFiddleheadsSSSsss-B11QWvo93xej1jKX_ES` | Historia / Reacciones | instagram | scheduled @2026-11-21T05:16:27Z | 🎥 @kr1stw (zh->ES) | Spoiler: 0% (Verificado)
+- 2026-11-20T17:38:13Z | `TW_AverageToughFiddleheadsSSSsss-B11QWvo93xej1jKX_EN` | Historia / Reacciones | instagram | scheduled @2026-11-21T05:36:18Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)

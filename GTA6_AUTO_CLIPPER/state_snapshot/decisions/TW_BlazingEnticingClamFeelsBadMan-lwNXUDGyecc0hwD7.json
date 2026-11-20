@@ -1,0 +1,65 @@
+{
+ "id": "TW_BlazingEnticingClamFeelsBadMan-lwNXUDGyecc0hwD7",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "persecución con buen remate",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  40.0,
+  60.0
+ ],
+ "hook": {
+  "ES": "Huyó en una PATRULLA robada en GTA 6… y se llevó el control policial por delante 🚓💥",
+  "EN": "Escaped in a stolen COP CAR in GTA 6… and plowed through the roadblock 🚓💥"
+ },
+ "subs": [
+  {
+   "start": 47.81,
+   "end": 49.71,
+   "ES": "¿Qué culpa tengo yo, eh?",
+   "EN": "How is any of this my fault?"
+  },
+  {
+   "start": 52.64,
+   "end": 54.06,
+   "ES": "¡Ay no! ¡¿Y eso?!",
+   "EN": "Oh no! What was that?!"
+  },
+  {
+   "start": 54.68,
+   "end": 56.1,
+   "ES": "¿Sigue vivo?",
+   "EN": "Is it still alive?"
+  },
+  {
+   "start": 56.46,
+   "end": 57.6,
+   "ES": "Nah, está como nuevo 😂",
+   "EN": "Nah, it's totally fine 😂"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Patrulla robada vs. control policial 🚓💥",
+   "caption": "Tres estrellas, un helicóptero encima… y la patrulla aguantó TODO. ¿Tú hubieras frenado? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Persecucion"
+   ]
+  },
+  "EN": {
+   "title": "Stolen cop car vs. roadblock 🚓💥",
+   "caption": "Three stars, a chopper overhead… and the cop car survived EVERYTHING. Would you have stopped? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "PoliceChase"
+   ]
+  }
+ }
+}

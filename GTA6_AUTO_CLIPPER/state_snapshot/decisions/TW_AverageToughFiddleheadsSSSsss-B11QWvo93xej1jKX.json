@@ -1,0 +1,71 @@
+{
+ "id": "TW_AverageToughFiddleheadsSSSsss-B11QWvo93xej1jKX",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "reacción a fallo en misión",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  0.0,
+  28.5
+ ],
+ "hook": {
+  "ES": "Todo iba bien en la misión de GTA 6… hasta que apareció la pantalla de MUERTE 💀",
+  "EN": "The GTA 6 mission was going fine… until the DEATH screen showed up 💀"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.7,
+   "ES": "¿No vas a hacer nada? ¿¡Nada!?",
+   "EN": "You're not gonna do anything?!"
+  },
+  {
+   "start": 2.7,
+   "end": 4.36,
+   "ES": "¡No manches! Ellos…",
+   "EN": "No way! They…"
+  },
+  {
+   "start": 6.47,
+   "end": 9.69,
+   "ES": "¡Ay no! ¡Y encima hay sicarios!",
+   "EN": "Oh no! And there are hitmen too!"
+  },
+  {
+   "start": 25.87,
+   "end": 27.05,
+   "ES": "OK… final perfecto",
+   "EN": "OK… perfect ending"
+  },
+  {
+   "start": 27.55,
+   "end": 28.3,
+   "ES": "Fin de la clase 🫡",
+   "EN": "Class dismissed 🫡"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "«Final perfecto» en GTA 6 💀",
+   "caption": "Cuando la misión se complica en un segundo… ¿te pasó también? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Historia"
+   ]
+  },
+  "EN": {
+   "title": "\"Perfect ending\" in GTA 6 💀",
+   "caption": "When the mission goes sideways in one second… happened to you too? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}
