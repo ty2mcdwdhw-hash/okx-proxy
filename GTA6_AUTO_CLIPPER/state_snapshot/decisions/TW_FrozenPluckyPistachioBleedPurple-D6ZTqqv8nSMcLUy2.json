@@ -1,0 +1,72 @@
+{
+ "id": "TW_FrozenPluckyPistachioBleedPurple-D6ZTqqv8nSMcLUy2",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "escalada a la antena más alta, vistas y caída",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  3.5,
+  32.5
+ ],
+ "hook": {
+  "ES": "Subió a lo más alto de GTA 6 sin paracaídas… 🗼💀",
+  "EN": "Climbed to the top of GTA 6 with no parachute… 🗼💀"
+ },
+ "subs": [
+  {
+   "start": 4.1,
+   "end": 5.8,
+   "ES": "Me está sangrando la nariz aquí arriba",
+   "EN": "I'm getting a nosebleed up here"
+  },
+  {
+   "start": 8.9,
+   "end": 10.3,
+   "ES": "Sí, no tengo paracaídas",
+   "EN": "Yeah, I don't have a parachute"
+  },
+  {
+   "start": 10.4,
+   "end": 12.9,
+   "ES": "Ah, espera, ahí hay un punto para saltar",
+   "EN": "Oh wait, that's a little jumping-off point"
+  },
+  {
+   "start": 22.0,
+   "end": 23.2,
+   "ES": "Ahora hay que llegar a la cima",
+   "EN": "Now we have to go to the top"
+  },
+  {
+   "start": 25.7,
+   "end": 26.4,
+   "ES": "¿Y eso es…?",
+   "EN": "Now is that…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Las vistas desde lo más alto de GTA 6 🗼",
+   "caption": "Escaló la antena más alta del mapa… las vistas valen la pena, la bajada no tanto 💀🌆",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Map"
+   ]
+  },
+  "EN": {
+   "title": "The view from the top of GTA 6 🗼",
+   "caption": "Climbed the tallest tower on the map… the view was worth it, the way down not so much 💀🌆",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Map"
+   ]
+  }
+ }
+}

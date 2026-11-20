@@ -1,0 +1,84 @@
+{
+ "id": "TW_DiligentTolerantSnoodTriHard-Ss7oZi6YP7-0Sbej",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "escape del depósito con grúa y policía",
+ "pillar": "Trucos y Mecánicas (Autos)",
+ "trim": [
+  14.0,
+  44.0
+ ],
+ "hook": {
+  "ES": "Se escapó del depósito… ¡con la grúa y el auto encima! 🚛😂",
+  "EN": "Escaped the impound… with the TOW TRUCK and the car on it! 🚛😂"
+ },
+ "subs": [
+  {
+   "start": 16.3,
+   "end": 18.1,
+   "ES": "¡Au! ¡Au!",
+   "EN": "Ow! Ow!"
+  },
+  {
+   "start": 22.4,
+   "end": 24.6,
+   "ES": "Me da que mejor me subo a este [[maldito]] camión",
+   "EN": "I get the vibe I should just hop in this [[fucking]] car"
+  },
+  {
+   "start": 25.3,
+   "end": 27.1,
+   "ES": "¡Para! ¡Que te llevas la mercancía!",
+   "EN": "Stop! You're gonna get the stuff!"
+  },
+  {
+   "start": 27.6,
+   "end": 28.4,
+   "ES": "¡Chau a todos!",
+   "EN": "Bye, y'all!"
+  }
+ ],
+ "bleep": [
+  [
+   23.94,
+   24.36
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.83,
+    0.0,
+    0.17,
+    0.32
+   ],
+   "start": 14.0,
+   "end": 44.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Robo con grúa en GTA 6 🚛",
+   "caption": "¿Para qué buscar las llaves si puedes llevarte el auto con grúa y todo? 😂🚓",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  },
+  "EN": {
+   "title": "Tow truck heist in GTA 6 🚛",
+   "caption": "Why look for keys when you can take the car, tow truck and all? 😂🚓",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

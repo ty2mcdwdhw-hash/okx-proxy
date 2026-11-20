@@ -1,0 +1,72 @@
+{
+ "id": "TW_DeterminedEnticingPuddingMVGame-0RgHXjY3dUZLhLDU",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "aparece la policía en el peor momento, reacción",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  10.0,
+  29.5
+ ],
+ "hook": {
+  "ES": "Estaba a punto de lograrlo… y apareció la POLICÍA 🚓😳",
+  "EN": "They were about to pull it off… then the COPS showed up 🚓😳"
+ },
+ "subs": [
+  {
+   "start": 18.3,
+   "end": 21.5,
+   "ES": "No puede ser que pase la poli justo ahora, tío",
+   "EN": "No way the cops pass by right now, man"
+  },
+  {
+   "start": 21.7,
+   "end": 22.6,
+   "ES": "No puede ser, eh",
+   "EN": "No way, huh"
+  },
+  {
+   "start": 23.4,
+   "end": 26.1,
+   "ES": "No puede ser que justo haya una patrulla ahí",
+   "EN": "No way there's a cop car right there"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.79,
+    0.6,
+    0.13
+   ],
+   "start": 13.0,
+   "end": 23.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La poli en el peor momento 🚓",
+   "caption": "Tenía todo bajo control… hasta que pasó la patrulla 😂 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  },
+  "EN": {
+   "title": "Cops at the worst possible time 🚓",
+   "caption": "Had everything under control… until the patrol rolled by 😂 Ever happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}
