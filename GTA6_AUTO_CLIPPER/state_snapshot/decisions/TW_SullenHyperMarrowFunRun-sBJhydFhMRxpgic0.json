@@ -1,0 +1,84 @@
+{
+ "id": "TW_SullenHyperMarrowFunRun-sBJhydFhMRxpgic0",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "choque en moto con física exagerada, reacción fuerte",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  6.5,
+  30.0
+ ],
+ "priority": false,
+ "hook": {
+  "ES": "Caballito en GTA 6 directo contra una camioneta… y SOBREVIVIÓ 🏍️💥",
+  "EN": "Wheelie in GTA 6 straight into a van… and SURVIVED 🏍️💥"
+ },
+ "subs": [
+  {
+   "start": 7.9,
+   "end": 11.72,
+   "ES": "Eso es justo lo que necesitamos ahora… a hacer caballito",
+   "EN": "That's exactly what we need right now… wheelie time"
+  },
+  {
+   "start": 12.06,
+   "end": 15.52,
+   "ES": "¿Puedo mejorar esta moto?",
+   "EN": "Can I upgrade this bike?"
+  },
+  {
+   "start": 16.48,
+   "end": 19.4,
+   "ES": "Dios, puedo hacer un [[puto]] caballito hasta matarme",
+   "EN": "Oh my god, I could [[fucking]] wheelie until I fall to my death"
+  },
+  {
+   "start": 26.63,
+   "end": 29.6,
+   "ES": "¡No puede ser que sobreviviera a eso! ¡Dios mío!",
+   "EN": "No way I survived that! Oh my god!"
+  }
+ ],
+ "bleep": [
+  [
+   17.38,
+   17.82
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.85,
+    0.44,
+    0.12
+   ],
+   "start": 16.3,
+   "end": 19.7
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El caballito más caro de GTA 6 🏍️",
+   "caption": "Iba perfecto con el caballito… hasta que apareció la camioneta. ¿Cómo sigue vivo? 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Motos"
+   ]
+  },
+  "EN": {
+   "title": "The most expensive wheelie in GTA 6 🏍️",
+   "caption": "The wheelie was going perfectly… until the van showed up. How are they still alive? 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Bikes"
+   ]
+  }
+ }
+}

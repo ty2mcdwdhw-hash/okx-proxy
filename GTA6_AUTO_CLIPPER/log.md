@@ -630,3 +630,5 @@
 - 2026-11-20T17:38:11Z | `TW_AverageToughFiddleheadsSSSsss-B11QWvo93xej1jKX_ES` | Historia / Reacciones | instagram | scheduled @2026-11-21T05:16:27Z | 🎥 @kr1stw (zh->ES) | Spoiler: 0% (Verificado)
 - 2026-11-20T17:38:13Z | `TW_AverageToughFiddleheadsSSSsss-B11QWvo93xej1jKX_EN` | Historia / Reacciones | instagram | scheduled @2026-11-21T05:36:18Z | 🎥 @kr1stw (zh->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T18:07:59Z | `TW_RelievedAuspiciousTrayWholeWheat-5KgCQhyZUoE3ZeNq_EN` | NPCs / Detalles | instagram | scheduled @2026-11-21T06:06:18Z | 🎥 @joe_bartolozzi (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T18:37:40Z | `TW_SullenHyperMarrowFunRun-sBJhydFhMRxpgic0_ES` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-21T06:16:27Z | 🎥 @joe_bartolozzi (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-20T18:37:44Z | `TW_SullenHyperMarrowFunRun-sBJhydFhMRxpgic0_EN` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-21T06:36:18Z | 🎥 @joe_bartolozzi (en->EN) | Spoiler: 0% (Verificado)

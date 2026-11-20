@@ -1,0 +1,100 @@
+{
+ "id": "TW_HotPleasantEggnogBCouch-50u9uOWv3yg2XMxl",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "detalle de daños realista, reacción fuerte",
+ "pillar": "Autos y tuning / Mecánicas",
+ "trim": [
+  2.0,
+  27.8
+ ],
+ "priority": false,
+ "hook": {
+  "ES": "Las balas fallaron al robar el BMW en GTA 6… pero el auto NO lo olvidó 🔥💥",
+  "EN": "The bullets missed everyone when they jacked the BMW in GTA 6… but the car didn't forget 🔥💥"
+ },
+ "subs": [
+  {
+   "start": 2.06,
+   "end": 3.6,
+   "ES": "Un BMW",
+   "EN": "A BMW"
+  },
+  {
+   "start": 9.68,
+   "end": 11.04,
+   "ES": "Sí, el BMW está precioso",
+   "EN": "Yeah, the BMW looks sick"
+  },
+  {
+   "start": 11.04,
+   "end": 12.92,
+   "ES": "Ey, ¿por qué se te levanta el capó?",
+   "EN": "Yo, why is your hood flying up?"
+  },
+  {
+   "start": 13.76,
+   "end": 14.9,
+   "ES": "¿Cómo puede ser?",
+   "EN": "How is that possible?"
+  },
+  {
+   "start": 15.22,
+   "end": 17.2,
+   "ES": "¡Tu auto se está incendiando!",
+   "EN": "Your car's on fire!"
+  },
+  {
+   "start": 20.28,
+   "end": 23.14,
+   "ES": "[[Mierda]], ya sé: cuando robaste el auto las balas no le dieron a nadie",
+   "EN": "[[Fuck]], I get it: when you jacked it, the bullets missed everyone"
+  },
+  {
+   "start": 23.14,
+   "end": 24.6,
+   "ES": "…le dieron al auto",
+   "EN": "…they hit the car"
+  },
+  {
+   "start": 25.56,
+   "end": 27.6,
+   "ES": "[[Mierda]], ¿GTA es así de realista?",
+   "EN": "[[Fuck]], is GTA really this realistic?"
+  }
+ ],
+ "bleep": [
+  [
+   20.18,
+   20.74
+  ],
+  [
+   25.46,
+   26.02
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "El BMW guardó las balas para después 🔥",
+   "caption": "Robó el auto a tiros… y el daño se notó minutos después. ¿GTA 6 es demasiado realista? 🤯",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "The BMW saved those bullets for later 🔥",
+   "caption": "Jacked the car under fire… and the damage showed up minutes later. Is GTA 6 too realistic? 🤯",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}
