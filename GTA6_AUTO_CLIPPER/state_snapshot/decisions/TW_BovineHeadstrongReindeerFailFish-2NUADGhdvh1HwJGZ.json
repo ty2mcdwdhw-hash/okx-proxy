@@ -1,0 +1,53 @@
+{
+ "id": "TW_BovineHeadstrongReindeerFailFish-2NUADGhdvh1HwJGZ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "usa el móvil en el semáforo y casi atropella a alguien",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0.0,
+  20.3
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes mirar el CELULAR manejando… mala idea 📱🚗💀",
+  "EN": "In GTA 6 you can scroll your PHONE while driving… bad idea 📱🚗💀"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 3.34,
+   "ES": "Ni en rojo puedo mirar el celular en un semáforo",
+   "EN": "I can't even check my phone at a red light"
+  },
+  {
+   "start": 10.22,
+   "end": 12.74,
+   "ES": "¡Uy! Suelta el celular",
+   "EN": "Whoa! Get off the phone"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Manejar mirando el celular en GTA 6 📱",
+   "caption": "El móvil de GTA 6 tiene su propia red social… pero mirarlo al volante sale caro 😳 ¿Tú también lo harías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mecanicas"
+   ]
+  },
+  "EN": {
+   "title": "Scrolling while driving in GTA 6 📱",
+   "caption": "GTA 6's phone has its own social feed… but checking it behind the wheel costs you 😳 Would you risk it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mechanics"
+   ]
+  }
+ }
+}

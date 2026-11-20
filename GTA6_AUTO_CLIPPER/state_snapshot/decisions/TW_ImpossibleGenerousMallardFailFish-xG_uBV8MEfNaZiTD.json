@@ -1,0 +1,59 @@
+{
+ "id": "TW_ImpossibleGenerousMallardFailFish-xG_uBV8MEfNaZiTD",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "caballito sin manos en cuatrimoto termina en caída",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  9.0,
+  29.5
+ ],
+ "hook": {
+  "ES": "Caballito SIN MANOS en cuatrimoto en GTA 6… 🏍️🙌💀",
+  "EN": "No-hands wheelie on a quad in GTA 6… 🏍️🙌💀"
+ },
+ "subs": [
+  {
+   "start": 9.56,
+   "end": 11.58,
+   "ES": "Debí robarme esa camioneta, ¿eh?",
+   "EN": "Should've stolen that truck, huh?"
+  },
+  {
+   "start": 18.15,
+   "end": 19.29,
+   "ES": "¿Lo hizo sin manos?",
+   "EN": "No hands?"
+  },
+  {
+   "start": 19.99,
+   "end": 20.85,
+   "ES": "Uy… se cayó",
+   "EN": "Oh… they fell off"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Sin manos en GTA 6 🙌",
+   "caption": "Las físicas de las motos en GTA 6 no perdonan: caballito sin manos y… ya sabes cómo termina 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "No hands in GTA 6 🙌",
+   "caption": "GTA 6 bike physics show no mercy: a no-hands wheelie and… you know how it ends 💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

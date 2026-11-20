@@ -1,0 +1,65 @@
+{
+ "id": "TW_AverageUnusualLorisCeilingCat-xKchRQhI9RvX4Hik",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "encuentra una vaca disfrazada en el campo",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  4.0,
+  29.5
+ ],
+ "hook": {
+  "ES": "En GTA 6 te puedes encontrar una vaca… DISFRAZADA 🐄🌹",
+  "EN": "In GTA 6 you can find a cow… in a COSTUME 🐄🌹"
+ },
+ "subs": [
+  {
+   "start": 5.87,
+   "end": 10.23,
+   "ES": "Tranquila, todo bien, todo está bien",
+   "EN": "Easy, we're good, everything's good"
+  },
+  {
+   "start": 16.46,
+   "end": 19.66,
+   "ES": "Eso no estuvo tan mal",
+   "EN": "That wasn't so bad"
+  },
+  {
+   "start": 21.86,
+   "end": 24.38,
+   "ES": "¡Estás toda arreglada!",
+   "EN": "You're all dressed up!"
+  },
+  {
+   "start": 26.32,
+   "end": 27.66,
+   "ES": "Qué tierna 🥹",
+   "EN": "That's so cute 🥹"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La vaca más elegante de GTA 6 🐄",
+   "caption": "Los detalles de GTA 6 no tienen fin: hasta las vacas van con flores y capa 🌹 ¿La acariciarías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Detalles"
+   ]
+  },
+  "EN": {
+   "title": "The fanciest cow in GTA 6 🐄",
+   "caption": "GTA 6 details never end: even the cows wear flowers and a cape 🌹 Would you pet it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Details"
+   ]
+  }
+ }
+}
