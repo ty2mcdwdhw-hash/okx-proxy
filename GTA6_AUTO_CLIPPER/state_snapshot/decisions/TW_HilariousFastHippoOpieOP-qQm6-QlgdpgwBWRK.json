@@ -1,0 +1,53 @@
+{
+ "id": "TW_HilariousFastHippoOpieOP-qQm6-QlgdpgwBWRK",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "persecución con patrulla robada, rompe el bloqueo y da una voltereta",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  10.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "Se robó la patrulla del sheriff… y así esquivó el bloqueo 🚓🤸",
+  "EN": "Stole the sheriff's car… and dodged the roadblock like THIS 🚓🤸"
+ },
+ "subs": [],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.46,
+    0.22,
+    0.2
+   ],
+   "start": 10.0,
+   "end": 30.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La voltereta más loca de GTA 6 🚓",
+   "caption": "5 estrellas, patrulla robada y un bloqueo enfrente… la física de GTA 6 hizo el resto 🤸💥 ¿Te la esperabas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6's wildest front flip 🚓",
+   "caption": "5 stars, a stolen cop car and a roadblock ahead… GTA 6's physics did the rest 🤸💥 Saw that coming?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

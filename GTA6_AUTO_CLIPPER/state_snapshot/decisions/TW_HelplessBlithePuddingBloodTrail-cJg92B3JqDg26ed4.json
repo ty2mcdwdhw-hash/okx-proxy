@@ -1,0 +1,60 @@
+{
+ "id": "TW_HelplessBlithePuddingBloodTrail-cJg92B3JqDg26ed4",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "reacción en carrera de misión",
+ "pillar": "Reacciones / Historia",
+ "trim": [
+  3.0,
+  21.5
+ ],
+ "hook": {
+  "ES": "Su auto echaba humo… pero el rival NO lo podía pasar 🏁🤔",
+  "EN": "Their car was smoking… but the rival STILL couldn't pass 🏁🤔"
+ },
+ "subs": [
+  {
+   "start": 7.6,
+   "end": 10.0,
+   "ES": "Ese auto está muerto, no puede correr más",
+   "EN": "That car is dead, it can't go any faster"
+  },
+  {
+   "start": 11.2,
+   "end": 14.0,
+   "ES": "¡Está scripteado!",
+   "EN": "It's scripted!"
+  },
+  {
+   "start": 14.0,
+   "end": 16.3,
+   "ES": "Chicos, está echando humo",
+   "EN": "Chat, it's smoking"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "¿Las carreras de GTA 6 están scripteadas? 🏁",
+   "caption": "Full nitro y aun así no lo pasaba… ¿scripteado o skill issue? 🤔🔥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  },
+  "EN": {
+   "title": "Are GTA 6 races scripted? 🏁",
+   "caption": "Full nitro and still couldn't pass… scripted or skill issue? 🤔🔥",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  }
+ }
+}
