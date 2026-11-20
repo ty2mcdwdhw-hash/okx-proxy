@@ -1,0 +1,60 @@
+{
+ "id": "TW_LivelyArtsyRadicchioWow-6cp1tSfkAnp_-Myc",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "transición cinemática a gameplay muy vistosa",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  0.0,
+  20.9
+ ],
+ "hook": {
+  "ES": "La transición de cinemática a gameplay de GTA 6 es DE OTRO NIVEL 🎬🔥",
+  "EN": "GTA 6's cutscene-to-gameplay transition is ON ANOTHER LEVEL 🎬🔥"
+ },
+ "subs": [
+  {
+   "start": 7.71,
+   "end": 10.05,
+   "ES": "Eso fue una transición bien chida",
+   "EN": "That was a really cool transition"
+  },
+  {
+   "start": 11.09,
+   "end": 12.09,
+   "ES": "¿Qué [[carajo]]?",
+   "EN": "What the [[fuck]]?"
+  }
+ ],
+ "bleep": [
+  [
+   11.6,
+   12.1
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Transición de 10 en GTA 6 🎬",
+   "caption": "Sin cortes, sin pantallas de carga: de la cinemática al volante en un segundo 🔥 Rockstar no juega.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "S-tier transition in GTA 6 🎬",
+   "caption": "No cuts, no loading screens: from cutscene to behind the wheel in a second 🔥 Rockstar isn't playing.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  }
+ }
+}

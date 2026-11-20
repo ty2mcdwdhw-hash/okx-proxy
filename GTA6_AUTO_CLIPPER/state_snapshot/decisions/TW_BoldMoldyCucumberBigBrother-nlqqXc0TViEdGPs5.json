@@ -1,0 +1,78 @@
+{
+ "id": "TW_BoldMoldyCucumberBigBrother-nlqqXc0TViEdGPs5",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "fallo épico pilotando, reacción fuerte",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  4.0,
+  29.5
+ ],
+ "hook": {
+  "ES": "Solo volteó un segundo… y la avioneta terminó así ✈️💀",
+  "EN": "Looked back for ONE second… and the plane ended like this ✈️💀"
+ },
+ "subs": [
+  {
+   "start": 9.05,
+   "end": 12.79,
+   "ES": "¡Ya te la rizó, gente! ¡Ya te la rizó!",
+   "EN": "It's over, chat! It's so over!"
+  },
+  {
+   "start": 20.68,
+   "end": 21.9,
+   "ES": "¡Ay, no manches!",
+   "EN": "Oh no way!"
+  },
+  {
+   "start": 22.18,
+   "end": 23.96,
+   "ES": "¡Todo por voltear para atrás, a la [[chingada]]!",
+   "EN": "All 'cause I looked back, [[dammit]]!"
+  },
+  {
+   "start": 24.02,
+   "end": 25.32,
+   "ES": "¿Qué tenía que andar volteando?",
+   "EN": "Why did I even look back?"
+  },
+  {
+   "start": 26.14,
+   "end": 27.02,
+   "ES": "¡Estoy al revés! ¡Estoy al revés!",
+   "EN": "I'm upside down! I'm upside down!"
+  }
+ ],
+ "bleep": [
+  [
+   23.56,
+   24.05
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Nunca voltees mientras pilotas en GTA 6 ✈️",
+   "caption": "Un segundo de distracción en el aire y… FALLASTE 💀 ¿Cuántas veces te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Never look back while flying in GTA 6 ✈️",
+   "caption": "One second of distraction in the air and… WASTED-level fail 💀 How many times has this happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
