@@ -1,0 +1,65 @@
+{
+ "id": "TW_StrongAmorphousCakeBigBrother-Z0Yo5zLQd2dBxDt6",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "reason": "física de choque/vuelco, reacción",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  1.0,
+  21.0
+ ],
+ "hook": {
+  "ES": "Usó la montaña de grava como RAMPA en GTA 6… y el auto terminó al revés 🚗🙃",
+  "EN": "Used the gravel pile as a RAMP in GTA 6… and the car ended up upside down 🚗🙃"
+ },
+ "subs": [
+  {
+   "start": 9.41,
+   "end": 10.31,
+   "ES": "Ah, ¿qué [[carajo]]?",
+   "EN": "Ah, what the [[f***]]?"
+  },
+  {
+   "start": 15.66,
+   "end": 17.18,
+   "ES": "Permiso, Jason, sal de ahí",
+   "EN": "Excuse me, Jason, get out of there"
+  },
+  {
+   "start": 19.16,
+   "end": 20.52,
+   "ES": "Ah, te dije que salieras de ahí",
+   "EN": "Ah, I told you to get out of there"
+  }
+ ],
+ "bleep": [
+  [
+   9.77,
+   10.25
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "La rampa de grava de GTA 6 🙃",
+   "caption": "Vio una montaña de grava en GTA 6 y pensó que era buena idea 🚗💨 Spoiler: no lo era 🙃",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "FisicasGTA"
+   ]
+  },
+  "EN": {
+   "title": "The GTA 6 gravel ramp 🙃",
+   "caption": "Saw a gravel pile in GTA 6 and thought it was a good idea 🚗💨 It was not 🙃",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTAPhysics"
+   ]
+  }
+ }
+}

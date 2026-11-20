@@ -1,0 +1,59 @@
+{
+ "id": "TW_DignifiedAggressiveZebraCoolStoryBro-Jx6dSpRu2uUcadeI",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "detalle de NPC/animal adorable, streamer hispano",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  0.3,
+  13.3
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes ACARICIAR al gato de la tienda… y se pone panza arriba 🐱😍",
+  "EN": "In GTA 6 you can PET the store cat… and it rolls over 🐱😍"
+ },
+ "subs": [
+  {
+   "start": 1.38,
+   "end": 2.3,
+   "ES": "¡Mira, mira, mira!",
+   "EN": "Look, look, look!"
+  },
+  {
+   "start": 4.44,
+   "end": 5.44,
+   "ES": "Se pone panza arriba",
+   "EN": "It's rolling onto its back"
+  },
+  {
+   "start": 10.66,
+   "end": 12.36,
+   "ES": "Uy, de una, no hace falta ni…",
+   "EN": "Whoa, just like that, no need to…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El gato de la tienda en GTA 6 🐱",
+   "caption": "Entró a la tienda en GTA 6 y lo primero fue acariciar al gato 😍 ¿Lo adoptarías? 🐱",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GatosGamer"
+   ]
+  },
+  "EN": {
+   "title": "The store cat in GTA 6 🐱",
+   "caption": "Walked into the store in GTA 6 and went straight to pet the cat 😍 Would you adopt it? 🐱",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GamingCats"
+   ]
+  }
+ }
+}
