@@ -1,0 +1,78 @@
+{
+ "id": "TW_RoughDullToadPogChamp-1C2egSF8kjNsYsOX",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "error gracioso con persecución policial",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.8,
+  26.0
+ ],
+ "hook": {
+  "ES": "Se llevó el auto EQUIVOCADO en GTA 6… −1000 de aura 🚗😭",
+  "EN": "Took the WRONG car in GTA 6… −1000 aura 🚗😭"
+ },
+ "subs": [
+  {
+   "start": 1.1,
+   "end": 5.8,
+   "ES": "Chicos, acabo de hacer un −1000 de aura: me llevé el coche que no era",
+   "EN": "Chat, I just pulled a −1000 aura move: took the wrong car"
+  },
+  {
+   "start": 11.9,
+   "end": 12.4,
+   "ES": "¡Qué vergüenza!",
+   "EN": "So embarrassing!"
+  },
+  {
+   "start": 12.9,
+   "end": 13.6,
+   "ES": "Parece que viene la poli",
+   "EN": "Looks like the cops are coming"
+  },
+  {
+   "start": 14.2,
+   "end": 15.4,
+   "ES": "Bueno, bueno, bueno…",
+   "EN": "Okay, okay, okay…"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.84,
+    0.5,
+    0.14
+   ],
+   "start": 0.8,
+   "end": 26.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El robo con menos aura de GTA 6 😭",
+   "caption": "Tenía UN trabajo… y se llevó el auto equivocado 🚗😭 Y encima llegó la policía 🚓 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  },
+  "EN": {
+   "title": "The lowest-aura heist in GTA 6 😭",
+   "caption": "Had ONE job… and took the wrong car 🚗😭 Then the cops showed up 🚓 Ever done this?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}

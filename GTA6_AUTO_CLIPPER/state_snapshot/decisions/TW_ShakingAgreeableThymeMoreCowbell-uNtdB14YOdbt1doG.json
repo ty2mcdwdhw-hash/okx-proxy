@@ -1,0 +1,60 @@
+{
+ "id": "TW_ShakingAgreeableThymeMoreCowbell-uNtdB14YOdbt1doG",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "evento misterioso de mapa con reacción",
+ "pillar": "Misterios / Easter eggs",
+ "trim": [
+  0.0,
+  29.0
+ ],
+ "hook": {
+  "ES": "Tocó un árbol raro en GTA 6… y algo PELUDO pasó a su lado 🦶😱",
+  "EN": "Touched a weird tree in GTA 6… and something HAIRY walked right past 🦶😱"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 1.5,
+   "ES": "¿Eeeh? ¿Qué es esto?",
+   "EN": "Huh? What is this?"
+  },
+  {
+   "start": 5.6,
+   "end": 6.3,
+   "ES": "¿Eh?",
+   "EN": "Huh?"
+  },
+  {
+   "start": 22.1,
+   "end": 23.0,
+   "ES": "¡Uaa! ¿Qué?",
+   "EN": "Whoa! What?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "¿Bigfoot en GTA 6? 🦶",
+   "caption": "Un árbol extraño en el pantano, un desmayo… y unas patas PELUDAS pasando al lado 😱 ¿Easter egg de Bigfoot? Comenta tu teoría 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Bigfoot"
+   ]
+  },
+  "EN": {
+   "title": "Bigfoot in GTA 6? 🦶",
+   "caption": "A strange tree in the swamp, a blackout… and HAIRY legs walking past 😱 Bigfoot easter egg? Drop your theory 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Bigfoot"
+   ]
+  }
+ }
+}
