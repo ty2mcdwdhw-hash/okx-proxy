@@ -1,0 +1,71 @@
+{
+ "id": "TW_SneakyCleanGaurOSfrog-dsjF81k_9f2Ny3-Y",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "reason": "choque a alta velocidad, reacción fuerte, streamer hispano",
+ "trim": [
+  2.9,
+  24.0
+ ],
+ "hook": {
+  "ES": "Iba a fondo con el deportivo robado en GTA 6… y la autopista tenía otros planes 🏎️💥",
+  "EN": "Flooring the stolen supercar in GTA 6… the highway had other plans 🏎️💥"
+ },
+ "subs": [
+  {
+   "start": 2.98,
+   "end": 6.98,
+   "ES": "Es el coche rojo que robamos ayer, ¿no?",
+   "EN": "It's the red car we stole yesterday, right?"
+  },
+  {
+   "start": 8.16,
+   "end": 8.48,
+   "ES": "¡Vamos!",
+   "EN": "Let's go!"
+  },
+  {
+   "start": 10.92,
+   "end": 11.8,
+   "ES": "¡Cómo corre este coche!",
+   "EN": "This car is SO fast!"
+  },
+  {
+   "start": 16.24,
+   "end": 16.8,
+   "ES": "¡Hostia [[puta]]!",
+   "EN": "Holy [[shit]]!"
+  }
+ ],
+ "bleep": [
+  [
+   16.46,
+   16.9
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "El deportivo duró 10 segundos en GTA 6",
+   "caption": "De 0 a chatarra en un parpadeo 🏎️💥 ¿Tú frenabas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "The supercar lasted 10 seconds in GTA 6",
+   "caption": "From 0 to scrap in a blink 🏎️💥 Would you have braked?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

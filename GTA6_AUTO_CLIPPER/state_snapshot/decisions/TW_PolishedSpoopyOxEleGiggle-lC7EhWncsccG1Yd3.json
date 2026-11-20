@@ -1,0 +1,48 @@
+{
+ "id": "TW_PolishedSpoopyOxEleGiggle-lC7EhWncsccG1Yd3",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "pillar": "Físicas / Momentos divertidos",
+ "reason": "fail físico viral, muerte inesperada",
+ "trim": [
+  0.0,
+  11.0
+ ],
+ "hook": {
+  "ES": "Pasó caminando junto a la avioneta en GTA 6… y la HÉLICE estaba encendida ✈️💀",
+  "EN": "Walked past the plane in GTA 6… and the PROPELLER was still spinning ✈️💀"
+ },
+ "subs": [
+  {
+   "start": 7.1,
+   "end": 10.8,
+   "ES": "Bueno… eso fue rápido 😅",
+   "EN": "Well… that was quick 😅"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Nunca camines cerca de una hélice en GTA 6",
+   "caption": "Un paso de más y… WASTED ✈️💀 ¿Te habría pasado a ti?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Never walk near a propeller in GTA 6",
+   "caption": "One step too far and… WASTED ✈️💀 Would you have made it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "TW_SmoothSparklingAlmondPanicVis-IgHQMT0JTMYw0_n0",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "pillar": "Momentos divertidos / Policía",
+ "reason": "tiroteo con la policía, reacción fuerte",
+ "trim": [
+  16.0,
+  40.0
+ ],
+ "hook": {
+  "ES": "Se atrincheró contra TODA la policía de GTA 6… aguantó más de lo que crees 🚓🔥",
+  "EN": "Took on the ENTIRE police force in GTA 6… lasted longer than you'd think 🚓🔥"
+ },
+ "subs": [
+  {
+   "start": 18.86,
+   "end": 21.74,
+   "ES": "Esto se está poniendo feo…",
+   "EN": "This is getting bad…"
+  },
+  {
+   "start": 33.06,
+   "end": 34.22,
+   "ES": "¡Idiota!",
+   "EN": "Idiot!"
+  },
+  {
+   "start": 36.02,
+   "end": 37.0,
+   "ES": "¡Idiota!",
+   "EN": "Idiot!"
+  },
+  {
+   "start": 37.0,
+   "end": 39.5,
+   "ES": "¡AAAAAAH!",
+   "EN": "AAAAAAH!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Último en pie contra la policía en GTA 6",
+   "caption": "5 estrellas y cero intención de rendirse 🚓🔥 ¿Cuánto aguantarías tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Last stand vs the cops in GTA 6",
+   "caption": "5 stars and zero plans to surrender 🚓🔥 How long would you last?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}
