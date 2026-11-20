@@ -1,0 +1,66 @@
+{
+ "id": "TW_UgliestLazyPicklesWTRuck-qZu5ppqb0OrfrsYB",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": true,
+ "reason": "susto con animal salvaje junto al agua",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  2.0,
+  29.5
+ ],
+ "hook": {
+  "ES": "Bajó del auto junto al agua en GTA 6… y el CAIMÁN lo estaba esperando 🐊😱",
+  "EN": "Got out of the car by the water in GTA 6… and the GATOR was waiting 🐊😱"
+ },
+ "subs": [
+  {
+   "start": 3.4,
+   "end": 4.4,
+   "ES": "¡Uooo!",
+   "EN": "Woop!"
+  },
+  {
+   "start": 13.77,
+   "end": 15.2,
+   "ES": "¡Dios mío, Dios mío, Dios mío!",
+   "EN": "Oh my God, oh my God, oh my God!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.67,
+    0.2,
+    0.24,
+    0.3
+   ],
+   "start": 2.0,
+   "end": 29.5
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El susto del caimán en GTA 6 🐊",
+   "caption": "Nunca te bajes del auto cerca del agua en Leonida 🐊😱 ¿Lo viste venir?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Caiman"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 gator jumpscare 🐊",
+   "caption": "Never get out of your car near the water in Leonida 🐊😱 Did you see it coming?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gator"
+   ]
+  }
+ }
+}

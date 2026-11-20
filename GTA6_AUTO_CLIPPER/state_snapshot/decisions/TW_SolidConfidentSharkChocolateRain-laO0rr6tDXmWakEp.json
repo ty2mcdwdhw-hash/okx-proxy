@@ -1,0 +1,59 @@
+{
+ "id": "TW_SolidConfidentSharkChocolateRain-laO0rr6tDXmWakEp",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "prueba el sistema de esquivar/bloquear en pelea con NPC",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0.0,
+  21.0
+ ],
+ "hook": {
+  "ES": "Probó el sistema de ESQUIVAR en las peleas de GTA 6… y el NPC no vio venir nada 🥊😳",
+  "EN": "Tried the DODGE system in GTA 6 fistfights… and the NPC never saw it coming 🥊😳"
+ },
+ "subs": [
+  {
+   "start": 0.27,
+   "end": 2.6,
+   "ES": "Quiero ver lo de esquivar y lo de bloquear",
+   "EN": "I wanna see the dodge and block stuff"
+  },
+  {
+   "start": 11.55,
+   "end": 13.9,
+   "ES": "Listo, ahí metidito",
+   "EN": "There we go, landed it"
+  },
+  {
+   "start": 17.93,
+   "end": 19.25,
+   "ES": "Así te quiero, a dormir",
+   "EN": "That's how I like you, out cold"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Esquivar y bloquear en GTA 6 🥊",
+   "caption": "Las peleas cuerpo a cuerpo de GTA 6 ahora tienen esquiva y bloqueo 🥊 ¿Mejor que en GTA 5?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Peleas"
+   ]
+  },
+  "EN": {
+   "title": "Dodge and block in GTA 6 🥊",
+   "caption": "GTA 6 melee now has dodging and blocking 🥊 Better than GTA 5?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Combat"
+   ]
+  }
+ }
+}

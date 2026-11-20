@@ -1,0 +1,101 @@
+{
+ "id": "TW_SmoothTenaciousPieKeepo-QTrLV93F64SD_abh",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "reason": "intenta ayudar a un NPC tras un accidente y sale mal",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  3.0,
+  29.0
+ ],
+ "hook": {
+  "ES": "Intentó AYUDAR al sobreviviente del accidente en GTA 6… y lo empeoró todo 💀✈️",
+  "EN": "Tried to HELP the crash survivor in GTA 6… and made it way worse 💀✈️"
+ },
+ "subs": [
+  {
+   "start": 4.21,
+   "end": 6.39,
+   "ES": "Mira al tipo, déjame ayudarlo",
+   "EN": "Look at that guy, let me help"
+  },
+  {
+   "start": 8.19,
+   "end": 9.95,
+   "ES": "¡Bro, qué [[carajo]]!",
+   "EN": "Bro, what the [[hell]]!"
+  },
+  {
+   "start": 9.99,
+   "end": 11.65,
+   "ES": "Ay bro, perdón, viejo",
+   "EN": "Oh man, sorry dude"
+  },
+  {
+   "start": 15.25,
+   "end": 17.01,
+   "ES": "Perdóname",
+   "EN": "I'm so sorry"
+  },
+  {
+   "start": 17.01,
+   "end": 18.35,
+   "ES": "Lo maté",
+   "EN": "I killed them"
+  },
+  {
+   "start": 21.36,
+   "end": 22.52,
+   "ES": "No era para matarlo",
+   "EN": "That wasn't the plan"
+  },
+  {
+   "start": 23.9,
+   "end": 25.08,
+   "ES": "¡Era para ayudar!",
+   "EN": "I was trying to help!"
+  }
+ ],
+ "bleep": [
+  [
+   9.05,
+   9.75
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.74,
+    0.76,
+    0.26,
+    0.16
+   ],
+   "start": 3.0,
+   "end": 29.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Quiso ayudar en GTA 6… 💀",
+   "caption": "Buenas intenciones, pésimo resultado ✈️💀 ¿Tú lo habrías salvado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "Tried to help in GTA 6… 💀",
+   "caption": "Good intentions, terrible outcome ✈️💀 Would you have saved them?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

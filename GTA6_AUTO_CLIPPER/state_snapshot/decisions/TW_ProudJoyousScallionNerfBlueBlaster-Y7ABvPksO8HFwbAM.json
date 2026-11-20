@@ -1,0 +1,71 @@
+{
+ "id": "TW_ProudJoyousScallionNerfBlueBlaster-Y7ABvPksO8HFwbAM",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "observa fauna con prismáticos, reacción graciosa",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  0.0,
+  28.0
+ ],
+ "hook": {
+  "ES": "Sacó los prismáticos en GTA 6… y el ciervo le devolvió la MIRADA 🦌👀",
+  "EN": "Pulled out the binoculars in GTA 6… and the deer STARED back 🦌👀"
+ },
+ "subs": [
+  {
+   "start": 9.2,
+   "end": 11.42,
+   "ES": "¡[[Coño]]! ¡Hostia, hola!",
+   "EN": "Holy [[crap]]! Oh, hi!"
+  },
+  {
+   "start": 12.16,
+   "end": 14.26,
+   "ES": "La cara con la que me está mirando",
+   "EN": "The look it's giving me"
+  },
+  {
+   "start": 22.2,
+   "end": 24.0,
+   "ES": "Ay, qué guapo",
+   "EN": "Aww, so handsome"
+  },
+  {
+   "start": 24.0,
+   "end": 27.06,
+   "ES": "Estamos jugando a GTA 6… modo granja escuela",
+   "EN": "We're playing GTA 6… petting zoo mode"
+  }
+ ],
+ "bleep": [
+  [
+   9.1,
+   9.86
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "La fauna de GTA 6 con prismáticos 🦌",
+   "caption": "Tortugas, ciervos, gallinas… cada animal con su nombre y una mirada que te atraviesa 👀 ¿Cuál fue tu animal favorito?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fauna"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 wildlife through binoculars 🦌",
+   "caption": "Turtles, deer, chickens… every animal labeled, and that stare goes right through you 👀 What's your favorite animal so far?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Wildlife"
+   ]
+  }
+ }
+}
