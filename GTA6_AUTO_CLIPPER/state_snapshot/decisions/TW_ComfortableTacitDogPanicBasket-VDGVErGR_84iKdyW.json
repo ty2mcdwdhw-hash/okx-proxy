@@ -1,0 +1,75 @@
+{
+ "id": "TW_ComfortableTacitDogPanicBasket-VDGVErGR_84iKdyW",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "persecución con patrulla volcada y atascada",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.0,
+  24.0
+ ],
+ "hook": {
+  "ES": "Robó una patrulla… y terminó atascado bajo el puente 🚓😩",
+  "EN": "Stole a cop car… and got stuck under the bridge 🚓😩"
+ },
+ "subs": [
+  {
+   "start": 10.45,
+   "end": 12.91,
+   "ES": "Síganme hasta aquí abajo, hijos de [[perra]]",
+   "EN": "Follow me down here, sons of [[bitches]]"
+  },
+  {
+   "start": 16.39,
+   "end": 18.01,
+   "ES": "Sal de ahí… No me hagas esto",
+   "EN": "Come on out… Don't do this"
+  },
+  {
+   "start": 18.29,
+   "end": 19.77,
+   "ES": "Mis ruedas están [[jodidas]]",
+   "EN": "My wheels are [[fucked]] up"
+  },
+  {
+   "start": 20.03,
+   "end": 23.69,
+   "ES": "Sal de ahí… ¡Tú puedes! Sal… ¡Tú puedes!",
+   "EN": "Come on out… You got this! Come on… You got this!"
+  }
+ ],
+ "bleep": [
+  [
+   12.25,
+   13.0
+  ],
+  [
+   18.55,
+   19.0
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Escapando en patrulla en GTA 6 🚓",
+   "caption": "El plan era perfecto… hasta que el auto quedó atascado 😂🚓",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Policia"
+   ]
+  },
+  "EN": {
+   "title": "Escaping in a cop car in GTA 6 🚓",
+   "caption": "The plan was perfect… until the car got stuck 😂🚓",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "CopChase"
+   ]
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "TW_NaiveSarcasticChickpeaPastaThat-PZ_8vAeSmlG8eBEr",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "reacción fuerte de streamer hispano, sin historia",
+ "pillar": "Momentos divertidos / Lanzamiento",
+ "trim": [
+  0.0,
+  29.0
+ ],
+ "hook": {
+  "ES": "Jugó GTA 6 por horas… y NO GUARDÓ 💀",
+  "EN": "Played GTA 6 for hours… and DIDN'T SAVE 💀"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 6.66,
+   "ES": "¡No, no! ¡No guardé! ¡No guardé!",
+   "EN": "No, no! I didn't save! I didn't save!"
+  },
+  {
+   "start": 8.52,
+   "end": 10.22,
+   "ES": "No, no estoy troleando, en serio",
+   "EN": "No, I'm not trolling, for real"
+  },
+  {
+   "start": 14.66,
+   "end": 17.86,
+   "ES": "¡No, no [[mames]]! ¡No, no [[mames]]!",
+   "EN": "No, no [[fucking]] way! No, no [[fucking]] way!"
+  },
+  {
+   "start": 24.72,
+   "end": 28.66,
+   "ES": "Se tuvo que haber guardado algo, ¿no?",
+   "EN": "Something must've saved, right?"
+  }
+ ],
+ "bleep": [
+  [
+   15.46,
+   16.48
+  ],
+  [
+   16.92,
+   17.62
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "El peor error en GTA 6: no guardar 💀",
+   "caption": "Horas de partida… y el juego se cerró sin guardar 😭 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GuardaTuPartida"
+   ]
+  },
+  "EN": {
+   "title": "The worst GTA 6 mistake: not saving 💀",
+   "caption": "Hours of progress… and the game closed without saving 😭 Has this happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "AlwaysSave"
+   ]
+  }
+ }
+}
