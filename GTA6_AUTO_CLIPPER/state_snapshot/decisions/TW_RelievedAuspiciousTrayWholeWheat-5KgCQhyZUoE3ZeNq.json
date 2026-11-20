@@ -1,0 +1,59 @@
+{
+ "id": "TW_RelievedAuspiciousTrayWholeWheat-5KgCQhyZUoE3ZeNq",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "detalle de fauna interactiva",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  0.0,
+  22.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes atrapar una IGUANA en un callejón… y llevártela 🦎😂",
+  "EN": "In GTA 6 you can catch an IGUANA in an alley… and keep it 🦎😂"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.66,
+   "ES": "¡Dios mío, una iguana! ¿Puedo…?",
+   "EN": "Oh my god, an iguana! Can I…?"
+  },
+  {
+   "start": 6.24,
+   "end": 6.76,
+   "ES": "¿La puedo agarrar?",
+   "EN": "Can I pick it up?"
+  },
+  {
+   "start": 16.14,
+   "end": 17.76,
+   "ES": "Ahora tengo una iguana de mascota 🦎",
+   "EN": "I have a pet lizard now 🦎"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Iguana de mascota en GTA 6 🦎",
+   "caption": "La persiguió por todo el callejón… y ahora es de la familia 😂 ¿Qué nombre le pondrías? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Animales"
+   ]
+  },
+  "EN": {
+   "title": "Pet iguana in GTA 6 🦎",
+   "caption": "Chased it down the whole alley… and now it's family 😂 What would you name it? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Animals"
+   ]
+  }
+ }
+}

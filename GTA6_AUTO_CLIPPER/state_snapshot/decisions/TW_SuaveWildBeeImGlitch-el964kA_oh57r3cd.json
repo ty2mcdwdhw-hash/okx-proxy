@@ -1,0 +1,105 @@
+{
+ "id": "TW_SuaveWildBeeImGlitch-el964kA_oh57r3cd",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "reacción y choque con buen remate",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  6.5,
+  30.0
+ ],
+ "hook": {
+  "ES": "No podía girar a la IZQUIERDA en el hidroavión de GTA 6… el mar decidió por él ✈️🌊💀",
+  "EN": "Couldn't turn LEFT in the GTA 6 seaplane… the ocean made the call ✈️🌊💀"
+ },
+ "subs": [
+  {
+   "start": 7.43,
+   "end": 9.07,
+   "ES": "¿Y cómo giro a la izquierda?",
+   "EN": "How do I even turn left?"
+  },
+  {
+   "start": 11.85,
+   "end": 13.33,
+   "ES": "¿Qué [[carajo]] es eso de ir a la izquierda?",
+   "EN": "What the [[hell]] does 'go left' even mean?"
+  },
+  {
+   "start": 13.33,
+   "end": 14.57,
+   "ES": "Quiero ir a la izquierda…",
+   "EN": "I'm trying to go left…"
+  },
+  {
+   "start": 14.57,
+   "end": 16.17,
+   "ES": "¡Y no puedo girar!",
+   "EN": "And it won't turn!"
+  },
+  {
+   "start": 23.37,
+   "end": 25.71,
+   "ES": "¿Alguien entiende qué [[diablos]] dice?",
+   "EN": "Does anyone get what the [[heck]] it's saying?"
+  },
+  {
+   "start": 25.71,
+   "end": 28.75,
+   "ES": "Si no gira, ¿cómo voy a girar?",
+   "EN": "If it won't turn, how am I supposed to turn?"
+  },
+  {
+   "start": 29.09,
+   "end": 29.83,
+   "ES": "No, es que no puede…",
+   "EN": "No, it just can't…"
+  }
+ ],
+ "bleep": [
+  [
+   11.75,
+   12.27
+  ],
+  [
+   24.89,
+   25.49
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.22,
+    0.86,
+    0.56,
+    0.12
+   ],
+   "start": 15.0,
+   "end": 28.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Hidroavión sin izquierda ✈️💀",
+   "caption": "Cuando el avión solo gira para un lado… y abajo está el mar 🌊 ¿Tú lo salvabas? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Aviones"
+   ]
+  },
+  "EN": {
+   "title": "Seaplane with no left turn ✈️💀",
+   "caption": "When the plane only turns one way… and the ocean is right below 🌊 Could you have saved it? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Planes"
+   ]
+  }
+ }
+}
