@@ -1,0 +1,95 @@
+{
+ "id": "TW_EagerAffluentTrollAMPEnergyCherry-5Hf1AV-VQsS7CJcc",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "pillar": "Historia / Reacciones",
+ "reason": "momento de misión con reacción fuerte, foco Asia",
+ "trim": [
+  9.5,
+  39.5
+ ],
+ "hook": {
+  "ES": "La misión se le salió de control en GTA 6… y aun así siguió avanzando 😳",
+  "EN": "The mission spiraled out of control in GTA 6… and it STILL kept going 😳"
+ },
+ "subs": [
+  {
+   "start": 10.04,
+   "end": 11.86,
+   "ES": "¡Va! ¡Si así lo quieres!",
+   "EN": "Bring it! If that's how you want it!"
+  },
+  {
+   "start": 14.3,
+   "end": 15.98,
+   "ES": "¿No deberías bajar por ahí, no?",
+   "EN": "You're not supposed to go down there, right?"
+  },
+  {
+   "start": 16.16,
+   "end": 18.32,
+   "ES": "Pensándolo con lógica…",
+   "EN": "Like, logically…"
+  },
+  {
+   "start": 25.04,
+   "end": 26.46,
+   "ES": "¿¡Estás bien, Donnie!?",
+   "EN": "You okay, Donnie?!"
+  },
+  {
+   "start": 28.98,
+   "end": 29.94,
+   "ES": "Le metió algo…",
+   "EN": "They put something in…"
+  },
+  {
+   "start": 31.74,
+   "end": 32.38,
+   "ES": "¡Ay, no!",
+   "EN": "Oh no!"
+  },
+  {
+   "start": 33.62,
+   "end": 35.08,
+   "ES": "¡No te quedes mirando, ayuda!",
+   "EN": "Don't just stand there, help!"
+  },
+  {
+   "start": 36.8,
+   "end": 37.8,
+   "ES": "¡Avanzó! ¡Oye!",
+   "EN": "It moved! Hey!"
+  },
+  {
+   "start": 38.38,
+   "end": 39.32,
+   "ES": "¡Mocoso!",
+   "EN": "You brat!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Una misión de GTA 6 que se descontroló",
+   "caption": "Nada salió como lo planeó 😳 ¿Ya llegaste a esta parte?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  },
+  "EN": {
+   "title": "A GTA 6 mission that went sideways",
+   "caption": "Nothing went to plan 😳 Have you reached this part yet?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}

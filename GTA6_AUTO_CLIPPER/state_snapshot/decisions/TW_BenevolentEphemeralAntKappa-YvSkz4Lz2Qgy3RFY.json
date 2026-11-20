@@ -1,0 +1,77 @@
+{
+ "id": "TW_BenevolentEphemeralAntKappa-YvSkz4Lz2Qgy3RFY",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "pillar": "Momentos divertidos / Policía",
+ "reason": "robo accidental en tienda y huida, foco Asia",
+ "trim": [
+  9.5,
+  39.0
+ ],
+ "hook": {
+  "ES": "Solo quería probarse una camisa en GTA 6… y terminó huyendo de la policía 👕🚓",
+  "EN": "Just wanted to try on a shirt in GTA 6… now the cops are after them 👕🚓"
+ },
+ "subs": [
+  {
+   "start": 10.98,
+   "end": 13.62,
+   "ES": "Espera… ¡viene la policía!",
+   "EN": "Wait… the cops are coming!"
+  },
+  {
+   "start": 15.1,
+   "end": 17.36,
+   "ES": "¿¡Por qué le di a «llevarse la ropa»!?",
+   "EN": "Why did I hit 'take outfit'?!"
+  },
+  {
+   "start": 26.48,
+   "end": 28.14,
+   "ES": "¡No, no! ¿Qué pasa?",
+   "EN": "No, no! What's happening?"
+  },
+  {
+   "start": 30.22,
+   "end": 31.18,
+   "ES": "¡Corre!",
+   "EN": "Run!"
+  },
+  {
+   "start": 32.04,
+   "end": 33.82,
+   "ES": "¡Ahora es un robo!",
+   "EN": "Now it counts as shoplifting!"
+  },
+  {
+   "start": 36.98,
+   "end": 38.58,
+   "ES": "¡Yo no quería robar!",
+   "EN": "I didn't even mean to steal!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Probarse ropa en GTA 6 sale caro",
+   "caption": "Un botón equivocado y ya eres el más buscado 👕🚓 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  },
+  "EN": {
+   "title": "Trying on clothes in GTA 6 went wrong",
+   "caption": "One wrong button and you're a wanted criminal 👕🚓 Has this happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}
