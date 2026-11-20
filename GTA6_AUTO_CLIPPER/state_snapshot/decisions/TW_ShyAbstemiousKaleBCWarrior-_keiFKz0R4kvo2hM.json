@@ -1,0 +1,78 @@
+{
+ "id": "TW_ShyAbstemiousKaleBCWarrior-_keiFKz0R4kvo2hM",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "reacción a primera muerte, salto al agua",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  3.0,
+  26.0
+ ],
+ "hook": {
+  "ES": "Se tiró del puente al mar en GTA 6… y fue su primera muerte 🌊💀",
+  "EN": "They dove off the bridge in GTA 6… and got their first death 🌊💀"
+ },
+ "subs": [
+  {
+   "start": 12.41,
+   "end": 13.29,
+   "ES": "¡Madre de Dios!",
+   "EN": "Oh my God!"
+  },
+  {
+   "start": 13.45,
+   "end": 14.39,
+   "ES": "¡[[Hijo de puta]]!",
+   "EN": "[[Son of a bitch]]!"
+  },
+  {
+   "start": 22.83,
+   "end": 25.31,
+   "ES": "Primera vez que me muero",
+   "EN": "First time I've died"
+  }
+ ],
+ "bleep": [
+  [
+   13.69,
+   14.49
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.0,
+    0.32,
+    0.14
+   ],
+   "start": 3.0,
+   "end": 26.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Su primera muerte en GTA 6 🌊💀",
+   "caption": "Choque en el puente, se baja del auto y… ¿clavado al mar? GTA 6 no perdona 😂 ¿Cuál fue tu primera muerte?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Their first death in GTA 6 🌊💀",
+   "caption": "Bridge crash, hop out of the car and… a dive into the sea? GTA 6 shows no mercy 😂 What was your first death?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "TW_OddSilkyPterodactylTBTacoRight--htdXNROQ4nYRoZL",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "vuelco en circuito de carreras",
+ "pillar": "Autos y tuning / Mecánicas",
+ "trim": [
+  3.5,
+  14.5
+ ],
+ "hook": {
+  "ES": "Las carreras en circuito de GTA 6 son una locura 🏁💥",
+  "EN": "Track racing in GTA 6 is insane 🏁💥"
+ },
+ "subs": [
+  {
+   "start": 7.02,
+   "end": 8.48,
+   "ES": "Vaya golpazo",
+   "EN": "What a wreck"
+  },
+  {
+   "start": 9.02,
+   "end": 11.02,
+   "ES": "Vaya golpazo",
+   "EN": "What a wreck"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Circuito de carreras en GTA 6 🏁",
+   "caption": "Una curva mal tomada y a empezar de nuevo 💥 ¿Sabías que GTA 6 tiene carreras en circuito?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Carreras"
+   ]
+  },
+  "EN": {
+   "title": "Track racing in GTA 6 🏁",
+   "caption": "One bad corner and it's back to the start 💥 Did you know GTA 6 has circuit racing?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  }
+ }
+}

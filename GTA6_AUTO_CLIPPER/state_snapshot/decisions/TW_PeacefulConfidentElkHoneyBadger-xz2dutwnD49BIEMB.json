@@ -1,0 +1,60 @@
+{
+ "id": "TW_PeacefulConfidentElkHoneyBadger-xz2dutwnD49BIEMB",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "salto de puente levadizo fallido, física",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  12.0,
+  29.6
+ ],
+ "hook": {
+  "ES": "Intentó saltar el puente levadizo en GTA 6… y se quedó colgado 🌉🚗💀",
+  "EN": "They tried to jump the drawbridge in GTA 6… and got stuck 🌉🚗💀"
+ },
+ "subs": [
+  {
+   "start": 24.21,
+   "end": 25.31,
+   "ES": "Bueno, pues… a esperar.",
+   "EN": "Well, y'know… we'll just wait."
+  },
+  {
+   "start": 26.55,
+   "end": 27.25,
+   "ES": "Solo a esperar",
+   "EN": "Just wait"
+  },
+  {
+   "start": 28.91,
+   "end": 29.53,
+   "ES": "A esperar…",
+   "EN": "We'll just wait…"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El salto del puente levadizo en GTA 6 🌉",
+   "caption": "Plan perfecto: acelerar a fondo y volar al otro lado. Realidad: atascado esperando a que baje el puente 😂 ¿Tú lo habrías logrado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "The GTA 6 drawbridge jump 🌉",
+   "caption": "The plan: floor it and fly across. Reality: stuck waiting for the bridge to come down 😂 Could you have made it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
