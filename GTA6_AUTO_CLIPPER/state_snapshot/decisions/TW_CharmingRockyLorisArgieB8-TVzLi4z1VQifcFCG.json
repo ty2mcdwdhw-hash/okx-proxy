@@ -1,0 +1,66 @@
+{
+ "id": "TW_CharmingRockyLorisArgieB8-TVzLi4z1VQifcFCG",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "explosión inesperada de vehículo",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  6.4,
+  24.0
+ ],
+ "hook": {
+  "ES": "Se llevó la camioneta «especial»… y no llegó muy lejos 💥",
+  "EN": "Took the \"special\" truck… and didn't get very far 💥"
+ },
+ "subs": [
+  {
+   "start": 6.46,
+   "end": 7.38,
+   "ES": "¿Esto está bien?",
+   "EN": "Is this okay?"
+  },
+  {
+   "start": 10.52,
+   "end": 12.44,
+   "ES": "¿Seguro que está bien llevarse esto?",
+   "EN": "Are we sure it's fine to take this?"
+  },
+  {
+   "start": 14.2,
+   "end": 16.5,
+   "ES": "Esto es claramente un vehículo especial…",
+   "EN": "This is clearly a special vehicle…"
+  },
+  {
+   "start": 18.18,
+   "end": 18.9,
+   "ES": "¡¡UWAAAAH!!",
+   "EN": "WHOAAAAH!!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Camioneta especial en GTA 6 💥",
+   "caption": "Algo raro tenía esa camioneta… 💥😂 ¿Te la habrías llevado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Explosion"
+   ]
+  },
+  "EN": {
+   "title": "Special truck in GTA 6 💥",
+   "caption": "Something was off about that truck… 💥😂 Would you have taken it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Explosion"
+   ]
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "id": "TW_DeliciousProtectiveSwordBudStar-BS2klcnkFmQw0Gh9",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "encuentro con fauna en autopista",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  0.5,
+  30.0
+ ],
+ "hook": {
+  "ES": "Encontró un oso en plena autopista de GTA 6… y lo adoptó 🐻😂",
+  "EN": "Found a bear in the middle of the GTA 6 highway… and adopted it 🐻😂"
+ },
+ "subs": [
+  {
+   "start": 0.91,
+   "end": 5.42,
+   "ES": "Para poder estudiarlo… ¡Dios mío, es rarísimo!",
+   "EN": "So I can study it… Oh my god, that's so rare!"
+  },
+  {
+   "start": 6.22,
+   "end": 6.62,
+   "ES": "Sí",
+   "EN": "Yes"
+  },
+  {
+   "start": 8.73,
+   "end": 14.44,
+   "ES": "¿Por qué no vienes, bro? Dios mío, qué aura",
+   "EN": "Why not come here, bro? Oh my god, the aura"
+  },
+  {
+   "start": 15.28,
+   "end": 17.8,
+   "ES": "Mi perro y yo, mi perro y yo",
+   "EN": "Me and my dog, me and my dog"
+  },
+  {
+   "start": 24.11,
+   "end": 24.51,
+   "ES": "Uff",
+   "EN": "Sheesh"
+  },
+  {
+   "start": 24.51,
+   "end": 27.65,
+   "ES": "Sabes lo que te conviene",
+   "EN": "You know what's right for you"
+  },
+  {
+   "start": 28.47,
+   "end": 29.65,
+   "ES": "Vamos, perro",
+   "EN": "Come on, dog"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Un oso como mascota en GTA 6 🐻",
+   "caption": "Iba por la autopista y se encontró un oso… ahora es su perro 🐻😂 ¿Qué nombre le pondrías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Animals"
+   ]
+  },
+  "EN": {
+   "title": "A pet bear in GTA 6 🐻",
+   "caption": "Was on the highway, found a bear… now it's their dog 🐻😂 What would you name it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Animals"
+   ]
+  }
+ }
+}

@@ -599,3 +599,5 @@
 - 2026-11-20T13:41:13Z | `TW_ShinyBloodyPonyDogFace-W0uVg50TpXMOI1lS_EN` | Físicas y Gameplay (Agua) | youtube | scheduled @2026-11-22T08:45:00Z | 🎥 @domingo (fr->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T13:41:15Z | `TW_TangibleBoringGoatTBTacoLeft-e_Y79Ko_vtU9-pxR_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-21T01:11:18Z | 🎥 @tototmix (ja->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T14:04:43Z | `TW_QuaintEntertainingLemurCclamChamp-PcDKhHABWg4w5iLG_EN` | NPCs / Detalles | instagram | scheduled @2026-11-21T01:41:18Z | 🎥 @ohnepixel (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T14:36:44Z | `TW_CharmingRockyLorisArgieB8-TVzLi4z1VQifcFCG_ES` | Momentos divertidos / Viral | instagram | scheduled @2026-11-21T02:16:27Z | 🎥 @gutitubo (ja->ES) | Spoiler: 0% (Verificado)
+- 2026-11-20T14:36:47Z | `TW_CharmingRockyLorisArgieB8-TVzLi4z1VQifcFCG_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-21T02:11:18Z | 🎥 @gutitubo (ja->EN) | Spoiler: 0% (Verificado)
