@@ -1,0 +1,58 @@
+{
+ "id": "TW_TransparentUnsightlyOpossumFutureMan-XJLSL51Ky8VRAWJo",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "carrera nocturna, final ajustado",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.0,
+  14.9
+ ],
+ "hook": {
+  "ES": "Carrera callejera de noche en GTA 6… hasta el último segundo 🏁🔥",
+  "EN": "A night street race in GTA 6… down to the last second 🏁🔥"
+ },
+ "subs": [
+  {
+   "start": 4.66,
+   "end": 8.04,
+   "ES": "Me estás poniendo de los [[putos]] nervios… y no veo nada de ti",
+   "EN": "You're getting on my [[fucking]] nerves… and I ain't seen [[shit]] from you"
+  }
+ ],
+ "bleep": [
+  [
+   5.24,
+   5.68
+  ],
+  [
+   7.14,
+   7.7
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Carrera nocturna en GTA 6 🏁",
+   "caption": "Neones, rivales pegados y un final de infarto 🏎️💨 ¿Quién ganó?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  },
+  "EN": {
+   "title": "Night race in GTA 6 🏁",
+   "caption": "Neon lights, rivals on your bumper and a nail-biting finish 🏎️💨 Who won?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  }
+ }
+}

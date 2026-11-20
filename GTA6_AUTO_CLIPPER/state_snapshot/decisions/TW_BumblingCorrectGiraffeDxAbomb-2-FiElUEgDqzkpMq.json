@@ -1,0 +1,90 @@
+{
+ "id": "TW_BumblingCorrectGiraffeDxAbomb-2-FiElUEgDqzkpMq",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "estudio de tatuajes, personalización",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  9.0,
+  31.0
+ ],
+ "hook": {
+  "ES": "¿Sabías que en GTA 6 puedes tatuarte? Esto pidió 💉😂",
+  "EN": "Did you know you can get tattoos in GTA 6? Look what they asked for 💉😂"
+ },
+ "subs": [
+  {
+   "start": 9.1,
+   "end": 11.4,
+   "ES": "Bueno, ¿aquí es donde me hago un tatuaje?",
+   "EN": "Alright, is this where I get a tattoo?"
+  },
+  {
+   "start": 12.72,
+   "end": 14.04,
+   "ES": "Quiero un payaso.",
+   "EN": "I want a clown."
+  },
+  {
+   "start": 15.64,
+   "end": 16.9,
+   "ES": "La poli ya me quiere, ¿no?",
+   "EN": "The cops already love me, right?"
+  },
+  {
+   "start": 19.0,
+   "end": 20.1,
+   "ES": "¿Tatuaje de pescadito?",
+   "EN": "A little fish tattoo?"
+  },
+  {
+   "start": 21.06,
+   "end": 22.64,
+   "ES": "No, el pescadito es de novatos, jefe.",
+   "EN": "Nah, the fish is for noobs, boss."
+  },
+  {
+   "start": 23.12,
+   "end": 24.76,
+   "ES": "¡Madre mía, bro!",
+   "EN": "Oh my god, bro!"
+  },
+  {
+   "start": 27.47,
+   "end": 28.97,
+   "ES": "Listo, cuello terminado.",
+   "EN": "Done, neck's finished."
+  },
+  {
+   "start": 29.57,
+   "end": 30.41,
+   "ES": "Creo que ya está.",
+   "EN": "I think that's it."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Tatuajes en GTA 6 💉",
+   "caption": "Entró al estudio de tatuajes… ¿qué te harías tú? 💉👀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tattoo"
+   ]
+  },
+  "EN": {
+   "title": "Tattoos in GTA 6 💉",
+   "caption": "Walked into the tattoo parlor… what would you get? 💉👀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tattoo"
+   ]
+  }
+ }
+}

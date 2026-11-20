@@ -1,0 +1,48 @@
+{
+ "id": "TW_PrettyZanyClamANELE-2-oU00I2wzBdbVEA",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "reacción a la tele dentro del juego",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  0.0,
+  14.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes ver la TELE… y los canales son una locura 📺😂",
+  "EN": "You can watch TV in GTA 6… and the channels are wild 📺😂"
+ },
+ "subs": [
+  {
+   "start": 12.43,
+   "end": 13.99,
+   "ES": "¿Qué rayos son estos canales?",
+   "EN": "What the hell are these TV channels?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La tele de GTA 6 📺",
+   "caption": "Se sentó a hacer zapping en GTA 6… y no se lo creía 📺🤯 ¿Cuál es tu canal?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Details"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 TV 📺",
+   "caption": "Sat down to channel surf in GTA 6… and couldn't believe it 📺🤯 Which channel is yours?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Details"
+   ]
+  }
+ }
+}
