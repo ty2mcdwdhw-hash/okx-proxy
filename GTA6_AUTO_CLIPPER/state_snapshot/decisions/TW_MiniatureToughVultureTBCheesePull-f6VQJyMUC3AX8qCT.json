@@ -1,0 +1,90 @@
+{
+ "id": "TW_MiniatureToughVultureTBCheesePull-f6VQJyMUC3AX8qCT",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "choque en moto con reacción cómica",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  6.0,
+  36.0
+ ],
+ "hook": {
+  "ES": "Frenó la moto… con la CARA 🏍️💀",
+  "EN": "Braked the bike… with their FACE 🏍️💀"
+ },
+ "subs": [
+  {
+   "start": 17.02,
+   "end": 17.9,
+   "ES": "¡[[Mierda]]!",
+   "EN": "[[Shit]]!"
+  },
+  {
+   "start": 23.0,
+   "end": 25.16,
+   "ES": "No, ¿por qué hay esto aquí?",
+   "EN": "No way, why is this even here?"
+  },
+  {
+   "start": 31.04,
+   "end": 32.24,
+   "ES": "Y ni así se murió",
+   "EN": "And they still didn't die"
+  },
+  {
+   "start": 32.24,
+   "end": 33.9,
+   "ES": "Frenó con la cara",
+   "EN": "Face-first brakes"
+  },
+  {
+   "start": 34.44,
+   "end": 35.68,
+   "ES": "Y encima con primer plano",
+   "EN": "And a close-up, too"
+  }
+ ],
+ "bleep": [
+  [
+   16.95,
+   17.95
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.86,
+    0.44,
+    0.13
+   ],
+   "start": 16.8,
+   "end": 18.6
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Frenos de cara en GTA 6 🏍️",
+   "caption": "Las físicas de las motos en GTA 6 no perdonan 💀 ¿Quién más frena así?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  },
+  "EN": {
+   "title": "Face brakes in GTA 6 🏍️",
+   "caption": "GTA 6 bike physics show no mercy 💀 Who else brakes like this?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

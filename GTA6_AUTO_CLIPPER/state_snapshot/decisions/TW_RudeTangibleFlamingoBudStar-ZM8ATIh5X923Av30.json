@@ -1,0 +1,72 @@
+{
+ "id": "TW_RudeTangibleFlamingoBudStar-ZM8ATIh5X923Av30",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "detalle de animación al subir al auto",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  2.0,
+  22.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 te subes al auto DISTINTO si está muy pegado 🚗👀",
+  "EN": "In GTA 6 you get in the car DIFFERENTLY when it's parked tight 🚗👀"
+ },
+ "subs": [
+  {
+   "start": 4.82,
+   "end": 6.26,
+   "ES": "¡Wow, qué locura! ¿Lo viste?",
+   "EN": "Whoa, insane! Did you see that?"
+  },
+  {
+   "start": 6.54,
+   "end": 7.1,
+   "ES": "¿Lo acabas de ver?",
+   "EN": "Did you just see it?"
+  },
+  {
+   "start": 14.17,
+   "end": 14.77,
+   "ES": "¿Te diste cuenta?",
+   "EN": "Did you notice?"
+  },
+  {
+   "start": 17.89,
+   "end": 20.23,
+   "ES": "Los autos están súper pegados",
+   "EN": "The cars are parked super close"
+  },
+  {
+   "start": 20.23,
+   "end": 21.55,
+   "ES": "Y se subió como en espacio estrecho",
+   "EN": "So they got in the tight-space way"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Detalle brutal de GTA 6 🚗",
+   "caption": "El nivel de detalle de Rockstar al subir a un auto estacionado 👀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Details"
+   ]
+  },
+  "EN": {
+   "title": "Insane GTA 6 detail 🚗",
+   "caption": "Rockstar's attention to detail when getting into a parked car 👀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Details"
+   ]
+  }
+ }
+}

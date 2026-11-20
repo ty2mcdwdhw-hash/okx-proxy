@@ -1,0 +1,66 @@
+{
+ "id": "TW_IncredulousEncouragingDugongDuDudu-eh6h1G_txlXcofnJ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "minijuego de billar con fallo cómico",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  2.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 puedes jugar BILLAR… y metió la blanca 🎱😅",
+  "EN": "You can play POOL in GTA 6… and they sank the cue ball 🎱😅"
+ },
+ "subs": [
+  {
+   "start": 3.44,
+   "end": 4.16,
+   "ES": "Esta entra seguro",
+   "EN": "This one's going in"
+  },
+  {
+   "start": 14.74,
+   "end": 16.76,
+   "ES": "Espera, ¿bola en mano?",
+   "EN": "Wait, ball in hand?"
+  },
+  {
+   "start": 19.33,
+   "end": 20.43,
+   "ES": "Todavía me queda una",
+   "EN": "I've still got one left"
+  },
+  {
+   "start": 21.69,
+   "end": 23.41,
+   "ES": "Tranqui, todavía me queda una",
+   "EN": "It's fine, I've still got one"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Billar en GTA 6 🎱",
+   "caption": "Sí, GTA 6 tiene billar 🎱 ¿Le ganarías a esta jugada?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Minigames"
+   ]
+  },
+  "EN": {
+   "title": "Pool in GTA 6 🎱",
+   "caption": "Yep, GTA 6 has pool 🎱 Could you beat this shot?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Minigames"
+   ]
+  }
+ }
+}

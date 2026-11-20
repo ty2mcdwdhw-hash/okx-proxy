@@ -590,3 +590,4 @@
 - 2026-11-20T12:12:02Z | `TW_SparklingAmorphousDelicataFutureMan-iNeMJ-6nHaLZsalO_EN` | Físicas / Momentos divertidos | tiktok | scheduled @2026-11-21T15:26:02Z | 🎥 @thetremba (ru->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T12:12:06Z | `TW_SparklingAmorphousDelicataFutureMan-iNeMJ-6nHaLZsalO_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-21T00:06:18Z | 🎥 @thetremba (ru->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T12:12:09Z | `TW_SparklingAmorphousDelicataFutureMan-iNeMJ-6nHaLZsalO_EN` | Físicas / Momentos divertidos | youtube | scheduled @2026-11-22T08:40:00Z | 🎥 @thetremba (ru->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T12:43:58Z | `TW_RudeTangibleFlamingoBudStar-ZM8ATIh5X923Av30_EN` | NPCs / Detalles | instagram | scheduled @2026-11-21T00:36:18Z | 🎥 @kiruma_ch (ja->EN) | Spoiler: 0% (Verificado)
