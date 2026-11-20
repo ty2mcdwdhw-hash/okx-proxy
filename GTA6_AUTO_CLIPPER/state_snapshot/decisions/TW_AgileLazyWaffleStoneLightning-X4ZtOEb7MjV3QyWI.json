@@ -1,0 +1,66 @@
+{
+ "id": "TW_AgileLazyWaffleStoneLightning-X4ZtOEb7MjV3QyWI",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "persecución policial en vehículo de obra, tema nuevo",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  3.5,
+  29.5
+ ],
+ "hook": {
+  "ES": "Huyendo de la policía en GTA 6… en RETROEXCAVADORA 🚜🚓",
+  "EN": "Running from the cops in GTA 6… in an EXCAVATOR 🚜🚓"
+ },
+ "subs": [
+  {
+   "start": 4.78,
+   "end": 6.44,
+   "ES": "¿Cuánto va a durar esta persecución?",
+   "EN": "How long is this chase gonna last?"
+  },
+  {
+   "start": 11.06,
+   "end": 12.42,
+   "ES": "Paciencia con la poli…",
+   "EN": "Patience with the cops…"
+  },
+  {
+   "start": 18.38,
+   "end": 19.64,
+   "ES": "¡Vení, vení!",
+   "EN": "Come on, come on!"
+  },
+  {
+   "start": 27.27,
+   "end": 28.73,
+   "ES": "Too slow, too furious 😂",
+   "EN": "Too slow, too furious 😂"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Persecución en retroexcavadora en GTA 6",
+   "caption": "La persecución más LENTA de la historia de GTA 🚜🚓😂 ¿Cuánto crees que aguantó?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Excavator police chase in GTA 6",
+   "caption": "The SLOWEST police chase in GTA history 🚜🚓😂 How long do you think they lasted?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

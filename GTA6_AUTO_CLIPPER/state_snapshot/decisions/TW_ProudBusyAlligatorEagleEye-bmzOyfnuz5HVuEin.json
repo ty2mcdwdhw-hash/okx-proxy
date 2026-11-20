@@ -1,0 +1,60 @@
+{
+ "id": "TW_ProudBusyAlligatorEagleEye-bmzOyfnuz5HVuEin",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "escondite fallido ante la policía, reacción graciosa",
+ "pillar": "NPCs / Policía",
+ "trim": [
+  0.0,
+  15.0
+ ],
+ "hook": {
+  "ES": "Se escondió de la policía en una caja… no salió como esperaba 📦⚡",
+  "EN": "They hid from the cops in a crate… it didn't go as planned 📦⚡"
+ },
+ "subs": [
+  {
+   "start": 1.44,
+   "end": 2.56,
+   "ES": "¡Aquí no me pillan!",
+   "EN": "They'll never find me here!"
+  },
+  {
+   "start": 4.96,
+   "end": 5.38,
+   "ES": "¿Y ahora qué?",
+   "EN": "Now what?"
+  },
+  {
+   "start": 7.5,
+   "end": 8.48,
+   "ES": "¡Me electrocutaron! ⚡",
+   "EN": "I got tased! ⚡"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El peor escondite de GTA 6",
+   "caption": "Escondite perfecto… hasta que llegó la policía de GTA 6 📦⚡😂 ¿Dónde te habrías escondido tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPCs"
+   ]
+  },
+  "EN": {
+   "title": "The worst hiding spot in GTA 6",
+   "caption": "Perfect hiding spot… until GTA 6 cops showed up 📦⚡😂 Where would you have hidden?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPCs"
+   ]
+  }
+ }
+}
