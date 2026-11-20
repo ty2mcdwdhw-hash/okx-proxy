@@ -1,0 +1,72 @@
+{
+ "id": "TW_HardEntertainingDiscNononoCat-CoPis3AjLszoMH0s",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "caída en moto con reacción explosiva",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.0,
+  10.7
+ ],
+ "hook": {
+  "ES": "La moto no frenó… y ella terminó en los arbustos 🏍️🌿💀",
+  "EN": "The bike wouldn't stop… and they ended up in the bushes 🏍️🌿💀"
+ },
+ "subs": [
+  {
+   "start": 2.6,
+   "end": 4.78,
+   "ES": "¡Te voy a denunciar yo a ti, [[hijo de puta]]!",
+   "EN": "I'm the one suing YOU, [[son of a bitch]]!"
+  },
+  {
+   "start": 5.3,
+   "end": 6.36,
+   "ES": "¡Ni frena, ni frena!",
+   "EN": "It won't stop, it won't stop!"
+  },
+  {
+   "start": 6.78,
+   "end": 8.04,
+   "ES": "A ver si me he matado",
+   "EN": "Let's see if I died"
+  },
+  {
+   "start": 8.88,
+   "end": 9.82,
+   "ES": "Que te calles",
+   "EN": "Shut up"
+  }
+ ],
+ "bleep": [
+  [
+   4.14,
+   4.88
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "La moto sin frenos de GTA 6 🏍️",
+   "caption": "Ni frenos ni piedad: directo a los arbustos 🏍️🌿😂 ¿Sobrevivió?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 bike with no brakes 🏍️",
+   "caption": "No brakes, no mercy: straight into the bushes 🏍️🌿😂 Did they survive?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

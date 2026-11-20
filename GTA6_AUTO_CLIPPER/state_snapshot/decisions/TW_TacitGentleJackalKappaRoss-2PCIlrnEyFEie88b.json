@@ -1,0 +1,84 @@
+{
+ "id": "TW_TacitGentleJackalKappaRoss-2PCIlrnEyFEie88b",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "reacción a buceo, gráficos submarinos",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  2.0,
+  28.5
+ ],
+ "hook": {
+  "ES": "Así se ve el fondo del mar en GTA 6 🐠🌊",
+  "EN": "This is what the ocean floor looks like in GTA 6 🐠🌊"
+ },
+ "subs": [
+  {
+   "start": 2.28,
+   "end": 5.32,
+   "ES": "Me cuesta creer que de verdad estemos jugando a esto, te lo juro",
+   "EN": "I can't believe we're actually playing this, I swear"
+  },
+  {
+   "start": 6.02,
+   "end": 7.64,
+   "ES": "¿Ya? ¿Ya pasó? ¿Ya llegó?",
+   "EN": "Already? Is it over? Is it here?"
+  },
+  {
+   "start": 8.96,
+   "end": 10.88,
+   "ES": "¿Ya está aquí de verdad? ¿Esto es, no?",
+   "EN": "Is it really here? This is it, right?"
+  },
+  {
+   "start": 13.71,
+   "end": 15.19,
+   "ES": "Tanta [[puta]] espera…",
+   "EN": "All that [[damn]] waiting…"
+  },
+  {
+   "start": 19.37,
+   "end": 19.99,
+   "ES": "¡Brutal, tío!",
+   "EN": "Insane, dude!"
+  },
+  {
+   "start": 25.22,
+   "end": 28.02,
+   "ES": "¿Puedes bucear más rápido? Sí, le doy a correr",
+   "EN": "Can you swim faster? Yeah, I hit sprint"
+  }
+ ],
+ "bleep": [
+  [
+   14.33,
+   14.87
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Buceando en GTA 6 🐠",
+   "caption": "Años esperando… y esto es lo que hay bajo el agua 🐠🌊🤯",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Graphics"
+   ]
+  },
+  "EN": {
+   "title": "Diving in GTA 6 🐠",
+   "caption": "Years of waiting… and this is what's under the water 🐠🌊🤯",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Graphics"
+   ]
+  }
+ }
+}

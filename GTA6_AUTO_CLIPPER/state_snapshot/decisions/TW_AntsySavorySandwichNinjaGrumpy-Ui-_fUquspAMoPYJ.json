@@ -1,0 +1,88 @@
+{
+ "id": "TW_AntsySavorySandwichNinjaGrumpy-Ui-_fUquspAMoPYJ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "auto tuneado arrollado por el tren",
+ "pillar": "Autos y tuning / Mecánicas",
+ "trim": [
+  9.5,
+  30.0
+ ],
+ "hook": {
+  "ES": "Tuneó su auto perfecto en GTA 6… y llegó el tren 🚗🚆💀",
+  "EN": "Built the perfect car in GTA 6… then the train showed up 🚗🚆💀"
+ },
+ "subs": [
+  {
+   "start": 10.26,
+   "end": 11.92,
+   "ES": "Bro, este auto quedó demasiado bonito",
+   "EN": "Bro, this car turned out so clean"
+  },
+  {
+   "start": 14.53,
+   "end": 15.55,
+   "ES": "En serio, bro",
+   "EN": "For real, bro"
+  },
+  {
+   "start": 19.83,
+   "end": 20.09,
+   "ES": "Dios mío",
+   "EN": "Oh my god"
+  },
+  {
+   "start": 23.27,
+   "end": 24.07,
+   "ES": "¡Ay, [[carajo]]!",
+   "EN": "Oh, [[fuck]]!"
+  },
+  {
+   "start": 24.29,
+   "end": 26.25,
+   "ES": "Dios mío, al auto se lo llevó el tren",
+   "EN": "Oh my god, the train took my car"
+  },
+  {
+   "start": 27.31,
+   "end": 29.97,
+   "ES": "¡Qué situación!",
+   "EN": "What a situation!"
+  }
+ ],
+ "bleep": [
+  [
+   23.57,
+   24.17
+  ],
+  [
+   25.27,
+   25.69
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Tuning vs tren en GTA 6 🚆",
+   "caption": "Horas tuneando el auto… y el tren dijo NO 🚗🚆💀 ¿Lo habrías visto venir?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  },
+  "EN": {
+   "title": "Tuning vs train in GTA 6 🚆",
+   "caption": "Hours tuning the car… and the train said NO 🚗🚆💀 Would you have seen it coming?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}
