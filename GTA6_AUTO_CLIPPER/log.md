@@ -632,3 +632,5 @@
 - 2026-11-20T18:07:59Z | `TW_RelievedAuspiciousTrayWholeWheat-5KgCQhyZUoE3ZeNq_EN` | NPCs / Detalles | instagram | scheduled @2026-11-21T06:06:18Z | 🎥 @joe_bartolozzi (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T18:37:40Z | `TW_SullenHyperMarrowFunRun-sBJhydFhMRxpgic0_ES` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-21T06:16:27Z | 🎥 @joe_bartolozzi (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-20T18:37:44Z | `TW_SullenHyperMarrowFunRun-sBJhydFhMRxpgic0_EN` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-21T06:36:18Z | 🎥 @joe_bartolozzi (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T19:08:18Z | `KK_clip_01M7X21XEN4AG89S03FJ21NV01_ES` | Momentos divertidos / Policía | instagram | scheduled @2026-11-21T06:46:27Z | 🎥 @rdjavi (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-20T19:08:23Z | `KK_clip_01M7X21XEN4AG89S03FJ21NV01_EN` | Momentos divertidos / Policía | instagram | scheduled @2026-11-21T07:06:18Z | 🎥 @rdjavi (es->EN) | Spoiler: 0% (Verificado)

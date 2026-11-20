@@ -1,0 +1,53 @@
+{
+ "id": "TW_BreakableFineRadishFUNgineer-jXhDbwJ4WUz8PcCD",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "momento gracioso claro, foco regional",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  0.5,
+  29.5
+ ],
+ "hook": {
+  "ES": "Corrió al helicóptero en GTA 6… y despegó SIN ÉL 🚁😭",
+  "EN": "They ran for the chopper in GTA 6… and it took off WITHOUT them 🚁😭"
+ },
+ "subs": [
+  {
+   "start": 0.5,
+   "end": 4.0,
+   "ES": "¡Mírame, mírame, mírame!",
+   "EN": "Look at me, look at me!"
+  },
+  {
+   "start": 4.0,
+   "end": 9.0,
+   "ES": "¡Que todavía no me subí!",
+   "EN": "I'm not even on board yet!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Lo dejaron en tierra 🚁",
+   "caption": "El helicóptero no espera a nadie en GTA 6 😭 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Helicoptero"
+   ]
+  },
+  "EN": {
+   "title": "Left on the tarmac 🚁",
+   "caption": "The chopper waits for no one in GTA 6 😭 Ever happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Helicopter"
+   ]
+  }
+ }
+}

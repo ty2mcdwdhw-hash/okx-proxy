@@ -1,0 +1,59 @@
+{
+ "id": "KK_clip_01M7X21XEN4AG89S03FJ21NV01",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "acción con helicóptero, streamer hispano con audiencia",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  7.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "Le disparó al helicóptero desde el auto en GTA 6… con solo 15 balas 🚁🔫",
+  "EN": "Shooting down a chopper from a moving car in GTA 6… with only 15 bullets 🚁🔫"
+ },
+ "subs": [
+  {
+   "start": 9.81,
+   "end": 11.73,
+   "ES": "¡Ey, no tengo balas, madre mía!",
+   "EN": "Hey, I'm out of ammo, oh my god!"
+  },
+  {
+   "start": 12.69,
+   "end": 15.35,
+   "ES": "Qué bobo, solo me quedan quince balitas.",
+   "EN": "So dumb, only fifteen bullets left."
+  },
+  {
+   "start": 23.36,
+   "end": 24.5,
+   "ES": "¡Excelente, excelente!",
+   "EN": "Excellent, excellent!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Contra el helicóptero 🚁",
+   "caption": "Asomado por la ventana y con 15 balas… ¿lo logró? 🔫 GTA 6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Helicoptero"
+   ]
+  },
+  "EN": {
+   "title": "Car vs chopper 🚁",
+   "caption": "Hanging out the window with 15 bullets… did they pull it off? 🔫 GTA 6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Helicopter"
+   ]
+  }
+ }
+}
