@@ -1,0 +1,90 @@
+{
+ "id": "TW_ResoluteCrazyPistachioPrimeMe-FgUccHgoroOQYUJB",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "reacción fuerte a pelea de NPCs en mundo abierto",
+ "pillar": "NPCs / Peleas",
+ "trim": [
+  40.0,
+  60.0
+ ],
+ "hook": {
+  "ES": "Solo quería ayudar en la autopista de GTA 6… y los NPCs se volvieron LOCOS 😳",
+  "EN": "Just tried to help out on the GTA 6 highway… and the NPCs went FERAL 😳"
+ },
+ "subs": [
+  {
+   "start": 42.86,
+   "end": 43.3,
+   "ES": "Vámonos de aquí",
+   "EN": "Let's get out of here"
+  },
+  {
+   "start": 43.6,
+   "end": 44.56,
+   "ES": "Bro, ¿te calmas?",
+   "EN": "Bro, would you chill?"
+  },
+  {
+   "start": 45.72,
+   "end": 47.3,
+   "ES": "Eh, gente, viene alguien",
+   "EN": "Uh, guys, someone's coming"
+  },
+  {
+   "start": 48.2,
+   "end": 50.08,
+   "ES": "¡Oye, déjame en paz, rarito!",
+   "EN": "Yo, leave me alone, you creep!"
+  },
+  {
+   "start": 51.2,
+   "end": 51.52,
+   "ES": "¡[[Mierda]]!",
+   "EN": "[[F***]]!"
+  },
+  {
+   "start": 51.94,
+   "end": 53.38,
+   "ES": "¡Que puedes matar a alguien!",
+   "EN": "You could kill somebody!"
+  },
+  {
+   "start": 54.3,
+   "end": 58.41,
+   "ES": "Puedes matar a alguien, en serio",
+   "EN": "You could kill somebody, for real"
+  }
+ ],
+ "bleep": [
+  [
+   51.1,
+   51.62
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPCs de GTA 6 no están bien 😳",
+   "caption": "Paró en la autopista y terminó en medio de una pelea de NPCs 💀 ¿Tú te habrías bajado del auto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPCs"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs are NOT okay 😳",
+   "caption": "Stopped on the highway and ended up in the middle of an NPC brawl 💀 Would you have gotten out of the car?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPCs"
+   ]
+  }
+ }
+}

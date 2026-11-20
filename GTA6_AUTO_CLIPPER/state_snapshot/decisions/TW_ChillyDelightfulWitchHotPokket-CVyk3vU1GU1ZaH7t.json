@@ -1,0 +1,71 @@
+{
+ "id": "TW_ChillyDelightfulWitchHotPokket-CVyk3vU1GU1ZaH7t",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "caos con camión de bomberos y policía",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  18.0,
+  48.0
+ ],
+ "hook": {
+  "ES": "Robó un CAMIÓN DE BOMBEROS en GTA 6 y arrasó con todo 🚒💥",
+  "EN": "Stole a FIRE TRUCK in GTA 6 and plowed through everything 🚒💥"
+ },
+ "subs": [
+  {
+   "start": 22.99,
+   "end": 24.55,
+   "ES": "A ver, déjame mirar aquí",
+   "EN": "Hold on, let me check this out"
+  },
+  {
+   "start": 26.13,
+   "end": 27.99,
+   "ES": "Vamos, ¡bájense! ¡Bájense!",
+   "EN": "Come on, get out! Get out!"
+  },
+  {
+   "start": 31.82,
+   "end": 32.82,
+   "ES": "No rompe nada",
+   "EN": "It doesn't break anything"
+  },
+  {
+   "start": 43.64,
+   "end": 46.58,
+   "ES": "Pero no los saca volando de verdad",
+   "EN": "But it's not really sending them flying"
+  },
+  {
+   "start": 47.34,
+   "end": 48.0,
+   "ES": "Bueno, sí, un poquito",
+   "EN": "Okay, yeah, a little bit"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Camión de bomberos vs. toda la ciudad 🚒",
+   "caption": "Nada detiene a un camión de bomberos en GTA 6 😂 ¿Qué vehículo robarías tú primero?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "Fire truck vs. the whole city 🚒",
+   "caption": "Nothing stops a fire truck in GTA 6 😂 What vehicle would you steal first?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

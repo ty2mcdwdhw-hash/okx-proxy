@@ -1,0 +1,83 @@
+{
+ "id": "TW_SucculentSparklingFlamingoSaltBae-8lYIEmIwDpw5tANt",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "choque de moto con ragdoll espectacular",
+ "pillar": "Físicas / Ragdoll",
+ "trim": [
+  3.0,
+  18.3
+ ],
+ "hook": {
+  "ES": "Perdió 6 mil reales en la vida real… y luego ESTO en GTA 6 🏍️💥",
+  "EN": "Lost 6K in real life… and then THIS happened in GTA 6 🏍️💥"
+ },
+ "subs": [
+  {
+   "start": 3.7,
+   "end": 5.14,
+   "ES": "Perdí 6 mil reales, ya voy con dos, bro",
+   "EN": "Lost 6K, I'm down to two, bro"
+  },
+  {
+   "start": 14.71,
+   "end": 15.03,
+   "ES": "¡[[Carajo]]!",
+   "EN": "[[Holy s***]]!"
+  },
+  {
+   "start": 15.65,
+   "end": 16.19,
+   "ES": "¡Dios mío!",
+   "EN": "Oh my God!"
+  },
+  {
+   "start": 17.37,
+   "end": 18.31,
+   "ES": "¡Dios mío, qué miedo!",
+   "EN": "Oh my God, that was scary!"
+  }
+ ],
+ "bleep": [
+  [
+   14.61,
+   15.13
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.88,
+    0.4,
+    0.1
+   ],
+   "start": 3.0,
+   "end": 18.3
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El choque de moto más brutal de GTA 6 🏍️💥",
+   "caption": "Iba tranquilo en moto y salió VOLANDO contra un camión 😳 El ragdoll de GTA 6 es otro nivel. ¿Le das un 10?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "The most brutal bike crash in GTA 6 🏍️💥",
+   "caption": "Cruising on a bike and then went FLYING into a truck 😳 GTA 6 ragdoll is on another level. Rate it 1-10?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
