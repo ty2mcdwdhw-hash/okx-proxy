@@ -1,0 +1,60 @@
+{
+ "id": "TW_FunInexpensiveAlmondAsianGlow-M6P9TxQ_YcMTrApg",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "vuelco de cuatrimoto con reacción",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  5.8,
+  22.0
+ ],
+ "hook": {
+  "ES": "\"No necesito dormir\"… y el quad le dio la siesta 🛌💥",
+  "EN": "\"I don't need sleep\"… then the ATV put them to bed 🛌💥"
+ },
+ "subs": [
+  {
+   "start": 5.82,
+   "end": 9.45,
+   "ES": "Son las 13h, no me voy a dormir, no soy un bebé",
+   "EN": "It's 1 PM, I'm not going to sleep, I'm not a baby"
+  },
+  {
+   "start": 9.56,
+   "end": 10.45,
+   "ES": "…para echarme una siesta",
+   "EN": "…who needs a nap"
+  },
+  {
+   "start": 20.7,
+   "end": 21.8,
+   "ES": "¿Pero qué…?",
+   "EN": "Wait, what…?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La siesta más rápida de GTA 6 🛌",
+   "caption": "Dijo que no tenía sueño… y el quad decidió por él 💥😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6ATV"
+   ]
+  },
+  "EN": {
+   "title": "The fastest nap in GTA 6 🛌",
+   "caption": "Said they weren't tired… the ATV disagreed 💥😂",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6ATV"
+   ]
+  }
+ }
+}

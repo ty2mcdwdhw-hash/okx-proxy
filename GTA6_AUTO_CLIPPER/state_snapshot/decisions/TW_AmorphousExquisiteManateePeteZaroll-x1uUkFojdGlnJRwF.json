@@ -1,0 +1,53 @@
+{
+ "id": "TW_AmorphousExquisiteManateePeteZaroll-x1uUkFojdGlnJRwF",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "caída de moto en persecución con remate absurdo",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.5,
+  15.0
+ ],
+ "hook": {
+  "ES": "Salió volando de la moto… y lo peor vino después 🏍️💀",
+  "EN": "Flew off the bike… and the worst part came next 🏍️💀"
+ },
+ "subs": [],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.0,
+    0.32,
+    0.13
+   ],
+   "start": 0.5,
+   "end": 15.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El peor guion de persecución en GTA 6 🏍️",
+   "caption": "Salir volando de la moto ya era malo… 💀 ¿Quién tuvo más mala suerte?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "The worst chase script in GTA 6 🏍️",
+   "caption": "Flying off the bike was bad enough… 💀 Ever seen worse luck?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

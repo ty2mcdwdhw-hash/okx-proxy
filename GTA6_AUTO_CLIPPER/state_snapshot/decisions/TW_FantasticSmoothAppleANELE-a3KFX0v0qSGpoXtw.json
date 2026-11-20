@@ -1,0 +1,54 @@
+{
+ "id": "TW_FantasticSmoothAppleANELE-a3KFX0v0qSGpoXtw",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento icónico de historia con reacción",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  11.0,
+  27.5
+ ],
+ "hook": {
+  "ES": "Recrearon la pose de Titanic en GTA 6 🚢💕",
+  "EN": "They recreated the Titanic pose in GTA 6 🚢💕"
+ },
+ "subs": [
+  {
+   "start": 14.49,
+   "end": 17.2,
+   "ES": "¡La pose de Titanic, obvio!",
+   "EN": "The Titanic pose, obviously!"
+  },
+  {
+   "start": 21.18,
+   "end": 22.6,
+   "ES": "¡Está buena!",
+   "EN": "Nice one!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Titanic versión Vice City 🚢",
+   "caption": "La selfie más romántica de GTA 6 💕 ¿Te la sabías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  },
+  "EN": {
+   "title": "Titanic, Vice City edition 🚢",
+   "caption": "The most romantic selfie in GTA 6 💕 Did you catch this?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Story"
+   ]
+  }
+ }
+}
