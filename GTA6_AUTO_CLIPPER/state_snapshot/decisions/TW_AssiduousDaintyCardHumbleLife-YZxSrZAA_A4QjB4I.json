@@ -1,0 +1,53 @@
+{
+ "id": "TW_AssiduousDaintyCardHumbleLife-YZxSrZAA_A4QjB4I",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "reason": "casi muere junto a avioneta estrellada, streamer hispano",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  6.5,
+  28.0
+ ],
+ "hook": {
+  "ES": "Fue a ver la avioneta estrellada en GTA 6… y casi no lo cuenta ✈️🔥",
+  "EN": "Went to check the crashed plane in GTA 6… and barely made it ✈️🔥"
+ },
+ "subs": [
+  {
+   "start": 6.71,
+   "end": 7.3,
+   "ES": "¡Eh!",
+   "EN": "Hey!"
+  },
+  {
+   "start": 20.8,
+   "end": 22.6,
+   "ES": "Estoy bien, cariño.",
+   "EN": "I'm fine, babe."
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La avioneta en llamas de GTA 6 🔥",
+   "caption": "Se acercó demasiado a la avioneta estrellada… y salió volando 😳 Los detalles del mapa de GTA 6 son otra cosa.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mapa"
+   ]
+  },
+  "EN": {
+   "title": "The burning plane in GTA 6 🔥",
+   "caption": "Got way too close to the crashed plane… and got sent flying 😳 GTA 6 map details hit different.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Map"
+   ]
+  }
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "TW_PreciousCarefulBarracudaOptimizePrime-qDQ7LspFXsL8YzNg",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "caos con montacargas, tema nuevo, físicas",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.0,
+  24.0
+ ],
+ "hook": {
+  "ES": "Le dieron un MONTACARGAS en GTA 6… y pasó esto 🚜💀",
+  "EN": "They got a FORKLIFT in GTA 6… and this happened 🚜💀"
+ },
+ "subs": [
+  {
+   "start": 4.37,
+   "end": 7.9,
+   "ES": "¡No puedo creer que seas tan [[pendejo]]!",
+   "EN": "I can't believe you're this [[f***ing]] dumb!"
+  },
+  {
+   "start": 11.03,
+   "end": 12.03,
+   "ES": "¡No tienes nada!",
+   "EN": "You got nothing!"
+  },
+  {
+   "start": 14.46,
+   "end": 15.9,
+   "ES": "¡Ni de [[coña]]!",
+   "EN": "Not gonna [[f***ing]] happen!"
+  }
+ ],
+ "bleep": [
+  [
+   7.25,
+   7.9
+  ],
+  [
+   14.9,
+   15.55
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Licencia de montacargas: rechazada 🚜",
+   "caption": "Nadie debería darle un montacargas a este hombre 😂 Las físicas de GTA 6 no perdonan.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Forklift license: denied 🚜",
+   "caption": "Nobody should ever hand this person a forklift 😂 GTA 6 physics show no mercy.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
