@@ -1,0 +1,40 @@
+{
+ "id": "TW_QuaintEntertainingLemurCclamChamp-PcDKhHABWg4w5iLG",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "NPC reacciona a la cámara del móvil",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  0.0,
+  10.3
+ ],
+ "hook": {
+  "ES": "Le sacó el móvil a una NPC en GTA 6… y fue a encararlo 📸😳",
+  "EN": "They pulled out the phone on a GTA 6 NPC… and she came right at them 📸😳"
+ },
+ "subs": [],
+ "copy": {
+  "ES": {
+   "title": "Las NPCs de GTA 6 odian la cámara 📸",
+   "caption": "Intentó grabarla y la NPC fue directo a encararlo 😳 Nivel de detalle absurdo",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs hate the camera 📸",
+   "caption": "Tried to film her and the NPC walked straight up to them 😳 Insane detail",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

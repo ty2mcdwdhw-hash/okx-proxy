@@ -1,0 +1,47 @@
+{
+ "id": "TW_DarlingJoyousGaurAMPTropPunch-38sHtdEBEDdN9Q3a",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "robo de auto con dueño colgado",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  0.0,
+  9.2
+ ],
+ "hook": {
+  "ES": "Le robó el auto… y el dueño NO lo soltó 🚗😂",
+  "EN": "They stole the car… and the owner would NOT let go 🚗😂"
+ },
+ "subs": [
+  {
+   "start": 2.53,
+   "end": 8.04,
+   "ES": "Oh, bien, bien, ¡bien!",
+   "EN": "Oh, nice, nice, nice!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El dueño más terco de GTA 6 🚗",
+   "caption": "Le robaron el auto y se quedó colgado de la puerta 😂 ¿Tú lo soltarías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  },
+  "EN": {
+   "title": "The most stubborn owner in GTA 6 🚗",
+   "caption": "They stole the car and the owner hung on to the door 😂 Would you let go?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}
