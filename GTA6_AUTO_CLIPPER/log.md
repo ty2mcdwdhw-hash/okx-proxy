@@ -649,3 +649,4 @@
 - 2026-11-20T22:08:09Z | `TW_ResoluteCrazyPistachioPrimeMe-FgUccHgoroOQYUJB_EN` | NPCs / Peleas | tiktok | scheduled @2026-11-21T16:36:18Z | 🎥 @caseoh_ (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T22:08:13Z | `TW_ResoluteCrazyPistachioPrimeMe-FgUccHgoroOQYUJB_EN` | NPCs / Peleas | instagram | scheduled @2026-11-21T13:16:18Z | 🎥 @caseoh_ (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T22:08:16Z | `TW_ResoluteCrazyPistachioPrimeMe-FgUccHgoroOQYUJB_EN` | NPCs / Peleas | youtube | scheduled @2026-11-23T08:15:00Z | 🎥 @caseoh_ (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T23:07:22Z | `TW_IcyNeighborlyMonitorPipeHype-1LChdDCIFGtW1dNw_ES` | Autos / Caos con vehículos | instagram | scheduled @2026-11-21T10:46:27Z | 🎥 @montanablack88 (de->ES) | Spoiler: 0% (Verificado)

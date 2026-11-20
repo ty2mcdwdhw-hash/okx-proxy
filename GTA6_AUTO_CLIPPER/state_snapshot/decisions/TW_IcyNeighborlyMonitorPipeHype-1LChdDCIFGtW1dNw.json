@@ -1,0 +1,83 @@
+{
+ "id": "TW_IcyNeighborlyMonitorPipeHype-1LChdDCIFGtW1dNw",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "roba un tanque de la base militar y huye bajo fuego",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  28.0,
+  58.0
+ ],
+ "hook": {
+  "ES": "Se robó un TANQUE de la base militar en GTA 6… y el ejército no lo perdonó 🪖💥",
+  "EN": "Stole a TANK from the military base in GTA 6… and the army didn't forgive it 🪖💥"
+ },
+ "subs": [
+  {
+   "start": 29.65,
+   "end": 31.21,
+   "ES": "Esto es…",
+   "EN": "This is…"
+  },
+  {
+   "start": 31.99,
+   "end": 35.61,
+   "ES": "No sé por qué…",
+   "EN": "I don't know why…"
+  },
+  {
+   "start": 36.79,
+   "end": 41.75,
+   "ES": "Pero manejar este tanque es DEMASIADO divertido",
+   "EN": "But driving this tank is SO much fun"
+  },
+  {
+   "start": 47.95,
+   "end": 50.49,
+   "ES": "Dios mío, ¿qué les pasa a estos, bro?",
+   "EN": "Oh my God, what's up with them, bro?"
+  },
+  {
+   "start": 50.99,
+   "end": 52.11,
+   "ES": "¿Qué es esto?",
+   "EN": "What is this?"
+  },
+  {
+   "start": 52.11,
+   "end": 54.49,
+   "ES": "¿Por qué ya están aquí…? Ya me muero",
+   "EN": "Why are they already here…? I'm about to die"
+  },
+  {
+   "start": 55.25,
+   "end": 57.03,
+   "ES": "¿¡Por qué ya vienen los tanques grandes!?",
+   "EN": "Why are the BIG tanks already coming!?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Robar un tanque en GTA 6 🪖",
+   "caption": "Se coló en la base militar, se subió a un tanque y salió a pasear por Vice City… hasta que llegaron los refuerzos 💥 ¿Cuántas estrellas aguantas tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tanque"
+   ]
+  },
+  "EN": {
+   "title": "Stealing a tank in GTA 6 🪖",
+   "caption": "Snuck into the military base, hopped in a tank and went for a ride through Vice City… until the backup showed up 💥 How many stars can you survive?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Tank"
+   ]
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "TW_HelplessCarefulDiamondSwiftRage-uAWiigcU5ENrxRsK",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "vuelo rasante en jet que termina en el fondo del mar",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  12.0,
+  38.0
+ ],
+ "hook": {
+  "ES": "\"Tenemos un problema\"… su jet de combate en GTA 6 terminó en el FONDO del mar ✈️🌊",
+  "EN": "\"We have a problem\"… their fighter jet in GTA 6 ended up at the BOTTOM of the sea ✈️🌊"
+ },
+ "subs": [
+  {
+   "start": 12.0,
+   "end": 14.64,
+   "ES": "¿Que vuele más alto?",
+   "EN": "Fly higher?"
+  },
+  {
+   "start": 19.04,
+   "end": 20.2,
+   "ES": "Houston, tenemos un problema",
+   "EN": "Houston, we have a problem"
+  },
+  {
+   "start": 21.5,
+   "end": 22.38,
+   "ES": "Tenemos un problema",
+   "EN": "We have a problem"
+  },
+  {
+   "start": 23.58,
+   "end": 24.92,
+   "ES": "La máquina está rota",
+   "EN": "The machine is busted"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Jet de combate vs. el mar en GTA 6 ✈️",
+   "caption": "Vuelo rasante sobre los cayos de Vice City… y el motor dijo basta 🌊💀 ¿Lo habrías salvado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Aviones"
+   ]
+  },
+  "EN": {
+   "title": "Fighter jet vs. the sea in GTA 6 ✈️",
+   "caption": "Flying low over the Vice City keys… and the engine called it quits 🌊💀 Could you have saved it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Planes"
+   ]
+  }
+ }
+}
