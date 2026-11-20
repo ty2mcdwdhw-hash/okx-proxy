@@ -29,9 +29,9 @@ def apply_decisions() -> tuple[int, int]:
         row = con.execute("SELECT status FROM clips WHERE id=?", (dec.get("id"),)).fetchone()
         if not row or row["status"] != "packet":
             continue
-        missing = [k for k in REQUIRED if k not in dec]
-        if dec.get("verdict") == "approve":
-            missing += [k for k in ("trim", "hook", "copy") if k not in dec]
+        missing = [k for k in ("id", "verdict") if k not in dec]
+        if dec.get("verdict") == "approve":  # spoiler_level solo hace falta para aprobar
+            missing += [k for k in ("spoiler_level", "trim", "hook", "copy") if k not in dec]
         if missing:
             print(f"[decide] {f.name}: faltan campos {missing}")
             continue
