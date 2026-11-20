@@ -1,0 +1,113 @@
+{
+ "id": "TW_WealthyModernPeppermintLitty--_c4V3kXXBFYuOQP",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "choque en moto con ragdoll y reacción fuerte",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.0,
+  29.0
+ ],
+ "hook": {
+  "ES": "Chocó en moto contra una camioneta a 80 km/h en GTA 6… y se levantó como si nada 🏍️💪",
+  "EN": "Rear-ended a van at 50 mph on a motorcycle in GTA 6… and just got back up 🏍️💪"
+ },
+ "subs": [
+  {
+   "start": 4.62,
+   "end": 6.95,
+   "ES": "¡No puede ser! ¡Sobreviví a eso!",
+   "EN": "No way! I survived that!"
+  },
+  {
+   "start": 8.72,
+   "end": 11.2,
+   "ES": "[[Mierda]], ¡eso es una [[maldita]] victoria!",
+   "EN": "[[Damn]], that's a [[freaking]] W!"
+  },
+  {
+   "start": 11.46,
+   "end": 12.9,
+   "ES": "Mi personaje es una [[puta]] bestia",
+   "EN": "My character's a [[freaking]] beast"
+  },
+  {
+   "start": 13.66,
+   "end": 17.4,
+   "ES": "Por eso hay que ir al gym, chat",
+   "EN": "That's why you work out, chat"
+  },
+  {
+   "start": 18.42,
+   "end": 21.9,
+   "ES": "¿Chocar contra un auto a 80 km/h en moto…",
+   "EN": "Rear-ending a car at 50 mph on a motorcycle…"
+  },
+  {
+   "start": 22.0,
+   "end": 23.2,
+   "ES": "…y no morir en el impacto?",
+   "EN": "…and not dying on impact?"
+  },
+  {
+   "start": 25.78,
+   "end": 28.9,
+   "ES": "Iba a decir: si choco ahora, me muero 💀",
+   "EN": "Was about to say: if I hit a car now, I'm dead 💀"
+  }
+ ],
+ "bleep": [
+  [
+   8.62,
+   8.98
+  ],
+  [
+   9.54,
+   9.9
+  ],
+  [
+   12.12,
+   12.45
+  ],
+  [
+   20.06,
+   20.5
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.86,
+    0.6,
+    0.12
+   ],
+   "start": 0.0,
+   "end": 29.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El personaje más DURO de GTA 6 🏍️💪",
+   "caption": "Moto contra camioneta a toda velocidad… y se levanta sin un rasguño 😂 ¿Físicas realistas o modo tanque? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "The TOUGHEST character in GTA 6 🏍️💪",
+   "caption": "Motorcycle vs van at full speed… and they walk it off 😂 Realistic physics or tank mode? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

@@ -638,3 +638,5 @@
 - 2026-11-20T20:06:25Z | `TW_SteamyMagnificentCoffeeKAPOW-iUXp5ViwmBtmUZHh_ES` | Spotlight / Mecánicas | instagram | scheduled @2026-11-21T07:46:27Z | 🎥 @roger9527 (zh->ES) | Spoiler: 0% (Verificado)
 - 2026-11-20T20:06:28Z | `TW_SteamyMagnificentCoffeeKAPOW-iUXp5ViwmBtmUZHh_EN` | Spotlight / Mecánicas | instagram | scheduled @2026-11-21T07:36:18Z | 🎥 @roger9527 (zh->EN) | Spoiler: 0% (Verificado)
 - 2026-11-20T20:06:31Z | `TW_SuccessfulRelatedLocustCharlietheUnicorn-nx1rouwd9-oqcYxL_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-21T08:06:18Z | 🎥 @josie5297 (zh->EN) | Spoiler: 0% (Verificado)
+- 2026-11-20T20:43:40Z | `TW_AbrasiveBrightLouseRuleFive-BFSfSo6HS4Qot9Nn_ES` | NPCs / Momentos divertidos | instagram | scheduled @2026-11-21T08:16:27Z | 🎥 @welovegames (ru->ES) | Spoiler: 0% (Verificado)
+- 2026-11-20T20:43:43Z | `TW_AbrasiveBrightLouseRuleFive-BFSfSo6HS4Qot9Nn_EN` | NPCs / Momentos divertidos | instagram | scheduled @2026-11-21T08:36:18Z | 🎥 @welovegames (ru->EN) | Spoiler: 0% (Verificado)

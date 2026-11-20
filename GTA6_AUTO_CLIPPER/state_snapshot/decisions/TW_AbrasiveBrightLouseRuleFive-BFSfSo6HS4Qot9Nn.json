@@ -1,0 +1,65 @@
+{
+ "id": "TW_AbrasiveBrightLouseRuleFive-BFSfSo6HS4Qot9Nn",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "reason": "robo de vehículo con NPC pasivo y final en el agua",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  6.0,
+  36.0
+ ],
+ "hook": {
+  "ES": "Le pidió el cuatrimoto a un NPC con TODA la educación en GTA 6… y así terminó 🏍️🐊",
+  "EN": "Asked an NPC for their ATV SUPER politely in GTA 6… and this is how it ended 🏍️🐊"
+ },
+ "subs": [
+  {
+   "start": 6.49,
+   "end": 9.2,
+   "ES": "Buenas tardes…",
+   "EN": "Good afternoon…"
+  },
+  {
+   "start": 9.31,
+   "end": 11.4,
+   "ES": "necesitamos mucho su vehículo, disculpe",
+   "EN": "we really need your ride, sorry about this"
+  },
+  {
+   "start": 16.48,
+   "end": 18.95,
+   "ES": "Y el señor ahí sentado, mirando 😐",
+   "EN": "And the guy's just sitting there, staring 😐"
+  },
+  {
+   "start": 19.02,
+   "end": 20.2,
+   "ES": "¡Vámonos rápido!",
+   "EN": "Let's go, quick!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El robo más EDUCADO de GTA 6 🙏",
+   "caption": "Pidió permiso, pidió perdón… y aun así el cuatrimoto no sobrevivió 😂 ¿Qué hubieras hecho tú? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPCs"
+   ]
+  },
+  "EN": {
+   "title": "The most POLITE carjacking in GTA 6 🙏",
+   "caption": "Said please, said sorry… and the ATV still didn't make it 😂 What would you do? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPCs"
+   ]
+  }
+ }
+}
