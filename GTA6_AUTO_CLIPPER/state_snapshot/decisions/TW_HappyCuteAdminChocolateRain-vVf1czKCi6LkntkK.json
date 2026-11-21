@@ -1,0 +1,92 @@
+{
+ "id": "TW_HappyCuteAdminChocolateRain-vVf1czKCi6LkntkK",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "momento viral con animal en auto, sin historia",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  12.5,
+  40.4
+ ],
+ "hook": {
+  "ES": "Un GATO se coló en su auto en GTA 6… y no pensaba bajarse 🐈💥",
+  "EN": "A CAT snuck into their car in GTA 6… and refused to leave 🐈💥"
+ },
+ "subs": [
+  {
+   "start": 14.68,
+   "end": 17.14,
+   "ES": "¿Dónde? ¿Qué quiere decir?",
+   "EN": "Where? What do you mean?"
+  },
+  {
+   "start": 17.14,
+   "end": 19.76,
+   "ES": "¡Oh, [[mierda]]! ¡Hay un gato en el auto!",
+   "EN": "Oh [[shit]]! There's a cat in the car!"
+  },
+  {
+   "start": 25.52,
+   "end": 27.0,
+   "ES": "¡[[Mierda]], suéltame!",
+   "EN": "[[Shit]], let go of me!"
+  },
+  {
+   "start": 27.98,
+   "end": 29.0,
+   "ES": "¡Qué [[mierda]]!",
+   "EN": "[[Damn]] it!"
+  },
+  {
+   "start": 34.98,
+   "end": 36.62,
+   "ES": "¡Mira cómo sale disparado!",
+   "EN": "Look at it go!"
+  },
+  {
+   "start": 37.32,
+   "end": 40.2,
+   "ES": "Espera, va a 35 km/h… nunca vi un gato tan rápido.",
+   "EN": "Wait, it's doing 35 km/h… never seen a cat that fast."
+  }
+ ],
+ "bleep": [
+  [
+   17.22,
+   17.94
+  ],
+  [
+   25.42,
+   26.02
+  ],
+  [
+   28.1,
+   28.7
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "El gato más rebelde de GTA 6 🐈",
+   "caption": "Robó un auto en GTA 6 sin revisar el asiento… y el gato tomó el control 😂🐈 ¿Quién ganó?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gatos"
+   ]
+  },
+  "EN": {
+   "title": "The most chaotic cat in GTA 6 🐈",
+   "caption": "Stole a car in GTA 6 without checking the seat… and the cat took over 😂🐈 Who won?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cats"
+   ]
+  }
+ }
+}
