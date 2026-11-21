@@ -1,0 +1,90 @@
+{
+ "id": "TW_SweetCredulousCrowNerfRedBlaster-WarGLhhN6lR-9g3P",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "carrera de motocross con remate físico inesperado, reacción fuerte, streamer ES grande",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.5,
+  13.6
+ ],
+ "hook": {
+  "ES": "Iba ganando la carrera de motocross en GTA 6… y le CAYÓ del cielo 🏍️💥",
+  "EN": "Leading the dirt bike race in GTA 6… until THIS fell from the sky 🏍️💥"
+ },
+ "subs": [
+  {
+   "start": 5.94,
+   "end": 7.0,
+   "ES": "¡Eso es trampa!",
+   "EN": "That's cheating!"
+  },
+  {
+   "start": 7.84,
+   "end": 9.18,
+   "ES": "¡Gente! ¡Gente!",
+   "EN": "Chat! Chat!"
+  },
+  {
+   "start": 9.66,
+   "end": 10.24,
+   "ES": "¡Qué barbaridad!",
+   "EN": "That's insane!"
+  },
+  {
+   "start": 10.86,
+   "end": 11.14,
+   "ES": "¡Hola!",
+   "EN": "Hello?!"
+  }
+ ],
+ "replay": {
+  "start": 4.0,
+  "end": 6.0,
+  "box": [
+   0.2,
+   0.15,
+   0.6,
+   0.7
+  ],
+  "text": {
+   "ES": "Aterrizaje sobre la rival 💀",
+   "EN": "Landed right on top 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Primera en la carrera… ¿qué podría salir mal?",
+   "EN": "First place in the race… what could go wrong?"
+  },
+  "outro": {
+   "ES": "Ese salto no fue mala suerte, fue puntería perfecta. ¿Trampa o física pura?",
+   "EN": "That jump wasn't bad luck, it was perfect aim. Cheating or pure physics?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Le cayó una camioneta en plena carrera 💥",
+   "caption": "Iba primera en la carrera de motos de GTA 6 y la física decidió otra cosa 😭 ¿Trampa o mala suerte?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Motocross"
+   ]
+  },
+  "EN": {
+   "title": "A truck landed on them mid-race 💥",
+   "caption": "First place in the GTA 6 dirt bike race… then physics had other plans 😭 Cheating or bad luck?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Motocross"
+   ]
+  }
+ }
+}

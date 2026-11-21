@@ -679,3 +679,7 @@
 - 2026-11-21T08:33:15Z | `TW_LightHungryStinkbugRitzMitz--9h2hfQUsrxODcRm_ES` | Misterios / Easter eggs | youtube | scheduled @2026-11-22T08:15:00Z | 🎥 @typicalgamer (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-21T08:33:20Z | `TW_LightHungryStinkbugRitzMitz--9h2hfQUsrxODcRm_EN` | Misterios / Easter eggs | instagram | scheduled @2026-11-22T01:16:18Z | 🎥 @typicalgamer (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-21T08:33:24Z | `TW_LightHungryStinkbugRitzMitz--9h2hfQUsrxODcRm_EN` | Misterios / Easter eggs | youtube | scheduled @2026-11-22T08:15:00Z | 🎥 @typicalgamer (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T10:32:34Z | `TW_SweetCredulousCrowNerfRedBlaster-WarGLhhN6lR-9g3P_ES` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-22T05:26:27Z | 🎥 @rubius (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T10:32:39Z | `TW_SweetCredulousCrowNerfRedBlaster-WarGLhhN6lR-9g3P_ES` | Físicas / Momentos divertidos | youtube | scheduled @2026-11-23T08:10:00Z | 🎥 @rubius (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T10:32:45Z | `TW_SweetCredulousCrowNerfRedBlaster-WarGLhhN6lR-9g3P_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-22T02:51:18Z | 🎥 @rubius (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T10:32:50Z | `TW_SweetCredulousCrowNerfRedBlaster-WarGLhhN6lR-9g3P_EN` | Físicas / Momentos divertidos | youtube | scheduled @2026-11-23T08:10:00Z | 🎥 @rubius (es->EN) | Spoiler: 0% (Verificado)
