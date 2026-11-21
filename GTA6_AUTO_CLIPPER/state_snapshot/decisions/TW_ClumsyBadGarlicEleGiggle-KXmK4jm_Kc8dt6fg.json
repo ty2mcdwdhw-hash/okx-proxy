@@ -1,0 +1,106 @@
+{
+ "id": "TW_ClumsyBadGarlicEleGiggle-KXmK4jm_Kc8dt6fg",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "fallo de paracaidas tras aterrizaje forzoso en azotea; caida clara y remate wasted",
+ "pillar": "Físicas / Paracaídas",
+ "trim": [
+  2.5,
+  19.5
+ ],
+ "hook": {
+  "ES": "Saltó de la azotea en GTA 6… y el paracaídas NUNCA se abrió 🪂💀",
+  "EN": "Jumped off a rooftop in GTA 6… and the parachute NEVER opened 🪂💀"
+ },
+ "subs": [
+  {
+   "start": 6.36,
+   "end": 8.9,
+   "ES": "Problema, hay un problema…",
+   "EN": "Problem, there's a problem…"
+  },
+  {
+   "start": 9.1,
+   "end": 10.86,
+   "ES": "¡No se abre el paracaídas!",
+   "EN": "The parachute won't open!"
+  },
+  {
+   "start": 12.64,
+   "end": 14.3,
+   "ES": "…y estoy muerto.",
+   "EN": "…and I'm dead."
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.82,
+    0.46,
+    0.15
+   ],
+   "start": 6.0,
+   "end": 15.0
+  },
+  {
+   "box": [
+    0.75,
+    0.5,
+    0.25,
+    0.36
+   ],
+   "start": 2.5,
+   "end": 19.5
+  }
+ ],
+ "replay": {
+  "start": 11.5,
+  "end": 14.5,
+  "box": [
+   0.15,
+   0.1,
+   0.6,
+   0.8
+  ],
+  "text": {
+   "ES": "La palmera no amortigua 🌴💀",
+   "EN": "Palm trees aren't airbags 🌴💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Nunca saltes así en GTA 6. Mira por qué.",
+   "EN": "Never jump like this in GTA 6. Here's why."
+  },
+  "outro": {
+   "ES": "Ni la palmera lo salvó. ¿Tú habrías abierto el paracaídas a tiempo?",
+   "EN": "Not even the palm tree saved them. Would you have pulled the chute in time?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El paracaídas que nunca se abrió en GTA 6 🪂",
+   "caption": "Aterrizaje forzoso, salto desde la azotea… y el paracaídas decidió no trabajar hoy 💀 ¿Fallo del jugador o del juego?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "The parachute that never opened in GTA 6 🪂",
+   "caption": "Crash landing, rooftop jump… and the parachute took the day off 💀 Player error or game's fault?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
