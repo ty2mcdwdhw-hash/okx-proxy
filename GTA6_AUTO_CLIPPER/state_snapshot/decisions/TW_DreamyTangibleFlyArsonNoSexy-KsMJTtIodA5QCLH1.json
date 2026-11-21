@@ -1,0 +1,72 @@
+{
+ "id": "TW_DreamyTangibleFlyArsonNoSexy-KsMJTtIodA5QCLH1",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento de vuelo limpio, streamer hispano grande",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  4.0,
+  22.0
+ ],
+ "hook": {
+  "ES": "Aterrizar un hidroavión… en TIERRA en GTA 6 ✈️🌿",
+  "EN": "Landing a seaplane… on DIRT in GTA 6 ✈️🌿"
+ },
+ "subs": [
+  {
+   "start": 15.07,
+   "end": 16.47,
+   "ES": "¡Aterrizado!",
+   "EN": "Touchdown!"
+  }
+ ],
+ "replay": {
+  "start": 12.5,
+  "end": 15.5,
+  "box": [
+   0.25,
+   0.3,
+   0.55,
+   0.55
+  ],
+  "text": {
+   "ES": "Aterrizaje de piloto PRO",
+   "EN": "Certified pro pilot landing"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira cómo aterriza este hidroavión sin agua",
+   "EN": "Watch this seaplane land with no water"
+  },
+  "outro": {
+   "ES": "Sin pista, sin agua y sin dudas. ¿Tú lo habrías logrado?",
+   "EN": "No runway, no water, no doubts. Could you pull this off?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Aterrizaje con estilo en GTA 6",
+   "caption": "Un hidroavión, cero agua y un aterrizaje de 10 ✈️ ¿Mejor piloto de GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Aviones"
+   ]
+  },
+  "EN": {
+   "title": "Landing in style in GTA 6",
+   "caption": "A seaplane, zero water and a perfect 10 landing ✈️ Best pilot in GTA 6?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Planes"
+   ]
+  }
+ }
+}
