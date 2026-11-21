@@ -1,0 +1,66 @@
+{
+ "id": "TW_JazzyGracefulAmazonBudBlast-Obrhy0EOyx1UOLO5",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "intenta colarse entre el tráfico y termina en choque múltiple con física brutal",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.0,
+  19.0
+ ],
+ "hook": {
+  "ES": "«¡Entro, entro!»… y GTA 6 le enseñó lo que es la física de verdad 🚗💥",
+  "EN": "\"I'm getting in, I'm getting in!\"… and GTA 6 taught them what real physics is 🚗💥"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 0.98,
+   "ES": "¡Entro, entro!",
+   "EN": "I'm in, I'm in!"
+  },
+  {
+   "start": 16.53,
+   "end": 17.27,
+   "ES": "¡Está nuevo, eh!",
+   "EN": "Good as new, huh!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.8,
+    0.55,
+    0.2,
+    0.4
+   ],
+   "start": 0.0,
+   "end": 19.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La física de choques de GTA 6 💥",
+   "caption": "Quiso meterse entre los autos a toda velocidad… y el auto quedó «como nuevo» 😂💥 ¿Lo habrías esquivado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 crash physics 💥",
+   "caption": "Tried to squeeze between cars at full speed… and the car is \"good as new\" 😂💥 Would you have dodged it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

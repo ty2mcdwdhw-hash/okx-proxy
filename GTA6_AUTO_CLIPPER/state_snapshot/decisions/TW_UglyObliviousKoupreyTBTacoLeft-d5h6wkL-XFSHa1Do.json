@@ -1,0 +1,96 @@
+{
+ "id": "TW_UglyObliviousKoupreyTBTacoLeft-d5h6wkL-XFSHa1Do",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "presume de manejo y un NPC le embiste de lado, reacción del streamer",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  0.5,
+  19.0
+ ],
+ "hook": {
+  "ES": "Presumía su buen manejo en GTA 6… hasta que apareció ESTE NPC 🛻😱",
+  "EN": "They were bragging about their driving in GTA 6… until THIS NPC showed up 🛻😱"
+ },
+ "subs": [
+  {
+   "start": 0.7,
+   "end": 3.88,
+   "ES": "Qué rápido, qué buen manejo, espectacular",
+   "EN": "So fast, great handling, amazing"
+  },
+  {
+   "start": 5.3,
+   "end": 7.1,
+   "ES": "Roba, roba…",
+   "EN": "Steal it, steal it…"
+  },
+  {
+   "start": 11.46,
+   "end": 12.42,
+   "ES": "¡Me ha partido la pierna!",
+   "EN": "It broke my leg!"
+  },
+  {
+   "start": 13.38,
+   "end": 14.0,
+   "ES": "¡¿Qué [[cojones]]?!",
+   "EN": "What the [[hell]]?!"
+  },
+  {
+   "start": 15.02,
+   "end": 16.24,
+   "ES": "Bueno, he sobrerreaccionado",
+   "EN": "Okay, I overreacted"
+  },
+  {
+   "start": 16.24,
+   "end": 18.46,
+   "ES": "Van a decir que me he vendido a Rockstar",
+   "EN": "They'll say I sold out to Rockstar"
+  }
+ ],
+ "bleep": [
+  [
+   13.48,
+   14.1
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.84,
+    0.44,
+    0.12
+   ],
+   "start": 13.0,
+   "end": 14.8
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El NPC más traicionero de GTA 6 🛻",
+   "caption": "Todo iba perfecto… y un NPC decidió que no 🛻💥 ¿Los NPCs de GTA 6 manejan peor que tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6's sneakiest NPC 🛻",
+   "caption": "Everything was perfect… until an NPC said no 🛻💥 Do GTA 6 NPCs drive worse than you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

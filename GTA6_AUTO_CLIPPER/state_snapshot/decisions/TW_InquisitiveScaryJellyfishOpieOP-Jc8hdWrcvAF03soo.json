@@ -1,0 +1,66 @@
+{
+ "id": "TW_InquisitiveScaryJellyfishOpieOP-Jc8hdWrcvAF03soo",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "huida improvisada de la policía cambiando de vehículo, reacción",
+ "pillar": "NPCs / Policía",
+ "trim": [
+  0.3,
+  26.0
+ ],
+ "hook": {
+  "ES": "Plan A, plan B, plan C… y al final el plan F en GTA 6 🚓😂",
+  "EN": "Plan A, plan B, plan C… and in the end, plan F in GTA 6 🚓😂"
+ },
+ "subs": [
+  {
+   "start": 0.37,
+   "end": 2.83,
+   "ES": "¡Este auto tiene bloqueo de llave, Dios mío!",
+   "EN": "This car has a key lock, oh my God!"
+  },
+  {
+   "start": 3.01,
+   "end": 5.25,
+   "ES": "¡Plan F! ¡Plan F! ¡Plan F!",
+   "EN": "Plan F! Plan F! Plan F!"
+  },
+  {
+   "start": 5.87,
+   "end": 6.2,
+   "ES": "¡Vamos!",
+   "EN": "Come on!"
+  },
+  {
+   "start": 23.46,
+   "end": 25.36,
+   "ES": "¡Es lo que hay, gente! ¡Vamos, vamos!",
+   "EN": "It is what it is, guys! Go, go!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El plan F de GTA 6 🚓",
+   "caption": "Cuando ningún plan funciona, improvisas 🚓😂 ¿Cuál habría sido tu plan?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6's plan F 🚓",
+   "caption": "When no plan works, you improvise 🚓😂 What would your plan have been?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}
