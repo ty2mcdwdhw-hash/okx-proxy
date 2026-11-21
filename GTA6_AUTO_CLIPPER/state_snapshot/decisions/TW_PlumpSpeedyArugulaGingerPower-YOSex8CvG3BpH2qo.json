@@ -1,0 +1,108 @@
+{
+ "id": "TW_PlumpSpeedyArugulaGingerPower-YOSex8CvG3BpH2qo",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "choque con ragdoll cinematográfico, streamer con gran audiencia, sin historia",
+ "pillar": "Físicas / Ragdoll",
+ "trim": [
+  3.0,
+  18.0
+ ],
+ "hook": {
+  "ES": "Moto, cámara lenta… y un SUV en el camino 🏍️💥",
+  "EN": "Motorbike, slow-mo… and an SUV in the way 🏍️💥"
+ },
+ "subs": [
+  {
+   "start": 8.24,
+   "end": 8.96,
+   "ES": "Ah, vale…",
+   "EN": "Oh, okay…"
+  },
+  {
+   "start": 9.02,
+   "end": 10.54,
+   "ES": "Sí, me acuerdo de esa vez, bro",
+   "EN": "Yeah, I remember that time, bro"
+  },
+  {
+   "start": 11.56,
+   "end": 12.8,
+   "ES": "¡Ay, mi [[puto]] Dios!",
+   "EN": "Oh my [[f***ing]] god!"
+  },
+  {
+   "start": 12.8,
+   "end": 13.48,
+   "ES": "Me acuerdo de esa vez…",
+   "EN": "I remember that time…"
+  }
+ ],
+ "bleep": [
+  [
+   12.04,
+   12.66
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.85,
+    0.4,
+    0.12
+   ],
+   "start": 11.4,
+   "end": 13.1
+  }
+ ],
+ "replay": {
+  "start": 8.6,
+  "end": 11.2,
+  "box": [
+   0.25,
+   0.05,
+   0.55,
+   0.8
+  ],
+  "text": {
+   "ES": "Voló directo al SUV 💀",
+   "EN": "Straight into the SUV 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Atento a la cámara lenta de este choque",
+   "EN": "Watch the slow-mo on this crash"
+  },
+  "outro": {
+   "ES": "Salió volando, rodó por el césped… y se levantó como si nada. ¿Físicas top?",
+   "EN": "Flew off, rolled through the grass… and got up like nothing happened. Top physics?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El choque en moto más cinematográfico de GTA 6",
+   "caption": "Iba tranquilo en moto… y GTA 6 activó la cámara lenta justo antes del SUV 🏍️💥 ¿Lo habías visto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "The most cinematic bike crash in GTA 6",
+   "caption": "Just cruising on a bike… then GTA 6 hit slow-mo right before the SUV 🏍️💥 Ever seen this?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
