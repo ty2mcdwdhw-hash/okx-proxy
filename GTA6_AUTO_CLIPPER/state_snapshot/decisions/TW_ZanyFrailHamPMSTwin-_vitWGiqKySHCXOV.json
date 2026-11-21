@@ -1,0 +1,114 @@
+{
+ "id": "TW_ZanyFrailHamPMSTwin-_vitWGiqKySHCXOV",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "detalle de sonido del turbo, reacción clara",
+ "pillar": "Autos y tuning / Mecánicas",
+ "trim": [
+  14.5,
+  44.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 el turbo SÍ se escucha 🏎️🔊",
+  "EN": "In GTA 6 you can actually HEAR the turbo 🏎️🔊"
+ },
+ "subs": [
+  {
+   "start": 15.18,
+   "end": 17.62,
+   "ES": "¿Eh? Espera… ¿le puse turbo?",
+   "EN": "Huh? Wait… did I add a turbo?"
+  },
+  {
+   "start": 18.56,
+   "end": 20.06,
+   "ES": "Suena a turbo de verdad",
+   "EN": "It really sounds like a turbo"
+  },
+  {
+   "start": 22.63,
+   "end": 24.65,
+   "ES": "¿Eh? ¡Qué locura!",
+   "EN": "Huh? That's insane!"
+  },
+  {
+   "start": 26.97,
+   "end": 29.39,
+   "ES": "¡Qué locura!",
+   "EN": "So sick!"
+  },
+  {
+   "start": 29.77,
+   "end": 31.09,
+   "ES": "Cambia el sonido del motor",
+   "EN": "The engine sound changes"
+  },
+  {
+   "start": 31.09,
+   "end": 35.86,
+   "ES": "El turbo está soplando de verdad",
+   "EN": "The turbo's actually spooling"
+  },
+  {
+   "start": 37.46,
+   "end": 40.08,
+   "ES": "¡Brutal, brutal!",
+   "EN": "No way, that's wild!"
+  },
+  {
+   "start": 42.84,
+   "end": 43.8,
+   "ES": "¡Brutal!",
+   "EN": "Wild!"
+  }
+ ],
+ "replay": {
+  "start": 22.4,
+  "end": 25.6,
+  "box": [
+   0.34,
+   0.48,
+   0.32,
+   0.32
+  ],
+  "text": {
+   "ES": "Escucha ese turbo 🔊",
+   "EN": "Listen to that turbo 🔊"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Sube el volumen y escucha este auto",
+   "EN": "Turn it up and listen to this car"
+  },
+  "outro": {
+   "ES": "Le pones turbo y el motor suena distinto. ¿Qué auto tunearías primero?",
+   "EN": "Add a turbo and the engine sounds different. Which car would you tune first?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El turbo en GTA 6 suena REAL 🏎️🔊",
+   "caption": "Le montó turbo y el motor cambió de sonido 😳 ¿Lo notas? 🔊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Tuning"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 turbo sounds REAL 🏎️🔊",
+   "caption": "They added a turbo and the engine sound changed 😳 Can you hear it? 🔊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Tuning"
+   ]
+  }
+ }
+}
