@@ -1,0 +1,65 @@
+{
+ "id": "TW_CovertAffluentFerretTF2John-wUloJKpDyAZIayIo",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "atraviesa una zona de obras a toda velocidad, choque gracioso",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  0.0,
+  21.0
+ ],
+ "hook": {
+  "ES": "«Ahora es recta, cero problemas»… y se comió TODAS las obras 🚧💥",
+  "EN": "\"It's a straight road now, no worries\"… and plowed through ALL the roadwork 🚧💥"
+ },
+ "subs": [
+  {
+   "start": 0.72,
+   "end": 2.49,
+   "ES": "Bueno, ahora sí",
+   "EN": "All right, now"
+  },
+  {
+   "start": 5.67,
+   "end": 7.4,
+   "ES": "ya estamos en una recta",
+   "EN": "we're on a straight road"
+  },
+  {
+   "start": 15.59,
+   "end": 17.9,
+   "ES": "Tranqui, tranqui, sigue funcionando perfecto",
+   "EN": "No worries, no worries, it's still working just fine"
+  },
+  {
+   "start": 18.19,
+   "end": 19.65,
+   "ES": "Solo tira un poco a la izquierda",
+   "EN": "It just pulls a little to the left"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "La recta más peligrosa de GTA 6 🚧",
+   "caption": "Conos, vallas, obreros… y el auto «funciona perfecto» 🚧💥 ¿Cuántos conos contaste?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6's most dangerous straight road 🚧",
+   "caption": "Cones, barriers, workers… and the car is \"working just fine\" 🚧💥 How many cones did you count?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

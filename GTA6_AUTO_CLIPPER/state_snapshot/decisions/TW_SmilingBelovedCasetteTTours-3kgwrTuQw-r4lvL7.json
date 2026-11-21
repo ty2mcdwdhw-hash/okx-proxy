@@ -1,0 +1,71 @@
+{
+ "id": "TW_SmilingBelovedCasetteTTours-3kgwrTuQw-r4lvL7",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "persecución con 5 estrellas hasta el final, reacción",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.0,
+  27.0
+ ],
+ "hook": {
+  "ES": "5 estrellas, ruedas pinchadas… y aun así NO se rindió 🚓💀",
+  "EN": "5 stars, flat tires… and still REFUSED to give up 🚓💀"
+ },
+ "subs": [
+  {
+   "start": 1.58,
+   "end": 2.6,
+   "ES": "¡Sigo vivo!",
+   "EN": "Still alive!"
+  },
+  {
+   "start": 6.92,
+   "end": 8.9,
+   "ES": "¡Ruedas pinchadas, GG tío!",
+   "EN": "Flat tires, GG bro!"
+  },
+  {
+   "start": 9.94,
+   "end": 10.9,
+   "ES": "¡Es el fin!",
+   "EN": "It's over!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.74,
+    0.55,
+    0.26,
+    0.27
+   ],
+   "start": 0.0,
+   "end": 27.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "5 estrellas en GTA 6 🚓",
+   "caption": "Con 5 estrellas, las ruedas reventadas y todo Vice City detrás 🚓💀 ¿Hasta dónde habrías aguantado tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "5 stars in GTA 6 🚓",
+   "caption": "5 stars, blown tires and the whole city chasing 🚓💀 How long would you have lasted?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}

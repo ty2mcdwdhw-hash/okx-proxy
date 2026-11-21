@@ -1,0 +1,89 @@
+{
+ "id": "TW_SlickGrossBaconNomNom-gj0H7Q16LrvyCHWc",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "le quita el kayak a una NPC con educación, atardecer en el agua",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  0.8,
+  30.5
+ ],
+ "hook": {
+  "ES": "Le robó el kayak a una señora en GTA 6… pero con MUCHA educación 🛶😇",
+  "EN": "Stole a kayak from a lady in GTA 6… but VERY politely 🛶😇"
+ },
+ "subs": [
+  {
+   "start": 1.23,
+   "end": 2.69,
+   "ES": "Ay, que le quito el kayak a la señora",
+   "EN": "Oops, I'm taking the lady's kayak"
+  },
+  {
+   "start": 3.07,
+   "end": 3.6,
+   "ES": "¡Señora!",
+   "EN": "Ma'am!"
+  },
+  {
+   "start": 5.35,
+   "end": 6.3,
+   "ES": "Buenas tardes",
+   "EN": "Good afternoon"
+  },
+  {
+   "start": 6.81,
+   "end": 8.59,
+   "ES": "Con permiso…",
+   "EN": "Excuse me…"
+  },
+  {
+   "start": 17.65,
+   "end": 18.3,
+   "ES": "Disculpe",
+   "EN": "Pardon me"
+  },
+  {
+   "start": 23.38,
+   "end": 24.2,
+   "ES": "Perdón, señora",
+   "EN": "Sorry, ma'am"
+  },
+  {
+   "start": 25.52,
+   "end": 26.3,
+   "ES": "¿Se asustó?",
+   "EN": "Did I scare you?"
+  },
+  {
+   "start": 28.93,
+   "end": 30.43,
+   "ES": "Dios mío, qué bonito se ve esto",
+   "EN": "Oh my God, this looks so beautiful"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "El robo más educado de GTA 6 🛶",
+   "caption": "Buenas tardes, con permiso… y el kayak es mío 😇🌅 ¿Quién roba con tanta educación?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "The politest robbery in GTA 6 🛶",
+   "caption": "Good afternoon, excuse me… and the kayak is mine 😇🌅 Who robs this politely?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}
