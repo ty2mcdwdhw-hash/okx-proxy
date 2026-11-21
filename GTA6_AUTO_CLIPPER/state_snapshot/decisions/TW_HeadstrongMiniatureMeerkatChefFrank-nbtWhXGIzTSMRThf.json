@@ -1,0 +1,77 @@
+{
+ "id": "TW_HeadstrongMiniatureMeerkatChefFrank-nbtWhXGIzTSMRThf",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "jugador parado en un cruce mientras el tráfico NPC choca sin parar a su alrededor; camión arrasa a su lado",
+ "pillar": "NPCs / Físicas y Gameplay",
+ "trim": [
+  22.0,
+  46.0
+ ],
+ "hook": {
+  "ES": "Se quedó quieto en medio del cruce en GTA 6… y el tráfico se volvió LOCO 🚗💥",
+  "EN": "Stood still in the middle of the intersection in GTA 6… and traffic went NUTS 🚗💥"
+ },
+ "subs": [],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.55,
+    0.2,
+    0.28
+   ],
+   "start": 22.0,
+   "end": 46.0
+  }
+ ],
+ "replay": {
+  "start": 37.5,
+  "end": 40.8,
+  "box": [
+   0.25,
+   0.2,
+   0.6,
+   0.75
+  ],
+  "text": {
+   "ES": "Ni se inmutó 😐",
+   "EN": "Didn't even flinch 😐"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Quedarse quieto en un cruce de GTA 6. Mala idea.",
+   "EN": "Standing still at a GTA 6 intersection. Bad idea."
+  },
+  "outro": {
+   "ES": "Los conductores de GTA 6 no frenan por nadie. ¿Tú te quedarías ahí?",
+   "EN": "GTA 6 drivers don't brake for anyone. Would you stand there?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Los conductores de GTA 6 NO frenan 🚗💥",
+   "caption": "Se plantó en medio del cruce… y los NPC siguieron chocando uno tras otro a su alrededor 😳 ¿Tú te quedarías ahí?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 drivers DON'T brake 🚗💥",
+   "caption": "Stood right in the middle of the intersection… and the NPCs kept crashing one after another all around 😳 Would you stand there?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}

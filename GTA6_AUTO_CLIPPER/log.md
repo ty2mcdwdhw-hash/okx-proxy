@@ -688,3 +688,4 @@
 - 2026-11-21T11:04:44Z | `TW_ArborealGlutenFreeWebCorgiDerp-N1j1VE-T0MkAL3Ux_EN` | NPCs / Momentos divertidos | instagram | scheduled @2026-11-22T05:46:18Z | 🎥 @auronplay (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-21T11:04:48Z | `TW_ArborealGlutenFreeWebCorgiDerp-N1j1VE-T0MkAL3Ux_EN` | NPCs / Momentos divertidos | youtube | scheduled @2026-11-23T08:15:00Z | 🎥 @auronplay (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-21T20:35:02Z | `TW_ClumsyBadGarlicEleGiggle-KXmK4jm_Kc8dt6fg_EN` | Físicas / Paracaídas | instagram | scheduled @2026-11-22T08:16:18Z | 🎥 @zarbex (de->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T23:03:44Z | `TW_HeadstrongMiniatureMeerkatChefFrank-nbtWhXGIzTSMRThf_ES` | NPCs / Físicas y Gameplay | instagram | scheduled @2026-11-22T11:01:27Z | 🎥 @ludwig (en->ES) | Spoiler: 0% (Verificado)
