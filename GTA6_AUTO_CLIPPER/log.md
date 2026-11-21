@@ -661,3 +661,5 @@
 - 2026-11-21T00:36:18Z | `TW_SmilingBelovedCasetteTTours-3kgwrTuQw-r4lvL7_ES` | Momentos divertidos / Policía | instagram | scheduled @2026-11-21T12:21:27Z | 🎥 @paache_ (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-21T01:07:07Z | `TW_InquisitiveScaryJellyfishOpieOP-Jc8hdWrcvAF03soo_ES` | NPCs / Policía | instagram | scheduled @2026-11-21T12:51:27Z | 🎥 @alanzoka (pt->ES) | Spoiler: 0% (Verificado)
 - 2026-11-21T01:36:04Z | `TW_FairEndearingGarbageHassanChop-91qbdDPrIrwx2bjg_ES` | Spotlight / Mecánicas | instagram | scheduled @2026-11-21T13:21:27Z | 🎥 @arigameplays (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T02:06:33Z | `TW_CarelessCreativeDunlinUncleNox-Rbvh32DMdPCLDV7x_ES` | NPCs / Momentos divertidos | instagram | scheduled @2026-11-21T13:51:27Z | 🎥 @alanzoka (pt->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T02:06:36Z | `TW_CarelessCreativeDunlinUncleNox-Rbvh32DMdPCLDV7x_EN` | NPCs / Momentos divertidos | instagram | scheduled @2026-11-21T14:06:18Z | 🎥 @alanzoka (pt->EN) | Spoiler: 0% (Verificado)

@@ -1,0 +1,78 @@
+{
+ "id": "TW_CarelessCreativeDunlinUncleNox-Rbvh32DMdPCLDV7x",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "atropella a una NPC en patinete y ella le reclama",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  0.5,
+  17.9
+ ],
+ "hook": {
+  "ES": "Tumbó a una NPC en GTA 6… y ella le exigió RESPETO 🛴😤",
+  "EN": "They knocked over an NPC in GTA 6… and she demanded RESPECT 🛴😤"
+ },
+ "subs": [
+  {
+   "start": 1.26,
+   "end": 3.2,
+   "ES": "¿Está cerrado el auto? No entiendo",
+   "EN": "Is the car locked? I don't get it"
+  },
+  {
+   "start": 3.28,
+   "end": 3.9,
+   "ES": "¡Uy, cuidado!",
+   "EN": "Whoa, watch out!"
+  },
+  {
+   "start": 6.57,
+   "end": 7.85,
+   "ES": "Lo hice a propósito, bro",
+   "EN": "I did that on purpose, bro"
+  },
+  {
+   "start": 8.63,
+   "end": 10.61,
+   "ES": "Para que andes más atenta, bro",
+   "EN": "So you pay more attention, bro"
+  },
+  {
+   "start": 11.59,
+   "end": 13.07,
+   "ES": "Se cree la dueña de la calle",
+   "EN": "She thinks she owns the street"
+  },
+  {
+   "start": 16.9,
+   "end": 17.8,
+   "ES": "Es la dueña de la calle",
+   "EN": "She owns the street"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Los NPCs de GTA 6 no se dejan 🛴",
+   "caption": "La tumba sin querer (o queriendo)… y la NPC le responde con todo 😂 ¿Quién tuvo la culpa?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPCs"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 NPCs don't take it lying down 🛴",
+   "caption": "Knocked her over by accident (or not)… and the NPC clapped back 😂 Whose fault was it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPCs"
+   ]
+  }
+ }
+}

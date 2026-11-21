@@ -1,0 +1,72 @@
+{
+ "id": "TW_PiliableExquisiteChinchillaHoneyBadger-FVU4UfouFDixNV4i",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "conduce un auto de misión directo al agua, fallo",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  0.0,
+  12.7
+ ],
+ "hook": {
+  "ES": "Tenía UNA sola tarea en GTA 6… y terminó en el agua 🚗🌊",
+  "EN": "They had ONE job in GTA 6… and ended up in the water 🚗🌊"
+ },
+ "subs": [
+  {
+   "start": 6.16,
+   "end": 8.9,
+   "ES": "Obvio, lo único que me llevo…",
+   "EN": "Of course, the one thing I take…"
+  },
+  {
+   "start": 9.38,
+   "end": 12.48,
+   "ES": "…lo meto en un [[maldito]] lago, bro",
+   "EN": "…I drive into a [[freaking]] lake, bro"
+  }
+ ],
+ "bleep": [
+  [
+   11.18,
+   11.8
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.86,
+    0.5,
+    0.12
+   ],
+   "start": 6.0,
+   "end": 12.7
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Misión fallida en tiempo récord 🌊",
+   "caption": "Un solo encargo… y el auto acabó nadando 😂 ¿Te ha pasado algo así?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Mission failed in record time 🌊",
+   "caption": "One single job… and the car went for a swim 😂 Ever had this happen?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}

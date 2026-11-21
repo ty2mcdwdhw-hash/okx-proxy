@@ -1,0 +1,60 @@
+{
+ "id": "TW_CautiousAmorphousHawkYee-71JVrmYCa5SND-JV",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "lancha a toda velocidad que acaba encallada en la arena",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  0.0,
+  17.0
+ ],
+ "hook": {
+  "ES": "¿Para qué frenar la lancha si existe la ARENA? 🚤🏖️",
+  "EN": "Why brake the boat when there's SAND? 🚤🏖️"
+ },
+ "subs": [
+  {
+   "start": 1.1,
+   "end": 2.64,
+   "ES": "Uy, [[mierda]], me pasé, ¿no?",
+   "EN": "Oh [[shit]], I overshot it, right?"
+  },
+  {
+   "start": 15.92,
+   "end": 16.7,
+   "ES": "Eso fue mala idea",
+   "EN": "That was a bad idea"
+  }
+ ],
+ "bleep": [
+  [
+   1.6,
+   2.0
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "Estacionamiento VIP en la playa 🏖️",
+   "caption": "Lancha a fondo y… directo a la arena 😂 La física del agua en GTA 6 no perdona. ¿Lo harías igual?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "VIP beach parking 🏖️",
+   "caption": "Full throttle boat and… straight onto the sand 😂 GTA 6 water physics hit different. Would you do the same?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}

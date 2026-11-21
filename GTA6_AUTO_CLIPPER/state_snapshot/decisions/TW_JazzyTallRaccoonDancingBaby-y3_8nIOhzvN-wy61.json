@@ -1,0 +1,78 @@
+{
+ "id": "TW_JazzyTallRaccoonDancingBaby-y3_8nIOhzvN-wy61",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "intenta salvar un auto volcado repitiendo la misma frase",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  0.0,
+  26.0
+ ],
+ "hook": {
+  "ES": "«Esto tiene arreglo»… dijo ANTES de ver el auto 🚗🙃",
+  "EN": "\"This is salvageable\"… they said BEFORE seeing the car 🚗🙃"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "ES": "Esto tiene arreglo, esto tiene arreglo…",
+   "EN": "This is salvageable, this is salvageable…"
+  },
+  {
+   "start": 6.6,
+   "end": 7.0,
+   "ES": "¡Dios mío!",
+   "EN": "Oh my god!"
+  },
+  {
+   "start": 7.86,
+   "end": 9.94,
+   "ES": "Esto tiene arreglo, tiene arreglo…",
+   "EN": "This is salvageable, it's salvageable…"
+  },
+  {
+   "start": 16.1,
+   "end": 17.9,
+   "ES": "No, no, no… esto tiene arreglo",
+   "EN": "No, no, no… this is salvageable"
+  },
+  {
+   "start": 20.3,
+   "end": 21.9,
+   "ES": "¡Vamos, vamos, vamos!",
+   "EN": "Here we go, here we go!"
+  },
+  {
+   "start": 23.02,
+   "end": 25.4,
+   "ES": "¿Qué le pasa a este auto?",
+   "EN": "What is going on with this car?"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Optimismo nivel GTA 6 🚗",
+   "caption": "Auto volcado, puerta abierta… y aun así jura que tiene arreglo 😂 ¿Tú lo salvabas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 levels of optimism 🚗",
+   "caption": "Flipped car, door hanging… and they still swear it's salvageable 😂 Would you save it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}
