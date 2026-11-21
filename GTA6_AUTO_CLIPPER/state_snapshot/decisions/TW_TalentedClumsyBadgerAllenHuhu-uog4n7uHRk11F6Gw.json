@@ -1,0 +1,78 @@
+{
+ "id": "TW_TalentedClumsyBadgerAllenHuhu-uog4n7uHRk11F6Gw",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "momento gracioso claro, foco regional",
+ "pillar": "Momentos divertidos / Viral",
+ "priority": false,
+ "trim": [
+  7.0,
+  21.0
+ ],
+ "hook": {
+  "ES": "Encontró un LANZAGRANADAS en GTA 6… y lo estrenó de la PEOR forma 💥😂",
+  "EN": "They found a GRENADE LAUNCHER in GTA 6… and tested it the WORST way 💥😂"
+ },
+ "subs": [
+  {
+   "start": 9.72,
+   "end": 11.0,
+   "ES": "¡Espera! ¿Qué es esto?",
+   "EN": "Wait! What's this?"
+  },
+  {
+   "start": 11.78,
+   "end": 12.9,
+   "ES": "¡Jejeje!",
+   "EN": "Hehehe!"
+  }
+ ],
+ "replay": {
+  "start": 14.8,
+  "end": 16.8,
+  "box": [
+   0.2,
+   0.1,
+   0.6,
+   0.7
+  ],
+  "text": {
+   "ES": "Distancia de seguridad: cero",
+   "EN": "Safe distance: zero"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Nuevo juguete, cero experiencia. ¿Qué podría salir mal?",
+   "EN": "New toy, zero experience. What could go wrong?"
+  },
+  "outro": {
+   "ES": "Regla número uno del lanzagranadas: nunca dispares a medio metro. ¿Te ha pasado?",
+   "EN": "Grenade launcher rule one: never fire point blank. Ever done this?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El lanzagranadas más corto de GTA 6 💥",
+   "caption": "Lo recogió, lo probó… y duró segundos 😂 ¿Te ha pasado? #GTA6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Fails"
+   ]
+  },
+  "EN": {
+   "title": "The shortest grenade launcher run in GTA 6 💥",
+   "caption": "Picked it up, tried it… lasted seconds 😂 Ever happened to you? #GTA6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Fails"
+   ]
+  }
+ }
+}
