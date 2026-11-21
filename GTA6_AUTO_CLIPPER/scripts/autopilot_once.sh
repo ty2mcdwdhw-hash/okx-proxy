@@ -35,8 +35,7 @@ PENDING=$(python3 -c "import sqlite3;c=sqlite3.connect('state/clipper.db');print
 say "ciclo: pendientes de revisión=$PENDING"
 
 if [ "$PENDING" -gt 0 ]; then
-  MAX=3
-  [ "$(TZ=America/Lima date +%Y%m%d%H)" -ge 2026111900 ] && MAX=4
+  MAX=1   # 21/11: volumen bajo, solo el mejor clip del ciclo (o ninguno)
   PROMPT="$(sed "s/{MAX}/$MAX/g" REVIEW_AGENT.md)
 
 INDICACIONES DEL CICLO: lee state/pillars.txt y los hooks aprobados para no repetir temas; varía temas; aplica la

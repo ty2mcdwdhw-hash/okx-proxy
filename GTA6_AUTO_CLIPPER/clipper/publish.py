@@ -78,10 +78,11 @@ def _next_slot(con, profile: str, platforms: list[str], cfg: dict) -> dt.datetim
     """Earliest time >= now that keeps min gap from every post of this account and the 24 h cap.
     Fills holes in the schedule instead of always appending at the end. None = publish now."""
     p = cfg["publish"]
-    gap = dt.timedelta(minutes=p["min_gap_minutes"])
     now = now_utc()
     cand = now
     for plat in platforms:
+        g = p["min_gap_minutes"]
+        gap = dt.timedelta(minutes=g.get(plat, 30) if isinstance(g, dict) else g)
         rows = con.execute(
             "SELECT COALESCE(scheduled_for, posted_at) FROM posts WHERE profile=? AND platform=? "
             "AND status IN ('sent','scheduled','queued') AND COALESCE(scheduled_for, posted_at) IS NOT NULL",
@@ -179,6 +180,8 @@ def publish_all(dry: bool = False) -> list[str]:
                 (row["id"], lang, pl)).fetchone()]
             if not (dry or row["test"]):
                 todo = [pl for pl in todo if pl in connected_platforms(profile, cfg)]
+                paused = p.get("paused_until") or {}
+                todo = [pl for pl in todo if not (paused.get(pl) and iso() < paused[pl])]
                 age_h = (now_utc() - dt.datetime.strptime(row["discovered_at"], "%Y-%m-%dT%H:%M:%SZ")
                          .replace(tzinfo=dt.timezone.utc)).total_seconds() / 3600
                 already = con.execute("SELECT 1 FROM posts WHERE clip_id=? AND lang=?", (row["id"], lang)).fetchone()

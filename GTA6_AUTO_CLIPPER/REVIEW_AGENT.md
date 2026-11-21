@@ -13,7 +13,7 @@ Lee primero REVIEWER.md y config/settings.yaml (bloque `focus`) y sigue esas reg
    subs (mosaico pixelado), `bleep` en el audio y `pixelate` para zonas de pantalla (ver "Censura en vez de
    rechazo" en REVIEWER.md). Mira el contact sheet buscando texto legible para pixelarlo (no es GTA VI, duplicado de temas ya publicados,
    sin momento claro). La historia SÍ está permitida.
-4. Aprueba entre 2 y {MAX} clips, los mejores, priorizando el foco. En las ventanas de Europa y América,
+4. Aprueba como máximo {MAX} clip(s): solo si es claramente bueno (si ninguno lo es, aprueba 0), priorizando el foco. En las ventanas de Europa y América,
    a igual calidad prefiere clips de streamers hispanohablantes (lang es) con buena audiencia: el público
    principal es de habla hispana. Escribe state/decisions/<ID>.json con el
    esquema de REVIEWER.md: trim 7-30 s, hook ES/EN, subs con tiempos del clip original (localización gamer,

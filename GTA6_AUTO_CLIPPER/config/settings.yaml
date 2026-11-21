@@ -102,12 +102,13 @@ publish:
     ES: GTA6_ES
     EN: default        # en Upload-Post las cuentas EN quedaron en el perfil 'default'
   platforms: [tiktok, instagram, youtube]
-  daily_caps:               # topes duros de Upload-Post por cuenta / 24 h móviles
-    tiktok: 15
-    instagram: 48
-    youtube: 10                # límite real de YouTube para canales nuevos (se reinicia a medianoche Pacífico)
+  daily_caps:               # topes por cuenta / 24 h móviles (21/11: bajados por caída de alcance; calidad > cantidad)
+    tiktok: 3
+    instagram: 8
+    youtube: 3
   daily_reset_tz: {youtube: America/Los_Angeles}
-  min_gap_minutes: 30       # 2 por hora por cuenta
+  min_gap_minutes: {tiktok: 360, instagram: 150, youtube: 360}   # repartir los posts a lo largo del día
+  paused_until: {tiktok: "2026-11-23T05:00:00Z"}   # TikTok en pausa 48 h (alcance 0); vuelve solo a esa hora
   max_schedule_ahead_hours: {tiktok: 8, instagram: 12, youtube: 6}   # no programar más lejos (feed fresco)
   max_backlog_hours: 36     # redes conectadas tarde no reciben clips más viejos que esto
   tiktok_privacy: PUBLIC_TO_EVERYONE
