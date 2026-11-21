@@ -1,0 +1,84 @@
+{
+ "id": "TW_StormySaltyRedpandaWTRuck-Si17nnXD8qZjUia6",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro de físicas, sin voz",
+ "pillar": "Físicas / Paracaídas",
+ "trim": [
+  0.5,
+  20.0
+ ],
+ "hook": {
+  "ES": "Huyó de 4 estrellas saltando del helicóptero… y los árboles ganaron 🪂🌳💀",
+  "EN": "Escaped 4 stars by jumping from the chopper… the trees won 🪂🌳💀"
+ },
+ "subs": [
+  {
+   "start": 7.5,
+   "end": 10.0,
+   "ES": "¡Salto del helicóptero! 🚁",
+   "EN": "Bailing out of the chopper! 🚁"
+  },
+  {
+   "start": 10.0,
+   "end": 12.8,
+   "ES": "Paracaídas abierto… todo bajo control",
+   "EN": "Chute's open… totally under control"
+  },
+  {
+   "start": 13.0,
+   "end": 15.5,
+   "ES": "…o no 💀",
+   "EN": "…or not 💀"
+  }
+ ],
+ "replay": {
+  "start": 11.5,
+  "end": 14.5,
+  "box": [
+   0.3,
+   0.1,
+   0.4,
+   0.85
+  ],
+  "text": {
+   "ES": "Aterrizaje 100% profesional",
+   "EN": "100% pro landing"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Cuatro estrellas, un helicóptero y un plan perfecto",
+   "EN": "Four stars, a chopper and a perfect plan"
+  },
+  "outro": {
+   "ES": "Tenía todo el mapa para aterrizar y eligió el árbol. ¿Tú lo lograbas?",
+   "EN": "The whole map to land on and they picked the tree. Could you do it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El peor aterrizaje en paracaídas de GTA 6",
+   "caption": "Huir de la policía en helicóptero sonaba bien… hasta el aterrizaje 🪂💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Paracaidas"
+   ]
+  },
+  "EN": {
+   "title": "The worst parachute landing in GTA 6",
+   "caption": "Escaping the cops by chopper sounded great… until the landing 🪂💀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Parachute"
+   ]
+  }
+ }
+}
