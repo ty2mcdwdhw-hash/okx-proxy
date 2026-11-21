@@ -1,0 +1,77 @@
+{
+ "id": "TW_SmoothHeartlessAyeayeUncleNox-5sHzn6MP8Cxdk9UR",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "persecución con final inesperado, sin trama",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  7.0,
+  30.0
+ ],
+ "priority": false,
+ "hook": {
+  "ES": "Huyendo de la policía en GTA 6… y se quedó ATASCADO en las vías 🚓🚂",
+  "EN": "Escaping the cops in GTA 6… and got STUCK on the train tracks 🚓🚂"
+ },
+ "subs": [],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.58,
+    0.23,
+    0.22
+   ],
+   "start": 7.0,
+   "end": 30.0
+  }
+ ],
+ "replay": {
+  "start": 25.0,
+  "end": 28.0,
+  "box": [
+   0.28,
+   0.5,
+   0.45,
+   0.45
+  ],
+  "text": {
+   "ES": "Las vías no perdonan 💀",
+   "EN": "The tracks show no mercy 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Escapó de la policía… pero no de esto",
+   "EN": "Escaped the cops… but not this"
+  },
+  "outro": {
+   "ES": "De todos los lugares para quedarse atascado, eligió el peor. ¿Tú qué hacías?",
+   "EN": "Of all places to get stuck, they picked the worst one. What would you do?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Atascado en las vías en GTA 6",
+   "caption": "Huir de la policía iba perfecto… hasta que llegaron las vías del tren 🚂💥 ¿Lo habrías salvado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Persecucion"
+   ]
+  },
+  "EN": {
+   "title": "Stuck on the tracks in GTA 6",
+   "caption": "The police escape was going perfectly… until the train tracks showed up 🚂💥 Could you have saved it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "CarChase"
+   ]
+  }
+ }
+}
