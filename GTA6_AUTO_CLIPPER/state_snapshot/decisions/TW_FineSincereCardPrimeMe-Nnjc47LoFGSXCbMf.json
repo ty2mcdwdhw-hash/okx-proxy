@@ -1,0 +1,108 @@
+{
+ "id": "TW_FineSincereCardPrimeMe-Nnjc47LoFGSXCbMf",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "choque con ragdoll largo y reacción graciosa, sin historia",
+ "pillar": "Físicas / Ragdoll",
+ "trim": [
+  0.5,
+  22.5
+ ],
+ "hook": {
+  "ES": "Chocó la moto en GTA 6… y ella salió VOLANDO 🏍️💨",
+  "EN": "Crashed the bike in GTA 6… and she went FLYING 🏍️💨"
+ },
+ "subs": [
+  {
+   "start": 7.41,
+   "end": 8.57,
+   "ES": "Bro, ¡mi vestido!",
+   "EN": "Bro, my dress!"
+  },
+  {
+   "start": 8.61,
+   "end": 9.59,
+   "ES": "[[hijo de puta]]",
+   "EN": "you [[son of a b]]"
+  },
+  {
+   "start": 16.24,
+   "end": 17.08,
+   "ES": "Madre mía…",
+   "EN": "Oh man…"
+  },
+  {
+   "start": 20.31,
+   "end": 21.83,
+   "ES": "Mira, están echando carreras",
+   "EN": "Look, they're street racing"
+  }
+ ],
+ "bleep": [
+  [
+   8.5,
+   9.7
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.82,
+    0.4,
+    0.14
+   ],
+   "start": 7.0,
+   "end": 12.0
+  }
+ ],
+ "replay": {
+  "start": 1.0,
+  "end": 4.5,
+  "box": [
+   0.15,
+   0.05,
+   0.6,
+   0.65
+  ],
+  "text": {
+   "ES": "Despegue sin avión ✈️",
+   "EN": "Liftoff, no plane needed ✈️"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira lo que pasa al cruzar esta esquina",
+   "EN": "Watch what happens at this corner"
+  },
+  "outro": {
+   "ES": "Voló diez metros y lo único que le preocupa es el vestido. ¿Prioridades?",
+   "EN": "Flew ten meters and only cares about the dress. Priorities, right?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El vuelo más largo de GTA 6",
+   "caption": "Un choque, un vuelo épico… y una queja muy clara 😂 ¿Quién tuvo la culpa?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Ragdoll"
+   ]
+  },
+  "EN": {
+   "title": "The longest flight in GTA 6",
+   "caption": "One crash, one epic flight… and one very clear complaint 😂 Whose fault was it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Ragdoll"
+   ]
+  }
+ }
+}
