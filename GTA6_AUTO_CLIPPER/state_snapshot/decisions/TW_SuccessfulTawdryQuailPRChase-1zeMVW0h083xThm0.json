@@ -1,0 +1,116 @@
+{
+ "id": "TW_SuccessfulTawdryQuailPRChase-1zeMVW0h083xThm0",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "aterrizaje en paracaidas sobre helipuerto termina en fail; reaccion fuerte",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  2.5,
+  20.5
+ ],
+ "hook": {
+  "ES": "Quiso aterrizar en el helipuerto de GTA 6… y eligió el PEOR sitio 🪂🚁",
+  "EN": "They tried landing on a GTA 6 helipad… and picked the WORST spot 🪂🚁"
+ },
+ "subs": [
+  {
+   "start": 2.75,
+   "end": 4.69,
+   "ES": "Qué [[puta]] barbaridad, hijo…",
+   "EN": "What a [[freaking]] view, man…"
+  },
+  {
+   "start": 5.51,
+   "end": 7.11,
+   "ES": "Vale, ¿cómo aterrizas sin matarte?",
+   "EN": "Okay, how do you land without dying?"
+  },
+  {
+   "start": 8.33,
+   "end": 8.8,
+   "ES": "[[Fuck]]",
+   "EN": "[[Fuck]]"
+  },
+  {
+   "start": 14.33,
+   "end": 16.13,
+   "ES": "Ah, [[fuck]], este [[jodido]] era…",
+   "EN": "Ah, [[fuck]], this [[damn]] thing…"
+  }
+ ],
+ "bleep": [
+  [
+   3.39,
+   3.85
+  ],
+  [
+   8.23,
+   8.59
+  ],
+  [
+   14.77,
+   15.71
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.24,
+    0.86,
+    0.52,
+    0.13
+   ],
+   "start": 2.5,
+   "end": 20.5
+  }
+ ],
+ "replay": {
+  "start": 14.4,
+  "end": 16.6,
+  "box": [
+   0.2,
+   0.25,
+   0.6,
+   0.65
+  ],
+  "text": {
+   "ES": "El rotor no perdona 💀",
+   "EN": "The rotor shows no mercy 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Aterrizar en un helipuerto parece fácil, ¿verdad?",
+   "EN": "Landing on a helipad looks easy, right?"
+  },
+  "outro": {
+   "ES": "De todo el helipuerto, justo ahí. ¿Tú habrías aterrizado mejor?",
+   "EN": "The whole helipad, and they picked that spot. Could you do better?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El peor aterrizaje de GTA 6 🪂",
+   "caption": "Bajó en paracaídas con todo el helipuerto libre… y aterrizó justo donde no debía 🚁💀 Las físicas de GTA 6 no perdonan. ¿Tú lo habrías clavado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "The worst landing in GTA 6 🪂",
+   "caption": "A whole empty helipad to land on… and they landed in the one spot they shouldn't 🚁💀 GTA 6 physics show no mercy. Could you have nailed it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
