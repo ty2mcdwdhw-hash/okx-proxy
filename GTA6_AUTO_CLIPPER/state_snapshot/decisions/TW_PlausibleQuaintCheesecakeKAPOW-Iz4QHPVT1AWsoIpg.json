@@ -1,0 +1,90 @@
+{
+ "id": "TW_PlausibleQuaintCheesecakeKAPOW-Iz4QHPVT1AWsoIpg",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "físicas de aterrizaje en agua, momento claro",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  7.0,
+  28.0
+ ],
+ "hook": {
+  "ES": "Aterrizaje de hidroavión en GTA 6… nivel EXPERTO 🛩️🌊",
+  "EN": "Seaplane landing in GTA 6… EXPERT level 🛩️🌊"
+ },
+ "subs": [
+  {
+   "start": 19.4,
+   "end": 20.5,
+   "ES": "¿Qué fue ese ruido?",
+   "EN": "What was that noise?"
+  },
+  {
+   "start": 22.1,
+   "end": 23.5,
+   "ES": "Nah, si iba bien…",
+   "EN": "Nah, it was going fine…"
+  },
+  {
+   "start": 24.5,
+   "end": 27.7,
+   "ES": "Se dio la vuelta 180 grados entero",
+   "EN": "It flipped a full 180"
+  },
+  {
+   "start": 27.7,
+   "end": 28.0,
+   "ES": "Mala suerte",
+   "EN": "Bad luck"
+  }
+ ],
+ "replay": {
+  "start": 12.3,
+  "end": 15.3,
+  "box": [
+   0.25,
+   0.2,
+   0.5,
+   0.7
+  ],
+  "text": {
+   "ES": "Aterrizaje… boca abajo",
+   "EN": "Landing… upside down"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira cómo aterriza este hidroavión en GTA 6",
+   "EN": "Watch how this seaplane lands in GTA 6"
+  },
+  "outro": {
+   "ES": "Un flotador tocó el agua mal y adiós avión. ¿Tú lo aterrizas mejor?",
+   "EN": "One float caught the water wrong and the plane flipped. Could you land it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Aterrizaje de hidroavión en GTA 6 🛩️🌊",
+   "caption": "Iba perfecto hasta que tocó el agua 😅 ¿Tú lo habrías aterrizado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Hidroavion"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 seaplane landing 🛩️🌊",
+   "caption": "Perfect approach… until it touched the water 😅 Could you land it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Seaplane"
+   ]
+  }
+ }
+}
