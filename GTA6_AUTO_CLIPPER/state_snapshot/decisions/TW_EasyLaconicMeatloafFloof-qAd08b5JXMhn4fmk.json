@@ -1,0 +1,96 @@
+{
+ "id": "TW_EasyLaconicMeatloafFloof-qAd08b5JXMhn4fmk",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "momento gracioso claro, foco regional",
+ "pillar": "Físicas / Ragdoll",
+ "priority": false,
+ "trim": [
+  22.5,
+  46.0
+ ],
+ "hook": {
+  "ES": "Presumió su moto «ultrarrápida» en GTA 6… y el karma llegó en segundos 🏍️💀",
+  "EN": "They bragged about their 'super fast' bike in GTA 6… karma took seconds 🏍️💀"
+ },
+ "subs": [
+  {
+   "start": 23.3,
+   "end": 26.1,
+   "ES": "Esta moto es rapidísima… demasiado",
+   "EN": "This bike is crazy fast… too fast"
+  },
+  {
+   "start": 37.28,
+   "end": 37.96,
+   "ES": "¡No, no!",
+   "EN": "No way!"
+  },
+  {
+   "start": 38.5,
+   "end": 40.3,
+   "ES": "¡No la enderezo!",
+   "EN": "I can't save it!"
+  },
+  {
+   "start": 42.8,
+   "end": 44.24,
+   "ES": "¡Me muero, me muero!",
+   "EN": "I'm dead, I'm dead!"
+  },
+  {
+   "start": 44.24,
+   "end": 45.4,
+   "ES": "¡Que me muero de verdad!",
+   "EN": "Like actually dead!"
+  }
+ ],
+ "replay": {
+  "start": 36.6,
+  "end": 39.8,
+  "box": [
+   0.28,
+   0.3,
+   0.46,
+   0.5
+  ],
+  "text": {
+   "ES": "Aterrizaje con estilo breakdance",
+   "EN": "Breakdance landing, 10/10"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Nunca digas que tu moto es demasiado rápida",
+   "EN": "Never say your bike is too fast"
+  },
+  "outro": {
+   "ES": "La física de GTA 6 no perdona a los fanfarrones. ¿Le das un diez?",
+   "EN": "GTA 6 physics has zero mercy for show-offs. Is that a ten?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "La moto era rápida… el suelo, más 🏍️💀",
+   "caption": "Dijo que su moto era demasiado rápida… y GTA 6 le dio la razón 😂 ¿Nota del aterrizaje? #GTA6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Ragdoll"
+   ]
+  },
+  "EN": {
+   "title": "Fast bike… faster ground 🏍️💀",
+   "caption": "They said the bike was too fast… GTA 6 agreed 😂 Rate the landing? #GTA6",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Ragdoll"
+   ]
+  }
+ }
+}
