@@ -1,0 +1,108 @@
+{
+ "id": "TW_PatientLightCrabsGingerPower-Vtdv48DkXWSPW0LL",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "reason": "momento claro de físicas, buena calidad",
+ "pillar": "Físicas / Ragdoll",
+ "priority": false,
+ "trim": [
+  20.5,
+  37.0
+ ],
+ "hook": {
+  "ES": "Iba a 300 km/h en moto por la autopista de GTA 6… 🏍️💀",
+  "EN": "Doing 300 km/h on a bike down the GTA 6 highway… 🏍️💀"
+ },
+ "subs": [
+  {
+   "start": 20.6,
+   "end": 21.6,
+   "ES": "No alcancé a leer nada.",
+   "EN": "Couldn't read a thing."
+  },
+  {
+   "start": 26.5,
+   "end": 27.8,
+   "ES": "Sí, sí…",
+   "EN": "Yeah, yeah…"
+  },
+  {
+   "start": 27.9,
+   "end": 29.7,
+   "ES": "¡Qué rápido, ya voy a 300!",
+   "EN": "So fast, already doing 300!"
+  },
+  {
+   "start": 29.9,
+   "end": 30.8,
+   "ES": "¡¡AAAH!!",
+   "EN": "AAAH!!"
+  },
+  {
+   "start": 31.8,
+   "end": 32.5,
+   "ES": "¡Uaaa!",
+   "EN": "Whoa!"
+  },
+  {
+   "start": 32.6,
+   "end": 33.3,
+   "ES": "¡Ooooh!",
+   "EN": "Ooooh!"
+  },
+  {
+   "start": 34.4,
+   "end": 35.4,
+   "ES": "¿Eh?",
+   "EN": "Huh?"
+  }
+ ],
+ "replay": {
+  "start": 29.2,
+  "end": 32.6,
+  "box": [
+   0.25,
+   0.15,
+   0.5,
+   0.75
+  ],
+  "text": {
+   "ES": "Volador sin paracaídas",
+   "EN": "Flying without a parachute"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Trescientos por hora en moto. ¿Qué podría salir mal?",
+   "EN": "Three hundred an hour on a bike. What could go wrong?"
+  },
+  "outro": {
+   "ES": "Saltó el muro, atravesó una palmera y se levantó caminando. ¿Inmortal?",
+   "EN": "Over the wall, through a palm tree, then walked it off. Immortal?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "300 km/h en moto en GTA 6",
+   "caption": "Las físicas de GTA 6 no perdonan… pero este tipo es de acero 🏍️💥 ¿Te levantarías después de esto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Ragdoll"
+   ]
+  },
+  "EN": {
+   "title": "300 km/h on a bike in GTA 6",
+   "caption": "GTA 6 physics don't forgive… but this one's made of steel 🏍️💥 Would you get up after that?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Ragdoll"
+   ]
+  }
+ }
+}
