@@ -1,0 +1,84 @@
+{
+ "id": "TW_MoistArbitraryInternCmonBruh-sXuqUXXz4C3abmGU",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "persecución con 5 estrellas, atraviesa el control policial",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  0.0,
+  19.0
+ ],
+ "hook": {
+  "ES": "5 estrellas y un CONTROL POLICIAL enfrente… 🚓💥",
+  "EN": "5 stars and a POLICE ROADBLOCK ahead… 🚓💥"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 0.3,
+   "ES": "avión",
+   "EN": "plane"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.68,
+    0.0,
+    0.32,
+    0.22
+   ],
+   "start": 0.0,
+   "end": 19.0
+  }
+ ],
+ "replay": {
+  "start": 5.0,
+  "end": 8.2,
+  "box": [
+   0.35,
+   0.3,
+   0.5,
+   0.55
+  ],
+  "text": {
+   "ES": "Control policial: cancelado",
+   "EN": "Roadblock? What roadblock"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Cinco estrellas y la policía cortando la autopista",
+   "EN": "Five stars and the cops blocking the highway"
+  },
+  "outro": {
+   "ES": "Ni frenó. ¿Tú habrías girado o pasado por el medio?",
+   "EN": "Didn't even brake. Would you swerve or go straight through?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Atravesó el control policial con 5 estrellas en GTA 6",
+   "caption": "Ni frenar ni mirar atrás 🚓💥 ¿Tú qué habrías hecho?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Persecucion"
+   ]
+  },
+  "EN": {
+   "title": "Blasting through a police roadblock with 5 stars in GTA 6",
+   "caption": "No brakes, no regrets 🚓💥 What would you do?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "PoliceChase"
+   ]
+  }
+ }
+}
