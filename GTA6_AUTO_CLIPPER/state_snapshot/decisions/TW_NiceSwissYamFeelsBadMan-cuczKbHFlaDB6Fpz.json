@@ -1,0 +1,102 @@
+{
+ "id": "TW_NiceSwissYamFeelsBadMan-cuczKbHFlaDB6Fpz",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "salto enorme en moto desde rampa de obra; la moto acaba encajada entre las ruedas de un camión",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  16.0,
+  46.0
+ ],
+ "hook": {
+  "ES": "Saltó con la moto en GTA 6… y aterrizó en el ÚNICO hueco posible 🏍️🚛",
+  "EN": "Launched the bike in GTA 6… and it landed in the ONLY gap possible 🏍️🚛"
+ },
+ "subs": [
+  {
+   "start": 19.43,
+   "end": 20.55,
+   "ES": "¡Oh! ¿¡Eh!?",
+   "EN": "Oh! Huh!?"
+  },
+  {
+   "start": 20.55,
+   "end": 21.31,
+   "ES": "¡Brutal, brutal, brutal!",
+   "EN": "Insane, insane, insane!"
+  },
+  {
+   "start": 21.97,
+   "end": 23.13,
+   "ES": "¿Eh? ¿Lo va a clavar?",
+   "EN": "Wait, is it gonna stick it?"
+  },
+  {
+   "start": 30.15,
+   "end": 30.6,
+   "ES": "¡Ah!",
+   "EN": "Ah!"
+  },
+  {
+   "start": 41.86,
+   "end": 43.8,
+   "ES": "Se quedó encajada entre las ruedas",
+   "EN": "It got wedged between the tires"
+  },
+  {
+   "start": 44.2,
+   "end": 45.6,
+   "ES": "¿¡En ese hueco!?",
+   "EN": "In THAT gap!?"
+  }
+ ],
+ "replay": {
+  "start": 40.5,
+  "end": 43.8,
+  "box": [
+   0.22,
+   0.35,
+   0.58,
+   0.62
+  ],
+  "text": {
+   "ES": "Aparcamiento nivel dios 🅿️",
+   "EN": "God-tier parking 🅿️"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Rampa de obra, moto a fondo… mira dónde acaba.",
+   "EN": "Construction ramp, full throttle… watch where it ends up."
+  },
+  "outro": {
+   "ES": "Medio mapa volando y la moto se aparca sola entre las ruedas. ¿Física o magia?",
+   "EN": "Flew half the map and the bike parked itself between the tires. Physics or magic?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "La moto se aparcó SOLA en GTA 6 🏍️",
+   "caption": "Salto desde una rampa de obra, vuelo eterno… y la moto termina encajada justo entre las ruedas de un camión 🚛 ¿Física o magia?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "The bike parked ITSELF in GTA 6 🏍️",
+   "caption": "Jump off a construction ramp, endless airtime… and the bike ends up wedged right between a truck's tires 🚛 Physics or magic?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
