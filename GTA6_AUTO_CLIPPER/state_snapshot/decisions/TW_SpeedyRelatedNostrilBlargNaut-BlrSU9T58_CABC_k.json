@@ -1,0 +1,96 @@
+{
+ "id": "TW_SpeedyRelatedNostrilBlargNaut-BlrSU9T58_CABC_k",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "se planta en las vias y el tren frena; detalle de IA",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  1.5,
+  22.0
+ ],
+ "hook": {
+  "ES": "Se plantó en las vías de GTA 6… y el tren FRENÓ 🚆😳",
+  "EN": "They stood on the tracks in GTA 6… and the train STOPPED 🚆😳"
+ },
+ "subs": [
+  {
+   "start": 1.78,
+   "end": 4.46,
+   "ES": "Voy a traumatizar al maquinista",
+   "EN": "I'm gonna traumatize the train driver"
+  },
+  {
+   "start": 7.74,
+   "end": 9.42,
+   "ES": "Mira… ¡de verdad se detiene!",
+   "EN": "Look… it actually stops!"
+  },
+  {
+   "start": 12.2,
+   "end": 13.76,
+   "ES": "Esto es imposible",
+   "EN": "This is impossible"
+  },
+  {
+   "start": 13.88,
+   "end": 15.72,
+   "ES": "Esto nunca había existido en un GTA",
+   "EN": "GTA never had anything like this"
+  },
+  {
+   "start": 16.72,
+   "end": 17.68,
+   "ES": "¿Puedo asaltarlo?",
+   "EN": "Can I rob it?"
+  }
+ ],
+ "replay": {
+  "start": 9.0,
+  "end": 11.5,
+  "box": [
+   0.38,
+   0.1,
+   0.4,
+   0.6
+  ],
+  "text": {
+   "ES": "¡El maquinista tiene corazón!",
+   "EN": "The driver actually cares!"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "¿Qué pasa si te plantas frente al tren?",
+   "EN": "What if you block the train?"
+  },
+  "outro": {
+   "ES": "En GTA 5 te arrollaba sin piedad. ¿Tú lo probarías?",
+   "EN": "In GTA 5 it just ran you over. Would you try it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El tren de GTA 6 sí frena 🚆",
+   "caption": "Se paró en medio de las vías esperando lo peor… y el maquinista frenó 😳 Nivel de detalle absurdo. ¿Lo sabías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Detalles"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 trains actually brake 🚆",
+   "caption": "They stood right on the tracks expecting the worst… and the driver hit the brakes 😳 Insane attention to detail. Did you know this?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Details"
+   ]
+  }
+ }
+}

@@ -667,3 +667,7 @@
 - 2026-11-21T02:36:23Z | `TW_HappyCuteAdminChocolateRain-vVf1czKCi6LkntkK_ES` | Momentos divertidos / Viral | youtube | scheduled @2026-11-21T08:10:00Z | 🎥 @mehdoche (fr->ES) | Spoiler: 0% (Verificado)
 - 2026-11-21T02:36:26Z | `TW_HappyCuteAdminChocolateRain-vVf1czKCi6LkntkK_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-22T01:21:18Z | 🎥 @mehdoche (fr->EN) | Spoiler: 0% (Verificado)
 - 2026-11-21T02:36:30Z | `TW_HappyCuteAdminChocolateRain-vVf1czKCi6LkntkK_EN` | Momentos divertidos / Viral | youtube | scheduled @2026-11-21T08:10:00Z | 🎥 @mehdoche (fr->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T03:06:57Z | `TOP3_202611210304_ES` | Top 3 | instagram | scheduled @2026-11-22T01:56:27Z | 🎥 @varios (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T03:07:02Z | `TOP3_202611210304_ES` | Top 3 | youtube | scheduled @2026-11-21T08:15:00Z | 🎥 @varios (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T03:07:08Z | `TOP3_202611210304_EN` | Top 3 | instagram | scheduled @2026-11-22T01:51:18Z | 🎥 @varios (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T03:07:14Z | `TOP3_202611210304_EN` | Top 3 | youtube | scheduled @2026-11-21T08:15:00Z | 🎥 @varios (es->EN) | Spoiler: 0% (Verificado)

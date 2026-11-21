@@ -1,0 +1,49 @@
+{
+ "id": "TOP3_202611210304",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "top3",
+ "pillar": "Top 3",
+ "priority": true,
+ "trim": [
+  0,
+  89.3
+ ],
+ "hook": {
+  "ES": "TOP 3",
+  "EN": "TOP 3"
+ },
+ "parts": [
+  "TW_SpotlessChillySalmonPogChamp-z2Z561Rb2vfFB2zC",
+  "TW_EnchantingCaringPuffinFreakinStinkin-C-mfV0x8mPD6vUrU",
+  "KK_clip_01M7QF9J0XH64X2PX51JR4D3H3"
+ ],
+ "credit": {
+  "ES": "🎥: @rubius, @vicesat, @rdjavi",
+  "EN": "🎥: @rubius, @vicesat, @rdjavi"
+ },
+ "copy": {
+  "ES": {
+   "title": "TOP 3 momentos de GTA VI (últimos 3 días)",
+   "caption": "Los 3 mejores momentos de GTA VI de los últimos 3 días. ¿Cuál fue tu favorito?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Top3"
+   ]
+  },
+  "EN": {
+   "title": "TOP 3 GTA VI moments (last 3 days)",
+   "caption": "The top 3 GTA VI moments from the last 3 days. Which one was your favorite?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Top3"
+   ]
+  }
+ }
+}
