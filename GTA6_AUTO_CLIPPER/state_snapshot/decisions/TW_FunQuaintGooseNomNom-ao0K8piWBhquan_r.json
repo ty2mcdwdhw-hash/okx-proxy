@@ -1,0 +1,84 @@
+{
+ "id": "TW_FunQuaintGooseNomNom-ao0K8piWBhquan_r",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "reacción fuerte, nivel de búsqueda máximo, remate claro",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.0,
+  11.6
+ ],
+ "hook": {
+  "ES": "Llegó a las 6 ESTRELLAS en GTA 6… y el ejército respondió ✈️💥",
+  "EN": "Hit 6 STARS in GTA 6… and the military answered ✈️💥"
+ },
+ "subs": [
+  {
+   "start": 0.3,
+   "end": 2.1,
+   "ES": "¡Para, para!",
+   "EN": "Stop, stop!"
+  },
+  {
+   "start": 2.5,
+   "end": 3.3,
+   "ES": "¡SEIS estrellas!",
+   "EN": "SIX stars!"
+  },
+  {
+   "start": 8.0,
+   "end": 11.0,
+   "ES": "Eliminada en segundos 💀",
+   "EN": "Wasted in seconds 💀"
+  }
+ ],
+ "replay": {
+  "start": 4.6,
+  "end": 7.6,
+  "box": [
+   0.25,
+   0.15,
+   0.55,
+   0.75
+  ],
+  "text": {
+   "ES": "Seis estrellas, cero piedad",
+   "EN": "Six stars, zero mercy"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Esto pasa cuando llegas a seis estrellas",
+   "EN": "This is what six stars looks like"
+  },
+  "outro": {
+   "ES": "Quiso robar un caza con seis estrellas encima. ¿Tú lo habrías intentado?",
+   "EN": "Tried stealing a fighter jet with six stars. Would you risk it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "6 estrellas en GTA 6 = el ejército entero",
+   "caption": "Llegar a las 6 estrellas y meterse en la base militar… no fue buena idea ✈️💥 ¿Cuánto aguantas tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "6Estrellas"
+   ]
+  },
+  "EN": {
+   "title": "6 stars in GTA 6 = the whole army",
+   "caption": "Reaching 6 stars and running into the military base… not the best plan ✈️💥 How long would you last?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "6Stars"
+   ]
+  }
+ }
+}
