@@ -1,0 +1,96 @@
+{
+ "id": "TW_FineInexpensiveTireStinkyCheese-YGTKB5vBmxJxxfb4",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "choque de moto en mundo abierto con aterrizaje inesperado, reacción clara",
+ "pillar": "Físicas / Ragdoll",
+ "trim": [
+  10.8,
+  29.9
+ ],
+ "hook": {
+  "ES": "«Ahora soy el VIENTO»… y GTA 6 le respondió 🏍️🌬️",
+  "EN": "«I'm the WIND now»… and GTA 6 answered 🏍️🌬️"
+ },
+ "subs": [
+  {
+   "start": 11.22,
+   "end": 12.4,
+   "ES": "¡Oooooye!",
+   "EN": "Yoooooo!"
+  },
+  {
+   "start": 12.6,
+   "end": 15.1,
+   "ES": "¡Di que ahora soy el viento!",
+   "EN": "Say it, I'm the wind now!"
+  },
+  {
+   "start": 19.6,
+   "end": 20.5,
+   "ES": "¡Ah…!",
+   "EN": "Ah…!"
+  },
+  {
+   "start": 25.5,
+   "end": 27.0,
+   "ES": "¡Uf, por poco! Por poco…",
+   "EN": "Whoa, close one! Close one…"
+  },
+  {
+   "start": 27.0,
+   "end": 29.9,
+   "ES": "Ufff… casi me hago encima",
+   "EN": "Phew… almost wet myself"
+  }
+ ],
+ "replay": {
+  "start": 20.4,
+  "end": 23.9,
+  "box": [
+   0.15,
+   0.1,
+   0.65,
+   0.8
+  ],
+  "text": {
+   "ES": "Aterrizaje en la BARANDA 😳",
+   "EN": "Landed ON the railing 😳"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Se creía el viento sobre esa moto",
+   "EN": "They thought they were the wind on that bike"
+  },
+  "outro": {
+   "ES": "Volar por las obras y quedar en la baranda. ¿Suerte o habilidad?",
+   "EN": "Flew through the roadwork and stuck the railing. Luck or skill?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Se creía el viento en GTA 6 🏍️",
+   "caption": "Gritó «soy el viento»… y casi termina debajo del puente 😳 ¿Suerte o habilidad?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Ragdoll"
+   ]
+  },
+  "EN": {
+   "title": "Thought they were the wind in GTA 6 🏍️",
+   "caption": "Yelled «I'm the wind»… and almost ended up under the bridge 😳 Luck or skill?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Ragdoll"
+   ]
+  }
+ }
+}
