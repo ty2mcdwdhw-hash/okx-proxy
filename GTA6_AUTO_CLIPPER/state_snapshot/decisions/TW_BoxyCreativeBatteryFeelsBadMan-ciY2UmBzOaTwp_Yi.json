@@ -1,0 +1,96 @@
+{
+ "id": "TW_BoxyCreativeBatteryFeelsBadMan-ciY2UmBzOaTwp_Yi",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "persecución con 3 estrellas y parada a repostar con remate claro",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  2.2,
+  24.9
+ ],
+ "hook": {
+  "ES": "Paró a echar GASOLINA… con 3 estrellas encima ⛽🚓",
+  "EN": "Stopped for GAS… with 3 stars on them ⛽🚓"
+ },
+ "subs": [
+  {
+   "start": 2.26,
+   "end": 3.22,
+   "ES": "Esto hay que pagarlo.",
+   "EN": "You gotta pay for this."
+  },
+  {
+   "start": 3.26,
+   "end": 3.46,
+   "ES": "¡Ah!",
+   "EN": "Ah!"
+  },
+  {
+   "start": 4.62,
+   "end": 5.5,
+   "ES": "¡Vamos!",
+   "EN": "Come on!"
+  },
+  {
+   "start": 15.48,
+   "end": 16.96,
+   "ES": "¡Hola, hola, hola!",
+   "EN": "Hello, hello, hello!"
+  },
+  {
+   "start": 18.1,
+   "end": 19.26,
+   "ES": "No puedes…",
+   "EN": "You can't…"
+  }
+ ],
+ "replay": {
+  "start": 18.9,
+  "end": 21.4,
+  "box": [
+   0.3,
+   0.2,
+   0.5,
+   0.65
+  ],
+  "text": {
+   "ES": "La policía no espera ⛽💥",
+   "EN": "Cops don't wait ⛽💥"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Sin gasolina y con la policía detrás. ¿Qué haces?",
+   "EN": "Out of gas with cops behind. What now?"
+  },
+  "outro": {
+   "ES": "Repostar en plena persecución: idea brillante… hasta que llega la patrulla. ¿Tú lo intentarías?",
+   "EN": "Refueling mid-chase sounded smart… until the cruiser showed up. Would you try it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Repostar en plena persecución en GTA 6 ⛽🚓",
+   "caption": "Moto sin gasolina, 3 estrellas y una idea muy optimista 😅 ¿Lo habrías intentado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Policia"
+   ]
+  },
+  "EN": {
+   "title": "Refueling mid-chase in GTA 6 ⛽🚓",
+   "caption": "Empty bike, 3 stars and a very optimistic plan 😅 Would you have tried it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Police"
+   ]
+  }
+ }
+}
