@@ -683,3 +683,7 @@
 - 2026-11-21T10:32:39Z | `TW_SweetCredulousCrowNerfRedBlaster-WarGLhhN6lR-9g3P_ES` | Físicas / Momentos divertidos | youtube | scheduled @2026-11-23T08:10:00Z | 🎥 @rubius (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-21T10:32:45Z | `TW_SweetCredulousCrowNerfRedBlaster-WarGLhhN6lR-9g3P_EN` | Físicas / Momentos divertidos | instagram | scheduled @2026-11-22T02:51:18Z | 🎥 @rubius (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-21T10:32:50Z | `TW_SweetCredulousCrowNerfRedBlaster-WarGLhhN6lR-9g3P_EN` | Físicas / Momentos divertidos | youtube | scheduled @2026-11-23T08:10:00Z | 🎥 @rubius (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T11:04:38Z | `TW_ArborealGlutenFreeWebCorgiDerp-N1j1VE-T0MkAL3Ux_ES` | NPCs / Momentos divertidos | instagram | scheduled @2026-11-22T07:56:27Z | 🎥 @auronplay (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T11:04:41Z | `TW_ArborealGlutenFreeWebCorgiDerp-N1j1VE-T0MkAL3Ux_ES` | NPCs / Momentos divertidos | youtube | scheduled @2026-11-23T08:15:00Z | 🎥 @auronplay (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T11:04:44Z | `TW_ArborealGlutenFreeWebCorgiDerp-N1j1VE-T0MkAL3Ux_EN` | NPCs / Momentos divertidos | instagram | scheduled @2026-11-22T05:46:18Z | 🎥 @auronplay (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T11:04:48Z | `TW_ArborealGlutenFreeWebCorgiDerp-N1j1VE-T0MkAL3Ux_EN` | NPCs / Momentos divertidos | youtube | scheduled @2026-11-23T08:15:00Z | 🎥 @auronplay (es->EN) | Spoiler: 0% (Verificado)

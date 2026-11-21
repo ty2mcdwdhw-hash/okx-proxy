@@ -1,0 +1,130 @@
+{
+ "id": "TW_ArborealGlutenFreeWebCorgiDerp-N1j1VE-T0MkAL3Ux",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "priority": true,
+ "reason": "encuentro aleatorio con sorpresa inesperada, reacción fuerte, streamer ES grande",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  4.5,
+  27.5
+ ],
+ "hook": {
+  "ES": "Ayudó a un desconocido en GTA 6… y abrió la puerta EQUIVOCADA 🚐😱",
+  "EN": "Helped a stranger in GTA 6… and opened the WRONG door 🚐😱"
+ },
+ "subs": [
+  {
+   "start": 5.14,
+   "end": 6.44,
+   "ES": "Sí, sin problema.",
+   "EN": "Yeah, no problem."
+  },
+  {
+   "start": 7.48,
+   "end": 9.36,
+   "ES": "Clava bien los talones.",
+   "EN": "Just dig your heels in good."
+  },
+  {
+   "start": 9.64,
+   "end": 10.68,
+   "ES": "Esto resbala que flipas.",
+   "EN": "This is so slippy."
+  },
+  {
+   "start": 13.5,
+   "end": 15.06,
+   "ES": "¡No, no, no, espera, espera!",
+   "EN": "No, no, no, wait, wait!"
+  },
+  {
+   "start": 15.62,
+   "end": 17.22,
+   "ES": "¡Aléjate de ahí!",
+   "EN": "Get away from there!"
+  },
+  {
+   "start": 17.72,
+   "end": 18.62,
+   "ES": "¡Oh, [[mierda]]!",
+   "EN": "Oh, [[shit]]!"
+  },
+  {
+   "start": 19.98,
+   "end": 21.84,
+   "ES": "¡Dale, arranca, arranca!",
+   "EN": "Hit it, hit it!"
+  }
+ ],
+ "bleep": [
+  [
+   9.7,
+   10.15
+  ],
+  [
+   17.86,
+   18.72
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.26,
+    0.86,
+    0.48,
+    0.1
+   ],
+   "start": 13.0,
+   "end": 19.0
+  }
+ ],
+ "replay": {
+  "start": 15.3,
+  "end": 18.8,
+  "box": [
+   0.12,
+   0.12,
+   0.6,
+   0.66
+  ],
+  "text": {
+   "ES": "¿Quién lleva ESO ahí dentro? 💀",
+   "EN": "Who keeps THAT in there? 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Ayudar a desconocidos en GTA 6 siempre tiene premio…",
+   "EN": "Helping strangers in GTA 6 always pays off…"
+  },
+  "outro": {
+   "ES": "Furgoneta atascada, sorpresa escondida y huida inmediata. ¿Tú habrías abierto?",
+   "EN": "Stuck van, hidden surprise, instant sprint. Would you have opened it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Nunca abras esa furgoneta 🚐😱",
+   "caption": "Solo quería ayudar a sacar una furgoneta del barro en GTA 6… y acabó corriendo por su vida 😭 ¿Tú habrías abierto?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  },
+  "EN": {
+   "title": "Never open that van 🚐😱",
+   "caption": "Just wanted to help push a van out of the mud in GTA 6… and ended up running for their life 😭 Would you have opened it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  }
+ }
+}
