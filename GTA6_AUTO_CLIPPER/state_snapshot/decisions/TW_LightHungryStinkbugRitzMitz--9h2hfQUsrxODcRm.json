@@ -1,0 +1,90 @@
+{
+ "id": "TW_LightHungryStinkbugRitzMitz--9h2hfQUsrxODcRm",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "priority": true,
+ "reason": "hallazgo misterioso en exploración, tema nuevo, reacción clara",
+ "pillar": "Misterios / Easter eggs",
+ "trim": [
+  0.5,
+  29.9
+ ],
+ "hook": {
+  "ES": "Encontró un móvil perdido en una isla de GTA 6… 📱🏝️😨",
+  "EN": "Found a lost phone on an island in GTA 6… 📱🏝️😨"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.3,
+   "ES": "¿Pero qué…?",
+   "EN": "What the heck?"
+  },
+  {
+   "start": 21.3,
+   "end": 22.5,
+   "ES": "¿Qué pasó?",
+   "EN": "What happened?"
+  },
+  {
+   "start": 24.1,
+   "end": 25.5,
+   "ES": "¿Pero qué…?",
+   "EN": "What the heck?"
+  },
+  {
+   "start": 26.4,
+   "end": 27.7,
+   "ES": "Vale, esto da miedo",
+   "EN": "Okay, that is creepy"
+  }
+ ],
+ "replay": {
+  "start": 26.0,
+  "end": 29.5,
+  "box": [
+   0.3,
+   0.4,
+   0.65,
+   0.55
+  ],
+  "text": {
+   "ES": "¿Quién escribió esto? 😨",
+   "EN": "Who wrote this? 😨"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Encontró un móvil en una isla desierta",
+   "EN": "They found a phone on a deserted island"
+  },
+  "outro": {
+   "ES": "Un vídeo feliz, un corte raro y este mensaje en la arena. ¿Qué pasó aquí?",
+   "EN": "A happy video, a weird cut, and this message in the sand. What happened?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El móvil perdido de la isla en GTA 6",
+   "caption": "Un móvil abandonado, un vídeo en la playa… y algo escrito en la arena 😨 ¿Tienes alguna teoría?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Misterios"
+   ]
+  },
+  "EN": {
+   "title": "The lost phone on the island in GTA 6",
+   "caption": "An abandoned phone, a beach video… and something written in the sand 😨 Got a theory?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Mystery"
+   ]
+  }
+ }
+}

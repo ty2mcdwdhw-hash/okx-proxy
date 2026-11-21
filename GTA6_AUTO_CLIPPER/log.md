@@ -675,3 +675,7 @@
 - 2026-11-21T07:30:12Z | `TW_FaintLongPineappleBudStar-aTTfqbOTny287j1O_ES` | Momentos divertidos / Viral | youtube | scheduled @2026-11-22T08:10:00Z | 🎥 @illojuan (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-21T07:30:15Z | `TW_FaintLongPineappleBudStar-aTTfqbOTny287j1O_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-22T02:16:18Z | 🎥 @illojuan (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-21T07:30:19Z | `TW_FaintLongPineappleBudStar-aTTfqbOTny287j1O_EN` | Momentos divertidos / Viral | youtube | scheduled @2026-11-22T08:10:00Z | 🎥 @illojuan (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T08:33:11Z | `TW_LightHungryStinkbugRitzMitz--9h2hfQUsrxODcRm_ES` | Misterios / Easter eggs | instagram | scheduled @2026-11-22T02:21:33Z | 🎥 @typicalgamer (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T08:33:15Z | `TW_LightHungryStinkbugRitzMitz--9h2hfQUsrxODcRm_ES` | Misterios / Easter eggs | youtube | scheduled @2026-11-22T08:15:00Z | 🎥 @typicalgamer (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T08:33:20Z | `TW_LightHungryStinkbugRitzMitz--9h2hfQUsrxODcRm_EN` | Misterios / Easter eggs | instagram | scheduled @2026-11-22T01:16:18Z | 🎥 @typicalgamer (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T08:33:24Z | `TW_LightHungryStinkbugRitzMitz--9h2hfQUsrxODcRm_EN` | Misterios / Easter eggs | youtube | scheduled @2026-11-22T08:15:00Z | 🎥 @typicalgamer (en->EN) | Spoiler: 0% (Verificado)
