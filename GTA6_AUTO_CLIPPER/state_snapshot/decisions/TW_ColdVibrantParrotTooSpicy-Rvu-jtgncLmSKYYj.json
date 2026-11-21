@@ -1,0 +1,144 @@
+{
+ "id": "TW_ColdVibrantParrotTooSpicy-Rvu-jtgncLmSKYYj",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento claro de gameplay, foco regional",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  8.0,
+  31.5
+ ],
+ "hook": {
+  "ES": "Llegó en su deportivo morado… y se lo QUITARON a punta de pistola 🔫🚗",
+  "EN": "Pulled up in a purple supercar… and got carjacked at gunpoint 🔫🚗"
+ },
+ "subs": [
+  {
+   "start": 11.89,
+   "end": 13.27,
+   "ES": "¿Lo están asaltando?",
+   "EN": "Wait, is someone getting robbed?"
+  },
+  {
+   "start": 14.33,
+   "end": 15.95,
+   "ES": "¿Qué haces? ¿¡Qué haces!?",
+   "EN": "What are you doing?! What?!"
+  },
+  {
+   "start": 15.95,
+   "end": 17.79,
+   "ES": "¿Qué [[carajo]]…?",
+   "EN": "What the [[fuck]]…?"
+  },
+  {
+   "start": 19.73,
+   "end": 21.07,
+   "ES": "[[Mierda]], ¡me robó el auto!",
+   "EN": "[[Shit]], they took my car!"
+  },
+  {
+   "start": 21.07,
+   "end": 24.49,
+   "ES": "¡Me robó el auto! ¡MI auto!",
+   "EN": "They stole my car! MY car!"
+  },
+  {
+   "start": 28.51,
+   "end": 29.75,
+   "ES": "[[Maldita sea]], ¡se llevó mi auto!",
+   "EN": "[[Damn it]], they took my car!"
+  },
+  {
+   "start": 29.75,
+   "end": 31.23,
+   "ES": "¡Me robaron el auto!",
+   "EN": "My car just got stolen!"
+  }
+ ],
+ "bleep": [
+  [
+   16.65,
+   17.89
+  ],
+  [
+   19.63,
+   20.27
+  ],
+  [
+   28.41,
+   29.01
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.83,
+    0.68,
+    0.16
+   ],
+   "start": 8.0,
+   "end": 31.5
+  },
+  {
+   "box": [
+    0.0,
+    0.0,
+    0.2,
+    0.12
+   ],
+   "start": 8.0,
+   "end": 31.5
+  }
+ ],
+ "replay": {
+  "start": 16.0,
+  "end": 19.5,
+  "box": [
+   0.28,
+   0.3,
+   0.44,
+   0.5
+  ],
+  "text": {
+   "ES": "Probó su propia medicina 💀",
+   "EN": "A taste of their own medicine"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Siempre robas autos en GTA… hasta que te toca",
+   "EN": "You always steal cars in GTA… until it's you"
+  },
+  "outro": {
+   "ES": "En GTA 6 los NPCs también roban autos. ¿Te pasó a ti?",
+   "EN": "In GTA 6 the NPCs steal cars too. Has it happened to you?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Le robaron el deportivo en GTA 6 🔫🚗",
+   "caption": "Él siempre roba autos… hoy le tocó a él 😭 ¿Qué habrías hecho?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  },
+  "EN": {
+   "title": "Carjacked in GTA 6 🔫🚗",
+   "caption": "Always the one stealing cars… not today 😭 What would you have done?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  }
+ }
+}
