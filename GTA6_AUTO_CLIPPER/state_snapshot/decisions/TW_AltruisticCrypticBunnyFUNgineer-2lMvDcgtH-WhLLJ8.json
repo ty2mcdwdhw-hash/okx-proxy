@@ -1,0 +1,78 @@
+{
+ "id": "TW_AltruisticCrypticBunnyFUNgineer-2lMvDcgtH-WhLLJ8",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "auto atascado entre vehículos, intenta sacarlo a empujones y acaba abandonándolo",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  9.0,
+  39.0
+ ],
+ "hook": {
+  "ES": "Se le atascó el auto en GTA 6… y encontró la solución más DIGNA 🚗😅",
+  "EN": "Their car got stuck in GTA 6… so they found the most DIGNIFIED fix 🚗😅"
+ },
+ "subs": [
+  {
+   "start": 10.22,
+   "end": 11.12,
+   "ES": "¡Apártense!",
+   "EN": "Move aside!"
+  },
+  {
+   "start": 12.52,
+   "end": 13.9,
+   "ES": "¡Esto me está costando la vida!",
+   "EN": "This is taking my whole life!"
+  },
+  {
+   "start": 14.82,
+   "end": 15.8,
+   "ES": "¡No, madre mía, madre mía!",
+   "EN": "No, oh my god, oh my god!"
+  },
+  {
+   "start": 27.18,
+   "end": 29.04,
+   "ES": "¡Que solo es un empujoncito!",
+   "EN": "It's just a little push!"
+  },
+  {
+   "start": 36.78,
+   "end": 37.8,
+   "ES": "¡Que solo quiero hacer eso!",
+   "EN": "That's all I want to do!"
+  },
+  {
+   "start": 37.88,
+   "end": 39.0,
+   "ES": "¡Ya está, ya está!",
+   "EN": "Done, it's done!"
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Cuando el auto no sale… lo abandonas 🚗",
+   "caption": "Empujoncito por aquí, empujoncito por allá… y al final, ¡a pie! 😂 ¿Tú qué habrías hecho?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "When the car won't come out… you leave it 🚗",
+   "caption": "A little push here, a little push there… and in the end, they just walked away 😂 What would you have done?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}

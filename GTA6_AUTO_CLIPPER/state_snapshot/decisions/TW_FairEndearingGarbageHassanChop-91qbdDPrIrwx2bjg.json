@@ -1,0 +1,84 @@
+{
+ "id": "TW_FairEndearingGarbageHassanChop-91qbdDPrIrwx2bjg",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "minijuego de billar, tiro de ruptura fallido y reacción",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  20.0,
+  41.5
+ ],
+ "hook": {
+  "ES": "Probó el BILLAR de GTA 6… y el primer tiro fue un desastre 🎱😅",
+  "EN": "They tried POOL in GTA 6… and the first shot was a disaster 🎱😅"
+ },
+ "subs": [
+  {
+   "start": 20.53,
+   "end": 21.39,
+   "ES": "Faltan 10 minutos",
+   "EN": "10 minutes left"
+  },
+  {
+   "start": 21.67,
+   "end": 22.17,
+   "ES": "Ah, está bien",
+   "EN": "Oh, okay"
+  },
+  {
+   "start": 25.29,
+   "end": 26.91,
+   "ES": "Mover bola blanca, apuntar",
+   "EN": "Move cue ball, aim"
+  },
+  {
+   "start": 34.95,
+   "end": 36.65,
+   "ES": "¡Wow! ¿Soy bien [[pendejita]], no?",
+   "EN": "Wow! Am I [[dumb]] or what?"
+  },
+  {
+   "start": 38.77,
+   "end": 40.23,
+   "ES": "«Tiro de ruptura no válido»",
+   "EN": "\"Invalid break shot\""
+  },
+  {
+   "start": 40.57,
+   "end": 41.33,
+   "ES": "¿Y lo puedo abrazar?",
+   "EN": "Can I hug them?"
+  }
+ ],
+ "bleep": [
+  [
+   35.69,
+   36.41
+  ]
+ ],
+ "copy": {
+  "ES": {
+   "title": "El billar de GTA 6 no perdona 🎱",
+   "caption": "Taco en mano, mucha confianza… y ni una bola tocada 😂 ¿Tú le darías al primer intento?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Billar"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 pool shows no mercy 🎱",
+   "caption": "Cue in hand, full confidence… and not a single ball touched 😂 Could you hit it first try?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Pool"
+   ]
+  }
+ }
+}

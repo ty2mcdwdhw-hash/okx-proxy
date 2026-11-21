@@ -1,0 +1,53 @@
+{
+ "id": "TW_ShinyCaringReindeerUncleNox-NjNzlfAye6L1M_uN",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "red social dentro del juego, scroll por publicaciones de NPCs",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  0.5,
+  15.0
+ ],
+ "hook": {
+  "ES": "GTA 6 tiene su propia RED SOCIAL… y te puedes quedar haciendo scroll 📱😳",
+  "EN": "GTA 6 has its own SOCIAL MEDIA… and you can actually doomscroll 📱😳"
+ },
+ "subs": [],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.58,
+    0.22,
+    0.2
+   ],
+   "start": 0.5,
+   "end": 15.0
+  }
+ ],
+ "copy": {
+  "ES": {
+   "title": "Doomscrolling… dentro de GTA 6 📱",
+   "caption": "Selfies, autos tuneados, influencers y hasta anuncios: el feed de GTA 6 parece real 😳 ¿Te pasarías horas aquí?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Detalles"
+   ]
+  },
+  "EN": {
+   "title": "Doomscrolling… inside GTA 6 📱",
+   "caption": "Selfies, tuned cars, influencers and even ads: GTA 6's feed looks real 😳 Would you lose hours in here?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Details"
+   ]
+  }
+ }
+}
