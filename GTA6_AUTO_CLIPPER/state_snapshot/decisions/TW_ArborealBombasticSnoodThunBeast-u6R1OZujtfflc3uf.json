@@ -1,0 +1,96 @@
+{
+ "id": "TW_ArborealBombasticSnoodThunBeast-u6R1OZujtfflc3uf",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "explosión de gasolinera en mundo abierto, reacción clara",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  8.0,
+  25.0
+ ],
+ "hook": {
+  "ES": "Se fue de la gasolinera justo a tiempo… 💥⛽",
+  "EN": "Left the gas station JUST in time… 💥⛽"
+ },
+ "subs": [
+  {
+   "start": 11.3,
+   "end": 12.4,
+   "ES": "Esto pinta mal… muy mal",
+   "EN": "This is bad… really bad"
+  },
+  {
+   "start": 13.08,
+   "end": 14.1,
+   "ES": "Mejor me alejo un poco",
+   "EN": "Lemme get some distance"
+  },
+  {
+   "start": 14.1,
+   "end": 17.4,
+   "ES": "En serio, esto se va a liar",
+   "EN": "For real, this is about to go off"
+  },
+  {
+   "start": 17.4,
+   "end": 18.4,
+   "ES": "¿Qué? ¿Qué? ¿Qué?",
+   "EN": "What? What? What?"
+  },
+  {
+   "start": 18.4,
+   "end": 19.4,
+   "ES": "¿¡Qué está pasando!?",
+   "EN": "What's happening!?"
+  }
+ ],
+ "replay": {
+  "start": 19.3,
+  "end": 21.8,
+  "box": [
+   0.25,
+   0.25,
+   0.55,
+   0.5
+  ],
+  "text": {
+   "ES": "Adiós gasolinera 💥",
+   "EN": "Bye bye gas station 💥"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Nunca te quedes cerca de una gasolinera en llamas",
+   "EN": "Never hang around a burning gas station"
+  },
+  "outro": {
+   "ES": "Escapó por segundos. ¿Tú te habrías quedado a mirar?",
+   "EN": "Escaped by seconds. Would you have stayed to watch?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "La gasolinera explotó en GTA 6 💥",
+   "caption": "Salió en moto justo antes del BOOM ⛽💥 ¿Lo habrías logrado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Explosion"
+   ]
+  },
+  "EN": {
+   "title": "The gas station BLEW UP in GTA 6 💥",
+   "caption": "Rode off right before the BOOM ⛽💥 Would you have made it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Explosion"
+   ]
+  }
+ }
+}
