@@ -1,0 +1,118 @@
+{
+ "id": "TW_CrazyHeartlessSpiderPeanutButterJellyTime-YZlP-SFt1O4AzQ38",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "reto de carrera de un NPC en autopista, reacción al rubber-banding, tema nuevo",
+ "pillar": "NPCs / Detalles",
+ "trim": [
+  1.0,
+  29.8
+ ],
+ "hook": {
+  "ES": "Un NPC lo retó a una carrera en GTA 6… y le hizo TRAMPA 🏎️😤",
+  "EN": "A random NPC challenged them to a race in GTA 6… and CHEATED 🏎️😤"
+ },
+ "subs": [
+  {
+   "start": 1.3,
+   "end": 2.4,
+   "ES": "NPC: ¡Oye! ¿Manejas así para destrozar el carro?",
+   "EN": "NPC: Hey! You drive like you wanna wreck that car?"
+  },
+  {
+   "start": 2.42,
+   "end": 4.28,
+   "ES": "¡Uuuh! ¿Quieres pique o qué?",
+   "EN": "Ooooh! You wanna go or what?"
+  },
+  {
+   "start": 4.28,
+   "end": 7.08,
+   "ES": "¡Vamos, vamos!",
+   "EN": "Let's go, let's go!"
+  },
+  {
+   "start": 18.02,
+   "end": 21.84,
+   "ES": "¿Por qué su carro de repente va rapidísimo… y yo lentísimo?",
+   "EN": "Why is their car suddenly SUPER fast… and I'm super slow?"
+  },
+  {
+   "start": 23.85,
+   "end": 26.93,
+   "ES": "No, en serio, ese carro está rotísimo",
+   "EN": "No way, that car is way too fast"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.86,
+    0.0,
+    0.14,
+    0.52
+   ],
+   "start": 1.0,
+   "end": 29.8
+  },
+  {
+   "box": [
+    0.28,
+    0.86,
+    0.44,
+    0.1
+   ],
+   "start": 27.4,
+   "end": 29.8
+  }
+ ],
+ "replay": {
+  "start": 4.8,
+  "end": 7.6,
+  "box": [
+   0.62,
+   0.62,
+   0.38,
+   0.38
+  ],
+  "text": {
+   "ES": "¿Aceptas el reto? 🏁",
+   "EN": "Challenge accepted? 🏁"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "En GTA 6 cualquier desconocido puede retarte a correr",
+   "EN": "In GTA 6, any stranger can challenge you to race"
+  },
+  "outro": {
+   "ES": "Aceptas, aceleras… y el NPC saca turbo de la nada. ¿Trampa o habilidad?",
+   "EN": "You accept, floor it… and the NPC gets magic turbo. Cheating or skill?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El NPC que hace trampa 🏎️😤",
+   "caption": "Un desconocido lo retó a una carrera en plena autopista de GTA 6… y de repente su carro iba el doble de rápido 😭 ¿Trampa o skill?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "CarrerasCallejeras"
+   ]
+  },
+  "EN": {
+   "title": "The NPC that cheats 🏎️😤",
+   "caption": "A random stranger challenged them to a highway race in GTA 6… and suddenly their car was twice as fast 😭 Cheating or skill?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "StreetRace"
+   ]
+  }
+ }
+}
