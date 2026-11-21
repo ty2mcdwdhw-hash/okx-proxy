@@ -1,0 +1,120 @@
+{
+ "id": "TW_FreezingFlaccidCheeseGrammarKing-waPXNurHfIZgCbu9",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "buceo y fauna marina, reacción clara, sin historia",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  0.0,
+  25.0
+ ],
+ "hook": {
+  "ES": "Buceando en GTA 6… y apareció un pez GIGANTE 🤿🐟😱",
+  "EN": "Scuba diving in GTA 6… and a GIANT fish showed up 🤿🐟😱"
+ },
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.06,
+   "ES": "¡Oh, oh! ¿Ese es un mero gigante?",
+   "EN": "Oh, oh! Is that a goliath grouper?"
+  },
+  {
+   "start": 2.76,
+   "end": 4.44,
+   "ES": "¡Es un mero gigante, seguro!",
+   "EN": "That's a goliath grouper, for sure!"
+  },
+  {
+   "start": 6.87,
+   "end": 9.53,
+   "ES": "¡Ahí está! ¡Sí, sí! ¡Este, este, este!",
+   "EN": "There it is! Yes, yes! This one, this one!"
+  },
+  {
+   "start": 9.85,
+   "end": 10.71,
+   "ES": "¡Quiero pescarlo!",
+   "EN": "I wanna catch it!"
+  },
+  {
+   "start": 11.55,
+   "end": 13.95,
+   "ES": "¡Este es el mero gigante! ¡Pez enorme!",
+   "EN": "This is the goliath grouper! Huge fish!"
+  },
+  {
+   "start": 16.36,
+   "end": 17.44,
+   "ES": "¡Quiero pescar ESE!",
+   "EN": "I wanna catch THAT one!"
+  },
+  {
+   "start": 19.1,
+   "end": 19.74,
+   "ES": "¡Ahí está!",
+   "EN": "There it is!"
+  },
+  {
+   "start": 20.58,
+   "end": 23.0,
+   "ES": "¡También llamado mero gigante!",
+   "EN": "Also known as the goliath grouper!"
+  },
+  {
+   "start": 23.44,
+   "end": 24.62,
+   "ES": "¡Es ENORME!",
+   "EN": "It's HUGE!"
+  }
+ ],
+ "replay": {
+  "start": 5.5,
+  "end": 9.0,
+  "box": [
+   0.42,
+   0.25,
+   0.4,
+   0.42
+  ],
+  "text": {
+   "ES": "El jefe del océano",
+   "EN": "The ocean's final boss"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira lo que vive bajo el agua en GTA 6",
+   "EN": "Look what lives underwater in GTA 6"
+  },
+  "outro": {
+   "ES": "Un mero gigante real, nadando tranquilo. ¿Te animas a pescarlo?",
+   "EN": "A real goliath grouper, just cruising. Would you try to catch it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Mero gigante en GTA 6",
+   "caption": "Se puso a bucear en GTA 6 y se cruzó con un mero gigante 🤿🐟 ¿Sabías que el océano está tan vivo?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Buceo"
+   ]
+  },
+  "EN": {
+   "title": "Goliath grouper in GTA 6",
+   "caption": "Went scuba diving in GTA 6 and ran into a goliath grouper 🤿🐟 Did you know the ocean is this alive?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "ScubaDiving"
+   ]
+  }
+ }
+}
