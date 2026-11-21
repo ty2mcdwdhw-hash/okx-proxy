@@ -1,0 +1,108 @@
+{
+ "id": "TW_ThirstyOnerousBasenjiPunchTrees-2OqK9955G0bfHK1R",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "física de conducción espectacular, sin historia",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  5.0,
+  22.0
+ ],
+ "hook": {
+  "ES": "Volcó la camioneta en GTA 6… y SIGUIÓ manejando 🛻😳",
+  "EN": "Flipped the pickup in GTA 6… and KEPT driving 🛻😳"
+ },
+ "subs": [
+  {
+   "start": 7.82,
+   "end": 8.82,
+   "ES": "¡Wow, no manches!",
+   "EN": "Whoa, no way!"
+  },
+  {
+   "start": 9.0,
+   "end": 10.7,
+   "ES": "¡Todavía arranca!",
+   "EN": "It still drives!"
+  },
+  {
+   "start": 10.78,
+   "end": 12.72,
+   "ES": "¡Wooow, qué locura!",
+   "EN": "Whoooa, that's insane!"
+  },
+  {
+   "start": 12.72,
+   "end": 14.96,
+   "ES": "¡Rápidos y Furiosos!",
+   "EN": "Fast & Furious!"
+  },
+  {
+   "start": 14.96,
+   "end": 17.26,
+   "ES": "¡No manches!",
+   "EN": "No freaking way!"
+  },
+  {
+   "start": 17.82,
+   "end": 18.88,
+   "ES": "¿Qué está pasando?",
+   "EN": "What's happening?"
+  },
+  {
+   "start": 18.88,
+   "end": 22.0,
+   "ES": "¡Deja de derrapar, vámonos!",
+   "EN": "Stop drifting, let's go!"
+  }
+ ],
+ "replay": {
+  "start": 7.6,
+  "end": 10.8,
+  "box": [
+   0.2,
+   0.2,
+   0.55,
+   0.65
+  ],
+  "text": {
+   "ES": "Dos ruedas y cero miedo",
+   "EN": "Two wheels, zero fear"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira lo que hace esta camioneta en GTA 6",
+   "EN": "Watch what this pickup does in GTA 6"
+  },
+  "outro": {
+   "ES": "Cualquier otro juego la deja volcada. Aquí aterriza y sigue. ¿Física real o suerte?",
+   "EN": "Any other game leaves it flipped. Here it lands and keeps going. Physics or luck?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Camioneta indestructible en GTA 6",
+   "caption": "Volcó en dos ruedas, chocó con un camión… y siguió como si nada 🛻💨 ¿La física de GTA 6 está rota o es perfecta?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Indestructible pickup in GTA 6",
+   "caption": "Up on two wheels, clipped a truck… and kept on driving 🛻💨 Is GTA 6 physics broken or perfect?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Physics"
+   ]
+  }
+ }
+}
