@@ -1,0 +1,90 @@
+{
+ "id": "TW_CulturedBlatantDolphinPartyTime-zR8ShMMd4d3mK5U_",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento NPC claro y gracioso, foco Asia",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  6.0,
+  25.5
+ ],
+ "hook": {
+  "ES": "Una ciclista de GTA 6 le declaró la GUERRA 🚲🏏",
+  "EN": "A GTA 6 cyclist declared WAR on them 🚲🏏"
+ },
+ "subs": [
+  {
+   "start": 9.84,
+   "end": 11.0,
+   "ES": "¡¿Pero qué hace?!",
+   "EN": "What is she doing?!"
+  },
+  {
+   "start": 12.58,
+   "end": 13.3,
+   "ES": "¡Oye!",
+   "EN": "Hey!"
+  },
+  {
+   "start": 13.34,
+   "end": 14.7,
+   "ES": "¿Y ahora solo huyes?",
+   "EN": "So you're just running now?"
+  },
+  {
+   "start": 20.69,
+   "end": 21.6,
+   "ES": "¡Otra vez no!",
+   "EN": "Not again!"
+  }
+ ],
+ "replay": {
+  "start": 10.0,
+  "end": 12.5,
+  "box": [
+   0.28,
+   0.3,
+   0.44,
+   0.6
+  ],
+  "text": {
+   "ES": "Bate en mano, cero miedo",
+   "EN": "Bat in hand, zero fear"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Nunca hagas enojar a una ciclista en GTA 6",
+   "EN": "Never make a cyclist angry in GTA 6"
+  },
+  "outro": {
+   "ES": "Moto contra bici y bate… ganó la bici. ¿Tú qué habrías hecho?",
+   "EN": "Motorbike versus bike and a bat… the bike won. What would you do?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "La ciclista más peligrosa de GTA 6",
+   "caption": "Iba tranquilo en moto… y una ciclista con bate no lo dejó en paz 🚲🏏 Los NPC de GTA 6 no perdonan.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  },
+  "EN": {
+   "title": "The most dangerous cyclist in GTA 6",
+   "caption": "Just cruising on a motorbike… until a cyclist with a bat wouldn't leave them alone 🚲🏏 GTA 6 NPCs don't forgive.",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  }
+ }
+}
