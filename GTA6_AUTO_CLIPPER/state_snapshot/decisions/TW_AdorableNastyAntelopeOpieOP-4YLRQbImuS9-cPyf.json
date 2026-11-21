@@ -1,0 +1,96 @@
+{
+ "id": "TW_AdorableNastyAntelopeOpieOP-4YLRQbImuS9-cPyf",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "moto con nitro a tope en autopista; choque contra auto y vuelo sobre la mediana, remate wasted",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  35.5,
+  50.5
+ ],
+ "hook": {
+  "ES": "Activó el NITRO en la moto de GTA 6… sin velocímetro 🏍️💨",
+  "EN": "Hit the NITRO on a GTA 6 bike… with no speedometer 🏍️💨"
+ },
+ "subs": [
+  {
+   "start": 36.39,
+   "end": 37.69,
+   "ES": "Y encima tiene nitro…",
+   "EN": "And it's got nitro too…"
+  },
+  {
+   "start": 37.69,
+   "end": 38.85,
+   "ES": "¿A cuánto va esto?",
+   "EN": "How fast does this thing go?"
+  },
+  {
+   "start": 40.51,
+   "end": 42.73,
+   "ES": "Ni siquiera sale el velocímetro 😅",
+   "EN": "There's not even a speedometer 😅"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.76,
+    0.77,
+    0.24,
+    0.2
+   ],
+   "start": 35.5,
+   "end": 47.5
+  }
+ ],
+ "replay": {
+  "start": 45.2,
+  "end": 48.4,
+  "box": [
+   0.25,
+   0.15,
+   0.55,
+   0.75
+  ],
+  "text": {
+   "ES": "La mediana ganó 🏍️💀",
+   "EN": "The median won 🏍️💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Moto rápida, nitro y cero frenos. ¿Qué podría salir mal?",
+   "EN": "Fast bike, nitro, zero brakes. What could go wrong?"
+  },
+  "outro": {
+   "ES": "Un roce con el auto rojo y voló sobre la mediana. ¿Tú frenabas?",
+   "EN": "One tap on the red car and over the median. Would you brake?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Nitro en moto en GTA 6: mala idea 🏍️",
+   "caption": "Moto a fondo, nitro activado y ni un velocímetro para saber cuánto iba… el auto rojo tuvo la última palabra 💀 ¿Lo habrías esquivado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Nitro on a GTA 6 bike: bad idea 🏍️",
+   "caption": "Full throttle, nitro on and no speedometer to check… the red car had the final say 💀 Could you have dodged it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
