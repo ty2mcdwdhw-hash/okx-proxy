@@ -1,0 +1,114 @@
+{
+ "id": "TW_SwissIronicMarjoramEagleEye-51_4Z9poyXk33luK",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "intenta abrir la puerta en marcha, se tira del deportivo y rueda por el asfalto mientras el auto sigue solo",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  1.5,
+  17.0
+ ],
+ "hook": {
+  "ES": "Quiso abrir la puerta en marcha en GTA 6… y salió RODANDO 🚗🤸",
+  "EN": "Tried to open the door mid-drive in GTA 6… and went ROLLING 🚗🤸"
+ },
+ "subs": [
+  {
+   "start": 3.98,
+   "end": 5.6,
+   "ES": "¿Cómo se abre la puerta mientras manejas?",
+   "EN": "How do you open the door while driving?"
+  },
+  {
+   "start": 8.1,
+   "end": 8.8,
+   "ES": "¿Triángulo?",
+   "EN": "Triangle?"
+  },
+  {
+   "start": 10.26,
+   "end": 12.25,
+   "ES": "Mira, chat, chat, chat…",
+   "EN": "Look, chat, chat, chat…"
+  },
+  {
+   "start": 12.3,
+   "end": 13.9,
+   "ES": "¡Triángulo es para bajarse, [[bastardos]]!",
+   "EN": "Triangle means get OUT, you [[bastards]]!"
+  },
+  {
+   "start": 14.5,
+   "end": 15.8,
+   "ES": "Qué locura.",
+   "EN": "That's insane."
+  }
+ ],
+ "bleep": [
+  [
+   13.22,
+   13.84
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.86,
+    0.44,
+    0.12
+   ],
+   "start": 12.6,
+   "end": 15.0
+  }
+ ],
+ "replay": {
+  "start": 9.3,
+  "end": 12.0,
+  "box": [
+   0.15,
+   0.25,
+   0.65,
+   0.72
+  ],
+  "text": {
+   "ES": "Bajada exprés 🤸",
+   "EN": "Express exit 🤸"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Abrir la puerta en marcha en GTA 6. Fácil, ¿no?",
+   "EN": "Opening the door mid-drive in GTA 6. Easy, right?"
+  },
+  "outro": {
+   "ES": "El auto siguió sin él como si nada. ¿Tú sabías este botón?",
+   "EN": "The car just kept going without them. Did you know this button?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "En GTA 6 te puedes TIRAR del auto en marcha 🚗🤸",
+   "caption": "Solo quería abrir la puerta mientras manejaba… y terminó rodando por el asfalto mientras el auto seguía solo 😂 ¿Sabías este truco?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  },
+  "EN": {
+   "title": "In GTA 6 you can BAIL out of a moving car 🚗🤸",
+   "caption": "Just wanted to open the door while driving… and ended up rolling across the asphalt while the car kept going 😂 Did you know this trick?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Gameplay"
+   ]
+  }
+ }
+}
