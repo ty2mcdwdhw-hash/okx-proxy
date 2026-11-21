@@ -61,6 +61,9 @@ python3 -m clipper import-inbox > state/inbox.log 2>&1 || say "bandeja: import-i
 grep -q "^inbox: importados=0 ya_existian=0 invalidos=0" state/inbox.log || say "bandeja: $(tail -1 state/inbox.log)"
 python3 -m clipper decide > state/decide.log 2>&1
 python3 -m clipper render > state/render.log 2>&1
+# Top 3 cada 3 días (solo streamers hispanohablantes); queda como clip 'rendered' y se publica a continuación
+python3 -m clipper top3 > state/top3.log 2>&1
+grep -q "^\[top3\] TOP3_" state/top3.log && say "top3: $(grep -o 'TOP3_[0-9]*: .*' state/top3.log | tail -1)"
 python3 -m clipper publish > state/publish.log 2>&1
 say "publicación: $(tail -1 state/decide.log) | posts=$(grep -c -- '-> ' state/publish.log) errores=$(grep -ci error state/publish.log) render_fail=$(grep -c FAILED state/render.log)"
 python3 -m clipper purge-raw > /dev/null 2>&1

@@ -44,3 +44,16 @@ animales/ancianos. Elige el trim para minimizar censuras cuando el momento lo pe
 - Los tiempos de `subs` son del clip original. Localización gamer, groserías fuertes censuradas con `[[...]]` (mosaico pixelado), pronombres neutros en EN.
 - Opcionales de censura: `"bleep": [[3.1, 3.5]]`, `"pixelate": [{"box": [0.62, 0.05, 0.36, 0.22], "start": 2.0, "end": 24.5}]` (ver sección de censura).
 - `trim`: 7-30 s (55 s si es HOW TO).
+
+## Edición propia (obligatoria en cada aprobado, desde 21/11)
+Instagram y TikTok dejan de recomendar cuentas que re-suben clips sin cambios (subtítulos, borde o crédito NO
+cuentan). Cada aprobado lleva comentario propio, que el render convierte en vídeo:
+- `"replay": {"start": s, "end": e, "box": [x, y, w, h], "text": {"ES": "...", "EN": "..."}}`: el momento clave
+  (1-3.5 s del clip ORIGINAL) se repite a cámara lenta con zoom sobre `box` (fracciones del fotograma original,
+  la zona del detalle) y un aro que lo señala; `text` es el remate escrito (máx. 6 palabras, tono gamer).
+- `"vo": {"intro": {"ES": "...", "EN": "..."}, "outro": {"ES": "...", "EN": "..."}}`: voz en off (TTS). `intro`:
+  gancho hablado de máx. 9 palabras que invite a mirar sin destripar el momento; `outro`: comentario propio de
+  máx. 14 palabras que suena sobre la repetición (opinión, chiste o dato; puede cerrar con una pregunta).
+  Sin groserías ni insultos en la voz en off.
+Si faltan, el render usa los últimos segundos del recorte y el gancho escrito, pero queda peor: escríbelos siempre.
+

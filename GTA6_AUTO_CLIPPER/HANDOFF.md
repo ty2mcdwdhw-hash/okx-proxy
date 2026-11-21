@@ -59,3 +59,12 @@ del repo). Lee `GTA6_AUTO_CLIPPER/inbox/<ID>/` del repo: `clip.mp4` (fragmento y
 priority; opcionales platform, url). Inserta el clip como 'approved' si el ID no existe, copia a media/raw y
 state/decisions (no pisa clips ya rendered/published/takedown) y hace `git rm -r` + commit de la carpeta; el push
 del ciclo la vacía en GitHub. Las carpetas inválidas se quedan y se cuentan en el log (`bandeja: ... invalidos=N`).
+
+## Ajustes del 21/11 (caída de alcance: Instagram/TikTok frenan contenido re-subido)
+- Volumen: topes IG 8 / TikTok 3 / YouTube 3 por cuenta y día, repartidos (`min_gap_minutes` por plataforma);
+  TikTok pausado hasta 23/11 05:00 UTC (`publish.paused_until`); el revisor aprueba máx. 1 clip por ciclo.
+- Edición propia en cada clip (`clipper/enhance.py`, bloque `enhance` de settings): repetición a cámara lenta con
+  zoom + aro + remate, y voz en off TTS (edge-tts, voces es-MX-JorgeNeural / en-US-AndrewNeural) al inicio y sobre la
+  repetición. Campos `replay` y `vo` en la decisión (ver REVIEWER.md). Si TTS falla, sale sin voz.
+- Top 3 cada 72 h (`clipper top3`, `clipper/top3.py`): los 3 clips más vistos de los últimos 3 días de streamers
+  hispanohablantes, con tarjetas y voz; se publica como clip TOP3_<fecha> con prioridad. Marca: state/top3_last.txt.

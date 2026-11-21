@@ -67,6 +67,20 @@ focus:                      # bombardeo por regiones (hora de Lima). Prioriza id
     langs: [es, en, pt, de, fr]
     live_top_per_lang: {es: 25, en: 15, pt: 8, de: 5, fr: 5, ru: 3, other: 2}
 
+enhance:                    # edición propia (Instagram/TikTok penalizan el contenido re-subido sin cambios)
+  replay: true              # repetición del momento clave a cámara lenta, con zoom, aro y remate escrito
+  replay_speed: 0.5
+  replay_max_seconds: 3.5   # segundos del original
+  replay_zoom: 1.5          # zoom si la decisión no trae "box"
+  vo: true                  # voz en off (TTS neuronal): gancho al inicio + comentario sobre la repetición
+  voices: {ES: es-MX-JorgeNeural, EN: en-US-AndrewNeural}
+  duck: 0.25                # volumen del audio original mientras habla la voz
+
+top3:                       # compilación "Top 3" cada 3 días, solo clips de streamers hispanohablantes
+  every_hours: 72
+  source_langs: [es]
+  window_hours: 72
+
 clip:
   min_seconds: 7
   max_seconds: 30

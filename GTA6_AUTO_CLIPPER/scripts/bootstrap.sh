@@ -26,7 +26,7 @@ fi
   cp -n state_snapshot/decisions/*.json state/decisions/ 2>/dev/null
   cp -n state_snapshot/pillars.txt state/ 2>/dev/null
   [ -d .git ] || { git init -q && git add -A && git -c user.name=Claude -c user.email=noreply@anthropic.com commit -q -m "bootstrap"; }
-  python3 -c "import faster_whisper, yt_dlp, yaml, requests, numpy" 2>/dev/null \
+  python3 -c "import faster_whisper, yt_dlp, yaml, requests, numpy, edge_tts" 2>/dev/null \
     || pip install --break-system-packages -q -r requirements.txt
   # hooks de usuario: el piloto vuelve tras cada reinicio de la máquina
   mkdir -p /root/.claude

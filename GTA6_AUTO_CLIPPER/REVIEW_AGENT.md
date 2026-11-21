@@ -18,7 +18,8 @@ Lee primero REVIEWER.md y config/settings.yaml (bloque `focus`) y sigue esas reg
    principal es de habla hispana. Escribe state/decisions/<ID>.json con el
    esquema de REVIEWER.md: trim 7-30 s, hook ES/EN, subs con tiempos del clip original (localización gamer,
    groserías fuertes censuradas, pronombres neutros en EN), copy ES/EN con hashtags
-   [GTA6, GTAVI, GTAVIClips + 1 temático]. Marca "story": true/false y "operator_safe" (true solo si el clip
+   [GTA6, GTAVI, GTAVIClips + 1 temático]. Incluye SIEMPRE "replay" (momento clave, box del detalle, remate) y "vo" (intro y outro
+   ES/EN) según "Edición propia" en REVIEWER.md: es lo que hace que el clip cuente como contenido original. Marca "story": true/false y "operator_safe" (true solo si el clip
    y el copy no tienen nada de la historia).
 5. Escribe una decisión "reject" (reason genérico: "triaje") para TODOS los demás pendientes.
 6. NO ejecutes decide/render/publish.

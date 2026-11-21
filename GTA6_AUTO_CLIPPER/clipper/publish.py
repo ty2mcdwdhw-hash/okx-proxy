@@ -55,6 +55,8 @@ def caption(dec: dict, lang: str, row) -> dict:
         credit = f"🎥: {handle}" + (f" en {plat}" if plat else "") + ("" if src == "es" else f" (Traducido del {es_name})")
     else:
         credit = f"🎥: {handle}" + (f" on {plat}" if plat else "") + ("" if src == "en" else f" (Translated from {en_name})")
+    if (dec.get("credit") or {}).get(lang):   # compilaciones (Top 3): créditos de varios streamers
+        credit = dec["credit"][lang]
     body = f"{c['caption']}\n{credit}"
     yt_title = c.get("title") or c["caption"].split("\n")[0]
     return {

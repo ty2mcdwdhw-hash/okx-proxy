@@ -249,6 +249,11 @@ def render_one(clip_id: str) -> list[Path]:
         cmd += ["-c:v", "libx264", "-preset", r["preset"], "-crf", str(r["crf"]), "-pix_fmt", "yuv420p",
                 "-profile:v", "high", "-movflags", "+faststart", str(mp4)]
         run(cmd, timeout=900)
+        try:                                   # edición propia: repetición comentada + voz en off
+            from .enhance import enhance
+            enhance(mp4, raw, dec, lang, row, cfg)
+        except Exception as ex:
+            print(f"[render] {clip_id} {lang}: edición propia omitida ({str(ex)[-300:]})")
         outs.append(mp4)
     set_status(con, clip_id, "rendered")
     return outs
