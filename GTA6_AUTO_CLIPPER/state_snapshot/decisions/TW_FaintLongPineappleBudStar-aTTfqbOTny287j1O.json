@@ -1,0 +1,120 @@
+{
+ "id": "TW_FaintLongPineappleBudStar-aTTfqbOTny287j1O",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "animal salvaje sorprende al jugador en mundo abierto; reacción fuerte y momento visual claro",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  6.5,
+  22.0
+ ],
+ "hook": {
+  "ES": "Lo miró con prismáticos en GTA 6… y el TIGRE lo vio a él 🐅😱",
+  "EN": "They spotted it through binoculars in GTA 6… then the TIGER spotted them 🐅😱"
+ },
+ "subs": [
+  {
+   "start": 8.64,
+   "end": 9.4,
+   "ES": "Me ha visto, tío",
+   "EN": "It saw me, bro"
+  },
+  {
+   "start": 10.4,
+   "end": 11.6,
+   "ES": "[[Hostia]], sí que...",
+   "EN": "[[Holy crap]], it really..."
+  },
+  {
+   "start": 12.14,
+   "end": 13.22,
+   "ES": "¡Ay, qué bestia!",
+   "EN": "Oh, what a beast!"
+  },
+  {
+   "start": 14.18,
+   "end": 14.72,
+   "ES": "¡Me muero, tío!",
+   "EN": "I'm dead, bro!"
+  },
+  {
+   "start": 16.02,
+   "end": 16.54,
+   "ES": "¡Me muero, eh!",
+   "EN": "I'm so dead!"
+  },
+  {
+   "start": 20.68,
+   "end": 21.28,
+   "ES": "¡Qué locura!",
+   "EN": "That's insane!"
+  }
+ ],
+ "bleep": [
+  [
+   10.3,
+   10.9
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.86,
+    0.4,
+    0.12
+   ],
+   "start": 6.5,
+   "end": 22.0
+  }
+ ],
+ "replay": {
+  "start": 12.4,
+  "end": 15.2,
+  "box": [
+   0.25,
+   0.3,
+   0.5,
+   0.65
+  ],
+  "text": {
+   "ES": "Cazador cazado 🐅",
+   "EN": "Hunter became the hunted 🐅"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Nunca te acerques a esto en GTA 6.",
+   "EN": "Never get this close in GTA 6."
+  },
+  "outro": {
+   "ES": "Rockstar metió fauna salvaje que caza de verdad. ¿Tú habrías corrido o disparado?",
+   "EN": "Rockstar added wildlife that actually hunts you. Would you run or fight?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El tigre de GTA 6 no perdona 🐅",
+   "caption": "Lo estaba observando tranquilo con los prismáticos… y en segundos tenía al tigre encima 😱 La fauna de GTA 6 va en serio. ¿Lo habrías esquivado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Wildlife"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 tigers show no mercy 🐅",
+   "caption": "Calmly watching it through binoculars… seconds later the tiger was on top of them 😱 GTA 6 wildlife is no joke. Could you have dodged it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Wildlife"
+   ]
+  }
+ }
+}

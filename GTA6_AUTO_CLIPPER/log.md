@@ -671,3 +671,7 @@
 - 2026-11-21T03:07:02Z | `TOP3_202611210304_ES` | Top 3 | youtube | scheduled @2026-11-21T08:15:00Z | 🎥 @varios (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-21T03:07:08Z | `TOP3_202611210304_EN` | Top 3 | instagram | scheduled @2026-11-22T01:51:18Z | 🎥 @varios (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-21T03:07:14Z | `TOP3_202611210304_EN` | Top 3 | youtube | scheduled @2026-11-21T08:15:00Z | 🎥 @varios (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T07:30:08Z | `TW_FaintLongPineappleBudStar-aTTfqbOTny287j1O_ES` | Momentos divertidos / Viral | instagram | scheduled @2026-11-22T02:16:33Z | 🎥 @illojuan (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T07:30:12Z | `TW_FaintLongPineappleBudStar-aTTfqbOTny287j1O_ES` | Momentos divertidos / Viral | youtube | scheduled @2026-11-22T08:10:00Z | 🎥 @illojuan (es->ES) | Spoiler: 0% (Verificado)
+- 2026-11-21T07:30:15Z | `TW_FaintLongPineappleBudStar-aTTfqbOTny287j1O_EN` | Momentos divertidos / Viral | instagram | scheduled @2026-11-22T02:16:18Z | 🎥 @illojuan (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-21T07:30:19Z | `TW_FaintLongPineappleBudStar-aTTfqbOTny287j1O_EN` | Momentos divertidos / Viral | youtube | scheduled @2026-11-22T08:10:00Z | 🎥 @illojuan (es->EN) | Spoiler: 0% (Verificado)
