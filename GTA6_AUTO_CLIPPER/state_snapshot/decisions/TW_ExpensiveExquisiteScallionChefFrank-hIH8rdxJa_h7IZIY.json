@@ -1,0 +1,84 @@
+{
+ "id": "TW_ExpensiveExquisiteScallionChefFrank-hIH8rdxJa_h7IZIY",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "derriba un helicóptero policial con 4 estrellas; explosión espectacular y reacción",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.5,
+  13.9
+ ],
+ "hook": {
+  "ES": "4 estrellas y un helicóptero encima en GTA 6… mala idea para el piloto 🚁💥",
+  "EN": "4 stars and a chopper overhead in GTA 6… bad call for the pilot 🚁💥"
+ },
+ "subs": [
+  {
+   "start": 1.33,
+   "end": 3.81,
+   "ES": "¿Esto lo compraste o lo crafteaste?",
+   "EN": "Did you buy this or craft it?"
+  },
+  {
+   "start": 4.27,
+   "end": 5.29,
+   "ES": "¡Espérate, por favor!",
+   "EN": "Hold up, please!"
+  },
+  {
+   "start": 9.02,
+   "end": 10.5,
+   "ES": "¡Tío, qué guapo!",
+   "EN": "Bro, that's SICK!"
+  }
+ ],
+ "replay": {
+  "start": 6.8,
+  "end": 9.6,
+  "box": [
+   0.0,
+   0.0,
+   0.6,
+   0.65
+  ],
+  "text": {
+   "ES": "Helicóptero fuera de servicio 🚁🔥",
+   "EN": "Chopper out of service 🚁🔥"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "La policía mandó un helicóptero. Error de cálculo.",
+   "EN": "The cops sent a chopper. Big mistake."
+  },
+  "outro": {
+   "ES": "Unas ráfagas y el helicóptero acabó en llamas. ¿Tú habrías huido?",
+   "EN": "A few bursts and the chopper went down in flames. Would you run?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Derribó el helicóptero de la policía en GTA 6 🚁💥",
+   "caption": "Con 4 estrellas no hay escapatoria… o eso creían 😂 ¿Huyes o te plantas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Helicoptero"
+   ]
+  },
+  "EN": {
+   "title": "Took down the police chopper in GTA 6 🚁💥",
+   "caption": "4 stars and nowhere to hide… or so they thought 😂 Run or stand your ground?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Helicopter"
+   ]
+  }
+ }
+}
