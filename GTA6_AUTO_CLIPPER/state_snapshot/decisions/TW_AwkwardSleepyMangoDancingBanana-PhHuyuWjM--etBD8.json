@@ -1,0 +1,90 @@
+{
+ "id": "TW_AwkwardSleepyMangoDancingBanana-PhHuyuWjM--etBD8",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento claro de conducción en carrera, sin clips claros del foco regional",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  5.5,
+  17.9
+ ],
+ "hook": {
+  "ES": "Le cerró el paso en plena carrera de GTA 6… y el rival dio VUELTAS 🏎️🌀",
+  "EN": "Cut them off mid-race in GTA 6… and the rival went FLIPPING 🏎️🌀"
+ },
+ "subs": [
+  {
+   "start": 7.3,
+   "end": 8.2,
+   "ES": "¡Ahí va!",
+   "EN": "There it goes!"
+  },
+  {
+   "start": 9.3,
+   "end": 10.1,
+   "ES": "¡Uooo!",
+   "EN": "Whoa!"
+  },
+  {
+   "start": 10.9,
+   "end": 11.7,
+   "ES": "¡JUGADÓN!",
+   "EN": "HUGE PLAY!"
+  },
+  {
+   "start": 12.2,
+   "end": 13.4,
+   "ES": "¿En serio, bro?",
+   "EN": "You serious, bro?"
+  }
+ ],
+ "replay": {
+  "start": 7.4,
+  "end": 9.6,
+  "box": [
+   0.22,
+   0.1,
+   0.52,
+   0.58
+  ],
+  "text": {
+   "ES": "Rival en modo trompo",
+   "EN": "Rival went full spin mode"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Fíjate en el coche de la izquierda",
+   "EN": "Watch the car on the left"
+  },
+  "outro": {
+   "ES": "Un toque y el rival a dar vueltas. ¿Juego limpio o jugada maestra?",
+   "EN": "One tap and the rival is spinning. Fair play or master move?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Rival volcado en la carrera de GTA 6 🏎️🌀",
+   "caption": "Un toquecito en plena autopista y el rival acabó dando vueltas 😂 ¿Limpio o sucio?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  },
+  "EN": {
+   "title": "Rival flipped mid-race in GTA 6 🏎️🌀",
+   "caption": "One little tap on the highway and the rival went spinning 😂 Clean or dirty?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  }
+ }
+}
