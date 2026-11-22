@@ -1,0 +1,78 @@
+{
+ "id": "TW_VictoriousObliqueOstrichDxAbomb-tgLi8UTkFr-CgAPn",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "huida en patinete con botín que acaba en caída, física ragdoll",
+ "pillar": "Físicas / Ragdoll",
+ "trim": [
+  1.0,
+  14.6
+ ],
+ "hook": {
+  "ES": "Huyó del atraco en PATINETE en GTA 6… y el arbusto ganó 🛴💸",
+  "EN": "They fled the heist on a SCOOTER in GTA 6… and the bush won 🛴💸"
+ },
+ "subs": [
+  {
+   "start": 6.43,
+   "end": 8.93,
+   "ES": "¡Bro, esta [[mierda]] va sola!",
+   "EN": "Dude, this [[shit]] drives itself!"
+  }
+ ],
+ "bleep": [
+  [
+   8.5,
+   9.03
+  ]
+ ],
+ "replay": {
+  "start": 9.6,
+  "end": 12.8,
+  "box": [
+   0.25,
+   0.45,
+   0.45,
+   0.5
+  ],
+  "text": {
+   "ES": "Criminal profesional, nivel: arbusto",
+   "EN": "Pro criminal, skill level: bush"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Tres estrellas, un botín y un patinete. ¿Qué podía fallar?",
+   "EN": "Three stars, a loot bag, and a scooter. What could go wrong?"
+  },
+  "outro": {
+   "ES": "La física de GTA 6 no perdona. ¿Tú habrías huido en coche?",
+   "EN": "GTA 6 physics show no mercy. Would you have grabbed a car instead?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "La peor huida en patinete de GTA 6 🛴",
+   "caption": "Botín en la bolsa, policía detrás y un patinete eléctrico como coche de huida… la física de GTA 6 hizo el resto 😂 ¿Plan maestro o desastre?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "The worst scooter getaway in GTA 6 🛴",
+   "caption": "Loot in the bag, cops on their tail and an e-scooter as the getaway ride… GTA 6 physics did the rest 😂 Master plan or total disaster?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
