@@ -1,0 +1,19 @@
+{"id": "TW_EntertainingAgreeableNigiriNerfRedBlaster-MYYojziOUGPxjKvV", "verdict": "approve", "spoiler_level": 0,
+ "story": false, "operator_safe": true, "priority": false,
+ "reason": "momento gracioso de gameplay, streamer hispano top, sin historia",
+ "pillar": "Físicas / Momentos divertidos", "trim": [15.5, 36.0],
+ "hook": {"ES": "Aterrizó en paracaídas JUSTO en el helipuerto de GTA 6… 🪂🚁💀",
+          "EN": "Parachuted right onto the GTA 6 helipad… 🪂🚁💀"},
+ "subs": [
+  {"start": 16.28, "end": 17.78, "ES": "Vale, ¿cómo aterrizo sin matarme?", "EN": "Okay, how do I land without dying?"},
+  {"start": 18.98, "end": 19.4, "ES": "[[Fuck]].", "EN": "[[F***]]."},
+  {"start": 25.32, "end": 26.38, "ES": "Ah, [[fuck]], era este…", "EN": "Ah, [[f***]], it was this one…"},
+  {"start": 26.5, "end": 29.0, "ES": "🚁💀", "EN": "🚁💀"}
+ ],
+ "bleep": [[18.88, 19.22], [25.44, 25.9]],
+ "replay": {"start": 25.0, "end": 28.2, "box": [0.18, 0.3, 0.6, 0.65],
+            "text": {"ES": "Las aspas no perdonan", "EN": "The rotor said no"}},
+ "vo": {"intro": {"ES": "Él solo quería un helicóptero. Mira cómo llegó.", "EN": "They just wanted a chopper. Watch the landing."},
+        "outro": {"ES": "Aterrizaje perfecto… en el peor sitio posible. ¿Tú habrías esperado?", "EN": "Perfect landing… in the worst possible spot. Would you have waited?"}},
+ "copy": {"ES": {"title": "Aterrizaje en el helipuerto de GTA 6 😂", "caption": "Bajó en paracaídas a por el helicóptero… y el helicóptero ganó 🚁💀 ¿Lo habrías hecho mejor?", "hashtags": ["GTA6", "GTAVI", "GTAVIClips", "Paracaidas"]},
+          "EN": {"title": "GTA 6 helipad landing gone wrong 😂", "caption": "Parachuted down to grab the chopper… and the chopper won 🚁💀 Could you do better?", "hashtags": ["GTA6", "GTAVI", "GTAVIClips", "Parachute"]}}}
