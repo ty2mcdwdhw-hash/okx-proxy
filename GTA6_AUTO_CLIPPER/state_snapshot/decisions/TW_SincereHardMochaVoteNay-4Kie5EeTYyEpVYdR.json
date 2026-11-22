@@ -1,0 +1,31 @@
+{
+ "id": "TW_SincereHardMochaVoteNay-4Kie5EeTYyEpVYdR",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "reacción ES fuerte a estrella injusta; free roam",
+ "pillar": "NPCs / Policía",
+ "trim": [8.0, 37.8],
+ "hook": {"ES": "Solo arrancó su coche en GTA 6… y la policía dijo NO 🚓⭐", "EN": "Just started their car in GTA 6… and the cops said NOPE 🚓⭐"},
+ "subs": [
+  {"start": 13.5, "end": 17.4, "ES": "Me pone una estrella…", "EN": "They give me a star…"},
+  {"start": 17.4, "end": 19.2, "ES": "¡por arrancar mi coche e irme!", "EN": "for starting my car and driving off!"},
+  {"start": 23.4, "end": 25.7, "ES": "¡[[Chúpame los huevos]]!", "EN": "[[Suck it]]!"},
+  {"start": 25.8, "end": 27.0, "ES": "¡Venga, hombre!", "EN": "Oh, come ON!"},
+  {"start": 34.6, "end": 35.6, "ES": "Pero si no he hecho nada…", "EN": "But I didn't do anything…"},
+  {"start": 36.3, "end": 37.6, "ES": "¡INJUGABLE!", "EN": "UNPLAYABLE!"}
+ ],
+ "bleep": [[23.37, 25.75]],
+ "pixelate": [{"box": [0.26, 0.89, 0.48, 0.1], "start": 23.2, "end": 26.0}],
+ "replay": {"start": 13.0, "end": 16.0, "box": [0.3, 0.4, 0.5, 0.55], "text": {"ES": "Delito: arrancar el coche", "EN": "Crime: starting your car"}},
+ "vo": {
+  "intro": {"ES": "Mira lo que cuesta arrancar un coche aquí", "EN": "Watch what starting a car costs here"},
+  "outro": {"ES": "Ni se movió y ya era sospechoso. ¿La poli de GTA 6 exagera?", "EN": "Barely moved and already a suspect. Are GTA 6 cops overreacting?"}
+ },
+ "copy": {
+  "ES": {"title": "Una estrella por arrancar el coche 🚓", "caption": "Arrancó su coche, se fue tranquilo… y la policía de GTA 6 no lo perdonó 😂 ¿Te ha pasado? #GTA6", "hashtags": ["GTA6", "GTAVI", "GTAVIClips", "PoliciaGTA6"]},
+  "EN": {"title": "A wanted star for starting a car 🚓", "caption": "Started the car, drove off calmly… and GTA 6 cops still came for them 😂 Ever happened to you? #GTA6", "hashtags": ["GTA6", "GTAVI", "GTAVIClips", "GTA6Cops"]}
+ }
+}
