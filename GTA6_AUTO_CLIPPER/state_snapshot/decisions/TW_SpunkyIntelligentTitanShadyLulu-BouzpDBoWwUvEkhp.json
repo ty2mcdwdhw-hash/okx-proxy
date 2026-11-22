@@ -1,0 +1,102 @@
+{
+ "id": "TW_SpunkyIntelligentTitanShadyLulu-BouzpDBoWwUvEkhp",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "estrena superdeportivo en la autopista y lo destroza contra un cartel en segundos",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  9.6,
+  29.8
+ ],
+ "hook": {
+  "ES": "Estrenó su superdeportivo en GTA 6… y no duró ni 10 segundos 🏎️💥",
+  "EN": "Got a brand-new supercar in GTA 6… it didn't last 10 seconds 🏎️💥"
+ },
+ "subs": [
+  {
+   "start": 9.6,
+   "end": 10.4,
+   "ES": "Una canción así…",
+   "EN": "A song like that…"
+  },
+  {
+   "start": 20.3,
+   "end": 22.0,
+   "ES": "…pide un auto nuevo.",
+   "EN": "…needs a new car."
+  },
+  {
+   "start": 23.1,
+   "end": 26.6,
+   "ES": "Te lo digo: una canción así pide un auto nuevo.",
+   "EN": "I'm telling you, a song like that needs a new car."
+  },
+  {
+   "start": 26.6,
+   "end": 29.8,
+   "ES": "No puedes ir en un auto viejo con esa canción.",
+   "EN": "You can't be driving an old car with that song."
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.8,
+    0.5,
+    0.18
+   ],
+   "start": 9.6,
+   "end": 11.6
+  }
+ ],
+ "replay": {
+  "start": 14.6,
+  "end": 17.0,
+  "box": [
+   0.15,
+   0.3,
+   0.7,
+   0.65
+  ],
+  "text": {
+   "ES": "Cero kilómetros… cero auto 💀",
+   "EN": "Zero miles… zero car 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Auto nuevo, autopista libre. ¿Qué podría salir mal?",
+   "EN": "New car, empty highway. What could go wrong?"
+  },
+  "outro": {
+   "ES": "Ni el seguro lo cubre. ¿Cuánto te habría durado a ti?",
+   "EN": "Not even insurance covers that. How long would yours last?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Auto NUEVO en GTA 6… destrozado al instante 🏎️💥",
+   "caption": "Salió a estrenar su superdeportivo por la autopista… y el cartel de la orilla tenía otros planes 😂 ¿Cuánto te dura a ti un auto nuevo?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "BRAND-NEW car in GTA 6… wrecked instantly 🏎️💥",
+   "caption": "Took the new supercar out on the highway… and that roadside sign had other plans 😂 How long does a new car last for you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}
