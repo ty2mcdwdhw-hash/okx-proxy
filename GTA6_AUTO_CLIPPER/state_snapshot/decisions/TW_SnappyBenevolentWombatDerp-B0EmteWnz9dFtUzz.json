@@ -1,0 +1,124 @@
+{
+ "id": "TW_SnappyBenevolentWombatDerp-B0EmteWnz9dFtUzz",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro de gameplay con policía, reacción fuerte",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  0.5,
+  18.1
+ ],
+ "hook": {
+  "ES": "Nadó hasta una lancha para robarla en GTA 6… sin mirar de QUIÉN era 🚤🚓",
+  "EN": "They swam out to steal a boat in GTA 6… without checking WHOSE it was 🚤🚓"
+ },
+ "subs": [
+  {
+   "start": 1.62,
+   "end": 2.96,
+   "ES": "¡Es una lancha de policía!",
+   "EN": "It's a police boat!"
+  },
+  {
+   "start": 3.16,
+   "end": 4.34,
+   "ES": "¡No me lo [[puto]] creo, loco!",
+   "EN": "I can't [[freaking]] believe it, bro!"
+  },
+  {
+   "start": 4.62,
+   "end": 5.04,
+   "ES": "¡De verdad!",
+   "EN": "For real!"
+  },
+  {
+   "start": 5.38,
+   "end": 7.34,
+   "ES": "¡De toda la [[puta]] bahía, tenía que ser la de policía!",
+   "EN": "Out of every [[damn]] boat, it had to be the cops'!"
+  },
+  {
+   "start": 15.5,
+   "end": 17.1,
+   "ES": "Lo siento, lo siento, de verdad, lo siento mucho",
+   "EN": "Sorry, sorry, really, I'm so sorry"
+  },
+  {
+   "start": 17.52,
+   "end": 17.96,
+   "ES": "Lo siento mucho",
+   "EN": "So sorry"
+  }
+ ],
+ "bleep": [
+  [
+   3.4,
+   3.86
+  ],
+  [
+   5.66,
+   5.98
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.86,
+    0.44,
+    0.12
+   ],
+   "start": 0.5,
+   "end": 18.1
+  }
+ ],
+ "replay": {
+  "start": 11.0,
+  "end": 14.0,
+  "box": [
+   0.25,
+   0.25,
+   0.5,
+   0.65
+  ],
+  "text": {
+   "ES": "Sube a bordo… y SORPRESA 🚓",
+   "EN": "Hops aboard… SURPRISE 🚓"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Robar una lancha parecía fácil… hasta que no",
+   "EN": "Stealing a boat looked easy… until it wasn't"
+  },
+  "outro": {
+   "ES": "De todas las lanchas de la bahía, eligió justo esa. ¿Tú habrías mirado antes?",
+   "EN": "Out of every boat in the bay, they picked that one. Would you check first?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Robó la lancha equivocada en GTA 6 🚤🚓",
+   "caption": "Nadar hasta una lancha para robarla… y descubrir de quién era demasiado tarde 😂 ¿Te ha pasado? Crédito: REVENANT (Twitch)",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Policia"
+   ]
+  },
+  "EN": {
+   "title": "Stole the wrong boat in GTA 6 🚤🚓",
+   "caption": "Swam out to steal a boat… and found out whose it was way too late 😂 Ever happened to you? Credit: REVENANT (Twitch)",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}
