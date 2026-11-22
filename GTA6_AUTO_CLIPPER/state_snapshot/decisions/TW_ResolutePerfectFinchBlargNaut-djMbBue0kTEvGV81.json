@@ -1,0 +1,102 @@
+{
+ "id": "TW_ResolutePerfectFinchBlargNaut-djMbBue0kTEvGV81",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro de choque en cuatrimoto, foco regional",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  7.3,
+  20.2
+ ],
+ "hook": {
+  "ES": "Iba a toda velocidad en cuatrimoto en GTA 6… y apareció un camión 🚛💀",
+  "EN": "Full speed on a quad in GTA 6… then a truck showed up 🚛💀"
+ },
+ "subs": [
+  {
+   "start": 12.73,
+   "end": 14.37,
+   "ES": "Qué raro, no choco con nada",
+   "EN": "So weird, I can't hit anything"
+  },
+  {
+   "start": 14.37,
+   "end": 16.23,
+   "ES": "Choco con todo… menos contigo",
+   "EN": "I hit everything… except you"
+  },
+  {
+   "start": 16.23,
+   "end": 17.91,
+   "ES": "Eh, ¿por qué? ¿Este camino…?",
+   "EN": "Wait, why? This road…?"
+  },
+  {
+   "start": 17.91,
+   "end": 18.99,
+   "ES": "Un golpe así y estás muerto",
+   "EN": "One hit like that and you're dead"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.86,
+    0.4,
+    0.13
+   ],
+   "start": 7.3,
+   "end": 7.9
+  }
+ ],
+ "replay": {
+  "start": 11.4,
+  "end": 13.0,
+  "box": [
+   0.42,
+   0.18,
+   0.45,
+   0.62
+  ],
+  "text": {
+   "ES": "El camión no perdona",
+   "EN": "The truck shows no mercy"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira bien esa intersección",
+   "EN": "Keep your eyes on that intersection"
+  },
+  "outro": {
+   "ES": "Cuatrimoto contra camión, nunca hay empate. ¿Tú frenabas o acelerabas?",
+   "EN": "Quad versus truck is never a tie. Would you brake or floor it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Cuatrimoto vs camión en GTA 6 🚛💀",
+   "caption": "Iba a toda velocidad y el camión se cruzó en el peor momento 😂 ¿Tú frenabas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Quad vs truck in GTA 6 🚛💀",
+   "caption": "Full speed and the truck crossed at the worst possible moment 😂 Would you brake?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
