@@ -1,0 +1,108 @@
+{
+ "id": "TW_RichHardPandaKappaWealth-6MSDfzzJIWjLRF4Q",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "física loca con objeto remolcado, reacción fuerte",
+ "pillar": "Físicas / Momentos divertidos",
+ "priority": false,
+ "trim": [
+  6.0,
+  22.5
+ ],
+ "hook": {
+  "ES": "Arrastraba una caja fuerte en GTA 6… y la física hizo ESTO 🧲😱",
+  "EN": "Dragging a safe in GTA 6… then physics did THIS 🧲😱"
+ },
+ "subs": [
+  {
+   "start": 11.22,
+   "end": 12.7,
+   "ES": "Esto de verdad no fue…",
+   "EN": "That really wasn't…"
+  },
+  {
+   "start": 12.7,
+   "end": 14.94,
+   "ES": "¡Dios mío, espera, espera!",
+   "EN": "Oh my God, wait, wait!"
+  },
+  {
+   "start": 15.02,
+   "end": 18.2,
+   "ES": "¿Soy el mejor jugador del mundo?",
+   "EN": "Am I the best player in the world?"
+  },
+  {
+   "start": 20.1,
+   "end": 21.72,
+   "ES": "Ah, [[mierda]], casi quedó épico.",
+   "EN": "Ah, [[crap]], that was almost sick."
+  }
+ ],
+ "bleep": [
+  [
+   20.6,
+   21.04
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.84,
+    0.4,
+    0.12
+   ],
+   "start": 20.5,
+   "end": 21.3
+  }
+ ],
+ "replay": {
+  "start": 11.0,
+  "end": 14.5,
+  "box": [
+   0.28,
+   0.22,
+   0.44,
+   0.6
+  ],
+  "text": {
+   "ES": "La caja fuerte se SUBIÓ sola",
+   "EN": "The safe hopped IN itself"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira lo que pasa al tomar esta curva",
+   "EN": "Watch what happens on this turn"
+  },
+  "outro": {
+   "ES": "Choca con el poste y la caja aterriza en la batea. ¿Suerte o física?",
+   "EN": "Hits the pole and the safe lands in the bed. Luck or physics?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "La caja fuerte se subió sola 😱",
+   "caption": "Iba arrastrando una caja fuerte con la camioneta en GTA 6… y un poste lo cambió todo 🧲💥 ¿Suerte o física?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "The safe hopped in by itself 😱",
+   "caption": "Towing a safe with a pickup in GTA 6… then one pole changed everything 🧲💥 Luck or physics?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
