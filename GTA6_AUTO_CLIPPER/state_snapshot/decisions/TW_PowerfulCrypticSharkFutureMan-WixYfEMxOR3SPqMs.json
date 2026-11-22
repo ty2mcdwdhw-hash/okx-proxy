@@ -1,0 +1,142 @@
+{
+ "id": "TW_PowerfulCrypticSharkFutureMan-WixYfEMxOR3SPqMs",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "evento aleatorio de NPCs en la calle, sin historia",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  3.5,
+  29.3
+ ],
+ "hook": {
+  "ES": "Unos influencers VOLCARON su coche en GTA 6… y lo que hicieron después 🚗📱",
+  "EN": "Some influencers FLIPPED their car in GTA 6… and then THIS happened 🚗📱"
+ },
+ "subs": [
+  {
+   "start": 5.17,
+   "end": 7.3,
+   "ES": "Dios mío, ¡qué [[mierda]]!",
+   "EN": "Oh my god, holy [[sh*t]]!"
+  },
+  {
+   "start": 9.13,
+   "end": 10.3,
+   "ES": "¿Estáis bien?",
+   "EN": "Are you okay?"
+  },
+  {
+   "start": 12.11,
+   "end": 13.0,
+   "ES": "¿Qué ha pasado?",
+   "EN": "What happened?"
+  },
+  {
+   "start": 21.46,
+   "end": 22.4,
+   "ES": "¡Eh!",
+   "EN": "Hey!"
+  },
+  {
+   "start": 24.05,
+   "end": 25.6,
+   "ES": "¡Vuelve aquí, [[cabrón]]!",
+   "EN": "Get back here, you [[son of a b*tch]]!"
+  },
+  {
+   "start": 25.97,
+   "end": 27.3,
+   "ES": "Se acabó, voy a por ti.",
+   "EN": "That's it, I'm going for it."
+  },
+  {
+   "start": 28.0,
+   "end": 29.2,
+   "ES": "¡Vi lo que hiciste!",
+   "EN": "I saw what you did!"
+  }
+ ],
+ "bleep": [
+  [
+   6.55,
+   7.33
+  ],
+  [
+   13.2,
+   16.1
+  ],
+  [
+   16.6,
+   17.6
+  ],
+  [
+   19.3,
+   20.6
+  ],
+  [
+   24.1,
+   25.1
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.18,
+    0.82,
+    0.64,
+    0.17
+   ],
+   "start": 3.5,
+   "end": 29.3
+  }
+ ],
+ "replay": {
+  "start": 17.5,
+  "end": 20.5,
+  "box": [
+   0.25,
+   0.02,
+   0.5,
+   0.5
+  ],
+  "text": {
+   "ES": "Coche volcado… y a correr 🏃",
+   "EN": "Car flipped… and they RAN 🏃"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira lo que pasa en este cruce de GTA 6.",
+   "EN": "Watch what happens at this GTA 6 intersection."
+  },
+  "outro": {
+   "ES": "Volcaron, grabaron y salieron corriendo. ¿Tú los habrías perseguido?",
+   "EN": "They flipped it, filmed it and ran. Would you chase them?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Unos influencers volcaron su coche en GTA 6… y salieron corriendo 🚗📱",
+   "caption": "El mundo de GTA 6 tiene vida propia 😂 ¿Tú los habrías perseguido?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  },
+  "EN": {
+   "title": "Influencers flipped their car in GTA 6… and ran for it 🚗📱",
+   "caption": "GTA 6's world has a life of its own 😂 Would you chase them?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6NPC"
+   ]
+  }
+ }
+}
