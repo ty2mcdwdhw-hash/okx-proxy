@@ -1,0 +1,65 @@
+{
+ "id": "TW_ColdConsiderateArtichokeNomNom-2Hq-mnxsyQbKAGvq",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "caos con vehículo pesado, momento claro, sin historia",
+ "pillar": "Momentos divertidos / Policía",
+ "trim": [
+  13.5,
+  43.5
+ ],
+ "hook": {
+  "ES": "Los polis los persiguen en GTA 6… y eligen la EXCAVADORA 🚜🚓",
+  "EN": "Cops on their tail in GTA 6… so they grabbed a BULLDOZER 🚜🚓"
+ },
+ "subs": [],
+ "replay": {
+  "start": 17.0,
+  "end": 20.0,
+  "box": [
+   0.38,
+   0.3,
+   0.45,
+   0.55
+  ],
+  "text": {
+   "ES": "Patrulla volteada con estilo 🚜",
+   "EN": "Cop truck flipped with style 🚜"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Así se resuelve una persecución en GTA 6",
+   "EN": "This is how you end a GTA 6 chase"
+  },
+  "outro": {
+   "ES": "La pala sirve para todo, menos para protegerte de las balas. ¿Tú qué usarías?",
+   "EN": "That blade handles everything except bullets. What would you drive?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Excavadora vs policía en GTA 6",
+   "caption": "Los polis pensaban que los tenían… hasta que llegó la excavadora 🚜💥 ¿Cuánto aguantarías tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Bulldozer"
+   ]
+  },
+  "EN": {
+   "title": "Bulldozer vs cops in GTA 6",
+   "caption": "The cops thought they had them… then the bulldozer showed up 🚜💥 How long would you last?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Bulldozer"
+   ]
+  }
+ }
+}
