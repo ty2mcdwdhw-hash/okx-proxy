@@ -1,0 +1,134 @@
+{
+ "id": "TW_FilthySpotlessKleeDxAbomb-NlZklZW1ek6agGjE",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "no puede vender la camioneta del sheriff y la mete al mar hasta hundirla",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  7.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "En GTA 6 no puedes vender la patrulla… así que la HUNDIÓ 🚓🌊",
+  "EN": "Can't sell the cop truck in GTA 6… so they SANK it 🚓🌊"
+ },
+ "subs": [
+  {
+   "start": 7.0,
+   "end": 7.86,
+   "ES": "Este es el mío…",
+   "EN": "This one's mine…"
+  },
+  {
+   "start": 8.42,
+   "end": 10.08,
+   "ES": "Registrado, no se puede ni vender.",
+   "EN": "Registered, can't even sell it."
+  },
+  {
+   "start": 11.24,
+   "end": 12.24,
+   "ES": "Pues ¿sabes qué?",
+   "EN": "Well, you know what?"
+  },
+  {
+   "start": 13.08,
+   "end": 15.38,
+   "ES": "No lo puedo vender, no puedo hacer nada con él…",
+   "EN": "Can't sell it, can't do anything with it…"
+  },
+  {
+   "start": 15.38,
+   "end": 16.46,
+   "ES": "[[Fuck]] the police.",
+   "EN": "[[Fuck]] the police."
+  },
+  {
+   "start": 27.32,
+   "end": 28.8,
+   "ES": "Que os den por [[culo]].",
+   "EN": "Screw you [[guys]]."
+  }
+ ],
+ "bleep": [
+  [
+   15.28,
+   16.1
+  ],
+  [
+   28.02,
+   28.72
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.86,
+    0.4,
+    0.12
+   ],
+   "start": 15.2,
+   "end": 16.8
+  },
+  {
+   "box": [
+    0.3,
+    0.86,
+    0.4,
+    0.12
+   ],
+   "start": 27.0,
+   "end": 30.0
+  }
+ ],
+ "replay": {
+  "start": 20.5,
+  "end": 24.0,
+  "box": [
+   0.22,
+   0.3,
+   0.5,
+   0.5
+  ],
+  "text": {
+   "ES": "Devolución al estilo mar 🌊",
+   "EN": "Ocean-style return policy 🌊"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "¿Qué haces con una patrulla que no puedes vender?",
+   "EN": "What do you do with a cop truck you can't sell?"
+  },
+  "outro": {
+   "ES": "Si no se vende, se hunde. ¿Tú qué habrías hecho con ella?",
+   "EN": "If it won't sell, it sinks. What would you have done with it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "No podía vender la patrulla en GTA 6… y la mandó al fondo del mar 🚓🌊",
+   "caption": "El juego no le dejaba vender la camioneta del sheriff… así que tomó la decisión más lógica 😂 ¿Tú la habrías guardado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  },
+  "EN": {
+   "title": "Couldn't sell the cop truck in GTA 6… so it went to the bottom of the sea 🚓🌊",
+   "caption": "The game wouldn't let them sell the sheriff's truck… so they made the most logical call 😂 Would you have kept it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}
