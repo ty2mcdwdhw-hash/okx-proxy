@@ -1,0 +1,84 @@
+{
+ "id": "TW_BoldInterestingHyenaDuDudu-s3dWVTfkZb6AWXmV",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "carrera ganada en la última vuelta con remate en el aire",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  5.5,
+  30.2
+ ],
+ "hook": {
+  "ES": "Moto contra buggies en GTA 6… y la última vuelta 🏍️🔥",
+  "EN": "Dirt bike vs buggies in GTA 6… then the final lap 🏍️🔥"
+ },
+ "subs": [
+  {
+   "start": 6.33,
+   "end": 7.63,
+   "ES": "La próxima me pillo un coche",
+   "EN": "Next race I'm taking a car"
+  },
+  {
+   "start": 24.69,
+   "end": 27.6,
+   "ES": "¡VAMOOOOS!",
+   "EN": "LET'S GOOOO!"
+  },
+  {
+   "start": 29.25,
+   "end": 30.07,
+   "ES": "Qué delicia",
+   "EN": "So clean"
+  }
+ ],
+ "replay": {
+  "start": 24.6,
+  "end": 27.6,
+  "box": [
+   0.28,
+   0.35,
+   0.46,
+   0.6
+  ],
+  "text": {
+   "ES": "Primero y con caballito",
+   "EN": "First place, wheelie finish"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Una moto contra buggies gigantes. Mira la última vuelta.",
+   "EN": "One dirt bike against monster buggies. Watch the last lap."
+  },
+  "outro": {
+   "ES": "Ganar ya está bien, pero cruzar la meta volando es otro nivel. ¿Moto o buggy?",
+   "EN": "Winning is cool, but crossing the line airborne hits different. Bike or buggy?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Moto vs buggies en GTA 6 🏍️",
+   "caption": "Última vuelta, primer puesto y meta en el aire 🔥 ¿Tú vas en moto o en buggy?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Carreras"
+   ]
+  },
+  "EN": {
+   "title": "Dirt bike vs buggies in GTA 6 🏍️",
+   "caption": "Final lap, first place and an airborne finish 🔥 Bike or buggy?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  }
+ }
+}
