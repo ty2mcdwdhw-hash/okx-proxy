@@ -695,3 +695,7 @@
 - 2026-11-22T09:33:12Z | `TW_SoftPlayfulMarjoramCeilingCat-cC9H8oVhBToxNLL0_ES` | Mapa / Exploración | youtube | scheduled @2026-11-24T08:10:00Z | 🎥 @rubius (es->ES) | Spoiler: 0% (Verificado)
 - 2026-11-22T09:33:16Z | `TW_SoftPlayfulMarjoramCeilingCat-cC9H8oVhBToxNLL0_EN` | Mapa / Exploración | instagram | scheduled @2026-11-23T01:26:18Z | 🎥 @rubius (es->EN) | Spoiler: 0% (Verificado)
 - 2026-11-22T09:33:20Z | `TW_SoftPlayfulMarjoramCeilingCat-cC9H8oVhBToxNLL0_EN` | Mapa / Exploración | youtube | scheduled @2026-11-24T08:10:00Z | 🎥 @rubius (es->EN) | Spoiler: 0% (Verificado)
+- 2026-11-22T13:32:32Z | `TW_RelatedLitigiousCasetteRuleFive-ZGBXdxIdAS495Wri_ES` | Mapa / Exploración | instagram | scheduled @2026-11-23T02:06:27Z | 🎥 @cohhcarnage (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-22T13:32:36Z | `TW_RelatedLitigiousCasetteRuleFive-ZGBXdxIdAS495Wri_ES` | Mapa / Exploración | youtube | scheduled @2026-11-24T08:15:00Z | 🎥 @cohhcarnage (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-22T13:32:39Z | `TW_RelatedLitigiousCasetteRuleFive-ZGBXdxIdAS495Wri_EN` | Mapa / Exploración | instagram | scheduled @2026-11-23T01:31:18Z | 🎥 @cohhcarnage (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-22T13:32:41Z | `TW_RelatedLitigiousCasetteRuleFive-ZGBXdxIdAS495Wri_EN` | Mapa / Exploración | youtube | scheduled @2026-11-24T08:15:00Z | 🎥 @cohhcarnage (en->EN) | Spoiler: 0% (Verificado)

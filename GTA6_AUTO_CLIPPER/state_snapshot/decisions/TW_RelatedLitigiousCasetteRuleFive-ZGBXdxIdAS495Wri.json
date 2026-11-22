@@ -1,0 +1,102 @@
+{
+ "id": "TW_RelatedLitigiousCasetteRuleFive-ZGBXdxIdAS495Wri",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "emboscada de fauna en el pantano, reacción fuerte, tema nuevo",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  7.0,
+  19.0
+ ],
+ "hook": {
+  "ES": "Fue a recoger algo al pantano en GTA 6… y no estaba solo 🐊😱",
+  "EN": "Went to grab some loot in a GTA 6 swamp… big mistake 🐊😱"
+ },
+ "subs": [
+  {
+   "start": 7.6,
+   "end": 9.5,
+   "ES": "¡AY, DIOS! ¡AY, DIOS!",
+   "EN": "OH GOD! OH GOD!"
+  },
+  {
+   "start": 9.98,
+   "end": 11.1,
+   "ES": "¡AY, DIOS!",
+   "EN": "OH GOD!"
+  },
+  {
+   "start": 11.5,
+   "end": 13.9,
+   "ES": "¡AY, JESÚS! ¡JESÚS BENDITO!",
+   "EN": "OH JESUS! OH MY JESUS!"
+  },
+  {
+   "start": 14.22,
+   "end": 14.9,
+   "ES": "¡AY, DIOS!",
+   "EN": "OH GOD!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.62,
+    0.74,
+    0.16,
+    0.12
+   ],
+   "start": 15.8,
+   "end": 17.4
+  }
+ ],
+ "replay": {
+  "start": 8.0,
+  "end": 11.0,
+  "box": [
+   0.25,
+   0.3,
+   0.55,
+   0.62
+  ],
+  "text": {
+   "ES": "Los caimanes no perdonan 🐊",
+   "EN": "Gators don't do mercy 🐊"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Solo iba a recoger algo en el pantano…",
+   "EN": "They just wanted to grab something in the swamp…"
+  },
+  "outro": {
+   "ES": "En GTA 6 los caimanes atacan en grupo. ¿Tú habrías salido vivo?",
+   "EN": "GTA 6 gators hunt in packs. Would you have made it out?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Emboscada de caimanes en GTA 6 🐊",
+   "caption": "Nadie avisó que el pantano de GTA 6 venía con comité de bienvenida 😱🐊 ¿Corres o peleas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Caimanes"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 gator ambush 🐊",
+   "caption": "Nobody said the GTA 6 swamp came with a welcome committee 😱🐊 Run or fight?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Alligator"
+   ]
+  }
+ }
+}
