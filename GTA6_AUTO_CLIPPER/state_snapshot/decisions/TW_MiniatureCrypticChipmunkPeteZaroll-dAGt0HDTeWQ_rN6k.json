@@ -1,0 +1,108 @@
+{
+ "id": "TW_MiniatureCrypticChipmunkPeteZaroll-dAGt0HDTeWQ_rN6k",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento visual espectacular, foco regional, sin duplicado",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  30.0,
+  58.5
+ ],
+ "hook": {
+  "ES": "Cayó entre FUEGOS ARTIFICIALES en GTA 6… y el aterrizaje 💀🎆",
+  "EN": "Freefalling through FIREWORKS in GTA 6… and the landing 💀🎆"
+ },
+ "subs": [
+  {
+   "start": 34.8,
+   "end": 37.84,
+   "ES": "Bro, Jason, ¿estás grabando una peli o qué?",
+   "EN": "Yo Jason, are you shooting a movie or what?"
+  },
+  {
+   "start": 37.84,
+   "end": 39.16,
+   "ES": "Wow, esto…",
+   "EN": "Whoa, this…"
+  },
+  {
+   "start": 41.63,
+   "end": 43.59,
+   "ES": "¡Qué épico, bro!",
+   "EN": "That's so sick!"
+  },
+  {
+   "start": 46.5,
+   "end": 47.06,
+   "ES": "¡[[Mierda]]!",
+   "EN": "[[Shit]]!"
+  },
+  {
+   "start": 47.7,
+   "end": 49.38,
+   "ES": "Wow, esto…",
+   "EN": "Whoa, this…"
+  },
+  {
+   "start": 50.72,
+   "end": 51.8,
+   "ES": "Vamos, confío en ti",
+   "EN": "Let's go, counting on you"
+  }
+ ],
+ "bleep": [
+  [
+   46.4,
+   47.16
+  ]
+ ],
+ "replay": {
+  "start": 51.5,
+  "end": 55.0,
+  "box": [
+   0.3,
+   0.15,
+   0.4,
+   0.7
+  ],
+  "text": {
+   "ES": "Aterrizaje de PELÍCULA 💀",
+   "EN": "Movie-grade landing 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Esto parece una película… espera al final",
+   "EN": "This looks like a movie… wait for the end"
+  },
+  "outro": {
+   "ES": "Diez de diez en estilo, cero en aterrizaje. ¿Tú lo habrías logrado?",
+   "EN": "Ten out of ten for style, zero for the landing. Could you stick it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Caída libre entre fuegos artificiales 🎆",
+   "caption": "Todo iba de película… hasta el final 💀 ¿Lo habrías logrado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Stunts"
+   ]
+  },
+  "EN": {
+   "title": "Freefall through fireworks 🎆",
+   "caption": "Straight out of a movie… until the end 💀 Could you stick it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Stunts"
+   ]
+  }
+ }
+}
