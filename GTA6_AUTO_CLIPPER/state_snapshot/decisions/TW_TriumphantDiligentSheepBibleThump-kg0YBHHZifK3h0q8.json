@@ -1,0 +1,90 @@
+{
+ "id": "TW_TriumphantDiligentSheepBibleThump-kg0YBHHZifK3h0q8",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento de fauna inesperado en mundo abierto, reacción clara",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  6.0,
+  23.0
+ ],
+ "hook": {
+  "ES": "Paseaba en moto de agua por GTA 6… y el mar tenía OTROS planes 🦈🌊",
+  "EN": "Just a chill jet ski ride in GTA 6… the ocean had OTHER plans 🦈🌊"
+ },
+ "subs": [
+  {
+   "start": 17.94,
+   "end": 20.7,
+   "ES": "Bro, ese tiburón… a ese tipo se lo comieron DOS tiburones",
+   "EN": "Bro, that shark… that guy just got eaten by TWO sharks"
+  },
+  {
+   "start": 20.86,
+   "end": 21.6,
+   "ES": "¿Es en serio?",
+   "EN": "Are you kidding me?"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.87,
+    0.92,
+    0.13,
+    0.08
+   ],
+   "start": 0.0,
+   "end": 24.3
+  }
+ ],
+ "replay": {
+  "start": 13.8,
+  "end": 16.6,
+  "box": [
+   0.36,
+   0.18,
+   0.44,
+   0.22
+  ],
+  "text": {
+   "ES": "Tiburones de Leonida: 2, NPC: 0",
+   "EN": "Leonida sharks: 2, NPC: 0"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira bien al fondo, junto al barco en llamas",
+   "EN": "Watch the background, right by the burning boat"
+  },
+  "outro": {
+   "ES": "Rockstar puso tiburones de verdad en el mar. ¿Te meterías al agua?",
+   "EN": "Rockstar put real sharks in the ocean. Would you still go swimming?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Los tiburones de GTA 6 no perdonan 🦈",
+   "caption": "Un paseo tranquilo en moto de agua… hasta que miras al fondo. ¿Te atreves a nadar en Leonida? 🌊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Tiburones"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 sharks don't miss 🦈",
+   "caption": "A chill jet ski ride… until you look at the background. Would you swim in Leonida? 🌊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Sharks"
+   ]
+  }
+ }
+}
