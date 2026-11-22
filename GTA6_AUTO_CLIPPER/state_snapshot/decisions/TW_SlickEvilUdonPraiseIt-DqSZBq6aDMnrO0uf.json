@@ -1,0 +1,142 @@
+{
+ "id": "TW_SlickEvilUdonPraiseIt-DqSZBq6aDMnrO0uf",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "NPC gracioso, reacción fuerte",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  10.0,
+  34.0
+ ],
+ "hook": {
+  "ES": "Salió del golpe con el botín… y un NPC le había OKUPADO el coche 🚗😤",
+  "EN": "Pulled off the heist… and an NPC SQUATTED in their getaway car 🚗😤"
+ },
+ "subs": [
+  {
+   "start": 12.2,
+   "end": 13.7,
+   "ES": "¿Pero qué [[mierda]]?",
+   "EN": "What the [[f***]]?"
+  },
+  {
+   "start": 16.7,
+   "end": 18.5,
+   "ES": "¡[[Me cago en todo]]!",
+   "EN": "[[Goddammit]], [[goddammit]]!"
+  },
+  {
+   "start": 18.6,
+   "end": 20.6,
+   "ES": "¡Ladrón! ¡Fuera! ¡Fuera de ahí!",
+   "EN": "Thief! Get out! Get out of there!"
+  },
+  {
+   "start": 20.7,
+   "end": 21.7,
+   "ES": "¡[[Retrasado]]!",
+   "EN": "[[R-word]] idiot!"
+  },
+  {
+   "start": 22.6,
+   "end": 24.1,
+   "ES": "¡Que te bajes, [[idiota]]!",
+   "EN": "Get out, you [[idiot]]!"
+  },
+  {
+   "start": 27.2,
+   "end": 28.2,
+   "ES": "¡[[Me cago en todo]]!",
+   "EN": "[[Goddammit]]!"
+  },
+  {
+   "start": 31.4,
+   "end": 35.5,
+   "ES": "Ay, Dios mío… ¡no, no!",
+   "EN": "Oh my god… oh no!"
+  }
+ ],
+ "bleep": [
+  [
+   13.12,
+   13.74
+  ],
+  [
+   16.62,
+   18.52
+  ],
+  [
+   20.62,
+   21.32
+  ],
+  [
+   22.48,
+   23.56
+  ],
+  [
+   27.12,
+   28.2
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.86,
+    0.6,
+    0.13
+   ],
+   "start": 10.0,
+   "end": 34.0
+  }
+ ],
+ "replay": {
+  "start": 17.0,
+  "end": 20.5,
+  "box": [
+   0.3,
+   0.25,
+   0.45,
+   0.55
+  ],
+  "text": {
+   "ES": "El NPC NO suelta el volante",
+   "EN": "NPC refuses to let go"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Robo perfecto… hasta que llegó al coche.",
+   "EN": "Perfect heist… until they reached the car."
+  },
+  "outro": {
+   "ES": "El NPC más cabezota de GTA 6. ¿Tú le habrías dejado el coche?",
+   "EN": "Most stubborn NPC in GTA 6. Would you let them keep it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Un NPC le okupó el coche en GTA 6 😤",
+   "caption": "Sale con el botín y se encuentra a un NPC que NO piensa bajarse del coche 💀 ¿Quién gana? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  },
+  "EN": {
+   "title": "An NPC squatted in the getaway car in GTA 6 😤",
+   "caption": "Walks out with the loot and finds an NPC who will NOT leave the car 💀 Who wins? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  }
+ }
+}
