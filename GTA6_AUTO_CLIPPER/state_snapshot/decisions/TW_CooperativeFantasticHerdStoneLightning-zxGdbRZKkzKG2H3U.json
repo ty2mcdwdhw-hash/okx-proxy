@@ -1,0 +1,95 @@
+{
+ "id": "TW_CooperativeFantasticHerdStoneLightning-zxGdbRZKkzKG2H3U",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "momento claro de conducción con remate cómico",
+ "pillar": "Momentos divertidos / Viral",
+ "trim": [
+  3.6,
+  17.2
+ ],
+ "hook": {
+  "ES": "«Te enseño a manejar de verdad»… y GTA 6 dijo NO 🚙🌳",
+  "EN": "\"I'll show you a REAL driver\"… GTA 6 had other plans 🚙🌳"
+ },
+ "subs": [
+  {
+   "start": 4.53,
+   "end": 5.8,
+   "ES": "Vale, tengo que controlar esto.",
+   "EN": "Okay, I gotta control this."
+  },
+  {
+   "start": 5.85,
+   "end": 7.1,
+   "ES": "Espera… lo tengo.",
+   "EN": "Hold up… I got this."
+  },
+  {
+   "start": 8.75,
+   "end": 10.2,
+   "ES": "Te voy a enseñar lo que es un piloto de verdad.",
+   "EN": "I'll show you what a real driver looks like."
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.68,
+    0.0,
+    0.32,
+    0.16
+   ],
+   "start": 3.6,
+   "end": 17.2
+  }
+ ],
+ "replay": {
+  "start": 11.6,
+  "end": 14.8,
+  "box": [
+   0.28,
+   0.3,
+   0.5,
+   0.62
+  ],
+  "text": {
+   "ES": "Piloto de verdad, dice 🌳",
+   "EN": "Real driver, they said 🌳"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Prometió enseñarle a manejar… mira lo que pasa.",
+   "EN": "They promised a driving lesson… watch this."
+  },
+  "outro": {
+   "ES": "La acera no estaba en el plan. ¿Le dejarías el volante a ella?",
+   "EN": "The sidewalk wasn't part of the plan. Would you let her drive?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Prometió manejar como un PRO en GTA 6… 🚙",
+   "caption": "Lo dijo con toda la confianza del mundo 😂 ¿Quién debió manejar?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Promised to drive like a PRO in GTA 6… 🚙",
+   "caption": "Said it with full confidence 😂 Who should've been driving?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
