@@ -1,0 +1,108 @@
+{
+ "id": "TW_DignifiedHappyKumquatTriHard-i3W72JQF7DpPZRT-",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "secuencia misteriosa poco vista, tema nuevo",
+ "pillar": "Misterios / Easter eggs",
+ "trim": [
+  4.5,
+  30.0
+ ],
+ "priority": false,
+ "hook": {
+  "ES": "GTA 6 te pone a elegir PLANETA… y nadie sabe por qué 🪐❓",
+  "EN": "GTA 6 makes you pick a PLANET… and nobody knows why 🪐❓"
+ },
+ "subs": [
+  {
+   "start": 6.1,
+   "end": 7.4,
+   "ES": "Saturno…",
+   "EN": "Saturn…"
+  },
+  {
+   "start": 9.2,
+   "end": 11.8,
+   "ES": "El Sol…",
+   "EN": "The Sun…"
+  },
+  {
+   "start": 12.0,
+   "end": 13.0,
+   "ES": "…la Tierra",
+   "EN": "…Earth"
+  },
+  {
+   "start": 14.0,
+   "end": 16.4,
+   "ES": "Igual podemos elegir dónde vivir",
+   "EN": "Maybe we get to choose where we live"
+  },
+  {
+   "start": 21.5,
+   "end": 23.0,
+   "ES": "Ya no hay vuelta atrás",
+   "EN": "There's no going back"
+  },
+  {
+   "start": 27.9,
+   "end": 29.0,
+   "ES": "Esto es la Tierra",
+   "EN": "This is Earth"
+  },
+  {
+   "start": 29.0,
+   "end": 30.0,
+   "ES": "Es un acertijo",
+   "EN": "It's a riddle"
+  }
+ ],
+ "replay": {
+  "start": 21.5,
+  "end": 24.5,
+  "box": [
+   0.22,
+   0.4,
+   0.3,
+   0.4
+  ],
+  "text": {
+   "ES": "¿Eclipse? ¿Pista? ¿Qué es ESTO?",
+   "EN": "Eclipse? Clue? What IS this?"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Esto en GTA 6 nadie lo vio venir",
+   "EN": "Nobody saw this coming in GTA 6"
+  },
+  "outro": {
+   "ES": "Dos soles, planetas y un acertijo. ¿Tú qué planeta elegirías?",
+   "EN": "Two suns, planets and a riddle. Which planet would you pick?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El acertijo de los planetas en GTA 6 🪐",
+   "caption": "Nadie se esperaba esto en GTA 6 👀 ¿Tienes alguna teoría?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "EasterEgg"
+   ]
+  },
+  "EN": {
+   "title": "The planet riddle in GTA 6 🪐",
+   "caption": "Nobody expected this in GTA 6 👀 Got a theory?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "EasterEgg"
+   ]
+  }
+ }
+}
