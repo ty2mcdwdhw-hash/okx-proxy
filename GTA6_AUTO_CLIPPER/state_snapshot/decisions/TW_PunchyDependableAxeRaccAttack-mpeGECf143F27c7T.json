@@ -1,0 +1,78 @@
+{
+ "id": "TW_PunchyDependableAxeRaccAttack-mpeGECf143F27c7T",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento claro de carrera, ironía + choque",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  5.0,
+  23.0
+ ],
+ "hook": {
+  "ES": "«Voy a quedar PRIMERO»… dijo en la carrera de GTA 6 🏁🌴",
+  "EN": "\"I'm still finishing FIRST\"… famous last words in GTA 6 🏁🌴"
+ },
+ "subs": [
+  {
+   "start": 6.39,
+   "end": 7.9,
+   "ES": "Igual la diseñaron rapidita",
+   "EN": "They made this one fast though"
+  },
+  {
+   "start": 8.29,
+   "end": 10.2,
+   "ES": "Igual voy a quedar PRIMERO",
+   "EN": "I'm still gonna finish FIRST"
+  }
+ ],
+ "replay": {
+  "start": 16.0,
+  "end": 19.0,
+  "box": [
+   0.2,
+   0.3,
+   0.55,
+   0.55
+  ],
+  "text": {
+   "ES": "Primero… en los arbustos 🌿",
+   "EN": "First place… in the bushes 🌿"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Iba primero en la carrera… hasta esta curva",
+   "EN": "Leading the race… until this one corner"
+  },
+  "outro": {
+   "ES": "De primero a tercero en dos segundos. ¿Tú frenas en las curvas?",
+   "EN": "First to third in two seconds. Do you brake for corners?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Iba primero en GTA 6… y llegó la curva 🏁",
+   "caption": "Dijo que ganaba seguro y GTA 6 tenía otros planes 😂 ¿Frenas en las curvas o nunca? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Carreras"
+   ]
+  },
+  "EN": {
+   "title": "Leading the race in GTA 6… then the corner 🏁",
+   "caption": "Said the win was locked and GTA 6 had other plans 😂 Do you brake for corners? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Racing"
+   ]
+  }
+ }
+}
