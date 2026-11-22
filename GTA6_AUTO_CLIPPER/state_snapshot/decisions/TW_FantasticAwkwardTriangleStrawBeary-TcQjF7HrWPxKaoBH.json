@@ -1,0 +1,78 @@
+{
+ "id": "TW_FantasticAwkwardTriangleStrawBeary-TcQjF7HrWPxKaoBH",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "físicas absurdas en vehículo con explosión final; momento claro y tema nuevo",
+ "pillar": "Físicas / Ragdoll",
+ "trim": [
+  7.5,
+  22.3
+ ],
+ "hook": {
+  "ES": "Viajar en una BAÑERA sobre la camioneta en GTA 6… 🛁💥",
+  "EN": "Riding in a BATHTUB on a pickup in GTA 6… 🛁💥"
+ },
+ "subs": [
+  {
+   "start": 8.0,
+   "end": 13.0,
+   "ES": "Vale, ¿lo vieron? ¿Podemos no hacer eso?",
+   "EN": "Okay, y'all see that? Can we not do that?"
+  },
+  {
+   "start": 14.8,
+   "end": 16.3,
+   "ES": "¡Ay, no!",
+   "EN": "Oh no!"
+  }
+ ],
+ "replay": {
+  "start": 14.2,
+  "end": 17.6,
+  "box": [
+   0.15,
+   0.25,
+   0.65,
+   0.7
+  ],
+  "text": {
+   "ES": "Directo al asfalto 🛁💀",
+   "EN": "Straight onto the asphalt 🛁💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "La forma más cómoda de viajar en GTA 6… ¿o no?",
+   "EN": "The comfiest way to travel in GTA 6… right?"
+  },
+  "outro": {
+   "ES": "Un giro brusco y adiós bañera. Las físicas de este juego no perdonan.",
+   "EN": "One sharp turn and bye bye tub. These physics show no mercy."
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Bañera + camioneta en GTA 6 = desastre 🛁",
+   "caption": "Iba tan tranquilo en la bañera… hasta la primera curva 💥 ¿Te subirías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Bathtub + pickup in GTA 6 = disaster 🛁",
+   "caption": "Chilling in the tub… until the first turn 💥 Would you ride in it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
