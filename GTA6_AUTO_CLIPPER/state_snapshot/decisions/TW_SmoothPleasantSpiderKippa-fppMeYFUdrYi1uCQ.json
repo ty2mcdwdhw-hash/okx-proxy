@@ -1,0 +1,108 @@
+{
+ "id": "TW_SmoothPleasantSpiderKippa-fppMeYFUdrYi1uCQ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "intenta saltar el río con el coche y se queda corto",
+ "pillar": "Físicas y Gameplay (Conducción)",
+ "trim": [
+  3.0,
+  19.0
+ ],
+ "hook": {
+  "ES": "Intentó SALTAR el río con el coche en GTA 6… 🚗🌊",
+  "EN": "Tried to JUMP the river by car in GTA 6… 🚗🌊"
+ },
+ "subs": [
+  {
+   "start": 3.42,
+   "end": 5.44,
+   "ES": "Dime que sí, dime que sí…",
+   "EN": "Tell me yes, tell me yes…"
+  },
+  {
+   "start": 5.44,
+   "end": 8.18,
+   "ES": "Vas bien, vas bien, vas bien…",
+   "EN": "You got this, you got this…"
+  },
+  {
+   "start": 8.18,
+   "end": 9.98,
+   "ES": "¡VAS MUY BIEN!",
+   "EN": "YOU GOT THIS!"
+  },
+  {
+   "start": 11.04,
+   "end": 12.46,
+   "ES": "Mi [[puta]] madre…",
+   "EN": "Oh [[sh*t]]…"
+  }
+ ],
+ "bleep": [
+  [
+   11.0,
+   12.5
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.3,
+    0.86,
+    0.4,
+    0.12
+   ],
+   "start": 10.8,
+   "end": 15.0
+  }
+ ],
+ "replay": {
+  "start": 8.3,
+  "end": 11.0,
+  "box": [
+   0.3,
+   0.25,
+   0.38,
+   0.45
+  ],
+  "text": {
+   "ES": "Le faltó UN metro 📏",
+   "EN": "Missed it by ONE meter 📏"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "¿Un coche normal puede saltar este río?",
+   "EN": "Can a regular car jump this river?"
+  },
+  "outro": {
+   "ES": "La confianza estaba al cien, la física no. ¿Tú lo habrías intentado?",
+   "EN": "Confidence was at a hundred, physics wasn't. Would you have tried it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Quiso saltar el río con el coche en GTA 6… y la física dijo NO 🚗🌊",
+   "caption": "«Vas bien, vas MUY bien»… hasta que no 😂 ¿Tú lo habrías intentado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "Tried to jump the river by car in GTA 6… and physics said NO 🚗🌊",
+   "caption": "\"You got this, you got THIS\"… until they didn't 😂 Would you have tried it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
