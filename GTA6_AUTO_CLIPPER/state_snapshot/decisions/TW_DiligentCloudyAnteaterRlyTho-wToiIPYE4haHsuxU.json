@@ -1,0 +1,142 @@
+{
+ "id": "TW_DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": true,
+ "reason": "easter egg con reacción fuerte",
+ "pillar": "Misterios / Easter eggs",
+ "trim": [
+  1.0,
+  28.5
+ ],
+ "hook": {
+  "ES": "Encontró un ALIEN escondido en GTA 6 👽😱",
+  "EN": "They found a hidden ALIEN in GTA 6 👽😱"
+ },
+ "subs": [
+  {
+   "start": 2.0,
+   "end": 2.8,
+   "ES": "¡Eres tú!",
+   "EN": "It's you!"
+  },
+  {
+   "start": 4.14,
+   "end": 5.66,
+   "ES": "¡Fuiste tú todo este tiempo!",
+   "EN": "It was you the whole time!"
+  },
+  {
+   "start": 7.1,
+   "end": 8.68,
+   "ES": "¡Frentón [[hijo de puta]]!",
+   "EN": "You fat forehead [[motherfucker]]!"
+  },
+  {
+   "start": 9.92,
+   "end": 10.72,
+   "ES": "¡Eras tú!",
+   "EN": "It was you!"
+  },
+  {
+   "start": 11.54,
+   "end": 12.78,
+   "ES": "Tengo que sacarle una foto a esta [[mierda]]",
+   "EN": "I gotta take a picture of this [[shit]]"
+  },
+  {
+   "start": 13.92,
+   "end": 15.6,
+   "ES": "¡Tengo que sacarle una foto, bro!",
+   "EN": "I gotta take a picture of this, bro!"
+  },
+  {
+   "start": 18.45,
+   "end": 19.25,
+   "ES": "¡Un alien en GTA!",
+   "EN": "Alien in GTA!"
+  },
+  {
+   "start": 20.25,
+   "end": 23.45,
+   "ES": "¡Acabamos de encontrar un alien en GTA, baby!",
+   "EN": "We just found an alien in GTA, baby!"
+  },
+  {
+   "start": 26.7,
+   "end": 27.76,
+   "ES": "¿Cómo lo ven, chat?",
+   "EN": "How y'all looking at this?"
+  }
+ ],
+ "bleep": [
+  [
+   7.9,
+   8.78
+  ],
+  [
+   12.42,
+   12.88
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.84,
+    0.6,
+    0.13
+   ],
+   "start": 1.0,
+   "end": 28.5
+  }
+ ],
+ "replay": {
+  "start": 2.0,
+  "end": 5.0,
+  "box": [
+   0.3,
+   0.08,
+   0.45,
+   0.5
+  ],
+  "text": {
+   "ES": "Siempre estuvo ahí 👽",
+   "EN": "It was there all along 👽"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Nadie esperaba encontrar esto en GTA 6",
+   "EN": "Nobody expected to find this in GTA 6"
+  },
+  "outro": {
+   "ES": "Rockstar y sus secretos de siempre. ¿Tú ya lo encontraste?",
+   "EN": "Rockstar and their classic secrets. Have you found it yet?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El alien escondido de GTA 6 👽",
+   "caption": "Rockstar lo volvió a hacer… ¿sabías que estaba aquí? 👽",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  },
+  "EN": {
+   "title": "The hidden alien in GTA 6 👽",
+   "caption": "Rockstar did it again… did you know this was here? 👽",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6EasterEgg"
+   ]
+  }
+ }
+}

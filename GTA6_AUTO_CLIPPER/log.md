@@ -702,3 +702,8 @@
 - 2026-11-22T16:09:25Z | `TW_SpinelessLongRhinocerosDansGame-qDsc_4GiLekszxVB_EN` | Físicas y Gameplay (Conducción) | instagram | scheduled @2026-11-23T04:01:18Z | 🎥 @yourragegaming (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-22T16:37:52Z | `TW_SpicyFurryDragonflyTBCheesePull-ZARTUiKyAtYCYoUi_ES` | Físicas y Gameplay (Agua) | instagram | scheduled @2026-11-23T04:36:27Z | 🎥 @stormfall33 (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-22T18:37:43Z | `TW_SpicyFurryDragonflyTBCheesePull-ZARTUiKyAtYCYoUi_EN` | Físicas y Gameplay (Agua) | instagram | scheduled @2026-11-23T06:31:18Z | 🎥 @stormfall33 (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-22T19:06:53Z | `TW_DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU_ES` | Misterios / Easter eggs | instagram | scheduled @2026-11-23T02:26:33Z | 🎥 @ishowspeed (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-22T19:06:56Z | `TW_DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU_ES` | Misterios / Easter eggs | youtube | scheduled @2026-11-24T08:20:00Z | 🎥 @ishowspeed (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-22T19:06:58Z | `TW_DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU_EN` | Misterios / Easter eggs | instagram | scheduled @2026-11-23T02:01:18Z | 🎥 @ishowspeed (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-22T19:07:00Z | `TW_DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU_EN` | Misterios / Easter eggs | youtube | scheduled @2026-11-24T08:20:00Z | 🎥 @ishowspeed (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-22T19:07:06Z | `TW_PeacefulSingleAyeayeANELE-AaET69JuFP8v0UIR_ES` | Autos / Caos con vehículos | instagram | scheduled @2026-11-23T07:06:27Z | 🎥 @ohnepixel (en->ES) | Spoiler: 0% (Verificado)
