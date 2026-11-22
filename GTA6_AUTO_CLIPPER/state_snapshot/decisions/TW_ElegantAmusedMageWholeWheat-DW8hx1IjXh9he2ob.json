@@ -1,0 +1,100 @@
+{
+ "id": "TW_ElegantAmusedMageWholeWheat-DW8hx1IjXh9he2ob",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "persecución con salida de carretera espectacular, streamer hispanohablante",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  8.6,
+  27.5
+ ],
+ "hook": {
+  "ES": "Huía de la policía en GTA 6… y el coche DESPEGÓ 🚓🌿",
+  "EN": "Running from the cops in GTA 6… and the car TOOK OFF 🚓🌿"
+ },
+ "subs": [
+  {
+   "start": 8.74,
+   "end": 12.5,
+   "ES": "y ahora me sigue el helicóptero",
+   "EN": "and now the chopper's on me"
+  },
+  {
+   "start": 12.6,
+   "end": 14.1,
+   "ES": "y ahora mira…",
+   "EN": "and now look…"
+  },
+  {
+   "start": 17.63,
+   "end": 18.9,
+   "ES": "no sé ni adónde voy",
+   "EN": "I don't even know where I'm going"
+  },
+  {
+   "start": 19.0,
+   "end": 20.1,
+   "ES": "¿qué [[carajo]]?",
+   "EN": "what the [[f***]]?"
+  }
+ ],
+ "bleep": [
+  [
+   18.95,
+   19.6
+  ],
+  [
+   19.62,
+   20.15
+  ]
+ ],
+ "replay": {
+  "start": 19.3,
+  "end": 22.8,
+  "box": [
+   0.3,
+   0.3,
+   0.45,
+   0.55
+  ],
+  "text": {
+   "ES": "Modo avión activado ✈️",
+   "EN": "Airplane mode: ON ✈️"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Tres estrellas y un camino de tierra… mala combinación",
+   "EN": "Three stars and a dirt road… bad combo"
+  },
+  "outro": {
+   "ES": "El coche voló más que el helicóptero. ¿Tú habrías frenado?",
+   "EN": "That car flew more than the chopper. Would you have braked?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El coche que quiso ser avión en GTA 6",
+   "caption": "Huyendo con 3 estrellas… y el camino de tierra decidió por ella 😂 ¿Nota del aterrizaje del 1 al 10?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Persecucion"
+   ]
+  },
+  "EN": {
+   "title": "The car that wanted to be a plane in GTA 6",
+   "caption": "Fleeing with 3 stars… and the dirt road had other plans 😂 Rate the landing 1-10?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "CarChase"
+   ]
+  }
+ }
+}
