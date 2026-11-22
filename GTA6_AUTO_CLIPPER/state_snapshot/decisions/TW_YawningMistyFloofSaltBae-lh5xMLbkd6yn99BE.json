@@ -1,0 +1,132 @@
+{
+ "id": "TW_YawningMistyFloofSaltBae-lh5xMLbkd6yn99BE",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro de modo foto con animal, gracioso y visual",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  8.3,
+  38.2
+ ],
+ "hook": {
+  "ES": "Se hizo una foto con un OSO POLAR en plena ciudad de GTA 6 🐻‍❄️📸",
+  "EN": "Took a pic with a POLAR BEAR in the middle of the city in GTA 6 🐻‍❄️📸"
+ },
+ "subs": [
+  {
+   "start": 8.42,
+   "end": 10.5,
+   "ES": "Parece que este oso no muerde…",
+   "EN": "Looks like this bear doesn't bite…"
+  },
+  {
+   "start": 12.8,
+   "end": 13.48,
+   "ES": "¿Eh?",
+   "EN": "Huh?"
+  },
+  {
+   "start": 14.44,
+   "end": 16.72,
+   "ES": "¡Vamos a sacarnos una foto! ¿Hola?",
+   "EN": "Let's take a pic together! Hello?"
+  },
+  {
+   "start": 20.52,
+   "end": 24.04,
+   "ES": "Guau… ¡qué FOTÓN!",
+   "EN": "Whoa… what a SHOT!"
+  },
+  {
+   "start": 24.88,
+   "end": 25.4,
+   "ES": "¡[[Joder]]!",
+   "EN": "[[Fuck]]!"
+  },
+  {
+   "start": 26.2,
+   "end": 28.06,
+   "ES": "¡Es que qué fotón!",
+   "EN": "Seriously, what a shot!"
+  },
+  {
+   "start": 29.28,
+   "end": 30.98,
+   "ES": "¡BRUTAL!",
+   "EN": "DAMN!"
+  },
+  {
+   "start": 34.42,
+   "end": 38.12,
+   "ES": "Me hice una foto con un oso polar en plena ciudad",
+   "EN": "I just took a pic with a polar bear in the big city"
+  }
+ ],
+ "bleep": [
+  [
+   24.78,
+   25.5
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.85,
+    0.44,
+    0.13
+   ],
+   "start": 24.6,
+   "end": 29.3
+  }
+ ],
+ "replay": {
+  "start": 20.5,
+  "end": 23.5,
+  "box": [
+   0.4,
+   0.25,
+   0.55,
+   0.7
+  ],
+  "text": {
+   "ES": "Selfie con oso polar desbloqueado",
+   "EN": "Polar bear selfie unlocked"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "¿Un oso polar en plena ciudad? Mira esto",
+   "EN": "A polar bear in the middle of the city?"
+  },
+  "outro": {
+   "ES": "Ni se inmutó con la cámara. ¿Tú te acercarías a sacarte la foto?",
+   "EN": "It didn't even flinch at the camera. Would you get this close?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Foto con un oso polar en GTA 6 🐻‍❄️📸",
+   "caption": "Se acercó a un oso polar en plena ciudad… y salió la foto del año 😂 ¿Tú te atreverías? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6ModoFoto"
+   ]
+  },
+  "EN": {
+   "title": "Polar bear photo op in GTA 6 🐻‍❄️📸",
+   "caption": "Walked right up to a polar bear in the city… and got the pic of the year 😂 Would you risk it? 👇",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6PhotoMode"
+   ]
+  }
+ }
+}
