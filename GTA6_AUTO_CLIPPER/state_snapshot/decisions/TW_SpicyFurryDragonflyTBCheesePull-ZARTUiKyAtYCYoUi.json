@@ -1,0 +1,78 @@
+{
+ "id": "TW_SpicyFurryDragonflyTBCheesePull-ZARTUiKyAtYCYoUi",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "momento claro de agua y fauna, reacción fuerte",
+ "pillar": "Físicas y Gameplay (Agua)",
+ "trim": [
+  3.0,
+  15.7
+ ],
+ "hook": {
+  "ES": "Se tiró al mar en GTA 6… y NO estaba solo 🌊👀",
+  "EN": "Jumped into the sea in GTA 6… and wasn't alone 🌊👀"
+ },
+ "subs": [
+  {
+   "start": 6.8,
+   "end": 7.9,
+   "ES": "Mis vaqueros…",
+   "EN": "My jeans…"
+  },
+  {
+   "start": 12.4,
+   "end": 15.6,
+   "ES": "¿¿QUÉ ES ESO??",
+   "EN": "WHAT IS THAT??"
+  }
+ ],
+ "replay": {
+  "start": 12.3,
+  "end": 15.5,
+  "box": [
+   0.25,
+   0.45,
+   0.45,
+   0.45
+  ],
+  "text": {
+   "ES": "Mira quién nada al lado 👀",
+   "EN": "Look who's swimming nearby 👀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Un chapuzón tranquilo en el mar… o eso creía",
+   "EN": "A calm swim in the sea… or so they thought"
+  },
+  "outro": {
+   "ES": "La fauna marina de GTA 6 está viva de verdad. ¿Tú te tirarías?",
+   "EN": "GTA 6 sea life is actually alive. Would you jump in?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Se tiró al mar en GTA 6 y no estaba solo",
+   "caption": "Saltó de la lancha a nadar en GTA 6… y mira lo que apareció a su lado 🌊 ¿Te tirarías al agua?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "FaunaGTA6"
+   ]
+  },
+  "EN": {
+   "title": "Jumped into the sea in GTA 6 and wasn't alone",
+   "caption": "Jumped off the boat for a swim in GTA 6… and look what showed up next to them 🌊 Would you jump in?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Wildlife"
+   ]
+  }
+ }
+}
