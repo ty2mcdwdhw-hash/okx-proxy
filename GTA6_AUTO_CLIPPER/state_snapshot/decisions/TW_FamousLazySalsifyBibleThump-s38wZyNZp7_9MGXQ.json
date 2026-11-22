@@ -1,0 +1,90 @@
+{
+ "id": "TW_FamousLazySalsifyBibleThump-s38wZyNZp7_9MGXQ",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": true,
+ "reason": "momento de acción viral, reacción fuerte",
+ "pillar": "Historia / Reacciones",
+ "trim": [
+  0.4,
+  15.4
+ ],
+ "hook": {
+  "ES": "Pelea a puño en un avión en pleno vuelo… y la turbina dijo la última palabra ✈️💀",
+  "EN": "A fistfight inside a plane mid-flight… and the engine had the last word ✈️💀"
+ },
+ "subs": [
+  {
+   "start": 2.77,
+   "end": 3.6,
+   "ES": "¡Pum! ¡Pum!",
+   "EN": "Bang! Bang!"
+  },
+  {
+   "start": 9.6,
+   "end": 10.8,
+   "ES": "¡¡OHHH!!",
+   "EN": "OHHH!!"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.7,
+    0.0,
+    0.29,
+    0.23
+   ],
+   "start": 0.4,
+   "end": 15.4
+  }
+ ],
+ "replay": {
+  "start": 8.6,
+  "end": 11.2,
+  "box": [
+   0.28,
+   0.18,
+   0.5,
+   0.72
+  ],
+  "text": {
+   "ES": "Directo a la turbina 💀",
+   "EN": "Straight into the engine 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Nunca abras la puerta de un avión en vuelo",
+   "EN": "Never open a plane door mid-flight"
+  },
+  "outro": {
+   "ES": "GTA 6 no perdona: la turbina ganó esta pelea. ¿Lo viste venir?",
+   "EN": "GTA 6 shows no mercy: the engine won this fight. Saw it coming?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "La turbina ganó la pelea en GTA 6 ✈️💀",
+   "caption": "Pelea dentro del avión y final inesperado 😳 ¿Lo viste venir? 🎮 Clip: Lacy (Twitch)",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Avion"
+   ]
+  },
+  "EN": {
+   "title": "The jet engine won the fight in GTA 6 ✈️💀",
+   "caption": "A fight inside the plane with an unexpected ending 😳 Saw it coming? 🎮 Clip: Lacy (Twitch)",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Plane"
+   ]
+  }
+ }
+}
