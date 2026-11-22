@@ -1,0 +1,96 @@
+{
+ "id": "TW_WildMistyMartenLitFam-6PXxgNksCZ92b4H7",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "física absurda con coche en puente ferroviario, reacción clara",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  7.0,
+  30.0
+ ],
+ "hook": {
+  "ES": "Cruzó un puente de tren en coche en GTA 6… mala idea 🚗🌉",
+  "EN": "Driving across a train bridge in GTA 6… bad idea 🚗🌉"
+ },
+ "subs": [
+  {
+   "start": 11.8,
+   "end": 14.1,
+   "ES": "No pasa, no pasa…",
+   "EN": "It won't fit, it won't fit…"
+  },
+  {
+   "start": 15.7,
+   "end": 20.3,
+   "ES": "¿A que parezco salido de una serie?",
+   "EN": "Don't I look like I'm in a TV show?"
+  },
+  {
+   "start": 21.6,
+   "end": 23.0,
+   "ES": "Pareces un detective de anime",
+   "EN": "You look like an anime detective"
+  },
+  {
+   "start": 23.4,
+   "end": 25.0,
+   "ES": "Exacto, soy el capitán",
+   "EN": "Exactly, I'm the captain"
+  },
+  {
+   "start": 29.5,
+   "end": 30.0,
+   "ES": "Nunca vi conducir así",
+   "EN": "Never seen driving like this"
+  }
+ ],
+ "replay": {
+  "start": 18.5,
+  "end": 21.5,
+  "box": [
+   0.25,
+   0.15,
+   0.5,
+   0.65
+  ],
+  "text": {
+   "ES": "El coche quedó COLGANDO 💀",
+   "EN": "The car is just HANGING 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Atajo por el puente del tren… ¿qué podía salir mal?",
+   "EN": "Shortcut over the train bridge… what could go wrong?"
+  },
+  "outro": {
+   "ES": "La física de GTA 6 dejó el coche colgando en vertical. ¿Tú lo sacas?",
+   "EN": "GTA 6 physics left the car hanging sideways. Could you get it out?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Coche colgando del puente en GTA 6",
+   "caption": "Tomó el atajo por las vías del tren y la física de GTA 6 hizo el resto 😂 ¿Lo habrías intentado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "FisicasGTA6"
+   ]
+  },
+  "EN": {
+   "title": "Car hanging off a bridge in GTA 6",
+   "caption": "Took the train-track shortcut and GTA 6 physics did the rest 😂 Would you have tried it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
