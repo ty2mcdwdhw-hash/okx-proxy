@@ -1,0 +1,120 @@
+{
+ "id": "TW_BadRealAnacondaImGlitch-nljeesSOOv6TsJMd",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "camión grúa choca el brazo contra un paso elevado, física clara",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  17.5,
+  43.0
+ ],
+ "hook": {
+  "ES": "Armó el «camión más fuerte» de GTA 6… y se olvidó del PUENTE 🏗️💥",
+  "EN": "Built the 'strongest truck' in GTA 6… and forgot about the BRIDGE 🏗️💥"
+ },
+ "subs": [
+  {
+   "start": 18.66,
+   "end": 19.86,
+   "ES": "¡Vamos allá!",
+   "EN": "Let's go!"
+  },
+  {
+   "start": 19.86,
+   "end": 21.84,
+   "ES": "Jajaja",
+   "EN": "Hahaha"
+  },
+  {
+   "start": 26.21,
+   "end": 27.95,
+   "ES": "Listo: el coche más fuerte del juego",
+   "EN": "Done: the strongest car in the game"
+  },
+  {
+   "start": 29.36,
+   "end": 31.18,
+   "ES": "Espera… ¿esto va mal?",
+   "EN": "Wait… is this bad?"
+  },
+  {
+   "start": 31.8,
+   "end": 33.84,
+   "ES": "Ya está…",
+   "EN": "That's it…"
+  },
+  {
+   "start": 35.04,
+   "end": 38.51,
+   "ES": "¡SE ACABÓ!",
+   "EN": "IT'S OVER!"
+  },
+  {
+   "start": 40.72,
+   "end": 41.78,
+   "ES": "Se acabó.",
+   "EN": "It's over."
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.36,
+    0.82,
+    0.3,
+    0.12
+   ],
+   "start": 30.0,
+   "end": 36.0
+  }
+ ],
+ "replay": {
+  "start": 32.8,
+  "end": 36.3,
+  "box": [
+   0.25,
+   0.2,
+   0.55,
+   0.6
+  ],
+  "text": {
+   "ES": "Altura máxima: el puente",
+   "EN": "Max clearance: the bridge"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira lo que pasa con este camión grúa",
+   "EN": "Watch what happens to this crane truck"
+  },
+  "outro": {
+   "ES": "El brazo arriba y un paso elevado delante. ¿Quién no lo vio venir?",
+   "EN": "Boom up, overpass ahead. Who didn't see that coming?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El camión grúa vs el paso elevado en GTA 6 🏗️",
+   "caption": "Construyó el vehículo «más fuerte»… y olvidó bajar el brazo 💥 ¿Te habría pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Crane truck vs overpass in GTA 6 🏗️",
+   "caption": "Built the 'strongest' vehicle… and forgot to lower the boom 💥 Would you have noticed?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
