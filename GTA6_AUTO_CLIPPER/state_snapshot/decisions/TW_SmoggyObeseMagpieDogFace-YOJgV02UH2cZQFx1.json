@@ -1,0 +1,144 @@
+{
+ "id": "TW_SmoggyObeseMagpieDogFace-YOJgV02UH2cZQFx1",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "parkour fallido en azotea, reacción clara",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  2.9,
+  24.5
+ ],
+ "hook": {
+  "ES": "Quiso saltar entre rascacielos en GTA 6… 🏙️💀",
+  "EN": "Tried to jump between skyscrapers in GTA 6… 🏙️💀"
+ },
+ "subs": [
+  {
+   "start": 2.95,
+   "end": 5.17,
+   "ES": "¿Creen que llego al otro lado?",
+   "EN": "Think I can make that jump?"
+  },
+  {
+   "start": 7.2,
+   "end": 8.96,
+   "ES": "[[Joder]], ¿y si me mato al saltar?",
+   "EN": "[[F***]], what if I die jumping?"
+  },
+  {
+   "start": 8.96,
+   "end": 11.0,
+   "ES": "Tengo bastante vida… primero me como algo.",
+   "EN": "I've got plenty of health… let me eat first."
+  },
+  {
+   "start": 11.56,
+   "end": 12.7,
+   "ES": "Eh, yo, yo, yo…",
+   "EN": "Wait, I, I, I…"
+  },
+  {
+   "start": 14.4,
+   "end": 15.42,
+   "ES": "Espera… [[joder]]",
+   "EN": "Hold on… [[f***]]"
+  },
+  {
+   "start": 18.14,
+   "end": 19.32,
+   "ES": "¡No, no, así no!",
+   "EN": "No, no, not like this!"
+  }
+ ],
+ "bleep": [
+  [
+   7.1,
+   7.9
+  ],
+  [
+   14.95,
+   15.5
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.76,
+    0.0,
+    0.24,
+    0.42
+   ],
+   "start": 2.9,
+   "end": 24.5
+  },
+  {
+   "box": [
+    0.3,
+    0.86,
+    0.4,
+    0.12
+   ],
+   "start": 7.0,
+   "end": 8.8
+  },
+  {
+   "box": [
+    0.3,
+    0.86,
+    0.4,
+    0.12
+   ],
+   "start": 14.9,
+   "end": 17.6
+  }
+ ],
+ "replay": {
+  "start": 17.5,
+  "end": 21.0,
+  "box": [
+   0.15,
+   0.15,
+   0.6,
+   0.7
+  ],
+  "text": {
+   "ES": "Parkour nivel: piso 40",
+   "EN": "Parkour level: 40th floor"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Atento a este salto entre edificios en GTA 6",
+   "EN": "Watch this rooftop jump in GTA 6"
+  },
+  "outro": {
+   "ES": "Comió algo para tener vida… y ni así. ¿Tú lo habrías intentado?",
+   "EN": "Ate a snack for extra health… didn't help. Would you try it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Parkour en rascacielos de GTA 6 🏙️",
+   "caption": "Calculó el salto, comió para tener vida… y la gravedad dijo otra cosa 💀 ¿Lo intentarías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Parkour"
+   ]
+  },
+  "EN": {
+   "title": "Skyscraper parkour in GTA 6 🏙️",
+   "caption": "Planned the jump, ate for extra health… gravity had other plans 💀 Would you try it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Parkour"
+   ]
+  }
+ }
+}
