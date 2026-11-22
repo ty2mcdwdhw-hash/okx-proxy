@@ -1,0 +1,136 @@
+{
+ "id": "TW_ShinySuperMonkeySSSsss-YVkPvYob9BATPUPo",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "fallos de física repetidos con helicóptero, reacción clara",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  27.0,
+  50.6
+ ],
+ "hook": {
+  "ES": "Intentó despegar en helicóptero en GTA 6… y el helipuerto ganó 🚁💀",
+  "EN": "Tried to take off in a GTA 6 chopper… the helipad won 🚁💀"
+ },
+ "subs": [
+  {
+   "start": 27.98,
+   "end": 28.6,
+   "ES": "[[Joder]].",
+   "EN": "[[F***]]."
+  },
+  {
+   "start": 30.52,
+   "end": 31.9,
+   "ES": "Probemos otra vez.",
+   "EN": "Let's try that one again."
+  },
+  {
+   "start": 35.54,
+   "end": 38.1,
+   "ES": "Esta vez salió un poco mejor.",
+   "EN": "That went a little better."
+  },
+  {
+   "start": 39.2,
+   "end": 41.1,
+   "ES": "Un poquito mejor, eh.",
+   "EN": "A little better, right?"
+  },
+  {
+   "start": 41.54,
+   "end": 42.7,
+   "ES": "¿Probamos una tercera vez?",
+   "EN": "Third try?"
+  },
+  {
+   "start": 44.52,
+   "end": 47.45,
+   "ES": "Una más, una más, una más.",
+   "EN": "One more time, one more, one more."
+  },
+  {
+   "start": 47.66,
+   "end": 50.6,
+   "ES": "Esta vez sí, chat. Lo prometo.",
+   "EN": "We got it this time, chat. I promise."
+  }
+ ],
+ "bleep": [
+  [
+   27.9,
+   28.64
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.6,
+    0.03,
+    0.4,
+    0.62
+   ],
+   "start": 27.0,
+   "end": 50.6
+  },
+  {
+   "box": [
+    0.28,
+    0.84,
+    0.44,
+    0.12
+   ],
+   "start": 27.8,
+   "end": 28.9
+  }
+ ],
+ "replay": {
+  "start": 32.6,
+  "end": 36.0,
+  "box": [
+   0.15,
+   0.2,
+   0.6,
+   0.6
+  ],
+  "text": {
+   "ES": "Licencia de piloto: DENEGADA",
+   "EN": "Pilot license: DENIED"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira qué despegue tan limpio en GTA 6",
+   "EN": "Watch this super clean GTA 6 takeoff"
+  },
+  "outro": {
+   "ES": "Tres intentos y el helipuerto sigue invicto. ¿Tú lo habrías logrado?",
+   "EN": "Three tries and the helipad is still undefeated. Could you do better?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Despegue nivel experto en GTA 6 🚁",
+   "caption": "Tres intentos de despegar… y el helipuerto sigue ganando 💀 ¿Lo habrías hecho mejor?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Helicoptero"
+   ]
+  },
+  "EN": {
+   "title": "Expert-level takeoff in GTA 6 🚁",
+   "caption": "Three tries to take off… and the helipad keeps winning 💀 Could you do better?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Helicopter"
+   ]
+  }
+ }
+}
