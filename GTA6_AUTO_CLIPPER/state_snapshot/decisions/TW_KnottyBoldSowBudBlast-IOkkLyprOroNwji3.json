@@ -1,0 +1,95 @@
+{
+ "id": "TW_KnottyBoldSowBudBlast-IOkkLyprOroNwji3",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "física de choque en moto con caída y recuperación, sin historia",
+ "pillar": "Físicas / Momentos divertidos",
+ "trim": [
+  0.0,
+  12.3
+ ],
+ "hook": {
+  "ES": "Salió VOLANDO de la moto en GTA 6… y siguió corriendo 🏍️🏃",
+  "EN": "Flew OFF the bike in GTA 6… and kept on running 🏍️🏃"
+ },
+ "subs": [
+  {
+   "start": 2.35,
+   "end": 3.43,
+   "ES": "¡Dios mío!",
+   "EN": "Oh my god!"
+  },
+  {
+   "start": 6.57,
+   "end": 7.17,
+   "ES": "¡La reventé!",
+   "EN": "I wrecked it!"
+  },
+  {
+   "start": 7.53,
+   "end": 9.47,
+   "ES": "Uf, la reventé… la reventé",
+   "EN": "Oof, I wrecked it… wrecked it"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.62,
+    0.0,
+    0.38,
+    0.2
+   ],
+   "start": 0.0,
+   "end": 12.3
+  }
+ ],
+ "replay": {
+  "start": 4.6,
+  "end": 7.8,
+  "box": [
+   0.1,
+   0.12,
+   0.75,
+   0.75
+  ],
+  "text": {
+   "ES": "Aterrizaje en el TEJADO 🏚️",
+   "EN": "Rooftop landing, no problem 🏚️"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Este choque en moto no termina como esperas",
+   "EN": "This bike crash doesn't end how you think"
+  },
+  "outro": {
+   "ES": "Choque, vuelo, tejado y sigue corriendo como si nada. ¿Personaje inmortal?",
+   "EN": "Crash, flight, rooftop, and still running like nothing happened. Immortal or what?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Salió volando de la moto… y ni se inmutó 🏍️",
+   "caption": "Las físicas de GTA 6 no perdonan… pero este personaje sí sobrevive a todo 😂 ¿Cómo lo hizo?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fisicas"
+   ]
+  },
+  "EN": {
+   "title": "Flew off the bike… and didn't even flinch 🏍️",
+   "caption": "GTA 6 physics are brutal… but this character survives everything 😂 How?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Physics"
+   ]
+  }
+ }
+}
