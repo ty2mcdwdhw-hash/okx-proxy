@@ -1,0 +1,90 @@
+{
+ "id": "TW_ClearCrypticWoodpeckerKappaClaus-2ysrrKqbINBFSX8W",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "reason": "momento épico de gameplay con reacción fuerte",
+ "pillar": "Historia / Reacciones",
+ "priority": false,
+ "trim": [
+  4.0,
+  31.0
+ ],
+ "hook": {
+  "ES": "Abrieron la bóveda en GTA 6… y no estaban listos 💰😳",
+  "EN": "They cracked the vault in GTA 6… and weren't ready 💰😳"
+ },
+ "subs": [
+  {
+   "start": 4.0,
+   "end": 5.4,
+   "ES": "¡En serio, en serio, rápido!",
+   "EN": "For real, for real, hurry!"
+  },
+  {
+   "start": 20.7,
+   "end": 22.0,
+   "ES": "¡Oh my god!",
+   "EN": "Oh my god!"
+  },
+  {
+   "start": 25.3,
+   "end": 27.4,
+   "ES": "¡Oh my god, señores!",
+   "EN": "Oh my god, y'all!"
+  },
+  {
+   "start": 28.7,
+   "end": 30.2,
+   "ES": "¡¿Qué es esto?!",
+   "EN": "What is THIS?!"
+  }
+ ],
+ "replay": {
+  "start": 15.0,
+  "end": 18.5,
+  "box": [
+   0.3,
+   0.05,
+   0.5,
+   0.85
+  ],
+  "text": {
+   "ES": "La puerta de los sueños 💸",
+   "EN": "The door to the dream 💸"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Esto es lo que hay detrás de una bóveda",
+   "EN": "This is what's behind a vault door"
+  },
+  "outro": {
+   "ES": "Millones sobre carritos y el reloj corriendo. ¿Tú te lo llevarías todo?",
+   "EN": "Millions on carts and the clock ticking. Would you grab it all?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Abrieron la bóveda en GTA 6 💰",
+   "caption": "Cuando la puerta se abre y ves los millones… 😳 ¿Te lo llevas todo o huyes a tiempo?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Atraco"
+   ]
+  },
+  "EN": {
+   "title": "Cracking the vault in GTA 6 💰",
+   "caption": "When the door swings open and the millions are right there… 😳 Grab it all or bail in time?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Heist"
+   ]
+  }
+ }
+}
