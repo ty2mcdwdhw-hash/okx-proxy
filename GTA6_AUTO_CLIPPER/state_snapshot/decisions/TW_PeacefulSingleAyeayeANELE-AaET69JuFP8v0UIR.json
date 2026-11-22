@@ -1,0 +1,72 @@
+{
+ "id": "TW_PeacefulSingleAyeayeANELE-AaET69JuFP8v0UIR",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "caos con vehículo durante misión, momento claro y gracioso",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  9.0,
+  27.0
+ ],
+ "hook": {
+  "ES": "Lo mandaron a aparcar en GTA 6… y eligió la PISCINA 🚗🏊",
+  "EN": "They told them to park in GTA 6… they picked the POOL 🚗🏊"
+ },
+ "subs": [
+  {
+   "start": 10.13,
+   "end": 12.05,
+   "ES": "Esto es ridículo, bro",
+   "EN": "This is ridiculous, bro"
+  }
+ ],
+ "replay": {
+  "start": 18.8,
+  "end": 21.2,
+  "box": [
+   0.3,
+   0.3,
+   0.45,
+   0.5
+  ],
+  "text": {
+   "ES": "Aparcamiento acuático desbloqueado",
+   "EN": "Water parking unlocked"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira dónde decide aparcar este coche",
+   "EN": "Watch where this car decides to park"
+  },
+  "outro": {
+   "ES": "Cinco estrellas en aparcamiento, cero en sentido común. ¿Tú lo sacarías?",
+   "EN": "Five stars for parking, zero for common sense. Would you pull it out?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El PEOR sitio para aparcar en GTA 6 🚗🏊",
+   "caption": "Hay garajes, hay calles… y luego está la piscina 💀 ¿Tú dónde lo habrías dejado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Autos"
+   ]
+  },
+  "EN": {
+   "title": "The WORST place to park in GTA 6 🚗🏊",
+   "caption": "There are garages, there are streets… and then there's the pool 💀 Where would you have parked?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Cars"
+   ]
+  }
+ }
+}
