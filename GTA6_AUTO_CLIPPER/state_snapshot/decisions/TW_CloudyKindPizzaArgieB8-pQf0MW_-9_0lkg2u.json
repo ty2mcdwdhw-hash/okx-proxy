@@ -1,0 +1,78 @@
+{
+ "id": "TW_CloudyKindPizzaArgieB8-pQf0MW_-9_0lkg2u",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "choque frontal con cámara cinemática, coche rival sale volando",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  9.0,
+  19.5
+ ],
+ "hook": {
+  "ES": "Choque frontal en la autopista de GTA 6… y el otro coche VOLÓ por encima 🚗💥",
+  "EN": "Head-on crash on the GTA 6 highway… and the other car FLEW over 🚗💥"
+ },
+ "subs": [
+  {
+   "start": 10.47,
+   "end": 11.9,
+   "ES": "¿Me dijeron que volara?",
+   "EN": "Did they just tell me to fly?"
+  },
+  {
+   "start": 13.05,
+   "end": 14.2,
+   "ES": "¿¡Qué fue eso!?",
+   "EN": "What was that?!"
+  }
+ ],
+ "replay": {
+  "start": 13.5,
+  "end": 17.0,
+  "box": [
+   0.22,
+   0.08,
+   0.58,
+   0.62
+  ],
+  "text": {
+   "ES": "El coche pasó por ENCIMA",
+   "EN": "That car went OVER us"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira lo que pasa en esta autopista",
+   "EN": "Watch what happens on this highway"
+  },
+  "outro": {
+   "ES": "La cámara lenta del choque en GTA 6 es otro nivel. ¿Tú hubieras frenado?",
+   "EN": "GTA 6 crash slow-mo is next level. Would you have braked?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El coche que voló por encima en GTA 6",
+   "caption": "Choque frontal a toda velocidad y la física de GTA 6 hizo el resto 🚗💥 ¿Lo viste venir?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Choques"
+   ]
+  },
+  "EN": {
+   "title": "The car that flew over in GTA 6",
+   "caption": "Full-speed head-on crash and GTA 6 physics did the rest 🚗💥 Did you see it coming?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "CarCrash"
+   ]
+  }
+ }
+}
