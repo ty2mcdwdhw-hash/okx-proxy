@@ -1,0 +1,108 @@
+{
+ "id": "TW_ShakingCorrectSlothPeteZarollTie-Ma2Cw2GsR-vltJwp",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento gracioso de mecánica, streamer hispano",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  3.6,
+  20.6
+ ],
+ "hook": {
+  "ES": "Le pidió la mano en GTA 6… y pasó ESTO 💔😂",
+  "EN": "Asked to hold hands in GTA 6… and THIS happened 💔😂"
+ },
+ "subs": [
+  {
+   "start": 4.24,
+   "end": 7.04,
+   "ES": "Ven aquí, ven aquí mi amor, ven, ven…",
+   "EN": "Come here, come here babe, come on…"
+  },
+  {
+   "start": 8.1,
+   "end": 9.94,
+   "ES": "Dame esa manita",
+   "EN": "Gimme that little hand"
+  },
+  {
+   "start": 14.66,
+   "end": 16.02,
+   "ES": "¡Me la soltó, [[coño]]!",
+   "EN": "They let go of me, [[damn it]]!"
+  },
+  {
+   "start": 17.06,
+   "end": 17.76,
+   "ES": "¿Es que ya no me quieres?",
+   "EN": "So you don't love me anymore?"
+  }
+ ],
+ "bleep": [
+  [
+   15.62,
+   16.12
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.25,
+    0.86,
+    0.5,
+    0.1
+   ],
+   "start": 15.0,
+   "end": 17.2
+  }
+ ],
+ "replay": {
+  "start": 13.8,
+  "end": 17.0,
+  "box": [
+   0.38,
+   0.3,
+   0.34,
+   0.6
+  ],
+  "text": {
+   "ES": "Rechazo nivel GTA 6 💔",
+   "EN": "GTA 6 level rejection 💔"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Solo quería ir de la mano… mira esto",
+   "EN": "They just wanted to hold hands… watch this"
+  },
+  "outro": {
+   "ES": "Ni en GTA te dan la mano a la primera. ¿Te ha pasado?",
+   "EN": "Even in GTA nobody holds your hand first try. Relatable?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Rechazado de la mano en GTA 6 💔",
+   "caption": "Ni en Leonida te libras del rechazo 😂 ¿Qué harías tú?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mecanicas"
+   ]
+  },
+  "EN": {
+   "title": "Hand-hold rejection in GTA 6 💔",
+   "caption": "Not even Leonida is safe from rejection 😂 What would you do?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Mechanics"
+   ]
+  }
+ }
+}
