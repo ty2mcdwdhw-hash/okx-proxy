@@ -1,0 +1,113 @@
+{
+ "id": "TW_LivelySaltyCrabsKreygasm-SSJloq0S-nzw0tzb",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "remontada en carrera con atajo y salto final",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  8.0,
+  24.5
+ ],
+ "hook": {
+  "ES": "Iba 5º en la carrera de motocross de GTA 6… y encontró ESTE atajo 🏍️🔥",
+  "EN": "5th place in a GTA 6 dirt bike race… then this shortcut 🏍️🔥"
+ },
+ "subs": [
+  {
+   "start": 8.19,
+   "end": 9.31,
+   "ES": "¿Cómo agarro más velocidad?",
+   "EN": "How do I pick up speed?"
+  },
+  {
+   "start": 10.73,
+   "end": 12.47,
+   "ES": "Siento que no voy nada rápido",
+   "EN": "I'm not going nearly fast enough"
+  },
+  {
+   "start": 12.63,
+   "end": 13.83,
+   "ES": "Dios mío… ¡ATAJAZO!",
+   "EN": "Oh my god… HUGE shortcut!"
+  },
+  {
+   "start": 14.29,
+   "end": 18.01,
+   "ES": "Ohhh… ¡wow, wow!",
+   "EN": "Ohhh… whoa, whoa!"
+  },
+  {
+   "start": 19.27,
+   "end": 20.69,
+   "ES": "¡Primer [[puto]] lugar!",
+   "EN": "First [[fucking]] place!"
+  }
+ ],
+ "bleep": [
+  [
+   19.61,
+   20.21
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.73,
+    0.1,
+    0.27,
+    0.27
+   ],
+   "start": 8.0,
+   "end": 24.5
+  }
+ ],
+ "replay": {
+  "start": 20.6,
+  "end": 23.6,
+  "box": [
+   0.25,
+   0.05,
+   0.5,
+   0.85
+  ],
+  "text": {
+   "ES": "Ganar y encima con estilo",
+   "EN": "Winning AND with style"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Iba perdiendo la carrera… mira lo que hizo",
+   "EN": "Losing the race… watch what happens next"
+  },
+  "outro": {
+   "ES": "Del quinto al primero y celebrando en el aire. ¿Tú lo intentarías?",
+   "EN": "Fifth to first, then celebrating mid-air. Would you try that shortcut?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "De 5º a 1º con un atajo en GTA 6 🏍️",
+   "caption": "La carrera de motocross de GTA 6 tiene atajos… y este cambió todo. ¿Lo conocías? 👀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Motocross"
+   ]
+  },
+  "EN": {
+   "title": "5th to 1st with one shortcut in GTA 6 🏍️",
+   "caption": "GTA 6 dirt bike races have shortcuts… and this one changed everything. Did you know it? 👀",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Motocross"
+   ]
+  }
+ }
+}
