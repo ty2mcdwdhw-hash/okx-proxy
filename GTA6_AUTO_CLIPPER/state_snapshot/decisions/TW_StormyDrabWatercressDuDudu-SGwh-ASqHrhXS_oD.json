@@ -1,0 +1,90 @@
+{
+ "id": "TW_StormyDrabWatercressDuDudu-SGwh-ASqHrhXS_oD",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "mecánica nueva no publicada, momento claro",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  9.0,
+  29.0
+ ],
+ "hook": {
+  "ES": "La huida iba perfecta en GTA 6… hasta que el dinero EXPLOTÓ 💥💗",
+  "EN": "The getaway was going great in GTA 6… until the cash EXPLODED 💥💗"
+ },
+ "subs": [
+  {
+   "start": 11.95,
+   "end": 13.33,
+   "ES": "¿Van por mi auto?",
+   "EN": "They're going for my car?"
+  },
+  {
+   "start": 15.64,
+   "end": 16.98,
+   "ES": "Bueno, aquí vamos otra vez, chat",
+   "EN": "Well, here we go again, chat"
+  },
+  {
+   "start": 20.49,
+   "end": 22.83,
+   "ES": "Los billetes marcados traen tinta… estamos arruinados",
+   "EN": "Marked bills hide dye packs… we're ruined"
+  },
+  {
+   "start": 24.95,
+   "end": 25.6,
+   "ES": "¡Oh!",
+   "EN": "Oh!"
+  }
+ ],
+ "replay": {
+  "start": 16.0,
+  "end": 19.5,
+  "box": [
+   0.25,
+   0.22,
+   0.45,
+   0.55
+  ],
+  "text": {
+   "ES": "Pintura rosa GRATIS 💗",
+   "EN": "Free pink paint job 💗"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Escapar con el botín parecía fácil… mira esto",
+   "EN": "Escaping with the loot looked easy… watch this"
+  },
+  "outro": {
+   "ES": "En GTA 6 los billetes marcados esconden tinta. ¿Tú lo sabías?",
+   "EN": "In GTA 6, marked bills can hide dye packs. Did you know?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El dinero le explotó en la cara 💗💥",
+   "caption": "Billetes marcados = tinta rosa por todos lados 😂 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Robos"
+   ]
+  },
+  "EN": {
+   "title": "The cash blew up in their face 💗💥",
+   "caption": "Marked bills = pink dye everywhere 😂 Has this happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Heist"
+   ]
+  }
+ }
+}
