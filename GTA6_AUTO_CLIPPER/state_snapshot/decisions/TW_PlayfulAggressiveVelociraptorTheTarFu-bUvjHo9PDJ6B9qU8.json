@@ -1,0 +1,158 @@
+{
+ "id": "TW_PlayfulAggressiveVelociraptorTheTarFu-bUvjHo9PDJ6B9qU8",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "coche vuelca delante, NPC lo graba y saquea la bolsa del choque",
+ "pillar": "Autos / Caos con vehículos",
+ "trim": [
+  0.5,
+  28.0
+ ],
+ "hook": {
+  "ES": "Un coche VOLCÓ delante de él en GTA 6… y salió con PREMIO 🚗💰",
+  "EN": "A car FLIPPED right in front of them in GTA 6… and they got PAID 🚗💰"
+ },
+ "subs": [
+  {
+   "start": 1.14,
+   "end": 1.88,
+   "ES": "¿Viste eso?",
+   "EN": "Did you see that?"
+  },
+  {
+   "start": 3.91,
+   "end": 4.87,
+   "ES": "¡Oh, [[joder]]!",
+   "EN": "Oh, [[shit]]!"
+  },
+  {
+   "start": 5.55,
+   "end": 6.35,
+   "ES": "¡Dios mío!",
+   "EN": "Oh my God!"
+  },
+  {
+   "start": 8.53,
+   "end": 9.29,
+   "ES": "¡Dios mío!",
+   "EN": "Oh my God!"
+  },
+  {
+   "start": 9.33,
+   "end": 10.0,
+   "ES": "¡Ey, ey, ey!",
+   "EN": "Hey, hey, hey!"
+  },
+  {
+   "start": 10.03,
+   "end": 11.17,
+   "ES": "¡Mira a ese [[cabrón]], hermano!",
+   "EN": "Look at this [[jerk]], bro!"
+  },
+  {
+   "start": 12.19,
+   "end": 14.85,
+   "ES": "¿Qué estás haciendo? ¿Qué es esto?",
+   "EN": "What are you doing? What's this?"
+  },
+  {
+   "start": 15.45,
+   "end": 17.67,
+   "ES": "¡Tiene una mochila, gente!",
+   "EN": "There's a backpack, chat!"
+  },
+  {
+   "start": 20.66,
+   "end": 21.5,
+   "ES": "Bolsa de alijo",
+   "EN": "A stash bag"
+  },
+  {
+   "start": 23.72,
+   "end": 24.8,
+   "ES": "¡1.800 pavos!",
+   "EN": "1,800 bucks!"
+  },
+  {
+   "start": 26.02,
+   "end": 27.52,
+   "ES": "¡Corre, corre! ¡Vámonos!",
+   "EN": "Run, run! Let's go!"
+  }
+ ],
+ "bleep": [
+  [
+   4.17,
+   4.9
+  ],
+  [
+   10.23,
+   10.75
+  ],
+  [
+   13.07,
+   13.7
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.28,
+    0.84,
+    0.44,
+    0.12
+   ],
+   "start": 0.5,
+   "end": 14.5
+  }
+ ],
+ "replay": {
+  "start": 3.0,
+  "end": 5.8,
+  "box": [
+   0.45,
+   0.2,
+   0.5,
+   0.5
+  ],
+  "text": {
+   "ES": "Volcó… y soltó el botín",
+   "EN": "Flipped… and dropped the loot"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Iba tranquilo en moto… hasta que pasó esto",
+   "EN": "Just cruising on a bike… until this happened"
+  },
+  "outro": {
+   "ES": "Coche volcado, un NPC grabando y botín gratis. ¿Tú también lo saqueas?",
+   "EN": "Flipped car, an NPC filming, and free loot. Would you grab it too?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Botín caído del cielo en GTA 6 💰",
+   "caption": "Un coche vuelca en el cruce, un NPC saca el móvil… y del choque sale una bolsa con dinero 🚗💥 ¿Te la llevas?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "CaosGTA6"
+   ]
+  },
+  "EN": {
+   "title": "Free loot falling from a crash in GTA 6 💰",
+   "caption": "A car flips at the crossing, an NPC pulls out their phone… and a bag of cash drops out 🚗💥 Would you take it?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Chaos"
+   ]
+  }
+ }
+}
