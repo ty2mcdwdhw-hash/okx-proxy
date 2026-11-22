@@ -1,0 +1,90 @@
+{
+ "id": "TW_SoftPlayfulMarjoramCeilingCat-cC9H8oVhBToxNLL0",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "exploración submarina con fauna, reacción clara, sin historia",
+ "pillar": "Mapa / Exploración",
+ "trim": [
+  4.8,
+  30.0
+ ],
+ "priority": true,
+ "hook": {
+  "ES": "Se tiró al mar en GTA 6… y no estaba sola 🐋🌊",
+  "EN": "They dove into the ocean in GTA 6… and weren't alone 🐋🌊"
+ },
+ "subs": [
+  {
+   "start": 5.4,
+   "end": 6.7,
+   "ES": "A ver...",
+   "EN": "Let's see..."
+  },
+  {
+   "start": 14.9,
+   "end": 15.5,
+   "ES": "¡Oh!",
+   "EN": "Oh!"
+  },
+  {
+   "start": 18.1,
+   "end": 19.0,
+   "ES": "¡Hola, pequeña!",
+   "EN": "Hey there, little one!"
+  },
+  {
+   "start": 25.9,
+   "end": 26.8,
+   "ES": "¡Es ENORME!",
+   "EN": "It's HUGE!"
+  }
+ ],
+ "replay": {
+  "start": 25.0,
+  "end": 28.5,
+  "box": [
+   0.28,
+   0.3,
+   0.5,
+   0.7
+  ],
+  "text": {
+   "ES": "Montando una BALLENA 🐋",
+   "EN": "Riding a WHALE 🐋"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira lo que esconde el mar de GTA 6",
+   "EN": "Look what's hiding in GTA 6's ocean"
+  },
+  "outro": {
+   "ES": "Una ballena a escala real bajo el agua. ¿Tú también te lanzarías?",
+   "EN": "A full-size whale under the waves. Would you dive in too?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Nadando con una BALLENA en GTA 6 🐋",
+   "caption": "El océano de GTA 6 es otro nivel: bucea y te encuentras esto. ¿Lo sabías? 🌊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Ballena"
+   ]
+  },
+  "EN": {
+   "title": "Swimming with a WHALE in GTA 6 🐋",
+   "caption": "GTA 6's ocean is next level: dive down and you find this. Did you know? 🌊",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Whale"
+   ]
+  }
+ }
+}
