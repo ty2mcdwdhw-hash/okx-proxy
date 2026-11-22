@@ -1,0 +1,102 @@
+{
+ "id": "TW_ObedientBrainyDelicataNononoCat-y1ukbLXTcJjfe42t",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "reason": "karma instantáneo: roba moto, choca y sale volando del puente",
+ "pillar": "Físicas / Ragdoll",
+ "trim": [
+  8.5,
+  38.5
+ ],
+ "priority": false,
+ "hook": {
+  "ES": "Le robó la moto a un NPC en GTA 6… y el karma llegó en segundos 🏍️💀",
+  "EN": "Stole an NPC's bike in GTA 6… karma showed up in seconds 🏍️💀"
+ },
+ "subs": [
+  {
+   "start": 17.4,
+   "end": 19.2,
+   "ES": "Uy, qué buena moto llevo",
+   "EN": "Ooh, nice ride I got"
+  },
+  {
+   "start": 22.6,
+   "end": 24.5,
+   "ES": "¡Qué rápida!",
+   "EN": "So fast!"
+  },
+  {
+   "start": 24.5,
+   "end": 27.3,
+   "ES": "Esta moto está brutal",
+   "EN": "This bike is sick"
+  },
+  {
+   "start": 28.2,
+   "end": 31.5,
+   "ES": "¡Me cayó el karma!",
+   "EN": "Karma got me!"
+  },
+  {
+   "start": 32.8,
+   "end": 33.3,
+   "ES": "Uy, no…",
+   "EN": "Uh oh…"
+  },
+  {
+   "start": 33.3,
+   "end": 35.3,
+   "ES": "JAJAJA",
+   "EN": "HAHAHA"
+  }
+ ],
+ "replay": {
+  "start": 32.8,
+  "end": 36.0,
+  "box": [
+   0.25,
+   0.2,
+   0.5,
+   0.7
+  ],
+  "text": {
+   "ES": "Karma exprés, sin escalas",
+   "EN": "Express karma, no layovers"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Le quitó la moto a un NPC… mira esto",
+   "EN": "They took an NPC's bike… watch this"
+  },
+  "outro": {
+   "ES": "Moto robada, puente incluido. ¿Valió la pena el viaje?",
+   "EN": "Stolen bike, free bridge dive included. Worth the ride?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Karma instantáneo en GTA 6 🏍️💀",
+   "caption": "Robar la moto parecía buena idea… hasta el primer coche 😂 ¿Te ha pasado?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Karma"
+   ]
+  },
+  "EN": {
+   "title": "Instant karma in GTA 6 🏍️💀",
+   "caption": "Stealing the bike seemed like a great idea… until the first car 😂 Ever happened to you?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "Karma"
+   ]
+  }
+ }
+}
