@@ -1,0 +1,166 @@
+{
+ "id": "TW_DoubtfulScrumptiousIguanaHassaanChop-t6hcRfSI2um_GfYh",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "momento gracioso con reacción fuerte, tema nuevo",
+ "pillar": "NPCs / Momentos divertidos",
+ "trim": [
+  0.3,
+  28.0
+ ],
+ "hook": {
+  "ES": "Le llamaron para venderle un seguro en GTA 6… y explotó 📞🤬",
+  "EN": "A robocall tried to sell insurance in GTA 6… big mistake 📞🤬"
+ },
+ "subs": [
+  {
+   "start": 0.4,
+   "end": 3.1,
+   "ES": "Espera… ¿qué seguro?",
+   "EN": "Wait… what insurance?"
+  },
+  {
+   "start": 3.1,
+   "end": 5.0,
+   "ES": "¿Qué [[puto]] seguro?",
+   "EN": "What [[f***ing]] insurance?"
+  },
+  {
+   "start": 5.0,
+   "end": 8.32,
+   "ES": "¡Cállate! ¿De dónde sacaste mi número?",
+   "EN": "Shut up! How'd you get this number?"
+  },
+  {
+   "start": 8.32,
+   "end": 10.1,
+   "ES": "¡Robot de [[mierda]]!",
+   "EN": "You robot [[b***h]]!"
+  },
+  {
+   "start": 10.1,
+   "end": 12.8,
+   "ES": "No… se va a acordar cuando dominen el mundo",
+   "EN": "No… it'll remember that when they take over"
+  },
+  {
+   "start": 13.5,
+   "end": 16.3,
+   "ES": "Ay no, seguro que está grabando la [[mierda]] esta",
+   "EN": "Oh no, I know it's recording this [[s**t]]"
+  },
+  {
+   "start": 16.3,
+   "end": 19.0,
+   "ES": "Y quiero que me escuches bien",
+   "EN": "And I want you to hear me"
+  },
+  {
+   "start": 19.0,
+   "end": 22.3,
+   "ES": "Voy a encontrar tu [[puto]] centro de datos",
+   "EN": "I'll find your [[f***ing]] data center"
+  },
+  {
+   "start": 22.3,
+   "end": 23.8,
+   "ES": "y lo voy a quemar",
+   "EN": "and burn that [[s**t]]"
+  },
+  {
+   "start": 23.8,
+   "end": 25.2,
+   "ES": "Bro, esto debería ser una misión",
+   "EN": "Dude, that should be a side quest"
+  },
+  {
+   "start": 25.2,
+   "end": 28.0,
+   "ES": "A ti y a toda tu familia de robots",
+   "EN": "You and your whole robocaller bloodline"
+  }
+ ],
+ "bleep": [
+  [
+   3.82,
+   4.52
+  ],
+  [
+   9.3,
+   10.1
+  ],
+  [
+   15.58,
+   15.9
+  ],
+  [
+   20.24,
+   20.72
+  ],
+  [
+   23.48,
+   23.88
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.2,
+    0.84,
+    0.6,
+    0.12
+   ],
+   "start": 0.0,
+   "end": 28.0
+  }
+ ],
+ "replay": {
+  "start": 8.3,
+  "end": 11.0,
+  "box": [
+   0.28,
+   0.35,
+   0.44,
+   0.5
+  ],
+  "text": {
+   "ES": "Le colgó con TODO 💀",
+   "EN": "Hung up with RAGE 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Nunca contestes llamadas raras en GTA 6",
+   "EN": "Never pick up random calls in GTA 6"
+  },
+  "outro": {
+   "ES": "Hasta en GTA te llaman para venderte seguros. ¿Tú qué le dirías?",
+   "EN": "Even GTA has insurance robocalls. What would you tell them?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Llamada spam en GTA 6 😂",
+   "caption": "Ni en GTA 6 te libras de las llamadas de seguros 📞😂 ¿Contestarías?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 robocall rage 😂",
+   "caption": "Not even GTA 6 is safe from insurance robocalls 📞😂 Would you pick up?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Funny"
+   ]
+  }
+ }
+}
