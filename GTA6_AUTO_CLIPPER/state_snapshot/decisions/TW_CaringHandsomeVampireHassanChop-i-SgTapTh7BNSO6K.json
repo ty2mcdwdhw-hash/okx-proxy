@@ -1,0 +1,84 @@
+{
+ "id": "TW_CaringHandsomeVampireHassanChop-i-SgTapTh7BNSO6K",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "salto acrobático con moto, caída ragdoll y reacción",
+ "pillar": "Físicas / Ragdoll",
+ "trim": [
+  8.6,
+  27.0
+ ],
+ "hook": {
+  "ES": "Salto épico en moto en GTA 6… y culpó a un pájaro 🐦💀",
+  "EN": "Epic bike stunt jump in GTA 6… and they blamed a bird 🐦💀"
+ },
+ "subs": [
+  {
+   "start": 16.88,
+   "end": 18.4,
+   "ES": "¿Qué?",
+   "EN": "What?"
+  },
+  {
+   "start": 20.2,
+   "end": 21.6,
+   "ES": "¿Me acaba de matar un pájaro?",
+   "EN": "Did a bird just kill me?"
+  },
+  {
+   "start": 25.2,
+   "end": 26.9,
+   "ES": "Había un pájaro en el suelo",
+   "EN": "There was a bird on the ground"
+  }
+ ],
+ "replay": {
+  "start": 11.6,
+  "end": 14.2,
+  "box": [
+   0.28,
+   0.2,
+   0.46,
+   0.7
+  ],
+  "text": {
+   "ES": "El pájaro: inocente 🐦",
+   "EN": "The bird: not guilty 🐦"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Mira cómo termina este salto en moto",
+   "EN": "Watch how this bike jump ends"
+  },
+  "outro": {
+   "ES": "Saltó desde la escultura, voló sin moto y le echó la culpa al pájaro. ¿Tú le crees?",
+   "EN": "Launched off the sculpture, lost the bike, then blamed a bird. Do you buy it?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Salto en moto que salió mal en GTA 6",
+   "caption": "Saltó desde lo más alto en GTA 6… y el aterrizaje no fue como esperaba 😂 ¿Fue el pájaro? 🐦",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "StuntJump"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6 bike stunt jump gone wrong",
+   "caption": "Sent it off the top in GTA 6… the landing did not go as planned 😂 Was it the bird? 🐦",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "StuntJump"
+   ]
+  }
+ }
+}
