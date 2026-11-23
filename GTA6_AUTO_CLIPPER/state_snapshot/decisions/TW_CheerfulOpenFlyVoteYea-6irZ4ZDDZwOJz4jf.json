@@ -1,0 +1,126 @@
+{
+ "id": "TW_CheerfulOpenFlyVoteYea-6irZ4ZDDZwOJz4jf",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "pelea con NPCs obreros en mundo abierto con reacción del streamer",
+ "pillar": "NPCs / Peleas",
+ "trim": [
+  5.0,
+  33.0
+ ],
+ "hook": {
+  "ES": "Los obreros de GTA 6 se pasaron de listos… y llegó la venganza 👷💥",
+  "EN": "The GTA 6 construction crew got cocky… then payback came 👷💥"
+ },
+ "subs": [
+  {
+   "start": 5.5,
+   "end": 6.6,
+   "ES": "¡Eh, obreros!",
+   "EN": "Hey, construction crew!"
+  },
+  {
+   "start": 9.1,
+   "end": 11.6,
+   "ES": "Los obreros siempre molestan a Lucía",
+   "EN": "The construction guys always bother Lucía"
+  },
+  {
+   "start": 11.65,
+   "end": 13.2,
+   "ES": "¡Pues ahora os molesto yo a vosotros!",
+   "EN": "Well, now I'm bothering you!"
+  },
+  {
+   "start": 14.0,
+   "end": 14.9,
+   "ES": "¡Sopla [[pollas]]!",
+   "EN": "Suck [[it]]!"
+  },
+  {
+   "start": 19.2,
+   "end": 21.4,
+   "ES": "¿Va a tirar un cigarro?",
+   "EN": "Is he gonna drop a cigarette?"
+  },
+  {
+   "start": 27.0,
+   "end": 27.7,
+   "ES": "¡Dios!",
+   "EN": "Oh my God!"
+  },
+  {
+   "start": 28.9,
+   "end": 29.3,
+   "ES": "¡Dios!",
+   "EN": "Oh my God!"
+  }
+ ],
+ "bleep": [
+  [
+   13.99,
+   14.93
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.05,
+    0.0,
+    0.4,
+    0.05
+   ],
+   "start": 5.0,
+   "end": 33.0
+  }
+ ],
+ "replay": {
+  "start": 26.0,
+  "end": 29.0,
+  "box": [
+   0.3,
+   0.25,
+   0.45,
+   0.65
+  ],
+  "text": {
+   "ES": "Karma en casco amarillo 👷",
+   "EN": "Karma in a hard hat 👷"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Estos obreros eligieron a la persona equivocada",
+   "EN": "This crew picked the wrong person to mess with"
+  },
+  "outro": {
+   "ES": "Cuadrilla entera al suelo en segundos. ¿Se lo merecían o se pasó?",
+   "EN": "Whole crew down in seconds. Did they deserve it or too much?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "Venganza contra los obreros en GTA 6",
+   "caption": "Los obreros de GTA 6 provocaron a quien no debían… y acabaron por los suelos 😂👷",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  },
+  "EN": {
+   "title": "Getting payback on the GTA 6 construction crew",
+   "caption": "The GTA 6 construction crew messed with the wrong player… and ended up on the ground 😂👷",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "NPCs"
+   ]
+  }
+ }
+}
