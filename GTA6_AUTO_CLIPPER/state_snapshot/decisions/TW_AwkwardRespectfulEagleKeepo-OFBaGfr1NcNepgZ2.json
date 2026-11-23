@@ -1,0 +1,102 @@
+{
+ "id": "TW_AwkwardRespectfulEagleKeepo-OFBaGfr1NcNepgZ2",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": false,
+ "operator_safe": true,
+ "priority": false,
+ "reason": "presume y se cae al instante, ironía clara, física/ragdoll",
+ "pillar": "Físicas / Ragdoll",
+ "trim": [
+  0.2,
+  12.6
+ ],
+ "hook": {
+  "ES": "Presumió de ser el MEJOR piloto de GTA 6… y la moto lo escuchó 🏍️💀",
+  "EN": "Bragged about being the BEST rider in GTA 6… and the bike heard 🏍️💀"
+ },
+ "subs": [
+  {
+   "start": 0.34,
+   "end": 3.5,
+   "ES": "Ningún otro streamer conduce en GTA 6",
+   "EN": "No other streamer drives in GTA 6"
+  },
+  {
+   "start": 3.5,
+   "end": 5.44,
+   "ES": "tan bien como vuestro streamer",
+   "EN": "as well as your streamer does"
+  },
+  {
+   "start": 8.57,
+   "end": 10.49,
+   "ES": "[[Joder]], justo ahora tenía que pasar…",
+   "EN": "[[F*ck]], of course it had to happen now…"
+  }
+ ],
+ "bleep": [
+  [
+   8.47,
+   9.31
+  ]
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.74,
+    0.32,
+    0.26,
+    0.24
+   ],
+   "start": 0.2,
+   "end": 12.6
+  }
+ ],
+ "replay": {
+  "start": 5.9,
+  "end": 8.6,
+  "box": [
+   0.12,
+   0.3,
+   0.6,
+   0.6
+  ],
+  "text": {
+   "ES": "El «mejor piloto», señores 🏍️",
+   "EN": "The «best rider», folks 🏍️"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "Dice que nadie conduce mejor que él… atentos",
+   "EN": "They say nobody rides better… watch closely"
+  },
+  "outro": {
+   "ES": "Tres segundos duró la corona. El karma de GTA 6 no perdona. ¿Te ha pasado?",
+   "EN": "The crown lasted three seconds. GTA 6 karma never misses. Happened to you?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El «mejor piloto» de GTA 6 duró 3 segundos 🏍️💀",
+   "caption": "Presumir en directo nunca sale bien 😂 ¿Quién es el peor piloto que conoces? Crédito: AwizoTV (Twitch)",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  },
+  "EN": {
+   "title": "GTA 6's «best rider» lasted 3 seconds 🏍️💀",
+   "caption": "Bragging live never ends well 😂 Who's the worst driver you know? Credit: AwizoTV (Twitch)",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Fails"
+   ]
+  }
+ }
+}
