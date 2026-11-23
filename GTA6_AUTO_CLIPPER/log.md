@@ -713,3 +713,5 @@
 - 2026-11-22T23:04:09Z | `TW_FamousLazySalsifyBibleThump-s38wZyNZp7_9MGXQ_ES` | Historia / Reacciones | youtube | scheduled @2026-11-25T08:10:00Z | 🎥 @lacy (en->ES) | Spoiler: 0% (Verificado)
 - 2026-11-22T23:04:11Z | `TW_FamousLazySalsifyBibleThump-s38wZyNZp7_9MGXQ_EN` | Historia / Reacciones | instagram | scheduled @2026-11-23T02:26:18Z | 🎥 @lacy (en->EN) | Spoiler: 0% (Verificado)
 - 2026-11-22T23:04:14Z | `TW_FamousLazySalsifyBibleThump-s38wZyNZp7_9MGXQ_EN` | Historia / Reacciones | youtube | scheduled @2026-11-25T08:10:00Z | 🎥 @lacy (en->EN) | Spoiler: 0% (Verificado)
+- 2026-11-23T01:43:07Z | `TW_ShinySuperMonkeySSSsss-YVkPvYob9BATPUPo_ES` | Autos / Caos con vehículos | instagram | scheduled @2026-11-23T13:41:27Z | 🎥 @joshimuz (en->ES) | Spoiler: 0% (Verificado)
+- 2026-11-23T02:03:50Z | `TW_ShinySuperMonkeySSSsss-YVkPvYob9BATPUPo_EN` | Autos / Caos con vehículos | instagram | scheduled @2026-11-23T13:56:18Z | 🎥 @joshimuz (en->EN) | Spoiler: 0% (Verificado)

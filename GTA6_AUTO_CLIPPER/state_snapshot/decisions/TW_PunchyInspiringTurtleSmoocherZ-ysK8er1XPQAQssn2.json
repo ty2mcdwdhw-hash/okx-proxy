@@ -1,0 +1,96 @@
+{
+ "id": "TW_PunchyInspiringTurtleSmoocherZ-ysK8er1XPQAQssn2",
+ "verdict": "approve",
+ "spoiler_level": 0,
+ "story": true,
+ "operator_safe": false,
+ "priority": false,
+ "reason": "mecánica de disfraz; remate de acción inmediato",
+ "pillar": "Spotlight / Mecánicas",
+ "trim": [
+  5.0,
+  21.5
+ ],
+ "hook": {
+  "ES": "Se quitó el disfraz en GTA 6 para que la poli no lo reconociera… 🕶️🚓",
+  "EN": "Ditched the disguise in GTA 6 so the cops wouldn't recognize them… 🕶️🚓"
+ },
+ "subs": [
+  {
+   "start": 7.28,
+   "end": 9.82,
+   "ES": "Espera, me quito el disfraz: gafas…",
+   "EN": "Wait, taking the disguise off: sunglasses…"
+  },
+  {
+   "start": 9.82,
+   "end": 12.54,
+   "ES": "…gorra, y guardo el arma",
+   "EN": "…hat, and put the gun away"
+  },
+  {
+   "start": 12.54,
+   "end": 13.6,
+   "ES": "Ni van a saber que soy yo 😎",
+   "EN": "They won't even know it's me 😎"
+  }
+ ],
+ "pixelate": [
+  {
+   "box": [
+    0.0,
+    0.22,
+    0.36,
+    0.3
+   ],
+   "start": 5.0,
+   "end": 21.5
+  }
+ ],
+ "replay": {
+  "start": 15.8,
+  "end": 18.8,
+  "box": [
+   0.3,
+   0.2,
+   0.6,
+   0.65
+  ],
+  "text": {
+   "ES": "Sí, sí sabían 💀",
+   "EN": "Yeah, they knew 💀"
+  }
+ },
+ "vo": {
+  "intro": {
+   "ES": "El plan perfecto para despistar a la policía",
+   "EN": "The perfect plan to lose the cops"
+  },
+  "outro": {
+   "ES": "Gafas fuera, gorra fuera… y la poli lo reconoció al segundo. ¿Funcionaría contigo?",
+   "EN": "Glasses off, hat off… and the cops knew instantly. Would it work for you?"
+  }
+ },
+ "copy": {
+  "ES": {
+   "title": "El disfraz infalible de GTA 6 🕶️",
+   "caption": "Se quitó gafas y gorra, guardó el arma y salió tan tranquilo… la policía no opinaba lo mismo 🚓💀 ¿Habrías probado otra cosa?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  },
+  "EN": {
+   "title": "The flawless GTA 6 disguise 🕶️",
+   "caption": "Glasses off, hat off, gun away, walking out calm… the cops had other ideas 🚓💀 What would you have tried?",
+   "hashtags": [
+    "GTA6",
+    "GTAVI",
+    "GTAVIClips",
+    "GTA6Police"
+   ]
+  }
+ }
+}
